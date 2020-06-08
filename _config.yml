@@ -1,6 +1,6 @@
 title: DRAFT
 description: > # this means to ignore newlines until "baseurl:"
-  Best practices, advice, and resources for technical blogs
+  Learn to Build a Better Technical Blog
 permalink: 'posts/:title'
 baseurl: ""
 url: "https://blog.draft.dev"
