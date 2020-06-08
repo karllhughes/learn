@@ -1,0 +1,31 @@
+header {
+  background-color: $blue-gray;
+  padding: .5rem 1rem;
+  color: $white;
+  a {
+    color: $white;
+  }
+  .title {
+    .header-title {
+      font-size: 1.5rem;
+      line-height: 2rem;
+      font-weight: 700;
+      .subtitle {
+        color: $gray;
+      }
+      a:hover {
+        text-decoration: none;
+      }
+    }
+  }
+  .menu {
+    .menu-items {
+      text-align: right;
+      font-size: .8rem;
+      padding: .5rem 0;
+      a {
+        margin-right: .8rem;
+      }
+    }
+  }
+}

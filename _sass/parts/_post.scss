@@ -1,0 +1,23 @@
+.post {
+  .page-cover-image {
+    margin: 0 -40px;
+  }
+  h1.page-title {
+    font-size: 2.828rem;
+    line-height: 3rem;
+    margin-top: 2rem;
+  }
+  .post-meta {
+    color: $gray;
+    margin-top: .2rem;
+  }
+  .post-summary {
+    margin-top: .2rem;
+  }
+  h4, h5 {
+    font-size: 1rem;
+  }
+  h5 {
+    color: $gray;
+  }
+}

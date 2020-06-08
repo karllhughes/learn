@@ -1,0 +1,168 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+@import 'normalize';
+@import 'variables';
+@import 'typebase';
+
+*, *::after, *::before {
+  box-sizing: border-box;
+}
+
+body {
+  color: $dark-gray;
+  background-color: $off-white;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  a {
+    text-decoration: none;
+    color: $blue-gray;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  a.underline {
+    text-decoration: underline;
+  }
+  a.underline:hover {
+    text-decoration: none;
+  }
+}
+
+img {
+  max-width: 100%;
+  vertical-align: middle;
+  display: inline-block;
+}
+
+img + em {
+  text-align: center;
+  display: block;
+  margin-top: 10px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+blockquote {
+  border-left: 5px solid $dark-gray;
+  padding-left: 1.1rem;
+  margin-left: 1rem;
+  font-style: italic;
+  color: $gray;
+}
+
+pre, code {
+  background: $off-white;
+  color: $dark-gray;
+  font-family: monospace;
+}
+
+code {
+  vertical-align: center;
+  padding: 3px;
+}
+
+pre {
+  padding: 20px;
+  border: 0;
+  overflow: scroll;
+}
+
+.wrapper {
+  background-color: $white;
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 5px 40px 40px;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+}
+
+::-moz-selection {
+  background: rgba(38, 57, 89, 0.8);
+  color: $white;
+}
+
+::selection {
+  background: rgba(38, 57, 89, 0.8);
+  color: $white;
+}
+
+.clearfix::before, .clearfix::after {
+  content: "";
+  display: table;
+}
+
+.clearfix::after {
+  clear: both;
+}
+
+h2.home-page-header {
+  font-size: 1rem;
+  line-height: 1.5rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0;
+  color: #a0a0a0;
+  text-align: center;
+}
+
+.pagination {
+  text-align: center;
+  ul {
+    list-style-type: none;
+    li {
+      display: inline;
+      margin-right: 1rem;
+    }
+  }
+}
+
+.video-responsive{
+  margin-top: 2rem;
+  overflow:hidden;
+  padding-bottom:56.25%;
+  position:relative;
+  height:0;
+}
+.video-responsive iframe{
+  left:0;
+  top:0;
+  height:100%;
+  width:100%;
+  position:absolute;
+}
+
+footer {
+  margin-top: 1rem;
+  text-align: center;
+  p {
+    font-size: .8rem;
+    margin-top: 0;
+  }
+}
+
+@media screen and (min-width: 800px) {
+  .column {
+    flex: 1
+  }
+}
+
+@import 'parts/header';
+@import 'parts/post';
+@import 'parts/signup';

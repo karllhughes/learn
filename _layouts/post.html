@@ -1,0 +1,31 @@
+---
+layout: main
+---
+<article class="post">
+  <div class="post-content">
+    <h1 class="page-title">{{page.title}}</h1>
+    <p class="post-meta">
+      By {{page.author}} on
+      {{page.date | date: '%b %d, %Y'}}&nbsp;&nbsp;&nbsp;—&nbsp;
+      {% capture words %}{{ page.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}
+    </p>
+
+    {{content | markdownify}}
+
+    {% if page.link %}
+      <p class="read-more"><a href="{{ page.link }}" target="_blank" class="text-center">Read More...</a></p>
+    {% endif %}
+
+    <div class="page-tags">
+      <p>Tagged:
+      {% for tag in page.tags %}
+      <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">&#35;{{ tag }}</a>
+      {% endfor %}
+      </p>
+    </div>
+
+    {% unless page.link %}
+      {% include disqus.html %}
+    {% endunless %}
+  </div> <!-- End Page Content -->
+</article> <!-- End Article Page -->

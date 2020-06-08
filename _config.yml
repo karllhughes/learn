@@ -1,0 +1,33 @@
+title: DRAFT
+description: > # this means to ignore newlines until "baseurl:"
+  Best practices, advice, and resources for technical blogs
+permalink: 'posts/:title'
+baseurl: ""
+url: "https://blog.draft.dev"
+site-twitter: #if your site has a twitter account, enter it here
+
+# Author Settings
+default-img: logo-lg-sq.png # add your photo
+#social-twitter: # add your Twitter handle
+#social-facebook: # add your Facebook handle
+#social-github: # add your Github handle
+#social-linkedin: # add your Linkedin handle
+social-rss: /feed.xml
+
+# Disqus
+discus-identifier: # add your discus identifier
+
+# Tracker
+analytics: UA-19700764-24 # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+
+paginate: 10
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "legacy-data", ".idea"]

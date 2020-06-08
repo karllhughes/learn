@@ -1,0 +1,55 @@
+.signup {
+  background-color: $blue-gray;
+  color: $white;
+  margin: 20px -40px;
+  padding: 40px 40px;
+
+  h3 {
+    margin-top: 0;
+  }
+
+  .action {
+    line-height: 1.5rem;
+    margin-top: 1.5rem;
+    margin-bottom: 0;
+
+    input {
+      margin: 0 0 0.5em 0;
+      border: 0;
+      padding: 10px 20px;
+      line-height: 1.5rem;
+      color: $dark-gray;
+    }
+
+    .email-group {
+      float: left;
+      margin-right: 1rem;
+    }
+
+    .submit-group {
+      float: left;
+      font-size: .9rem;
+
+      input[type=submit] {
+        background-color: $off-white;
+        cursor: pointer;
+      }
+      input[type=submit]:hover {
+        background-color: $off-white-hover;
+      }
+    }
+
+    ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+      color: $gray;
+      opacity: 1; /* Firefox */
+    }
+
+    :-ms-input-placeholder { /* Internet Explorer 10-11 */
+      color: $gray;
+    }
+
+    ::-ms-input-placeholder { /* Microsoft Edge */
+      color: $gray;
+    }
+  }
+}
