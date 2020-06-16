@@ -16,13 +16,7 @@ layout: main
       <p class="read-more"><a href="{{ page.link }}" target="_blank" class="text-center">Read More...</a></p>
     {% endif %}
 
-    <div class="page-tags">
-      <p>Tagged:
-      {% for tag in page.tags %}
-      <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">&#35;{{ tag }}</a>
-      {% endfor %}
-      </p>
-    </div>
+    {% include signup.html %}
 
     {% unless page.link %}
       {% include disqus.html %}
