@@ -5,8 +5,7 @@ layout: main
   <div class="post-content">
     <h1 class="page-title">{{page.title}}</h1>
     <p class="post-meta">
-      By {{page.author}} on
-      {{page.date | date: '%b %d, %Y'}}&nbsp;&nbsp;&nbsp;—&nbsp;
+      By {{page.author}}&nbsp;&nbsp;&nbsp;—&nbsp;
       {% capture words %}{{ page.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}
     </p>
 
