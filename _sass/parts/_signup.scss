@@ -27,10 +27,12 @@
 }
 
 .signup-home {
+  background: url("/assets/img/signup-bg.jpg") top center;
   text-align: center;
   border-bottom: 1px solid $off-white;
-  padding-bottom: 40px;
-  margin-bottom: 40px;
+  padding: 40px 20px 60px;
+  margin: -5px -40px 40px;
+  color: $darker-gray;
   h2 {
     font-size: 2rem;
   }
@@ -43,6 +45,7 @@
       display: inline-block;
     }
     .submit-group {
+      margin-top: 40px;
       display: inline-block;
 
       input[type=submit] {
@@ -60,7 +63,6 @@
 .signup, .signup-home {
   .action {
     line-height: 1.5rem;
-    margin-top: 1.5rem;
     margin-bottom: 0;
 
     input {

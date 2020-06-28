@@ -4,7 +4,7 @@ title: The Best Platforms for Your Technical Blog
 author: Alyssa Shea
 date: 2020-06-24
 categories: posts
-img: /assets/posts/blogging-platforms.png
+img: /assets/posts/blogging-platforms.jpg
 ---
 Are you considering starting your own technical blog but aren't sure which platform to use? There are so many to choose from that it can be difficult to pull the trigger. I've rounded up some of my favorites platforms for running your technical blog and why you might choose each of them.
 

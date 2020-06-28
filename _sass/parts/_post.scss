@@ -1,11 +1,25 @@
 .post {
   .page-cover-image {
-    margin: 0 -40px;
+    margin: -5px -40px 20px;
+    position: relative;
+    text-align: center;
+    .page-image {
+      opacity: .4;
+    }
+    .centered {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 90%;
+      color: $darker-gray;
+    }
   }
+
   h1.page-title {
-    font-size: 2.828rem;
-    line-height: 3rem;
     margin-top: 2rem;
+    font-size: 1.6rem;
+    line-height: 1.8rem;
   }
   .post-meta {
     color: $gray;
@@ -19,5 +33,12 @@
   }
   h5 {
     color: $gray;
+  }
+
+  @media screen and (min-width: 800px) {
+    h1.page-title {
+      font-size: 2.828rem;
+      line-height: 3rem;
+    }
   }
 }

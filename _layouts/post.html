@@ -3,7 +3,16 @@ layout: main
 ---
 <article class="post">
   <div class="post-content">
+    {% if page.img %}
+    <div class="page-cover-image">
+      <img class="page-image" src="{{page.img}}" alt="Background image for {{page.title}}" style="width:100%;">
+      <div class="centered">
+        <h1 class="page-title">{{page.title}}</h1>
+      </div>
+    </div>
+    {% else %}
     <h1 class="page-title">{{page.title}}</h1>
+    {% endif %}
     <p class="post-meta">
       By {{page.author}}&nbsp;&nbsp;&nbsp;—&nbsp;
       {% capture words %}{{ page.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}
