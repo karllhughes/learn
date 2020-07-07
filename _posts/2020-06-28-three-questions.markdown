@@ -7,7 +7,7 @@ categories: posts
 img: /assets/posts/three-questions.jpg
 ---
 
-The best technical blogs have a clear audience and defined goals. For the first lesson, I'm going to share the three questions I ask every [client I work with at Draft](https://draft.dev/):
+The best technical blogs have a clear audience and defined goals. Today, I'm going to share the three questions I ask every [client I work with at Draft](https://draft.dev/):
 
 ### Q1: Why are you writing?
 
@@ -53,4 +53,4 @@ Your content should be unique, but it shouldn’t surprise your audience. Most s
 *   **Comparisons** - Comparisons help readers decide between competing options. A good comparison post will offer an objective conclusion for which option is best under which circumstance.
 *   **Opinion Pieces** - Personal experiences and observations help establish you as a thought leader. These pieces are valuable when done well, but require a bit of name recognition to pull them off.
 
-Think you're ready to start a technical blog? Have some clear targets and an audience defined? Next, you have to [pick a blogging platform](/posts/blogging-platforms). If you get stuck, [find me on Twitter](https://twitter.com/karllhughes). I'd love to help.
+Think you're ready to start a technical blog? Have some clear targets and an audience defined? Next, you have to [pick a blogging platform](/posts/blogging-platforms). If you get stuck, [email me sometime](mailto:karl@draft.dev). I'd love to help.
