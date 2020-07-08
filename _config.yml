@@ -3,19 +3,9 @@ description: > # this means to ignore newlines until "baseurl:"
   Learn to Build a Better Technical Blog
 permalink: ':categories/:title'
 baseurl: ""
-url: "https://blog.draft.dev"
-site-twitter: #if your site has a twitter account, enter it here
-
-# Author Settings
-default-img: logo-lg-sq.png # add your photo
-#social-twitter: # add your Twitter handle
-#social-facebook: # add your Facebook handle
-#social-github: # add your Github handle
-#social-linkedin: # add your Linkedin handle
+url: "https://learn.draft.dev"
+default-img: default-img.jpg
 social-rss: /feed.xml
-
-# Disqus
-discus-identifier: # add your discus identifier
 
 # Tracker
 analytics: UA-19700764-24 # Google Analytics

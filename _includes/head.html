@@ -1,10 +1,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>{% if page.title %}{{page.title}} | {{site.title}}{% else %}{{site.description}} | {{site.title}}{% endif %}</title>
-
-  <!-- Edit site and author settings in `_config.yml` to make the social details your own -->
-
-    <meta content="{{ site.title }}" property="og:site_name">
+  <meta content="{{ site.title }}" property="og:site_name">
   {% if page.title %}
     <meta content="{{ page.title }}" property="og:title">
   {% else %}
@@ -15,10 +12,10 @@
   {% else %}
     <meta content="website" property="og:type">
   {% endif %}
-  {% if page.description %}
-    <meta content="{{ page.description }}" property="og:description">
+  {% if page.id %}
+  <meta content="{{ page.content | strip_html | truncate: 150 }}" property="og:description">
   {% else %}
-    <meta content="{{ site.description }}" property="og:description">
+  <meta content="{{ site.description }}" property="og:description">
   {% endif %}
   {% if page.url %}
     <meta content="{{ site.url }}{{ page.url }}" property="og:url">
@@ -29,7 +26,7 @@
   {% if page.img %}
     <meta content="{{ page.img }}" property="og:image">
   {% else %}
-    <meta content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.deafult-img }}" property="og:image">
+    <meta content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.default-img }}" property="og:image">
   {% endif %}
   {% if page.categories %}
     {% for category in page.categories limit:1 %}
@@ -43,8 +40,7 @@
   {% endif %}
 
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@{{ site.site-twitter }}">
-    <meta name="twitter:creator" content="@{{ site.social-twitter }}">
+    <meta name="twitter:creator" content="@{{ page.author.twitter }}">
   {% if page.title %}
     <meta name="twitter:title" content="{{ page.title }}">
   {% else %}
@@ -53,15 +49,15 @@
   {% if page.url %}
     <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
   {% endif %}
-  {% if page.description %}
-    <meta name="twitter:description" content="{{ page.description }}">
+  {% if page.id %}
+  <meta name="twitter:description" content="{{ page.content | strip_html | truncate: 150 }}">
   {% else %}
-    <meta name="twitter:description" content="{{ site.description }}">
+  <meta name="twitter:description" content="{{ site.description }}">
   {% endif %}
   {% if page.img %}
     <meta name="twitter:image:src" content="{{ page.img }}">
   {% else %}
-    <meta name="twitter:image:src" content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.author-img }}">
+    <meta name="twitter:image:src" content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.default-img }}">
   {% endif %}
 
 	<meta name="description" content="{{ page.description }}">
