@@ -1,7 +1,10 @@
 ---
 layout: post
 title: The 3 Questions You Should Ask Before Starting a Technical Blog
-author: Karl Hughes
+author:
+    name: Karl Hughes
+    twitter: karllhughes
+    bio: "Karl is a former startup CTO and the founder of Draft.dev. He writes about technical blogging and content management."
 date: 2020-06-28
 categories: posts
 img: /assets/posts/three-questions.jpg
@@ -23,6 +26,8 @@ Not every technical blog’s goals are the same, but the good ones know why they
 *   **Search engine optimization (SEO)** - Once your blog has been around for a while, it may start to rank for keywords on Google. If you want to maximize your traffic from search engines, a blog is critical.
 
 There are plenty of marketing and communication channels available, so don't feel like you have to have a blog. If you do create one, set a clear goal before you start investing in it.
+
+<!-- signup -->
 
 ### Q2: Who are you writing for?
 

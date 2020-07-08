@@ -1,7 +1,10 @@
 ---
 layout: post
 title: 3 Steps For Coming Up With Technical Content Ideas
-author: Karl Hughes
+author: 
+    name: Karl Hughes
+    twitter: karllhughes
+    bio: "Karl is a former startup CTO and the founder of Draft.dev. He writes about technical blogging and content management."
 date: 2020-07-06
 categories: posts
 img: /assets/posts/ideas.jpg
@@ -29,6 +32,8 @@ Ideas won’t come to you if you spend all your time writing and editing - you h
 *   **Use your product** - Sometimes, it’s hard to know what unique challenges your customers face until you become one.
 *   **Create an idea matrix** - An idea matrix is a multi-dimensional collection of combinations of ideas. See this [startup idea matrix](https://medium.com/the-mission/the-startup-idea-matrix-182bf2e6a53a) for an example.
 *   **Take a break** - Take a walk, go for a run, or just sit outside. My best ideas come when I’m just reflecting on past conversations or projects.
+
+<!-- signup -->
 
 ### Step 2: Collect ideas
 

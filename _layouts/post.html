@@ -14,17 +14,34 @@ layout: main
     <h1 class="page-title">{{page.title}}</h1>
     {% endif %}
     <p class="post-meta">
-      By {{page.author}}&nbsp;&nbsp;&nbsp;—&nbsp;
+      By {{page.author.name}}&nbsp;&nbsp;&nbsp;—&nbsp;
       {% capture words %}{{ page.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}
     </p>
 
-    {{content | markdownify}}
+    {% if content contains "<!-- signup -->" %}
+      {{ content | split:"<!-- signup -->" | first | markdownify }}
+      {% include signup-inline.html link=page.id %}
+      {{ content | split:"<!-- signup -->" | last | markdownify }}
+    {% else %}
+      {{ content | markdownify }}
+    {% endif %}
 
     {% if page.link %}
       <p class="read-more"><a href="{{ page.link }}" target="_blank" class="text-center">Read More...</a></p>
     {% endif %}
 
-    {% include signup.html %}
+    {% if page.author.twitter %}
+    <div class="author">
+      <img src="https://twivatar.glitch.me/{{ page.author.twitter }}" class="author-image" alt="{{ page.author.name }}" />
+      <h4>
+        By {{ page.author.name }}
+        <a href="https://twitter.com/{{ page.author.twitter }}" target="_blank" title="@{{ page.author.twitter }} on Twitter"><i class="fa fa-twitter"></i></a>
+      </h4>
+      <p>{{ page.author.bio }}</p>
+    </div>
+    {% endif %}
+
+    {% include signup.html link=page.id %}
 
     {% unless page.link %}
       {% include disqus.html %}
