@@ -33,6 +33,7 @@ p {
 }
 ul,
 ol {
+  font-family: 'Roboto', sans-serif;
   margin-top: $leading;
   margin-bottom: $leading;
   li {
@@ -45,6 +46,7 @@ ol {
   }
 }
 blockquote {
+  font-family: 'Roboto', sans-serif;
   line-height: $leading;
   margin-top: $leading;
   margin-bottom: $leading;

@@ -16,6 +16,14 @@
     }
   }
 
+  .post-title {
+    a {
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  }
   h1.page-title {
     margin-top: 2rem;
     font-size: 1.6rem;
@@ -38,9 +46,9 @@
   .author {
     img.author-image {
       margin-right: 1rem;
-      margin-bottom: 2rem;
-      height: 80px;
-      width: 80px;
+      margin-bottom: 1rem;
+      height: 100px;
+      width: 100px;
       float: left;
     }
     h4 {
@@ -57,8 +65,15 @@
     }
     p {
       margin-top: .5rem;
-      line-height: 1.1rem;
-      font-size: .85rem;
+    }
+  }
+  ul.task-list {
+    list-style: none;
+    padding-left: 0;
+    li.task-list-item {
+      .task-list-item-checkbox {
+        margin-right: .5rem;
+      }
     }
   }
 
