@@ -25,6 +25,8 @@ After it was published, I spent about 2 hours promoting it using the checklist b
 
 Partly due to the platform (FreeCodeCamp is a popular blog) and partly due to the promotional work I did on the piece, it took off. I ended up spending a fair bit of time responding to conversations online and answering questions about it. A Chinese publication even reached out to ask if they could translate it for their readers, and [Code Nation](https://codenation.org/) asked if they could use it in their curriculum.
 
+<!-- signup -->
+
 ## Why Promotion Works
 
 If I had a formula for making every post I wrote go viral, I’d probably be on a beach somewhere, but the fact remains: nobody will find your writing if you don’t tell them about it.
