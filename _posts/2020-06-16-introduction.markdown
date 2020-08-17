@@ -1,10 +1,7 @@
 ---
 layout: post
 title: What is Draft Academy?
-author:
-    name: Karl Hughes
-    twitter: karllhughes
-    bio: "Karl is a former startup CTO and the founder of Draft.dev. He writes about technical blogging and content management."
+author: karl
 date: 2020-06-16
 categories: posts
 ---

@@ -6,6 +6,20 @@ baseurl: ""
 url: "https://learn.draft.dev"
 default-img: default-img.jpg
 social-rss: /feed.xml
+authors:
+  karl:
+    name: Karl Hughes
+    twitter: karllhughes
+    website: "https://www.karllhughes.com"
+    img: "/assets/authors/karl.jpeg"
+    bio: "Karl is a former startup CTO and the founder of Draft.dev. He writes about technical blogging and content management."
+  alyssa:
+    name: Alyssa Shea
+  matt:
+    name: Matthew Warholak
+    website: "https://www.moneyredpill.com/"
+    img: "/assets/authors/matt.jpeg"
+    bio: "Matt is a Technical Writer and Editor for Technology, Financial Services, and everything in-between. When he's not writing or editing, he's analyzing commodity markets, ideating new ventures, or learning French."
 
 # Tracker
 analytics: UA-19700764-24 # Google Analytics

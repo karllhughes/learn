@@ -7,7 +7,7 @@ layout: main
 <article class="post">
   <div class="post-content">
     <h3 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h3>
-    <p class="post-meta">By {{post.author.name}}</p>
+    <p class="post-meta">By {{site.authors[post.author].name}}</p>
     <p class="post-summary">{{ post.content | strip_html | truncatewords: 30 }}</p>
   </div>
 </article>

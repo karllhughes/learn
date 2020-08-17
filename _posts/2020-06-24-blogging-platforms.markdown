@@ -1,8 +1,7 @@
 ---
 layout: post
 title: The Best Platforms for Your Technical Blog
-author:
-    name: Alyssa Shea
+author: alyssa
 date: 2020-06-24
 categories: posts
 img: /assets/posts/blogging-platforms.jpg

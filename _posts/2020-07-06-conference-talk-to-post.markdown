@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Turning Your Conference Talks Into Technical Blog Posts
-author: 
-    name: Alyssa Shea
+author: alyssa
 date: 2020-07-06
 categories: posts
 img: /assets/posts/conference-talks.jpg

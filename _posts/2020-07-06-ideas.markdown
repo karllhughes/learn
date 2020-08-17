@@ -1,10 +1,7 @@
 ---
 layout: post
 title: 3 Steps For Coming Up With Technical Content Ideas
-author: 
-    name: Karl Hughes
-    twitter: karllhughes
-    bio: "Karl is a former startup CTO and the founder of Draft.dev. He writes about technical blogging and content management."
+author: karl
 date: 2020-07-06
 categories: posts
 img: /assets/posts/ideas.jpg

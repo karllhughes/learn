@@ -1,6 +1,7 @@
 ---
 layout: main
 ---
+{% assign author = site.authors[page.author] %}
 <article class="post">
   <div class="post-content">
     {% if page.img %}
@@ -14,7 +15,7 @@ layout: main
     <h1 class="page-title">{{page.title}}</h1>
     {% endif %}
     <p class="post-meta">
-      By {{page.author.name}}&nbsp;&nbsp;&nbsp;—&nbsp;
+      By {{author.name}}&nbsp;&nbsp;&nbsp;—&nbsp;
       {% capture words %}{{ page.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}
     </p>
 
@@ -30,15 +31,8 @@ layout: main
       <p class="read-more"><a href="{{ page.link }}" target="_blank" class="text-center">Read More...</a></p>
     {% endif %}
 
-    {% if page.author.twitter %}
-    <div class="author">
-      <img src="https://twivatar.glitch.me/{{ page.author.twitter }}" class="author-image" alt="{{ page.author.name }}" />
-      <h4>
-        By {{ page.author.name }}
-        <a href="https://twitter.com/{{ page.author.twitter }}" target="_blank" title="@{{ page.author.twitter }} on Twitter"><i class="fa fa-twitter"></i></a>
-      </h4>
-      <p>{{ page.author.bio }}</p>
-    </div>
+    {% if page.author %}
+      {% include author-bio.html %}
     {% endif %}
 
     {% include signup.html link=page.id %}

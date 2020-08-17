@@ -1,0 +1,15 @@
+<div class="author">
+  {% if author.img %}
+  <img src="{{ author.img }}" class="author-image" alt="{{ author.name }}" />
+  {% endif %}
+  <h4>
+    By {{ author.name }}
+    {% if author.twitter %}
+      <a href="https://twitter.com/{{ author.twitter }}" target="_blank" title="@{{ author.twitter }} on Twitter"><i class="fa fa-twitter"></i></a>
+    {% endif %}
+    {% if author.website %}
+      <a href="{{ author.website }}" target="_blank" title="{{ author.name }}'s website"><i class="fa fa-external-link"></i></a>
+    {% endif %}
+  </h4>
+  <p>{{ author.bio }}</p>
+</div>
