@@ -1,0 +1,391 @@
+---
+layout: post
+title: The Best PHP Blogs
+author: matt
+date: 2020-09-03
+categories: technical-blogs
+img: /assets/posts/php.png
+---
+
+PHP is one of the [most commonly used programming languages for web development](https://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites), so I set out to find the best active PHP blogs. Each of these sites demonstrates technical expertise, is relatively easy to comprehend, publishes content consistently, and has stood the test of time.
+
+During this process, I used a consistent approach to analyze and compare common qualities (or deficiencies) in each blog. I looked at the depth of each blog’s technical content and the usefulness of that content. I read a few posts from start to finish to get a sense of the writing quality and comprehensibility. I looked at how consistently each blog publishes new content, and I did some digging to learn how long each site has been around.
+
+Based on those criteria, here are the 30 best PHP blogs I could find:
+
+### 1. [Laravel News](https://laravel-news.com/blog)
+
+![Laravel News among the best PHP blogs](https://i.imgur.com/lgrvK7d.png)
+
+Laravel News is a blog for everything surrounding the [open-source PHP web framework](https://laravel.com/). It combines a variety of topics but relies heaviest on developer articles and framework updates. There are also less-technical articles and occasional sponsored posts, but they are not devoid of value. Laravel News’ articles and tutorials have offered great detail from a community of experts since 2012. The blog is published daily and reads crisp and clear. Articles are well-referenced, and there are virtually no errors, making technical information that much easier to read.
+
+*   Writing Quality - 5
+*   Consistency -  5
+*   Longevity - 5 
+*   Technical Depth -  5 
+*   Broad Usefulness - 5
+
+**Overall Score: 5.0**
+
+<!-- signup -->
+
+### 2. [PHP Architect](https://www.phparch.com/)
+
+PHP Architect is the blog for the monthly print magazine on PHP. You can buy a single month’s magazine or subscribe; there is no free content. However, for anyone serious about PHP, there is a plethora of excellent content for technical savants going back to 2002. Each month's magazine comprises several in-depth articles written by active PHP programmers who meet the background and editorial requirements to be considered authoritative. PHP Architect’s writing is professional-tier and reads as such, while also boasting useful references and examples throughout. Their regular monthly publication schedule allows for consistent content once per month.
+
+*   Writing Quality - 5
+*   Consistency -  4
+*   Longevity - 5 
+*   Technical Depth -  5 
+*   Broad Usefulness - 5
+
+**Overall Score: 4.8**
+
+### 3. [SitePoint](https://www.sitepoint.com/php/)
+
+SitePoint is an Aussie-based web publisher that hosts educational tutorials and articles around programming. Articles cover a range of programming languages and niches. PHP programmers write the blog, and the content reflects their technical expertise despite the occasional grammatical imperfection. Articles are written with a natural flow and include plenty of resourceful evidence to satiate further reading. The blog has been regularly published multiple times per week since 1999!
+
+*   Writing Quality - 4
+*   Consistency -  5
+*   Longevity - 5 
+*   Technical Depth -  5 
+*   Broad Usefulness - 4
+
+**Overall Score: 4.6**
+
+### 4. [r/PHP](https://www.reddit.com/r/PHP/)
+
+Reddit is a popular web discussion board with nearly limitless content. Since r/PHP is composed almost entirely of PHP programmers, posters hold each other to a high standard and work to stave off promotional material. The diversity of community members allows everyone from greenhorns to grey-beards to offer their perspectives. New posts are published daily; however, as Reddit is an open platform, it’s not immune to less adept writers who submit content.
+
+*   Writing Quality - 4
+*   Consistency -  5
+*   Longevity - 5 
+*   Technical Depth -  4 
+*   Broad Usefulness - 5
+
+**Overall Score: 4.6**
+
+### 5. [Bram](https://www.bram.us/)
+
+Bram.us is a WebTech blog by a Belgium-based freelance web developer named Bram Van Damme, aka "Bramus." The author writes for pleasure and to educate others, and promotes no companies or products. Though some articles are aggregated from other sources, the vast collection dating back to 2003 is useful reading for any programmer. Many posts tend to be a little shorter, but you'll come across a more comprehensive tutorial every so often. In either case, Bram's (or other author's) knowledge is well-founded and technically sound. I found Bram’s original content articulate and easy to read. I didn't trip over many errors and appreciated dynamic formatting with various references and visuals. The blog is consistently published multiple times per week. 
+
+*   Writing Quality - 4
+*   Consistency -  5
+*   Longevity - 5 
+*   Technical Depth -  4 
+*   Broad Usefulness - 5
+
+**Overall Score: 4.6**
+
+### 6. [MWOP](https://mwop.net/blog/)
+
+MWOP, established in 2004, is Matthew Weier O'Phinney’s blog. O'Phinney is a PHP veteran with 15+ years as a professional programmer under his belt, most recently at Zend. The majority of articles are technical, so any moderate to advanced programmer looking for tangible coding insights, challenges, or assistance will find MWOP a bountiful resource. O’Phinney’s expertise is immediately evident and manifests his advanced understanding and technical proficiency. O'Phinney's writing is decent, and his articles are well-researched with plenty of supportive links and sources. Unfortunately, O’Phinney only publishes a handful of pieces every year, so you might have to wait a while for his next gem.
+
+*   Writing Quality - 4
+*   Consistency -  3
+*   Longevity - 5 
+*   Technical Depth -  5 
+*   Broad Usefulness - 5
+
+**Overall Score: 4.4**
+
+### 7. **[PHP Classes](https://www.phpclasses.org/)**
+
+This educational blog recruits a team of writers to produce tutorials and classes for programmers. Authors vary in content and style, as some posts are short with little detail, and others are longer with ample technical prose. Articles are relatively well-written and are consistently published every month, but they lack consistent formatting and grammatical uniformity.
+
+*   Writing Quality - 3
+*   Consistency -  5
+*   Longevity - 5 
+*   Technical Depth -  4 
+*   Broad Usefulness - 5
+
+**Overall Score: 4.4**
+
+### 8. [Matthias Noback](https://matthiasnoback.nl/)
+
+![Matthias Noback, best PHP blogs](https://i.imgur.com/WMrgHTZ.png)
+
+Noback is a Netherlands-based backend web developer and published programming book author. His blog, which started in 2011, is broadly useful, and any book promotions or professional training courses are innocently placed without detracting from the article's topic. Noback's writing is a fluid stream of technical prose that shows his wealth of experience. The blog's articles are excellently written with very few weaknesses and are published 1-2 times per month. Look for articulate information and pleasantly arranged visuals and links.
+
+*   Writing Quality - 4
+*   Consistency -  3
+*   Longevity - 5 
+*   Technical Depth -  5 
+*   Broad Usefulness - 5
+
+**Overall Score: 4.4**
+
+### 9. **[Stitcher](https://stitcher.io/)**
+
+Stitcher is a simple, content-rich PHP resource. The author gets into a groove in longer tutorials and drives home extensive knowledge, but some posts can be dry. The occasional walls of text distract from the blog’s ability to engage readers. Still, the code samples and depth of knowledge make Stitcher worth reading. On average, look for two new posts to be published every week.
+
+*   Writing Quality - 3
+*   Consistency -  5
+*   Longevity - 4
+*   Technical Depth -  5 
+*   Broad Usefulness - 5
+
+**Overall Score: 4.4**
+
+### 10. [PHP Builder](http://www.phpbuilder.com/)
+
+PHP Builder is a programming resource that has featured articles, programming tutorials, and code samples since 2001. The posts range from beginner to advanced topics with all content created by active PHP developers. However, the writing quality varies with the author. The formatting isn't great, and I stumbled upon more than one broken link. However, there are a few writers that put in the effort, and it shows.
+
+*   Writing Quality - 3
+*   Consistency -  N/A
+*   Longevity - 5 
+*   Technical Depth -  5 
+*   Broad Usefulness - 4
+
+**Overall Score: 4.25**
+
+### 11. **[Zend](https://www.zend.com/blog/php-migrations)**
+
+Zend is a company blog for the California-based enterprise PHP software company. Articles are extensive analyses of a given topic by one of several veteran PHP programmers, and subjects are broken down into great detail. The posts include occasional product promotions, but they are subtle and take a backseat to the articles' premises, which are informational or educational. If not for some unfortunate spelling and grammar errors, the writing quality would easily be a 4 or 5. Articles are well-written and organized following the Zend style and feature plenty of excellent visual representations and supporting evidence. Look for at least a couple of new posts per month.
+
+*   Writing Quality - 3
+*   Consistency -  4
+*   Longevity - 4 
+*   Technical Depth -  5 
+*   Broad Usefulness - 5
+
+**Overall Score: 4.2**
+
+### 12. **[AtTheKeyboard](https://www.littlehart.net/atthekeyboard/)**
+
+Founded in 2005, @TheKeyboard’s content is exceedingly technical and offers real-world applications to anyone with a moderate proficiency level. The writer poses moderate to advanced difficulty topics that give the sense they come from an expert who has experience experimenting with the subject matter. New posts can be expected roughly every other month, but you will sometimes be surprised by a cluster of back-to-back posts after a dry spell. The blog’s grammar and spelling are passable but take a back seat to the code snippets, which do much of the heavy lifting. @TheKeyboard doesn't waste time with intros or filler text getting right to the topic at hand, and consistently provides resourceful in-text links and supportive reading.
+
+*   Writing Quality - 3
+*   Consistency -  2
+*   Longevity - 5 
+*   Technical Depth -  5 
+*   Broad Usefulness - 5
+
+**Overall Score: 4.0**
+
+### 13. **[PHP Pot](https://phppot.com/)**
+
+PHP Pot is an individual blog founded in 2013 by Vincy, who writes weekly about a broad list of programming topics. The articles are not intended to be too involved but demonstrate technical expertise with professional and logical approaches. PHP Pot’s writing is organized but unfortunately suffers from subpar grammar at times. Nonetheless, articles are comprehensible and have plenty of supporting links and images to help articulate assertions.
+
+*   Writing Quality - 2
+*   Consistency -  5
+*   Longevity - 4 
+*   Technical Depth -  4 
+*   Broad Usefulness - 5
+
+**Overall Score: 4.0**
+
+### 14. **[PHP The Right Way](https://phptherightway.com/)**
+
+PHP The Right Way is a collection of authoritative tutorials that introduce novice PHP developers to the language’s best practices. Articles are short but contain precisely the required knowledge with relevant details and no more; think Hemingway for PHP. The blog's posts are polished without error and serve as references within references for the interested reader. 
+
+*   Writing Quality - 4
+*   Consistency -  N/A
+*   Longevity - 3 
+*   Technical Depth -  5 
+*   Broad Usefulness - 4
+
+**Overall Score: 4.0**
+
+### 15. **[Colin O’Dell](https://www.colinodell.com/blog)**
+
+O'Dell is a Director of Technology and has held leadership positions at different software companies. His self-named blog, dating back to 2009, is a collection of findings explored in his programming journey. There isn't a vast archive of content, but it is also available in written and A/V formats and print. While most posts are relatively short, they are informative and should be useful to PHP devs. Colin's longer-form articles allow his technical prowess to glimmer, and his posts are well-formulated with excellent command of language and grammar. While some reference links are included, Colin’s articles tend to lean on screenshots and code snippets. The blog is published every couple of months without a consistent schedule.
+
+*   Writing Quality - 5
+*   Consistency -  2
+*   Longevity - 5 
+*   Technical Depth -  4 
+*   Broad Usefulness - 5
+
+**Overall Score: 4.0**
+
+### 16. **[PHP Flow](https://www.phpflow.com/php/how-to-insert-update-data-using-wpdb/)**
+
+PHP Flow is a programming blog with a prominent PHP section that features highly useful Web Development and Web Design articles from the last decade. PHP Flow's technical tutorials and pertinent data are good to great, but the writing quality detracts from articles' efficacy. Too many spelling and grammar mistakes clutter otherwise valuable content. While not as extensive as some other blogs,  PHP Flow’s posts are detailed and thorough. It's unclear if there is a set publishing schedule, but the blog reliably publishes new articles several times per month.
+
+*   Writing Quality - 2
+*   Consistency -  5
+*   Longevity - 4 
+*   Technical Depth -  4 
+*   Broad Usefulness - 5
+
+**Overall Score: 4.0**
+
+### 17. **[Akrabat](https://akrabat.com/)**
+
+Akrabat is run by Rob Allen, a UK-based software developer and consultant. He has been programming in PHP among other languages since 1995, most notably OpenWhisk and Zend Framework in Action. At first glance, it seems like a run of the mill personal blog. However, after sifting through Akrabat’s contents, I was delighted to be proven wrong and uncover a deeper layer. Allen's posts date back 15 years, covering all sorts of web-based projects and quirks he's stumbled across. While probably not the best place for a newbie to start, Akrabat is an excellent resource for advanced PHP developers. His writing and posts convey a commensurate aptitude for web-based projects and nuances. Allen's thoughts and data are sound but often lack punctual grammar. Look for helpful links and cope snippets throughout, and new posts sporadically every month or so.
+
+*   Writing Quality - 3
+*   Consistency -  3
+*   Longevity - 5 
+*   Technical Depth - 5
+*   Broad Usefulness - 4
+
+**Overall Score: 4.0**
+
+### 18. **[Lorna Jane](https://lornajane.net/)**
+
+Lorna Jane is an experienced UK-based PHP developer, writer, teacher, and speaker who actively works with APIs in various tech stacks and shares her vast knowledge in audio/video format and on her self-named blog. Blog posts are geared towards active PHP programmers with moderate coding experience. While articles are not ground-breaking, they cast a wide net with specific functions many coders will come across. Accordingly, the blog’s posts reflect her expertise and talent across multiple programming languages. Though articles are generally single-page length, they are information-dense and provide sufficient context and detail. The blog is well organized, and facts are backed up with evidence, but the writing contains too many run-on sentences, which sometimes makes comprehending the material difficult. Look for Lorna Jane to publish new articles a few times a year without regularity. 
+
+*   Writing Quality - 3
+*   Consistency -  2
+*   Longevity - 5 
+*   Technical Depth -  4 
+*   Broad Usefulness - 5
+
+**Overall Score: 3.8**
+
+### 19. **[Paul M. Jones](http://paul-m-jones.com/)**
+
+Paul Jones is a long-time programmer who has written about maintainable PHP coding practices for years. Jones is a founding contributor to the Zend Framework ([now Laminas](https://getlaminas.org/)), and he also authored a series of authoritative benchmarks on dynamic framework performance. The blog, active since 2004, provides a 50/50 split between analyzing technical programming functions and personal rants. Though I wouldn't recommend this blog to a beginner, it will provide some value to advanced-level coders. Paul's articles are examples of his technical knowledge and tap into his authoritative understanding. The blog is well-written and well-organized with minimal grammatical errors, even non-technical personal opinions. Articles are never short of helpful links, code snippets, and external sources. Jones’ blog is published somewhat consistently, roughly a couple times a month.
+
+*   Writing Quality - 4
+*   Consistency -  3
+*   Longevity - 5
+*   Technical Depth -  4 
+*   Broad Usefulness - 3
+
+**Overall Score: 3.8**
+
+### 20. [Matt Stauffer](https://mattstauffer.com/)
+
+![Matt Stauffer is among the best PHP bloggers](https://i.imgur.com/0e8gDtd.png)
+
+Matt Stauffer is a well-known web developer and Technical Director at [Tighten](https://tighten.co/), and the host of _[The Five-Minute Geek Show](https://fiveminutegeekshow.com/)_ and _[The Laravel Podcast](https://laravelpodcast.com/)_. In his self-named blog, you’ll find many useful projects for programmers, especially for those who are still learning PHP. While the technical articles are often introductions to various tools and features, the author displays a clear knowledge of topics at hand. Blog posts are published at least monthly, articulate, and easy to read, and there are lots of code screenshots and visuals to hold your attention.
+
+*   Writing Quality - 4
+*   Consistency -  3
+*   Longevity - 4
+*   Technical Depth -  4 
+*   Broad Usefulness - 4
+
+**Overall Score: 3.8**
+
+### 21. **[Cal Evans](https://blog.calevans.com/)**
+
+Evans is another PHP veteran who has been programming since the late ‘90s and writing about it since 2005. He is known for developing training opportunities through his company, [EICC](https://eicc.com/), and working at [Nexcess](https://www.nexcess.net/) and [Zend](https://www.zend.com/). You may notice some older articles are personal, but posts from the past couple of years have been increasingly technical. The blog’s articles are middle of the road in terms of technical depth. While new posts don't come at regular intervals, Cal Evans’ posts are relatively consistent and can appear up to 10 times per month. The writing is to the point, and while the grammar is not perfect, no article is incomprehensible.
+
+*   Writing Quality - 3
+*   Consistency -  4
+*   Longevity - 5
+*   Technical Depth -  3 
+*   Broad Usefulness - 3
+
+**Overall Score: 3.6**
+
+### 22. **[IRC Maxwell](https://blog.ircmaxell.com/)**
+
+IRC Maxwell is the personal blog of Anthony Fererra, a seasoned programmer with previous positions at Google and Facebook. The decade-old blog is entirely informational and has no company promotions. Readers of at least a moderate programming level will be delighted to find a source of relevant and actionable content. Each article is a glimpse into an experienced PHP developer’s mind with expertise that allows him to articulate his curiosity for unconventional ways of solving problems. Posts are sensibly organized but could use a spelling and grammar check every once in a while. Fortunately, there are plenty of useful links, images, and code screenshots to help get the point across in each article. Expect no more than a couple of posts per year.
+
+*   Writing Quality - 3
+*   Consistency -  1
+*   Longevity - 4
+*   Technical Depth -  5 
+*   Broad Usefulness - 5
+
+**Overall Score: 3.6**
+
+### 23. **[PHP Cluster](https://www.phpcluster.com/)**
+
+PHP Cluster is an independent educational programming blog featuring topics that appeal to most programmers. Most articles are not long, even with code snapshots, so it's difficult to convey extensive technical knowledge on every subject. Otherwise, articles are well-researched and reputable references bolster each post. The blog's writing and formatting are not its strength, especially in text-heavy articles. Fortunately, code is universal and does most of the talking. The blog’s publications are a little sporadic, but you can consistently expect multiple posts per month. 
+
+*   Writing Quality - 2
+*   Consistency -  5
+*   Longevity - 3
+*   Technical Depth - 4
+*   Broad Usefulness - 4
+
+**Overall Score: 3.6**
+
+### 24. **[PHP Developer](http://phpdeveloper.org/)**
+
+PHP Developer is an informational PHP news and development blog. While there are a substantial number of programming articles, even the non-technical news and career articles are thought-provoking. The posts confidently walk the reader through projects and experiments from start to finish. The writing quality is lacking in a few grammatical areas, which can sometimes make sentences appear confusing or run on. Otherwise, posts are well organized and have a refreshing combination of personal narrative and code. 
+
+*   Writing Quality - 3
+*   Consistency -  1
+*   Longevity - 5
+*   Technical Depth -  4 
+*   Broad Usefulness - 4
+
+**Overall Score: 3.4**
+
+### 25. [Platform.sh](https://platform.sh/tags/php/)
+
+![Platform.sh among the best PHP blogs](https://i.imgur.com/dQ1J3uT.png)
+
+Platform.sh is a company blog for a polyglot Platform-as-a-Service (PaaS). Articles aren’t as useful to programmers who don’t use their product, and some articles are even hidden behind a paywall. The blog is written by a handful of experienced writers who have worked with PHP and the company's product. Platform.sh is one of the more professional blogs in this list, and their posts are well-written and hold up to a higher standard than most with only minor grammar flaws. New posts are sporadic but are published roughly once or twice a month. 
+
+*   Writing Quality - 4
+*   Consistency -  3
+*   Longevity - 5
+*   Technical Depth - 3
+*   Broad Usefulness - 2
+
+**Overall Score: 3.4**
+
+### 26. **[PHP Magazine](http://phpmagazine.net/)**
+
+Established in 2005, PHP Magazine is a publication that focuses on PHP and Web Development. A substantial percentage of the publications are product/software updates or book promotions, but there is some valuable reading if you dig through the weeds. Most articles are not incredibly in-depth and focus more on new releases than on programming. I noticed some posts are not easy to get through without getting hooked on spelling or grammatical issues. Despite not being particularly technical content, you still feel like a little more supporting evidence wouldn't hurt. New posts are quite sporadic, sometimes not appearing for months, then four appear within two weeks.
+
+*   Writing Quality - 2
+*   Consistency -  3
+*   Longevity - 5
+*   Technical Depth - 2
+*   Broad Usefulness - 3
+
+**Overall Score: 3.0**
+
+### 27. **[PHP Coder](https://phpcoder.tech/)**
+
+PHP Coder offers content on PHP code solutions, informed analyses, and opinions. The blog's articles are not significant undertakings but undeniably applicable. Technical knowledge and a consistent release of at least two articles per month since 2019 are the glue that holds this blog together. While the writing is informative, it’s hurt by poor grammar.
+
+*   Writing Quality - 2
+*   Consistency -  4
+*   Longevity - 1
+*   Technical Depth - 4
+*   Broad Usefulness - 4
+
+**Overall Score: 3.0**
+
+
+### 28. **[PHP Jabbers](https://www.phpjabbers.com/blog.php)**
+
+PHP Jabbers is a product website and web resource for PHP with free tutorials, scripts, and articles. The blog has a modest trove of posts, some of which are promotional or sponsored. Articles only scratch the surface and may leave some developers wanting more. Despite being a product's business blog, the aesthetics could use a touch-up, specifically grammar and formatting. With a little polish and some useful links, the writing quality would easily be a 4. I found new articles are published a few times a year.
+
+*   Writing Quality - 3
+*   Consistency -  2
+*   Longevity - 3
+*   Technical Depth - 3
+*   Broad Usefulness - 3
+
+**Overall Score: 2.8**
+
+### 29. [Exakat](https://www.exakat.io/en/blog/)
+
+Exakat is a business blog primarily used to promote the company's product releases with some occasional PHP articles sprinkled in. Though the blog’s posts are informative and technical, they are a little short for the more complex subject matter. They are well-versed in their PHP-based product but don't command as much authority on other PHP subjects as they probably should. Most of the blog's posts are passable, some with more punctuated grammar errors than others, and the articles could use more support from links and images. The blog is published inconsistently, sometimes twice a month, sometimes months without a peep.
+
+*   Writing Quality - 3
+*   Consistency -  2
+*   Longevity - 4
+*   Technical Depth - 3
+*   Broad Usefulness - 2
+
+**Overall Score: 2.8**
+
+### 30. [Bootsity](https://bootsity.com/category/php)
+
+![Bootsity best php blogs]()
+
+Bootsity is an educational programming site focused on tutorials, blogs, and ready-to-run code. They have some great hands-on articles, but the archive hasn’t grown considerably since its inception in 2018. Practicality and application are the focus on articles here, with the contributor(s) penning articles geared towards actual code used in real use cases. The blog’s articles contain multiple spelling and grammar issues but are otherwise comprehensible. Fortunately, there is an abundance of images and code snapshots throughout. The blog used to be consistently at least published every month or so but has since tapered off. 
+
+*   Writing Quality - 3
+*   Consistency - 1
+*   Longevity - 1
+*   Technical Depth - 4
+*   Broad Usefulness - 3
+
+**Overall Score: 2.4**
+
+This concludes my quest to identify, analyze, and rank the best PHP blogs in 2020. While my grading system may not be perfect, it allowed me to assign some numerical value to each blog and let the data do the talking. It’s a satisfying approach for the technical blogger in me.
+
+**Know another blog I should consider for this list? [Click here to submit it](https://airtable.com/shrKNdNjYO6hNQxJV).**
