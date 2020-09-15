@@ -6,10 +6,14 @@ date: 2020-06-16
 categories: posts
 ---
 
-I founded [Draft](https://draft.dev) to help software engineering blogs create better content. While our primary offering - **technical blogging as a service** - is a great option for some companies, it's not right for everyone. [Draft Academy](/) offers resources for technical blogging managers who are either too small or too early for our content production services.
+I founded [Draft.dev](https://draft.dev) because I wanted to help create better content for software engineering blogs.
+
+While the primary offering - **[technical content as a service](https://draft.dev)** - is a great option for funded startups that really want to invest in content marketing, it's not right for everyone. [Draft Academy](/) offers resources for content managers who want to learn from the best practices we use to create content for our clients. 
 
 ### What's available here?
-It all started with the [Build a Better Blog Course](https://draft.dev/#course). This 7-day email course was created to help new blog managers kickstart their efforts when creating and committing to a blog. [Sign up](https://draft.dev/#course) if you want to learn how to recruit writers, promote your blog posts, write better content, and more. 
+It all started with the [Build a Better Blog Course](https://draft.dev/#course). I created this 7-day email course to help new content managers kick-start their efforts when creating a blog. [You can sign up](https://draft.dev/#course) if you want to learn how to recruit writers, promote your blog posts, write better content, and more.
+
+Beyond that, I'm starting to publish more about our processes at Draft.dev. For example, if you want to know how we create a technical content plan, [you can find that here](https://learn.draft.dev/posts/content-plan). If you want to know how to promote your blog posts, you can get our [promotional checklist here](https://learn.draft.dev/posts/promotion). 
 
 In the coming months, we will be publishing blog posts, lessons, and free resources for technical bloggers and blog managers.
 
