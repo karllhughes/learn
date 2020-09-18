@@ -11,6 +11,10 @@ Hiring is always hard, but the more specialized your hire, the harder it will be
 
 While traditionally used in education, rubrics are a fantastic tool for hiring, and I've used them for years both as [an engineering manager](https://www.karllhughes.com/posts/developing-talent) and content manager at Draft. Whether you are bringing on a part-time freelancer or a full-time hire, having a good rubric will help you [objectively evaluate candidates](https://www.managementcenter.org/article/mitigate-bias-in-hiring-with-a-simple-rubric/) and keep you focused on the criteria that matter for your job.
 
+<div class='embed-container'>
+<iframe src='https://www.youtube.com/embed/6fHt-OHfyqk' frameborder='0' allowfullscreen></iframe>
+</div>
+
 ## What is a Hiring Rubric?
 A hiring rubric is a document that defines the criteria you use to decide whether a candidate is a good fit for your role or not. It typically includes several attributes upon which you will evaluate candidates and a few levels within each attribute that measure their skill.
 
