@@ -11,6 +11,10 @@ One of the most effective ways to encourage repeat visitors to your startup, to 
 
 Sure, we may spend more time scanning Facebook and Reddit for interesting bits of news, but nothing is quite as direct as email marketing. It can also be great for users who want to keep up with your product but don’t want to set a reminder to come back every week and check on it.
 
+<div class='embed-container'>
+<iframe src='https://www.youtube.com/embed/UxSfPmZM7FM' frameborder='0' allowfullscreen></iframe>
+</div>
+
 <!-- signup -->
 
 So, how do you go about building an email list and sending regular updates?
