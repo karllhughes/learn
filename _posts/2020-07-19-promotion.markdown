@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Technical Blog Post Promotion Checklist
+title: How to Promote Your Technical Blog Posts
 author: karl
 date: 2020-07-19
 categories: posts

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creating a Technical Content Plan
+title: How to Create a Technical Content Plan
 author: karl
 date: 2020-08-06
 categories: posts

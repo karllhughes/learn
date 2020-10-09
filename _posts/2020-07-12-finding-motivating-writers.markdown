@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5 Ways to Find and Motivate Writers for Your Blog
+title: How to Find and Motivate Writers for Your Blog
 author: karl
 date: 2020-07-12
 categories: posts

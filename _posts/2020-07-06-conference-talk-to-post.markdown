@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Turning Your Conference Talks Into Technical Blog Posts
+title: How to Turn Your Conference Talks Into Technical Blog Posts
 author: alyssa
 date: 2020-07-06
 categories: posts
