@@ -8,8 +8,18 @@
     margin-top: 0;
   }
 
+  ul {
+    padding-bottom: 20px;
+  }
+
+  a img {
+    float: right;
+    max-width: 30%;
+    margin-left: 20px;
+  }
+
   .button-container {
-    margin-top: 40px;
+    margin: 40px auto 20px;
     text-align: center;
     a.button {
       padding: 15px 30px;
@@ -17,6 +27,7 @@
       color: $blue-gray;
       border-radius: 0.25rem;
       text-decoration: none;
+      font-weight: bold;
     }
     a.button:hover {
       text-decoration: none;
