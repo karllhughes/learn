@@ -25,6 +25,11 @@ authors:
     website: "https://github.com/thecraftman"
     img: "/assets/authors/tola.jpeg"
     bio: "Tola is an open-source contributor at Chaoss and a technical writer for Draft.dev."
+  keanan:
+    name: Keanan Koppenhaver
+    website: "https://alphaparticle.com/"
+    img: "/assets/authors/keanan.jpg"
+    bio: "Keanan is the CTO at Alpha Particle where he helps publishers modernize their technology platforms."
 
 # Tracker
 analytics: UA-19700764-24 # Google Analytics
