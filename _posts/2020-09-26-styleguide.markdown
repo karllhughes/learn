@@ -3,7 +3,7 @@ layout: post
 title: How to Create a Technical Blogging Style Guide
 author: karl
 date: 2020-09-26
-categories: content-management
+categories: posts
 img: /assets/posts/styleguide.jpg
 ---
 

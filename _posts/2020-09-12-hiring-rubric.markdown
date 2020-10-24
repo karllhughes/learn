@@ -3,7 +3,7 @@ layout: post
 title: How to Create a Hiring Rubric for Technical Writers 
 author: karl
 date: 2020-09-12
-categories: content-management
+categories: posts
 img: /assets/posts/hiring-rubric.png
 ---
 
