@@ -78,5 +78,11 @@
 	<!-- Styles -->
 	<link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
 
+  {% if page.canonical_url %}
+  <link rel="canonical" href="{{ page.canonical_url }}" />
+  {% else %}
+  <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
+  {% endif %}
+
   {% include analytics.html %}
 </head>
