@@ -19,7 +19,7 @@ layout: main
       {% if page.categories.size > 0 %}
       Published in
         {% for category in page.categories %}
-          <a href="{{site.baseurl}}/{{ category | slugify }}" class="tag">{{ category }}</a>{% if forloop.last %}{% else %},{% endif %}
+          <a href="{{site.baseurl}}/{{ category | slugify }}/">{{ category }}</a>{% if forloop.last %}{% else %},{% endif %}
         {% endfor %}
       by
       {% else %}
