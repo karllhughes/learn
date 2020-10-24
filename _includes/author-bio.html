@@ -1,6 +1,6 @@
 <div class="author">
   {% if author.img %}
-  <img src="{{ author.img }}" class="author-image" alt="{{ author.name }}" />
+  <img src="{{site.baseurl}}{{ author.img }}" class="author-image" alt="{{ author.name }}" />
   {% endif %}
   <h4>
     By {{ author.name }}

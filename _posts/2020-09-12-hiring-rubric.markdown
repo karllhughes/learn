@@ -7,7 +7,7 @@ categories: content-management
 img: /assets/posts/hiring-rubric.png
 ---
 
-Hiring is always hard, but the more specialized your hire, the harder it will be. If you're managing a technical blog and you want to [stop writing everything yourself](https://learn.draft.dev/posts/finding-motivating-writers), you'll need to recruit and hire technical writers to help you out.
+Hiring is always hard, but the more specialized your hire, the harder it will be. If you're managing a technical blog and you want to [stop writing everything yourself](https://draft.dev/learn/posts/finding-motivating-writers), you'll need to recruit and hire technical writers to help you out.
 
 While traditionally used in education, rubrics are a fantastic tool for hiring, and I've used them for years both as [an engineering manager](https://www.karllhughes.com/posts/developing-talent) and content manager at Draft. Whether you are bringing on a part-time freelancer or a full-time hire, having a good rubric will help you [objectively evaluate candidates](https://www.managementcenter.org/article/mitigate-bias-in-hiring-with-a-simple-rubric/) and keep you focused on the criteria that matter for your job.
 
@@ -31,7 +31,7 @@ Our rubric currently has ten attributes that fall within three broad categories.
 
 You can [get a copy of the rubric here](https://docs.google.com/spreadsheets/d/1ceZ5q510lDLGR8U3SFJdXEePAeaqARes_l6lmXBndms/edit?usp=sharing) or read on for an explanation of how we evaluate writers using this rubric.
  
-[![Hiring rubric for technical writers](/assets/posts/hiring-rubric.png)](https://docs.google.com/spreadsheets/d/1ceZ5q510lDLGR8U3SFJdXEePAeaqARes_l6lmXBndms/edit?usp=sharing)
+[![Hiring rubric for technical writers](/learn/assets/posts/hiring-rubric.png)](https://docs.google.com/spreadsheets/d/1ceZ5q510lDLGR8U3SFJdXEePAeaqARes_l6lmXBndms/edit?usp=sharing)
 
 ### Category 1: Writing
 Writing skills are necessary for the kind of work we do at Draft.dev, but defining what it means to be a "good" writer is surprisingly hard. Many people use the, "I know it when I see it" test, but I've found that insufficient. There are three attributes I look for in strong writers.
@@ -47,7 +47,7 @@ English is a tough language to master. As such, many non-native writers will str
 Writers who have strong language skills use engaging words, varied sentence structure, and stylistically sophisticated vocabulary that isn't overly wordy. It's tough to do.
 
 #### Organization
-Finally, great writers have to be great organizers. While having [good content briefs with outlines](https://learn.draft.dev/posts/content-plan) can help with higher-level structure, the writer will still have to decide how to present sequential information in a way that readers can grok.
+Finally, great writers have to be great organizers. While having [good content briefs with outlines](https://draft.dev/learn/posts/content-plan) can help with higher-level structure, the writer will still have to decide how to present sequential information in a way that readers can grok.
 
 To reach the highest level in this attribute, writers must create clear transitions between topics and consistent focus throughout the entire sample piece.
 

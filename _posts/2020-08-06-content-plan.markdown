@@ -12,14 +12,14 @@ There are two mistakes that most companies make when they decide to pursue techn
 1. They don’t have a content plan.
 2. They don’t know how they’re going to distribute their content.
 
-I recently wrote about [how I recommend starting with a checklist to promote your blog posts](https://learn.draft.dev/posts/promotion). While I could say more, I’m going to focus on the first problem: **creating a technical content plan.**
+I recently wrote about [how I recommend starting with a checklist to promote your blog posts](https://draft.dev/learn/posts/promotion). While I could say more, I’m going to focus on the first problem: **creating a technical content plan.**
 
 ## What is a Content Plan?
-Most companies that start a blog have a higher-level strategy. They know [why they want to start creating content](https://learn.draft.dev/posts/three-questions) but rarely dive into the specific article ideas and resources they want to create.
+Most companies that start a blog have a higher-level strategy. They know [why they want to start creating content](https://draft.dev/learn/posts/three-questions) but rarely dive into the specific article ideas and resources they want to create.
 
 **A content plan is a detailed outline of the content you want to produce for your blog.**
 
-If you’re building a technical blog aimed at developers, tailor your content plan to fit (1) your audience, (2) your product/service, and (3) [your available writing resources](https://learn.draft.dev/posts/finding-motivating-writers).
+If you’re building a technical blog aimed at developers, tailor your content plan to fit (1) your audience, (2) your product/service, and (3) [your available writing resources](https://draft.dev/learn/posts/finding-motivating-writers).
 
 ![Content plan venn diagram](https://paper-attachments.dropbox.com/s_F441E89054A83B57C041C1D17C348447452B95959CF9639B694895FA57FBCD37_1596741802868_technical+content+venn+diagram.jpg)
 
@@ -61,7 +61,7 @@ Here are just a few of the reasons you should create a content plan:
 It’s easy to fall into the trap of publishing anything anyone wants to write on the blog. An unfocused approach like this might occasionally result in a home run, but most of your posts will add very little value. By explicitly defining each piece of content you want to create, you can make sure your posts serve your overarching strategy.
 
 ### Helps Drive the Plan for Promotion
-Having a defined audience for each post you write will help your marketing team decide on a [promotional plan](https://learn.draft.dev/posts/promotion) for each piece. That allows them to do research *before* the post goes live to give it the best chance of success the moment it’s published.
+Having a defined audience for each post you write will help your marketing team decide on a [promotional plan](https://draft.dev/learn/posts/promotion) for each piece. That allows them to do research *before* the post goes live to give it the best chance of success the moment it’s published.
 
 ### Enables You to Find the Right Writers
 Whether you’ve got dedicated in-house resources or a large pool of community contributors, writers will struggle to come up with good topics consistently. By having a list of content ideas, you can control the content’s quality and topic choice. You can even start targeted outreach to find writers with specific experience for each post.
@@ -78,7 +78,7 @@ Once your team agrees that a content plan is necessary, it’s time to get to wo
 
 Generally, step 1 is done at the top. Whether it’s the Head of Marketing, Community Manager, or Content Marketing Manager, someone familiar with the company’s overarching goals should be responsible for choosing and defining a content strategy. This strategy won’t go into specific article ideas, but rather set the target audience, the kind of content you’ll create, and how you’ll capture readers to turn them into leads.
 
-Next, use the strategy to come up with a list of possible article ideas. At this stage, each idea will probably just be a title and maybe a couple of bullet points. If there are lots of ideas, you may need to rank them and pick the winners. If you’re [having trouble coming up with ideas](https://learn.draft.dev/posts/ideas), you might want to take a break and return to it later.
+Next, use the strategy to come up with a list of possible article ideas. At this stage, each idea will probably just be a title and maybe a couple of bullet points. If there are lots of ideas, you may need to rank them and pick the winners. If you’re [having trouble coming up with ideas](https://draft.dev/learn/posts/ideas), you might want to take a break and return to it later.
 
 Finally, someone on the team needs to be responsible for researching each idea and adding details like the outline, pitch, and assets. After these details are added, the team should review and approve them before doling them out to writers.
 

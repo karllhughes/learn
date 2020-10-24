@@ -18,7 +18,7 @@ In the early days, you might have to manage, plan, and write everything yourself
 There are a few tricks you can use to maximize your output when you’re the only writer though:
 
 *   Publish [interviews with customers or team members](https://www.codeinwp.com/blog/guide-to-blog-interviews/)
-*   Transcribe [conference talks and turn them into blog posts](https://learn.draft.dev/posts/conference-talk-to-post)
+*   Transcribe [conference talks and turn them into blog posts](https://draft.dev/learn/posts/conference-talk-to-post)
 *   Ask partners to collaborate with you on posts
 *   [Republish](https://www.impulsecreative.com/blog/best-practices-for-reposting-blogs-aka-content-syndication) (with permission) content from the community
 

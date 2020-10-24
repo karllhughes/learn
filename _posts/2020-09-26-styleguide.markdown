@@ -7,7 +7,7 @@ categories: content-management
 img: /assets/posts/styleguide.jpg
 ---
 
-As your blog grows and you [get more writers to contribute](https://learn.draft.dev/posts/finding-motivating-writers), you need to build documents and processes to help you maintain high quality and consistent style. To serve this goal, you should create a style guide to help writers and editors stay on the same page.
+As your blog grows and you [get more writers to contribute](https://draft.dev/learn/posts/finding-motivating-writers), you need to build documents and processes to help you maintain high quality and consistent style. To serve this goal, you should create a style guide to help writers and editors stay on the same page.
 
 Generally, **a style guide includes expectations for your contributors**. Depending on your priorities, you may include more or less information than we do at [Draft.dev](https://draft.dev), but our style guide should give you an excellent place to start. We send this style guide to all new contributors to ensure they are familiar with our expectations, and we refer to this guide throughout the editing process.
 
