@@ -23,15 +23,15 @@ Yes, you should spend most of your time writing great content for your blog and 
 
 <!-- signup -->
 
-Unfortunately, stock images can be bland and expensive. In this post, I've collected some of my favorite sources of free stock imagery. These sites are great for startups that want to add high-quality images to their blog posts, but don't have a huge budget to do so.
+Unfortunately, stock images can be bland and expensive. In this post, I've collected some of my favorite sources of free stock imagery. These sites are great for startups that want to add high-quality images to their blog posts but don't have a huge budget to do so.
 
 ## Free Stock Images for Your Startup's Blog
 
-**[Unsplash](https://unsplash.com/)** - My personal go-to for stock images because they’re really easy to search and use. Attribution is also optional.
+**[Unsplash](https://unsplash.com/)** - My personal go-to for stock images because it's effortless to search and use. Attribution is also optional.
 
 **[Bannersnack](bannersnack.com)** - Great for customizing stock images to use for blog posts, social media ads, or other marketing materials.
 
-**[Shutterography](https://shutterography.com/)** - Free stock photos for personal and commercial use. No attribution required.
+**[Shutterography](https://shutterography.com/)** - Free stock photos for personal and commercial use. No attribution is required.
 
 **[Moose](https://photos.icons8.com/)** - Stock Photos Designed to Work Together — For Free
 
@@ -51,13 +51,13 @@ Unfortunately, stock images can be bland and expensive. In this post, I've colle
 
 **[FoodieFactor](https://foodiefactor.com/)** - FoodieFactor is a collection of 1200 of the best free food and drink stock photos currently available on the internet.
 
-**[Foodiesfeed](https://foodiesfeed.com/)** - Natural looking food photos that are free to download or use.
+**[Foodiesfeed](https://foodiesfeed.com/)** - Natural-looking food photos that are free to download or use.
 
-**[Foodshot](http://foodshot.co/)** - Handpicked high resolution food photos with new ones posted every day.
+**[Foodshot](http://foodshot.co/)** - Handpicked high-resolution food photos with new ones posted every day.
 
 **[Free-Images.cc](http://www.free-images.cc/)** - Allows you to quickly search tons of free stock images with tags and color palettes.
 
-**[ISO Republic](https://isorepublic.com/)** - ISO Republic provides free stock photos for creatives, and has published over 3,000 CC0 licensed images since its inception.
+**[ISO Republic](https://isorepublic.com/)** - ISO Republic provides free stock photos for creatives and has published over 3,000 CC0 licensed images since its inception.
 
 **[JoyDesign](https://joydesign.co/)** - Free illustrations for your next idea. Sign up to get high-quality illustrations sent to you every week.
 
@@ -71,19 +71,19 @@ Unfortunately, stock images can be bland and expensive. In this post, I've colle
 
 **[Picjumbo](https://picjumbo.com/)** - Thousands of free stock photos with upgrade options to get even more with a premium membership.
 
-**[Pikwizard](https://pikwizard.com/)** - Over 100,000 completely free stock photos that don’t require any attribution. High quality images of people that can’t be found on other free stock photo sites.
+**[Pikwizard](https://pikwizard.com/)** - Over 100,000 completely free stock photos that don’t require any attribution. High-quality images of people that can’t be found on other free stock photo sites.
 
 **[Pixabay](https://pixabay.com/)** - Over 1.2 million community-generated photos of just about everything you can imagine.
 
 **[Rawpixel](https://www.rawpixel.com/)** - Most free images on the websites are exclusive and comprise photography, vector art, and mockups.
 
-**[Skuawk](http://skuawk.com/)** - Another great option if you just want to filter by category, but the UI is pretty weird (hint: use the three bars in the top right to navigate).
+**[Skuawk](http://skuawk.com/)** - Another great option if you just want to filter by a category, but the UI is pretty weird (hint: use the three bars in the top right to navigate).
 
 **[Startup Stock Photos](http://startupstockphotos.com/)** - Free photos for startups, bloggers, publishers, websites, designers, developers, and creators.
 
 **[Stock Up](https://www.sitebuilderreport.com/stock-up)** - Search their collection of 20,000 free stock photos.
 
-**[StockSnap.io](https://stocksnap.io/)** - Hundreds of free, high resolution images added weekly.
+**[StockSnap.io](https://stocksnap.io/)** - Hundreds of free, high-resolution images added weekly.
 
 **[Stockified](https://www.stockified.com/)** - The search isn’t great, but the photos are pretty interesting.
 
