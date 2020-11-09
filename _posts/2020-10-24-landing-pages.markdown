@@ -13,6 +13,10 @@ A good landing page helps visitors quickly determine whether or not your offerin
 
 Either way, you don’t have to spend weeks coding your landing page from scratch. In fact, even if you have developers on your team, I would encourage you to use a tool rather than try to build your own.
 
+<div class='embed-container'>
+<iframe src='https://www.youtube.com/embed/E7QLO3mgmo4' frameborder='0' allowfullscreen></iframe>
+</div>
+
 <!-- signup -->
 
 Fortunately, there are many great and easy-to-use landing page generators and tools available. Some require a little knowledge of HTML and CSS, while others are completely non-tech friendly. Try a few of these tools out, and let me know which one you prefer.
