@@ -9,7 +9,7 @@ img: /assets/posts/survey-tools.jpg
 
 Collecting surveys from your customers is one of the best ways to gauge how and why they’re interested in your product. Sometimes you may be surprised by what you learn, but more often, surveys are a great way to identify your strongest advocates and highlight their happiness.
 
-While you can bring in your development team to build forms that capture customer responses, it’s usually much faster to use an off-the-shelf product or service. Below I’ve collected some of my favorite options.
+While you can bring in your development team to build forms that capture customer responses, it’s usually much faster to use an off-the-shelf product. Below I’ve collected some of my favorite options.
 
 <!-- signup -->
 
@@ -19,7 +19,7 @@ While you can bring in your development team to build forms that capture custome
 
 **[Formspree](https://formspree.io/)** ($0) - This has quickly become my favorite way to handle contact forms, but you can also use it to embed a form on any static website. The responses are emailed to you as they come in, and it’s free.
 
-**[Google Forms](https://www.google.com/forms/about/)** ($0) - Google Forms is simple, free, and it integrates into Google Sheets, allowing you to capture data right where you can use it.
+**[Google Forms](https://www.google.com/forms/about/)** ($0) - Google Forms is simple, free, and it integrates into Google Sheets, allowing you to capture data right where you can use it. (And if you like Google Forms, but want to try some similar options, [check these out](https://www.karllhughes.com/posts/google-forms-alternatives))
 
 **[Google Surveys](https://www.google.com/analytics/surveys/)** ($0.1) - If you want to poll the general public, Google Surveys let you start as low as 10 cents per response.
 
