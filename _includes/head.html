@@ -17,8 +17,10 @@
   {% else %}
   <meta content="{{ site.description }}" property="og:description">
   {% endif %}
-  {% if page.url %}
-    <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+  {% if page.canonical_url %}
+  <meta content="{{ page.canonical_url }}" property="og:url">
+  {% else %}
+  <meta content="{{ site.url }}{{ site.baseurl }}{{ page.url }}" property="og:url">
   {% endif %}
   {% if page.date %}
     <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
@@ -46,8 +48,10 @@
   {% else %}
     <meta name="twitter:title" content="{{ site.title }}">
   {% endif %}
-  {% if page.url %}
-    <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+  {% if page.canonical_url %}
+  <meta name="twitter:url" content="{{ page.canonical_url }}">
+  {% else %}
+  <meta name="twitter:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
   {% endif %}
   {% if page.description %}
   <meta name="twitter:description" content="{{ page.description }}">

@@ -77,7 +77,7 @@ The “Kanban View” shows you all our writers (these aren’t our real writers
 
 ![Available writers in an Airtable Publishing Calendar](https://i.imgur.com/6T4jhwo.png)
 
-Every week, we review writer applications using [our hiring rubric for technical writers](https://draft.dev/learn/content-management/hiring-rubric) and move those who meet our criteria to the “Accepted” status column.
+Every week, we review writer applications using [our hiring rubric for technical writers](https://draft.dev/learn/posts/hiring-rubric) and move those who meet our criteria to the “Accepted” status column.
 
 ### 6. New Writer Applications
 Finally, we use Airtable as an intake form for new writer applications. You can see a slightly simplified version of our writer application form in the template by going to the “Writer Application” view in the “Writers” table.
