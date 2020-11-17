@@ -3,6 +3,7 @@ layout: post
 title: How to Turn Your Conference Talks Into Technical Blog Posts
 author: alyssa
 date: 2020-07-06
+description: Conference talks can make great blog posts. In this article, we explore some of the tools you can use to convert your conference talks into blog posts.
 categories: posts
 img: /assets/posts/conference-talks.jpg
 ---

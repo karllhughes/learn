@@ -3,6 +3,7 @@ layout: post
 title: How to Find and Motivate Writers for Your Blog
 author: karl
 date: 2020-07-12
+description: "In the early days, you might write everything yourself, but this won't scale. In this post, we explore some options for finding technical writers for your blog."
 categories: posts
 img: /assets/posts/motivation.jpg
 ---

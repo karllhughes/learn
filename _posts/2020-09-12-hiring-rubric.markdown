@@ -2,6 +2,7 @@
 layout: post
 title: How to Create a Hiring Rubric for Technical Writers 
 author: karl
+description: "A hiring rubric is a document that defines the criteria you use to decide whether a candidate is a good fit for your role or not."
 date: 2020-09-12
 categories: posts
 img: /assets/posts/hiring-rubric.png

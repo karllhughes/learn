@@ -3,6 +3,7 @@ layout: post
 title: How to Create a Technical Blogging Style Guide
 author: karl
 date: 2020-09-26
+description: "A style guide includes expectations for your contributors. In this post, we break down our technical blogging style guide."
 categories: posts
 img: /assets/posts/styleguide.jpg
 ---

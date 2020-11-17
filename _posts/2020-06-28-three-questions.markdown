@@ -3,6 +3,7 @@ layout: post
 title: The 3 Questions You Should Ask Before Starting a Technical Blog
 author: karl
 date: 2020-06-28
+description: The best technical blogs have a clear audience and defined goals. Here are the three questions you should ask before starting a technical blog.
 categories: posts
 img: /assets/posts/three-questions.jpg
 ---

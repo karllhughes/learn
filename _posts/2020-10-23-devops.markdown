@@ -3,13 +3,14 @@ layout: post
 title: The Best DevOps Blogs
 author: keanan
 date: 2020-10-23
+description: "We've graded the 30 best DevOps blog based on writing quality, consistency, longevity, technical depth, and usefulness."
 categories: technical-blogs
 img: /assets/posts/devops.png
 ---
 
-DevOps is a term that has become more and more popular in job postings and with those looking to break into the industry, especially over the past few years. However, one of the most challenging aspects of DevOps is understanding exactly what it is and how it's applied in the industry. Because it's a term that spans many different jobs and means something different to each organization, there has been a lot written about DevOps. 
+DevOps is a term that has become more and more popular in job postings and with those looking to break into the industry, especially over the past few years. However, one of the most challenging aspects of DevOps is understanding exactly what it is and how it's applied in the industry. I’ve rounded up some of the best devops blogs and resources to help you learn about the practice and keep up with changes as they come.
 
-I’ve rounded up some of the best blogs and resources to learn about DevOps and keep up with changes in the industry changes. I scored them based on writing quality, consistency, longevity, technical depth, and usefulness. Based on those criteria, here are 30 of the best DevOps blogs I could find.
+Because it's a term that spans many different jobs and means something different to each organization, there has been a lot written about DevOps. I scored these blogs based on writing quality, consistency, longevity, technical depth, and usefulness. Based on those criteria, here are 30 of the best DevOps blogs I could find.
 
 ### [Arrested DevOps](https://www.arresteddevops.com/)
 

@@ -3,6 +3,7 @@ layout: post
 title: 3 Steps For Coming Up With Technical Content Ideas
 author: karl
 date: 2020-07-06
+description: "Ideas won't come to you if you spend all your time writing and editing - you have to get out into the world: read, learn, and listen."
 categories: posts
 img: /assets/posts/ideas.jpg
 ---

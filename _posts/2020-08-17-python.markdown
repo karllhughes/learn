@@ -3,6 +3,7 @@ layout: post
 title: The Best Python Blogs
 author: matt
 date: 2020-08-17
+description: "We dug deep into dozens of blogs to create this comprehensive list of the 29 best Python blogs published today."
 categories: technical-blogs
 img: /assets/posts/python.png
 ---

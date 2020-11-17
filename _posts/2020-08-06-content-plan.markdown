@@ -3,6 +3,7 @@ layout: post
 title: How to Create a Technical Content Plan
 author: karl
 date: 2020-08-06
+description: "A content plan is a detailed outline of the content you want to produce for your blog. Having one will ensure your writers can execute on each piece you assign to them."
 categories: posts
 img: /assets/posts/content-roadmap.jpg
 ---

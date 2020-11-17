@@ -3,6 +3,7 @@ layout: post
 title: Landing Page Tools for Startups 
 author: karl
 date: 2020-10-24
+description: "No matter what you sell, you need a way to quickly tell visitors about it and hook them into trying it. That’s where a landing page comes in."
 categories: tools
 img: /assets/posts/landing-page-tools.jpg
 ---

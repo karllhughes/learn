@@ -3,6 +3,7 @@ layout: post
 title: How to Write a Technical Tutorial
 author: josh
 date: 2020-11-15
+description: "We write hundreds of technical tutorials every year, so in this post, we've collected some of our top tips for writing great software development tutorials."
 categories: posts
 img: /assets/posts/technical-tutorial.png
 ---

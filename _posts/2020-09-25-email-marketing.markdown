@@ -2,6 +2,7 @@
 layout: post
 title: Email Marketing Tools for Startups 
 author: karl
+description: "One of the most effective ways to encourage repeat visitors to your startup, to engage paying customers, and to improve conversion rates is to capture email signups."
 date: 2020-09-25
 categories: tools
 img: /assets/posts/email-tools.jpg

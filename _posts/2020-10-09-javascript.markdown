@@ -3,6 +3,7 @@ layout: post
 title: The Best JavaScript Blogs
 author: matt
 date: 2020-10-09
+description: "JavaScript is the most popular programming language in use today, and these are the best JavaScript blogs publishing top-tier content today."
 categories: technical-blogs
 img: /assets/posts/javascript.webp
 ---

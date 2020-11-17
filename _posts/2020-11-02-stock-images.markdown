@@ -3,6 +3,7 @@ layout: post
 title: Free Stock Images for Your Startup 
 author: karl
 date: 2020-11-02
+description: "As a startup, you probably don't have a huge budget for stock photography. That doesn't mean you can't find some great images for your blog though."
 categories: tools
 img: /assets/posts/stock-images.jpg
 ---
@@ -29,7 +30,7 @@ Unfortunately, stock images can be bland and expensive. In this post, I've colle
 
 **[Unsplash](https://unsplash.com/)** - My personal go-to for stock images because it's effortless to search and use. Attribution is also optional.
 
-**[Bannersnack](bannersnack.com)** - Great for customizing stock images to use for blog posts, social media ads, or other marketing materials.
+**[Bannersnack](https://bannersnack.com)** - Great for customizing stock images to use for blog posts, social media ads, or other marketing materials.
 
 **[Shutterography](https://shutterography.com/)** - Free stock photos for personal and commercial use. No attribution is required.
 

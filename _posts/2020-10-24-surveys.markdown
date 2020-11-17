@@ -3,6 +3,7 @@ layout: post
 title: Survey Tools for Startups 
 author: karl
 date: 2020-10-24
+description: "How do you find out what users think of your product? Here are some of the best survey tools available for startups today."
 categories: tools
 img: /assets/posts/survey-tools.jpg
 ---
