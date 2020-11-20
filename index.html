@@ -1,7 +1,29 @@
 ---
 layout: main
 ---
-{% include signup-home.html %}
+<h2 class="home-page-header">Browse Categories</h2>
+
+<section class="row categories">
+  <div class="category">
+    <a href="{{site.baseurl}}/posts/">
+      <h2>Content Management</h2>
+      <img src="{{site.baseurl}}/assets/img/idea.svg" alt="Content Management" />
+    </a>
+  </div>
+  <div class="category">
+    <a href="{{site.baseurl}}/tools/">
+      <h2>Marketing Tools</h2>
+      <img src="{{site.baseurl}}/assets/img/geometry.svg" alt="Startup Marketing Tools" />
+    </a>
+  </div>
+  <div class="category">
+    <a href="{{site.baseurl}}/technical-blogs/">
+      <h2>Technical Blogs</h2>
+      <img src="{{site.baseurl}}/assets/img/computer.svg" alt="Technical Blogs" />
+    </a>
+  </div>
+</section>
+
 <h2 class="home-page-header">Latest Posts</h2>
 {% for post in paginator.posts %}
 <article class="post">

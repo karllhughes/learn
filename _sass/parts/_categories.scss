@@ -1,0 +1,41 @@
+.categories {
+  .category {
+    flex-grow: 1;
+    width: 33%;
+    margin-top: 1rem;
+
+    a {
+      display: block;
+      text-decoration: none;
+      padding: 1rem 0;
+
+      img {
+        padding: 20px;
+        opacity: 0.6;
+        transition: opacity 1s ease-in-out;
+        -moz-transition: opacity 1s ease-in-out;
+        -webkit-transition: opacity 1s ease-in-out;
+      }
+
+      h2 {
+        font-size: 1rem;
+        line-height: 1.5rem;
+        margin-top: 0;
+        margin-bottom: 0;
+        text-align: center;
+      }
+    }
+
+    a:hover {
+      text-decoration: none;
+      background-color: $off-white;
+
+      img:hover {
+        opacity: 1.0;
+        transition: opacity .55s ease-in-out;
+        -moz-transition: opacity .55s ease-in-out;
+        -webkit-transition: opacity .55s ease-in-out;
+      }
+    }
+  }
+}
