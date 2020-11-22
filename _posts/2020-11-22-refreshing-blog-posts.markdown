@@ -5,7 +5,7 @@ author: karl
 date: 2020-11-22
 description: "We write hundreds of technical tutorials every year, so in this post, we've collected some of our top tips for writing great software development tutorials."
 categories: posts
-img: /assets/posts/technical-tutorial.png
+img: /assets/posts/refresh.png
 ---
 
 When I left my role as a [startup CTO to found Draft.dev](https://www.karllhughes.com/posts/cto-writer), I decided I would invest a little time improving [my personal blog](https://www.karllhughes.com/). I’ve been writing sporadically on the site for the past decade, but before 2020, I wasn’t consistent, and the topics varied widely. As I began writing full-time for clients and learning more about SEO, I decided it was time to make some updates to my personal blog as well.
