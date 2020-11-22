@@ -3,7 +3,7 @@ layout: post
 title: "Refreshing Old [Technical] Blog Posts"
 author: karl
 date: 2020-11-22
-description: "We write hundreds of technical tutorials every year, so in this post, we've collected some of our top tips for writing great software development tutorials."
+description: "Want 61.9% more traffic on your blog in just 5 months? Here's how refreshing some of my old blog posts led to a huge uptick in SEO."
 categories: posts
 img: /assets/posts/refresh.jpg
 ---
