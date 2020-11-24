@@ -35,6 +35,12 @@ authors:
     website: "https://www.linkedin.com/in/josh-alletto/"
     img: "/assets/authors/josh.jpg"
     bio: "Josh is a former educator turned developer with a proven ability to learn quickly and adapt to different roles. He's always looking for a new challenge and a dedicated team to collaborate with."
+  piero:
+    name: Piero Borrelli
+    twitter: borrellidev
+    website: "https://pieroborrellidev.medium.com/"
+    img: "/assets/authors/piero.jpg"
+    bio: " Software developer for the Wi-Fi industry. Burning keyboards with JavaScript code. Talking about the ups and downs of the developer’s life."
 
 # Tracker
 analytics: UA-19700764-23 # Google Analytics
