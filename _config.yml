@@ -4,6 +4,7 @@ description: >
 permalink: ':categories/:title'
 baseurl: "/learn"
 url: "https://draft.dev"
+twitter: draftdev
 default-img: default-img.jpg
 social-rss: /feed.xml
 authors:

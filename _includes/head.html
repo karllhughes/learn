@@ -26,7 +26,7 @@
     <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
   {% endif %}
   {% if page.img %}
-    <meta content="{{ page.img }}" property="og:image">
+    <meta content="{{ site.url }}{{ site.baseurl }}{{ page.img }}" property="og:image">
   {% else %}
     <meta content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.default-img }}" property="og:image">
   {% endif %}
@@ -41,8 +41,9 @@
     {% endfor %}
   {% endif %}
 
-    <meta name="twitter:card" content="summary">
+    <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:creator" content="@{{ page.author.twitter }}">
+    <meta name="twitter:site" content="@{{ site.twitter }}">
   {% if page.title %}
     <meta name="twitter:title" content="{{ page.title }}">
   {% else %}
@@ -59,9 +60,9 @@
   <meta name="twitter:description" content="{{ site.description }}">
   {% endif %}
   {% if page.img %}
-    <meta name="twitter:image:src" content="{{ page.img }}">
+    <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}{{ page.img }}">
   {% else %}
-    <meta name="twitter:image:src" content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.default-img }}">
+    <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.default-img }}?{{ page.id }}">
   {% endif %}
 
   {% if page.description %}
