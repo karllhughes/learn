@@ -5,7 +5,7 @@ author: karl
 date: 2020-07-19
 description: "The #1 mistake new writers and blog managers make is failing to share their work. It’s sad to think how much great content is out there that we’ll never see."
 categories: posts
-img: /assets/posts/promotion.jpg
+img: /assets/posts/promotion.png
 ---
 
 The #1 mistake new writers and blog managers make is failing to share their work.
