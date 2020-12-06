@@ -3,19 +3,6 @@
     margin: -5px -40px 20px;
     position: relative;
     text-align: center;
-
-    .page-image {
-      opacity: .4;
-    }
-
-    .centered {
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      width: 90%;
-      color: $darker-gray;
-    }
   }
 
   .post-title {
@@ -112,6 +99,7 @@
     h1.page-title {
       font-size: 2.828rem;
       line-height: 3rem;
+      margin-bottom: 1rem;
     }
   }
 }

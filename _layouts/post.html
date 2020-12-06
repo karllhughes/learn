@@ -6,14 +6,10 @@ layout: main
   <div class="post-content">
     {% if page.img %}
     <div class="page-cover-image">
-      <img class="page-image" src="{{site.baseurl}}{{page.img}}" alt="Background image for {{page.title}}" style="width:100%;">
-      <div class="centered">
-        <h1 class="page-title">{{page.title}}</h1>
-      </div>
+      <img src="{{site.baseurl}}{{page.img}}" alt="Lead image for {{page.title}}" style="width:100%;">
     </div>
-    {% else %}
-    <h1 class="page-title">{{page.title}}</h1>
     {% endif %}
+    <h1 class="page-title">{{page.title}}</h1>
 
     <p class="post-meta">
       {% if page.categories.size > 0 %}
