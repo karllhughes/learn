@@ -26,6 +26,15 @@ Yes, you should spend most of your time writing great content for your blog and 
 
 Unfortunately, stock images can be bland and expensive. In this post, I've collected some of my favorite sources of free stock imagery. These sites are great for startups that want to add high-quality images to their blog posts but don't have a huge budget to do so.
 
+## How I Create Unique Images for My Blog
+As an example of how you can use some of the tools below, I [created this video](https://www.youtube.com/watch?v=YDBWJ74Fqnc) showing how I create unique lead images for my blog. Unsplash and Bannersnack are free, so in just five minutes, you can make eye-catching, original images that make your blog posts stand out on social media!
+
+<div class='embed-container'>
+<iframe src='https://www.youtube.com/embed/YDBWJ74Fqnc' frameborder='0' allowfullscreen></iframe>
+</div>
+
+This workflow works for me, but Unsplash and Bannersnack aren't the only resources around.
+
 ## Free Stock Images for Your Startup's Blog
 
 **[Unsplash](https://unsplash.com/)** - My personal go-to for stock images because it's effortless to search and use. Attribution is also optional.
