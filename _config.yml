@@ -41,7 +41,13 @@ authors:
     twitter: borrellidev
     website: "https://pieroborrellidev.medium.com/"
     img: "/assets/authors/piero.jpg"
-    bio: " Software developer for the Wi-Fi industry. Burning keyboards with JavaScript code. Talking about the ups and downs of the developer’s life."
+    bio: "Software developer for the Wi-Fi industry. Burning keyboards with JavaScript code. Talking about the ups and downs of the developer’s life."
+  sebastian:
+    name: Sebastian Nilsson
+    twitter: sebnilsson
+    website: "https://sebnilsson.com/"
+    img: "/assets/authors/sebastian.jpg"
+    bio: "Professional problem-solver, developing great ideas into solutions with value. Focus on Open Source, .NET, JavaScript/TypeScript, Azure, Web, DevOps, Agile & Leadership."
 
 # Tracker
 analytics: UA-19700764-23 # Google Analytics
