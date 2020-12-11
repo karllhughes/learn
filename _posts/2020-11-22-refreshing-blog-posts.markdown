@@ -54,14 +54,14 @@ A few posts that got very little search traffic still performed well on social m
 
 By removing this irrelevant content, I’m showing Google that a higher proportion of my content is high-quality. This will lead to an overall increase in site reputation over time as Google registers the changes.
 
-### Merge Redundant or Similar Posts
+### 2. Merge Redundant or Similar Posts
 I had written four blog posts about my process for hiring software engineers. The first mentioned a specific job posting that had long since expired, the second told how I was revising my hiring process, and the third and fourth told the results of these revisions.
 
 While having multiple posts about similar topics isn’t bad, I felt like there wasn’t enough unique content in each post to justify having four of them. Plus, some of the information was out of date and no longer helpful.
 
 So, I took all four posts and merged them into the URL with the most backlinks and search traffic already (which happened to be the oldest one). [This new post](https://www.karllhughes.com/posts/hiring-process) is essentially a complete rewrite, although it uses pieces of each of the original posts. It’s much longer but broken into scannable sections so that readers can easily jump to the parts they need.
 
-### Update Existing Posts That Rank Well
+### 3. Update Existing Posts That Rank Well
 In 2015, I wrote a post about [how I spent my time as an engineering manager](https://www.karllhughes.com/posts/engineering-manager). After tracking my time every day for months, I gave readers detailed insight into a day in the life of an engineering manager.
 
 This post has done pretty well in search engines, ranking for a few terms that are very relevant to my blog’s audience. Unfortunately, even good blog posts tend to degrade over time, so by 2020, much of the luster had faded. I figured I would try to update the post to restore a bit of its former glory.
@@ -75,12 +75,12 @@ Here’s what I did to improve posts that already ranked pretty well but needed 
 
 Each post I update is more current, longer, and more likely to jump back up in the search rankings after the refresh.
 
-### Build Internal Links
+### 4. Build Internal Links
 Another series of posts that performed okay in search engines were all related to software testing. Unfortunately, none of the posts linked to each other. While internal links don’t count for as much as external links do, they [still help ensure Google knows which pieces of content might be related](https://moz.com/learn/seo/internal-link) and they encourage readers to visit more pages.
 
 I looked through all the posts on my site and added categories. Then I looked for opportunities to link relevant posts to each other. I doubt this will dramatically improve my search rankings alone, but it’s not a bad idea.
 
-### Update Post Dates and Re-Promote
+### 5. Update Post Dates and Re-Promote
 Finally, after I updated each post, I updated the published date and put it through my [technical blog post promotion checklist](https://draft.dev/learn/posts/promotion) again. I had promoted these posts once when they were first published, but that was years ago. After refreshing them, the content was different enough that promoting them again seemed like an easy win.
 
 In the case of my post on _A Day in the Life of an Engineering Manager_, sharing it led to an additional 728 visitors to a post that was originally posted five years ago!
