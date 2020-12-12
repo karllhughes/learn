@@ -4,32 +4,31 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Content Manager</title>
-  <!--<link href="/learn/admin/config.yml" type="text/yaml" rel="cms-config-url">-->
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 <body>
 <!-- Include the script that builds the page and powers Netlify CMS -->
 <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
 <script>
-  // var PostPreview = createClass({
-  //   // render: function() {
-  //   //   var entry = this.props.entry;
-  //   //   var image = entry.getIn(['data', 'image']);
-  //   //   var bg = this.props.getAsset(image);
-  //   //   var meta = 'Published in ' + entry.getIn(['data', 'category']) + '...';
-  //   //   return h('article', {"className": "post"},
-  //   //     h('div', {"className": "post-content"},
-  //   //       h('div', {"className": "page-cover-image"},
-  //   //         h('img', {src: bg.toString(), "style": {"width":"100%"}}),
-  //   //       ),
-  //   //       h('h1', {"className": "page-title"}, entry.getIn(['data', 'title'])),
-  //   //       h('p', {"className": "post-meta"}, meta),
-  //   //       h('div', {}, this.props.widgetFor('body')),
-  //   //     )
-  //   //   );
-  //   // }
-  // });
-  // CMS.registerPreviewTemplate("posts", PostPreview);
+  var PostPreview = createClass({
+    render: function() {
+      var entry = this.props.entry;
+      // var image = entry.getIn(['data', 'image']);
+      var bg = this.props.getAsset(image);
+      var meta = 'Published in ' + entry.getIn(['data', 'category']) + '...';
+      return h('article', {"className": "post"},
+        h('div', {"className": "post-content"},
+          h('div', {"className": "page-cover-image"},
+            // h('img', {src: bg.toString(), "style": {"width":"100%"}}),
+          ),
+          h('h1', {"className": "page-title"}, entry.getIn(['data', 'title'])),
+          h('p', {"className": "post-meta"}, meta),
+          h('div', {}, this.props.widgetFor('body')),
+        )
+      );
+    }
+  });
+  CMS.registerPreviewTemplate("posts", PostPreview);
   CMS.registerPreviewStyle("/assets/css/main.css");
   if (window.netlifyIdentity) {
     window.netlifyIdentity.on("init", user => {
