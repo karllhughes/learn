@@ -12,7 +12,7 @@
 <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
 <script>
   var PostPreview = createClass({
-    render: () => {
+    render: function() {
       var entry = this.props.entry;
       var image = entry.getIn(['data', 'image']);
       var bg = this.props.getAsset(image);
@@ -29,24 +29,6 @@
       );
     }
   });
-
-      <h1 className="page-title">test</h1>
-
-      <p className="post-meta">
-
-        Published in
-
-        <a href="/posts/">posts</a>
-
-        by
-
-        Karl Hughes&nbsp;&nbsp;&nbsp;—&nbsp;
-        1 minute read
-      </p>
-
-
-      <p>feafea</p>
-
 
   CMS.registerPreviewTemplate("posts", PostPreview);
   CMS.registerPreviewStyle("/assets/css/main.css");
