@@ -13,7 +13,7 @@
   var PostPreview = createClass({
     render: function() {
       var entry = this.props.entry;
-      var image = entry.getIn(['data', 'image']);
+      var image = entry.getIn(['data', 'img']);
       var bg = this.props.getAsset(image);
       var meta = 'Published in ' + entry.getIn(['data', 'categories']) + '...';
       return h('article', {"className": "post","style": {"margin":"10px"}},
