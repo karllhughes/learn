@@ -6,7 +6,7 @@ description: B2D marketing describes marketing initiatives designed to attract
   consumer, many marketers struggle with B2D marketing.
 categories: posts
 author: karl
-date: 2020-12-13T19:25:36.155Z
+date: 2020-12-12T19:31:38.463Z
 img: /assets/posts/b2d-marketing.png
 ---
 
