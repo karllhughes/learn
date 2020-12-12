@@ -6,7 +6,7 @@ description: Whether you're a new or long-time C# developer, there are a lot of
   consistency, and technical depth.
 categories: technical-blogs
 author: sebastian
-date: 2020-12-12T19:26:55.660Z
+date: 2020-12-20T19:26:55.660Z
 img: /assets/posts/c-sharp-blogs.png
 ---
 C# is a language loved by its users for being versatile, productive, and keeping up with the current problems programmers need to solve. For example, maintainers have added functional programming concepts to the primarily imperative C# language, adding the powerful query-functionality in LINQ, and smoother handling of asynchronous programming with the `async`/`await`-syntax.
