@@ -14,7 +14,7 @@
     render: function() {
       var entry = this.props.entry;
       // var image = entry.getIn(['data', 'image']);
-      var bg = this.props.getAsset(image);
+      // var bg = this.props.getAsset(image);
       var meta = 'Published in ' + entry.getIn(['data', 'category']) + '...';
       return h('article', {"className": "post"},
         h('div', {"className": "post-content"},
