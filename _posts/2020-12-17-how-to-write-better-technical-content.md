@@ -20,13 +20,13 @@ In this post, I’ll share my tips for technology professionals looking to write
 
 This is a long post, so if you’d like to hop around, here’s what I’ll cover:
 
-1. Don’t Expect to Be Very Good
-2. Be Consistent Anyway
-3. Writing is Organizing
-4. Write as You Speak
-5. Prove Your Point
-6. Invest in Interesting Ideas
-7. Tell People
+1. [Don’t Expect to Be Very Good](#1-dont-expect-to-be-very-good)
+2. [Be Consistent Anyway](#2-be-consistent-anyway)
+3. [Writing is Organizing](#3-writing-is-organizing)
+4. [Write as You Speak](#4-write-as-you-speak)
+5. [Prove Your Point](#5-prove-your-point)
+6. [Invest in Interesting Ideas](#6-invest-in-interesting-ideas)
+7. [Tell People](#7-tell-people)
 
 ## 1. Don’t Expect to Be Very Good
 
