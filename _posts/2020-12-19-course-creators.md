@@ -1,6 +1,6 @@
 ---
 layout: post
-title: course-creators
+title: Online Course Creation Tools
 description: If your product requires specialized knowledge or if you're trying
   to position yourself as a thought leader, creating an online course could be a
   great marketing strategy.
