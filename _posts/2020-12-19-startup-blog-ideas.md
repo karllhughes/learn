@@ -1,6 +1,6 @@
 ---
 layout: post
-title: startup-blog-ideas
+title: 50+ Ideas for Your Startup's Blog
 description: Coming up with ideas for your startup's blog can be mentally
   taxing. In this post, I'll share 52 creative ideas that you can use on your
   blog.
