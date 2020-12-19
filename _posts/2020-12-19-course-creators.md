@@ -29,5 +29,5 @@ A lot of course creators focus on the first four points and forget that **they u
 ## Online Course Creation Platforms
 This list is meant to provide a jumping-off point. I've tried to highlight many of the best course creation platforms available and give you a little bit of information about each one. Some are free and open-source, while others are paid and full of time-saving features.
 
-While you'll still have to do the hard work of creating your online course, having the right course creation platform can make distribution and management much easier.
+While you'll still have to do the hard work of creating your online course, having the right platform can make publishing, distributing, and administering your course much easier.
 
