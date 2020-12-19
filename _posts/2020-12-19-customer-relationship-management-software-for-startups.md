@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Customer Relationship Management Software for Startups
+title: Customer Relationship Management Software for Startups 2
 description: While early-stage startups may not need a dedicated CRM, you need
   to have a system to take sales seriously.
 categories: tools
