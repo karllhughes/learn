@@ -31,3 +31,40 @@ This list is meant to provide a jumping-off point. I've tried to highlight many 
 
 While you'll still have to do the hard work of creating your online course, having the right platform can make publishing, distributing, and administering your course much easier.
 
+- **[Thinkific](https://www.shareasale.com/r.cfm?b=775702&u=1653894&m=61624)** ($0) - Create, market, and sell courses online from your own website.
+
+- **[Teachable](https://teachable.com/)** ($33.25) - Teachable lets you create courses that you can charge users for.
+
+- **[Adapt Learning](https://www.adaptlearning.org/)** ($0) - This free LMS (or "learning management system") allows you to create video courses and distribute them on your own site using the open-source Adapt Framework.
+
+- **[Canvas](https://www.canvaslms.com/)** ($0) - Canvas has several products that you can use for courses. Canvas Cloud is free or the code is open source if you want to host it yourself.
+
+- **[Eliademy](https://eliademy.com/)** ($0) - With course creation tools, quizzes, and a class management system, Eliademy is a great free option.
+
+- **[Forma LMS](https://www.formalms.org/)** ($0) - While it's primarily for corporate training, Forma has free and open source options that can be adapted to just about any course creation needs.
+
+- **[Google Open Classroom](https://edu.google.com/openonline/edukit/index.html)** ($0) - Using Google Classroom, your students can sign up for your course with their Google account and have access to videos, assessments, and feedback.
+
+- **[Guides.co](http://guides.co/)** ($0) - Centered around building "guides" this course creation platform focuses on helpful, community-contributed posts.
+
+- **[ILIAS](https://www.ilias.de/docu/goto_docu_root_1.html)** ($0) - ILIAS is another open-source course management platform with millions of users in large and small businesses.
+
+- **[Lynda](https://www.lynda.com/aboutus/become-an-instructor)** ($0) - You will need to apply to be an instructor, but with Linkedin's backing, your reach on Lynda.com is likely to be significant.
+
+- **[Moodle](https://moodle.org/)** ($0) - Open source and used by many colleges, Moodle also offers recommended hosting options if you're not sure how to get started.
+
+- **[Opigno](https://www.opigno.org/en)** ($0) - A full-featured LMS built on the popular PHP framework, Drupal, Opigno can handle single courses and paid subscriptions.
+
+- **[Pluralsight](https://www.pluralsight.com/teach)** ($0) - Pluralsight also requires an application in exchange for a wider, built-in reach. It's especially popular with developers and technical topics.
+
+- **[Skillshare](https://www.skillshare.com/teach)** ($0) - Skillshare helps you create your course, distribute it, and make money with paid content.
+
+- **[Snapguide](https://snapguide.com/)** ($0) - Create step-by-step guides to showcase your knowledge and help others learn about topics you know.
+
+- **[Udemy](https://www.udemy.com/)** ($0) - Once your course is live, students will be able to discover and buy it, earning you money every time.
+
+- **[eHow](http://www.ehow.com/write-for-ehow/)** ($0) - While you must be accepted as a contributor, writing for eHow might be a good way to show others that you're a leader in your industry or niche.
+
+-----
+
+What other course creators have you tried? [Email me](mailto:karl@draft.dev) to share your suggestions.
