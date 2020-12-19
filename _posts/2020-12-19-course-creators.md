@@ -15,7 +15,16 @@ If your product requires specialized knowledge or if you're trying to position y
 <!-- signup -->
 
 ## How to Create an Online Course
-I worked in education technology for many years before I started [Draft.dev](https://draft.dev), so while I'm not an expert course creator, I have supported a number of others building online education solutions.
+I worked in education technology for many years before I started [Draft.dev](https://draft.dev), so while I'm not an expert course creator, I have supported a number of others in building online education solutions. I won't go into details in this post, but the abbreviated process typically goes something like this:
+
+1. Pick your topic.
+2. Outline the course and modules.
+3. Write the text content for your course (could be a script if you're doing videos)
+4. Record the content.
+5. Publish the content.
+6. Distribute the content.
+
+A lot of course creators focus on the first four points and forget that **they ultimately need a way to collect payments and distribute their courses too.**
 
 ## Online Course Creation Platforms
 This list is meant to provide a jumping-off point. I've tried to highlight many of the best course creation platforms available and give you a little bit of information about each one. Some are free and open-source, while others are paid and full of time-saving features.
