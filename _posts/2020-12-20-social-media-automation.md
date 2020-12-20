@@ -14,7 +14,7 @@ Social media can be a time-consuming and mentally tasking chore. Many small busi
 ## Why Use Social Media?
 Social media is a great way to drive traffic once you build a following, but for many small businesses, the question is, "how do you build a following?"
 
-Step one is to **consistently post relevant content on social media**. It may take months or years to build up a significant following, but once you do, social media can be as powerful as an [email marketing list](https://draft.dev/learn/tools/email-marketing) for driving traffic to your blog, website, or side project.
+Step one is to **consistently post relevant content on social media**. It may take months or years to build up a significant following, but once you do, social media can be as powerful as an [email marketing list](https://draft.dev/learn/tools/email-marketing) for driving traffic to your blog or website.
 
 Not only will your followers see updates, most social networks have an amplification formula where popular public posts will be shared to an even broader audience. The only way to eventually make something go viral is to make sure people hear about it, and social media is a great place to start.
 
@@ -58,7 +58,7 @@ By automating your social media efforts, you can queue up posts for the month ah
 
 **[SocialSprinters](https://socialsprinters.com/en/)** ($49) - Add professional applications to your Facebook Page and start collecting new leads, sales, or just entertain your customers in just a few minutes.
 
-**[Sprout Social](https://sproutsocial.com/)** ($99) - At $99/month, Sprout Social may be a bit pricey for most side projects, but it is one of the most powerful social media management and automation platforms available.
+**[Sprout Social](https://sproutsocial.com/)** ($99) - At $99/month, Sprout Social may be a bit pricey for some early-stage startups, but it is one of the most powerful social media management and automation platforms available.
 
 **[TweetDeck](https://tweetdeck.twitter.com/)** ($0) - Twitter bought Tweetdeck as a way to help users with multiple accounts stay organized. Tweetdeck is great if you want to keep a personal and business Twitter, but you can also use Tweetdeck to schedule updates.
 
