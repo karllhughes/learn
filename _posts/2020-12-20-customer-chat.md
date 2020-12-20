@@ -22,6 +22,8 @@ Many live chat widgets also allow you to proactively reach out to customers base
 
 The downside to live chat is that it gives customers the impression that you're available all the time. When you don't respond quickly, you might discourage potential buyers, so it's important to have someone monitoring your live chat widget frequently.
 
+<!-- signup -->
+
 ## Customer Chat Tools for Startups
 To help you get started, I compiled this comprehensive list of customer chat tools that are a good fit for early to mid-stage startups. Each of these tools gives you a workable low-cost plan and most of them will scale up to meet your needs as you grow.
 
