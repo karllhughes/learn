@@ -1,6 +1,6 @@
 ---
 layout: post
-title: customer-chat
+title: Live Customer Chat Tools for Startups
 description: If you want to engage your customers at the moment they're
   considering buying your product or signing up for your service, there's no
   better way than live chat.
