@@ -48,6 +48,11 @@ authors:
     website: "https://sebnilsson.com/"
     img: "/assets/authors/sebastian.jpg"
     bio: "Professional problem-solver, developing great ideas into solutions with value. Focus on Open Source, .NET, JavaScript/TypeScript, Azure, Web, DevOps, Agile & Leadership."
+  anastasia:
+      name: Anastasia Orlova
+      website: "https://www.linkedin.com/in/anastasiaorlova88/"
+      img: "/assets/authors/anastasia.jpg"
+      bio: "Full-stack web developer experienced in Ruby on Rails and JavaScript-based programming with a background in retail and social work. Transformed her passion for learning foreign languages and creative writing into programming languages and tech blogging."
 
 # Tracker
 analytics: UA-19700764-23 # Google Analytics
