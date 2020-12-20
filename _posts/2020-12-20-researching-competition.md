@@ -1,6 +1,6 @@
 ---
 layout: post
-title: researching-competition
+title: Tools for Finding and Researching Your Competition
 description: Want to know what your competitors are up to? Here are 20+ tools
   for keeping up with your startup's competition.
 categories: tools
@@ -8,9 +8,15 @@ author: karl
 date: 2020-12-20T02:04:42.330Z
 img: /assets/posts/competition.jpg
 ---
-You may think that your side project stands alone - that it's truly unique in the market - but that's rarely true. In fact, no competition might mean that your project just isn't necessary. If there's a market of people willing to buy your product, they're probably spending their money elsewhere today. Your job is to find out where.
+You may think that your startup stands alone - that it's truly unique in the market - but that's rarely true. In fact, having no competition might mean that your startup just isn't necessary. If there's a market of people willing to buy your product, they're probably spending their money elsewhere today. Your job is to find out where.
 
-Getting a lay of the competitive landscape can help you in many ways. Not only will you be prepared to compete better against established players, you'll learn how your rivals market their products, who their customers are, and how successful they've been. Researching your competition can also help you discover new niches for your side project that may be underserved, and if your project starts to gain traction, your competitors may end up being partners or even purchasers of your product.
+<!-- signup -->
+
+## Why Research Your Competition?
+
+Getting a lay of the competitive landscape can help you in many ways. Not only will you be prepared to compete better against established players, but you'll also learn how your rivals market their products, who their customers are, and how successful they've been.
+
+Researching your competition can also help you discover new niches that may be underserved, and if your startup starts to gain traction, your competitors may end up being partners or even acquisition targets.
 
 That said, where do you start on this path to knowing your competition? What tools can you use to find and learn about your competitors? That's where this list can help you.
 
