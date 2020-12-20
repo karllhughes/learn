@@ -22,6 +22,8 @@ Social media also helps you [rank higher in search engines](https://www.searchen
 
 All that said, you don't want your social media channels to be boring, spammy, or annoying. You want them filled with regularly published, interesting, relevant, and fresh content. This is where social media automation tools can help.
 
+<!-- signup -->
+
 ### Social Media Automation Tools
 
 By automating your social media efforts, you can queue up posts for the month ahead, get suggestions for new stories to post, or keep an eye on what your fans or followers are saying. The tools below help with one or all of those things, so if you're getting started on social media, I highly recommend making your life easier by automating parts of it.
