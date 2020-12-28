@@ -1,6 +1,6 @@
 ---
 layout: post
-title: saas-bloggers
+title: Best SaaS Bloggers
 description: As software-as-a-service (SaaS) businesses rise, the number of
   dedicated bloggers out there rises as well. Here are 30 of our favorite SaaS
   bloggers writing today.
