@@ -5,7 +5,7 @@ description: A great engineering blog is both entertaining and educational. In
   this list, we've captured 30 of our favorite engineering blogs
 categories: technical-blogs
 author: anastasia
-date: 2020-12-20T01:06:08.901Z
+date: 2020-12-28T18:00:24.211Z
 img: /assets/posts/engineering-12.png
 ---
 The world of tech and software development evolves fast, with new frameworks and libraries advancing all the time. It’s important to stay tuned in, or you could be left behind. To make that less of a challenge, I’ve handpicked thirty engineering blogs that you should follow or at least bookmark for future reference.
