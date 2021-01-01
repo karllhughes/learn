@@ -6,7 +6,7 @@ description: As software-as-a-service (SaaS) businesses rise, the number of
   bloggers writing today.
 categories: technical-blogs
 author: amisha
-date: 2020-12-28T17:50:11.756Z
+date: 2021-01-01T18:20:08.931Z
 img: /assets/posts/robot-13.png
 ---
 In the last decade or so, SaaS companies have shown an [enormous amount of potential](https://www.bmc.com/blogs/saas-growth-trends/) and therefore, the number of individuals writing about SaaS marketing, sales, and operational tactics has increased exponentially.
