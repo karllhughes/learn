@@ -6,7 +6,7 @@ description: Coming up with ideas for your startup's blog can be mentally
   blog.
 categories: posts
 author: karl
-date: 2020-12-19T18:06:50.355Z
+date: 2021-01-03T17:23:38.564Z
 img: /assets/posts/startup-blog-ideas.jpg
 ---
 Coming up with ideas for your startup's blog can be mentally taxing. While an [SEO audit](https://ahrefs.com/blog/seo-audit/) can help you find opportunities in Google results, it can leave your blog topics feeling a little bit flat.
