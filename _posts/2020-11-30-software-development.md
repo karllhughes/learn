@@ -1,11 +1,13 @@
 ---
 layout: post
 title: The Best Software Development Blogs
+description: If you're looking for resources to help you advance your career as
+  a software developer, you've come to the right place. In this guide, we've
+  highlighted the 30 best software development blogs.
+categories: technical-blogs
 author: piero
 date: 2020-11-30
-description: "If you're looking for resources to help you advance your career as a software developer, you've come to the right place. In this guide, we've highlighted the 30 best software development blogs."
-categories: technical-blogs
-img: /assets/posts/software-development.png
+img: /assets/posts/programmer.png
 ---
 
 Practicing a few key disciplines goes a long way toward building a successful career as a developer. Staying up to date with the latest coding trends is definitely one of them. And that’s where software development blogs and communities come in handy.
