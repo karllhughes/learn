@@ -1,11 +1,12 @@
 ---
 layout: post
 title: The Best JavaScript Blogs
+description: JavaScript is the most popular programming language in use today,
+  and these are the best JavaScript blogs publishing top-tier content today.
+categories: technical-blogs
 author: matt
 date: 2020-10-09
-description: "JavaScript is the most popular programming language in use today, and these are the best JavaScript blogs publishing top-tier content today."
-categories: technical-blogs
-img: /assets/posts/javascript.webp
+img: /assets/posts/octocat.jpg
 ---
 
 JavaScript is used by [almost every website on the internet](https://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites), so I embarked on a quest to find the best active JavaScript blogs. Each of these sites demonstrates technical expertise, is relatively easy to comprehend, publishes content consistently, and has stood the test of time.
