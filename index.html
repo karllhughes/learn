@@ -1,36 +1,38 @@
 ---
 layout: main
 ---
-<h2 class="home-page-header">Browse Categories</h2>
-
-<section class="row categories">
-  <div class="category">
-    <a href="{{site.baseurl}}/writing/">
-      <h2>Writing Guides</h2>
-      <img src="{{site.baseurl}}/assets/img/idea.svg" alt="Writing Guides" />
-    </a>
-  </div>
-  <div class="category">
-    <a href="{{site.baseurl}}/tools/">
-      <h2>Marketing Tools</h2>
-      <img src="{{site.baseurl}}/assets/img/geometry.svg" alt="Startup Marketing Tools" />
-    </a>
-  </div>
-  <div class="category">
-    <a href="{{site.baseurl}}/technical-blogs/">
-      <h2>Technical Blogs</h2>
-      <img src="{{site.baseurl}}/assets/img/computer.svg" alt="Technical Blogs" />
-    </a>
-  </div>
-</section>
-
-<h2 class="home-page-header">Latest Posts</h2>
-{% for post in paginator.posts %}
-<article class="post">
+<h2 class="home-page-header">Latest Post</h2>
+{% assign post = paginator.posts.first %}
+<article class="post" style="align-items: center">
   <div class="post-content">
+    <h3 class="post-title" style="font-size: 2rem;"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h3>
+    <div style="margin: 1rem 0 0;">
+      <a href="{{post.url | prepend: site.baseurl}}">
+        <img src="{{site.baseurl}}{{post.img}}" alt="{{post.title}}" style="width:100%;">
+      </a>
+    </div>
+    <p class="post-meta">
+      By {{site.authors[post.author].name}}
+      on {{post.date | date: '%b %d, %Y'}}&nbsp;&nbsp;&nbsp;—&nbsp;
+      {% capture words %}{{ post.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}
+    </p>
+    <p class="post-summary">
+      {{ post.content | strip_html | truncatewords: 30 }}<a style="text-decoration: none;" href="{{post.url | prepend: site.baseurl}}">read more</a>.
+    </p>
+  </div>
+</article>
+
+<h2 class="home-page-header">More Posts</h2>
+{% for post in paginator.posts offset:1 %}
+<article class="post row" style="align-items: center">
+  <div class="column column-image">
+    <a href="{{post.url | prepend: site.baseurl}}">
+      <img src="{{site.baseurl}}{{post.img}}" alt="{{post.title}}" style="width:100%;">
+    </a>
+  </div>
+  <div class="post-content column">
     <h3 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h3>
-    <p class="post-meta">By {{site.authors[post.author].name}}</p>
-    <p class="post-summary">{{ post.content | strip_html | truncatewords: 30 }}</p>
+    <p class="post-summary">{{ post.content | strip_html | truncatewords: 15 }}<a style="text-decoration: none;" href="{{post.url | prepend: site.baseurl}}">read more</a>.</p>
   </div>
 </article>
 {% endfor %}
