@@ -144,6 +144,35 @@ h2.home-page-header {
   width:100%;
   position:absolute;
 }
+.page-cover-image {
+  margin: -5px -40px 20px;
+  position: relative;
+  text-align: center;
+}
+
+.category-cta {
+  margin: 2rem auto;
+}
+
+.center {
+  text-align: center;
+}
+
+.button-container {
+  margin-top: 1.2rem;
+  margin-bottom: .7rem;
+  a.button {
+    padding: 15px 30px;
+    background-color: $dark-green;
+    color: $white;
+    border-radius: 0.25rem;
+    text-decoration: none;
+  }
+  a.button:hover {
+    text-decoration: none;
+    background-color: $dark-green-hover;
+  }
+}
 
 footer {
   margin-top: 1rem;

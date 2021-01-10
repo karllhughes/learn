@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 30 Best Engineering Blogs
+title: The Best Engineering Blogs
 description: A great engineering blog is both entertaining and educational. In
-  this list, we've captured 30 of our favorite engineering blogs
+  this list, we've captured 30 of our favorite engineering blogs.
 categories: technical-blogs
 author: anastasia
 date: 2020-12-28T18:00:24.211Z
