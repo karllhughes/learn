@@ -59,6 +59,12 @@ authors:
     website: "https://asrwritings.com/"
     img: "/assets/authors/amisha.jpg"
     bio: "Amisha has been freelancing for over three years and has worked with clients from all over the world. Working with people with diverse backgrounds has made her understand the importance of diversity in today’s digital world."
+  zara:
+    name: Zara Cooper
+    website: "https://zaracooper.github.io/"
+    twitter: Zara__Cooper
+    img: "/assets/authors/zara.jpg"
+    bio: "Zara Cooper is a software developer who enjoys sharing what she learns with others. She mostly works with Angular, React, Go, and Ruby. Her interests include open source, system design, and technical writing. When she’s got time to spare, she enjoys reading a good book over a cup of hot cocoa."
 
 # Tracker
 analytics: UA-19700764-23 # Google Analytics
