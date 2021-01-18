@@ -11,6 +11,8 @@ img: /assets/posts/startup-blog.jpg
 ---
 There are many good reasons to start a blog for your startup: to update your customers, to generate content that ranks in search engines, or to establish your founders as subject matter experts. After you [come up with some ideas](https://draft.dev/learn/posts/ideas), [understand why you're writing](https://draft.dev/learn/posts/three-questions), and [create a content plan](https://draft.dev/learn/posts/content-plan), you need to decide on a blogging platform.
 
+<!-- signup -->
+
 ## How to Pick a Blogging Platform
 There are a few key factors that will influence your choice of a blogging platform. While I could devote an article to each of these, I'll save that for another day, and just leave you with a brief summary.
 
