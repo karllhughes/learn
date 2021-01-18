@@ -6,7 +6,7 @@ description: If you're looking for the best options to start your startup's
   best options for running your startup's blog.
 categories: tools
 author: karl
-date: 2020-12-19T18:59:06.456Z
+date: 2021-01-18T14:36:07.019Z
 img: /assets/posts/startup-blog.jpg
 ---
 There are many good reasons to start a blog for your startup: to update your customers, to generate content that ranks in search engines, or to establish your founders as subject matter experts. After you [come up with some ideas](https://draft.dev/learn/posts/ideas), [understand why you're writing](https://draft.dev/learn/posts/three-questions), and [create a content plan](https://draft.dev/learn/posts/content-plan), you need to decide on a blogging platform.
