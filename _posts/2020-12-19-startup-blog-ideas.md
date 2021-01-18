@@ -13,6 +13,10 @@ Coming up with ideas for your startup's blog can be mentally taxing. While an [S
 
 One strategy is to publish a mix of SEO-driven content with more creative, shareable posts that help you build organic backlinks and social proof. If you want to make sure you [always have some ideas in the hopper](https://draft.dev/learn/posts/ideas), you need to put a healthy backlog of creative blog post ideas into [your publishing calendar](https://draft.dev/learn/posts/publishing-calendar)
 
+<div class='embed-container'>
+<iframe src='https://www.youtube.com/embed/J4jne2j8ivM' frameborder='0' allowfullscreen></iframe>
+</div>
+
 <!-- signup -->
 
 Over the past decade, I’ve written a lot of blog posts and I’ve seen many of these ideas work for myself or clients. While not every idea in this list is going to be a good fit for your startup, these might help spark your creativity.
