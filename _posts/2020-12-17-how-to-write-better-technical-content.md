@@ -7,7 +7,7 @@ description: If you're a subject matter expert who wants to start creating
 categories: writing-guides
 author: karl
 date: 2020-12-17T17:46:38.774Z
-img: /assets/posts/swu3kox.jpg
+img: /assets/posts/img_0990.png
 ---
 
 I recently spoke to the CTO Craft community about [building a software engineering team blog](https://www.youtube.com/watch?v=lez5V41rwTs). Towards the end, we got into some specific writing tips for software engineers who struggle to create strong technical content.
