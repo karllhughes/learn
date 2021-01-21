@@ -65,6 +65,12 @@ authors:
     twitter: Zara__Cooper
     img: "/assets/authors/zara.jpg"
     bio: "Zara Cooper is a software developer who enjoys sharing what she learns with others. She mostly works with Angular, React, Go, and Ruby. Her interests include open source, system design, and technical writing. When she’s got time to spare, she enjoys reading a good book over a cup of hot cocoa."
+  ashutosh:
+    name: Ashutosh K Singh
+    website: "https://github.com/lelouchB"
+    twitter: noharashutosh
+    img: "/assets/authors/ashutosh.jpg"
+    bio: "Ashutosh is a JavaScript developer and a technical writer. He writes about the fundamentals of JavaScript, Node.js, React, and tutorials on building projects in JavaScript and React."
 
 # Tracker
 analytics: UA-19700764-23 # Google Analytics
