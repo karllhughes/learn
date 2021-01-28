@@ -6,7 +6,7 @@ description: If you're a subject matter expert who wants to start creating
   improve as a writer.
 categories: writing-guides
 author: karl
-date: 2020-12-17T17:46:38.774Z
+date: 2021-01-28T13:57:21.293Z
 img: /assets/posts/img_0990.png
 ---
 
