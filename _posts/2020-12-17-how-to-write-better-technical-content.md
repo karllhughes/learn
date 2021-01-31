@@ -4,7 +4,7 @@ title: How to Write Better Technical Content
 description: If you're a subject matter expert who wants to start creating
   in-depth technical content, this guide will give you the steps you can take to
   improve as a writer.
-categories: writing-guides
+categories: writing
 author: karl
 date: 2021-01-28T13:57:21.293Z
 img: /assets/posts/img_0990.png
