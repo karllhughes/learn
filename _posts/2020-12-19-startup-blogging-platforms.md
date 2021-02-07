@@ -4,7 +4,7 @@ title: Blogging Platforms for Your Startup
 description: If you're looking for the best options to start your startup's
   content marketing efforts, look no further. In this post, we highlight the
   best options for running your startup's blog.
-categories: tools
+categories: platforms
 author: karl
 date: 2021-01-18T14:36:07.019Z
 img: /assets/posts/startup-blog.jpg

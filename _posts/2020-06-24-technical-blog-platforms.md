@@ -4,7 +4,7 @@ title: The Best Platforms for Your Technical Blog
 author: alyssa
 date: 2020-06-24
 description: Which blogging platform is right for your technical blog? In this post, we compare some of the best options.
-categories: posts
+categories: platforms
 img: /assets/posts/blogging-platforms.jpg
 ---
 
