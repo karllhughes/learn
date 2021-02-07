@@ -12,6 +12,8 @@ What is a technical roundup? Some people call them listicles, since that’s the
 
 We write a lot of useful roundups for our clients at [Draft.dev](https://draft.dev/), so in this guide, I’ll provide some insight as to why technical roundups are valuable and how to write one that’s solid.
 
+<!-- signup -->
+
 ## Why Write a Technical Roundup?
 
 Of course, popularity and simplicity aren’t the only reasons why people create roundups. Let’s talk about the more practical and business-related reasons you might want to create a technical listicle.
