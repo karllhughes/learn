@@ -5,7 +5,7 @@ description: What is a Hugo Theme and why might you want one? We answer that
   here, and give a step-by-step to create your own.
 categories: platforms
 author: siddhant
-date: 2021-02-08T16:55:08.158Z
+date: 2021-02-08T18:19:06.799Z
 img: /assets/posts/nsant7blac-2funtitled_artwork-204.png
 ---
 Lately, developers are adopting static site generators like [Hugo](https://gohugo.io/) to quickly deliver content to their audience. Frameworks like these cut down on issues that pop up with scalability, version control, managing dependencies, and performance.
