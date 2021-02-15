@@ -4,7 +4,7 @@ title: Lost in the Content Marketing Forest
 description: How to create a content marketing strategy that scales as your business grows
 categories: posts
 author: karl
-date: 2021-02-15T10:39:08.365Z
+date: 2021-02-15T11:11:02.151Z
 img: /assets/posts/forest-trees-1-.png
 ---
 While most of our clients are larger now, I worked directly with a lot of founders at early-stage startups in my first few months at [Draft.dev](http://draft.dev/). I like working with founders; they are passionate, enthusiastic, and typically quick learners. On the flip side, they can be tough to please. Because they care about every detail and know their product better than anyone, [some of them can be very hard to work with](https://www.karllhughes.com/posts/working-at-startup).
