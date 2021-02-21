@@ -103,6 +103,19 @@ Bad:
 
 > While I'm guessing Postgres can handle a lot of columns, it might not be a good idea to use more than a hundred if you can help it.
 
+#### Plagiarism and Copyright Infringement
+Written content that is copied directly from another source must be quoted and cited appropriately. Switching out a few words in a sentence is not enough to make the content original, so be sure to put everything in your own words.
+
+Bad:
+
+> I've always thought that measuring programming progress by lines of code is akin to measuring aircraft building progress by measuring weight.
+
+Good:
+
+> “Measuring programming progress by lines of code is like measuring aircraft building progress by weight.” - Bill Gates
+
+The bar for using images is even higher. You may not use images from another website unless they expressly allow it. If you need stock images, use a site like [Unsplash](https://unsplash.com/) or [one of the options here](https://draft.dev/learn/tools/stock-images).
+
 #### The Conclusion
 Every article should include a 1-2 paragraph conclusion. This should restate the thesis of the article and remind readers what they learned. It may also include other resources readers can reference to learn more.
 
