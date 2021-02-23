@@ -5,8 +5,8 @@ description: Learn how to create your own Gatsby Starter for a blog and why it
   can be a better option than using a ready-made starter
 categories: platforms
 author: ashutosh
-date: 2021-02-22T13:31:32.601Z
-img: https://i.imgur.com/m3BIg2Y.png
+date: 2021-02-23T11:16:13.255Z
+img: /assets/posts/jvijan5.png
 ---
 # Creating Gatsby Starters
 
