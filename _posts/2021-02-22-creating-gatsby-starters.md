@@ -6,7 +6,7 @@ description: Learn how to create your own Gatsby Starter for a blog and why it
 categories: platforms
 author: ashutosh
 date: 2021-02-23T11:16:13.255Z
-img: /assets/posts/jvijan5.png
+img: /assets/posts/gatsby-starters.png
 ---
 [GatsbyJS](https://www.gatsbyjs.com/) is an open-source [React](https://reactjs.org/)-based, [GraphQL](https://graphql.org/) powered static site generator. You can create blazingly fast websites in minutes using Gatsby, and many [technical companies use it for their blogs](https://draft.dev/learn/posts/blogging-platforms).
 
