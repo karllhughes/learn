@@ -96,7 +96,7 @@ One of the easiest ways to create content around your business is to highlight w
 Not only does this showcase your knowledge, it helps your site come up in search results, as newcomers to your field are likely searching for these terms pretty often. While this kind of content is best for “top of funnel” traffic, it’s easy to create if you know your field well.
 
 ### Idea 12: Publish the Results of a Survey
-**Example:** The State of Developer Ecosystem survey by JetBrains](https://www.jetbrains.com/lp/devecosystem-2020/)
+**Example:** [The State of Developer Ecosystem survey by JetBrains](https://www.jetbrains.com/lp/devecosystem-2020/)
 
 If you have access to a significant portion of your target market (say through an email list, social followers, or partnerships), you can survey them. Turn this data into a blog post or downloadable resource that others watching your industry can use.
 
