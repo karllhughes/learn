@@ -33,12 +33,12 @@ This is where it gets a little fuzzy, and I'll admit, sometimes challenging. Our
 
 So here's what we look at:
 
-a. **Proven knowledge of the topic** - We look at each writer's past work with us, their writing samples, and their work experience on Linkedin or GitHub to see if they have the technical skills needed for this article.
-b. **Proven ability for this type of writing** - Writing a [tutorial](https://draft.dev/learn/writing/technical-tutorials) is _very different_ from writing a good [technical roundup](https://draft.dev/learn/writing/a-guide-to-writing-technical-roundups), and that's very different from a high-level guide.
-c. **The writer's current work queue** - We rarely give writers more than one assignment at a time because we don't want to overwhelm them. Most articles require some revisions, so we don't want writers to overcommit and be unable to handle revision requests promptly.
-d. **Is this a new writer?** - We only accept a few applicants every month, but we try to give new writers a chance to prove themselves within their first few weeks. At the same time, we don't want to give them an assignment that is out of their depth, so we may reserve some "easier" pieces for new applicants.
-e. **When was their last article?** - As I mentioned above, we try to spread the work around, so if a writer hasn't gotten an article in a month or two, we might give them a slight priority over a writer who's just had a couple of pieces recently. This helps everyone get a fair shot and helps us maintain a diverse writer pool.
-f. **Speed to respond** - Finally, if a writer takes 3 or 4 days to respond to our weekly email, it's likely many of the pieces will already have been matched off.
+1. **Proven knowledge of the topic** - We look at each writer's past work with us, their writing samples, and their work experience on Linkedin or GitHub to see if they have the technical skills needed for this article.
+2. **Proven ability for this type of writing** - Writing a [tutorial](https://draft.dev/learn/writing/technical-tutorials) is _very different_ from writing a good [technical roundup](https://draft.dev/learn/writing/a-guide-to-writing-technical-roundups), and that's very different from a high-level guide.
+3. **The writer's current work queue** - We rarely give writers more than one assignment at a time because we don't want to overwhelm them. Most articles require some revisions, so we don't want writers to overcommit and be unable to handle revision requests promptly.
+4. **Is this a new writer?** - We only accept a few applicants every month, but we try to give new writers a chance to prove themselves within their first few weeks. At the same time, we don't want to give them an assignment that is out of their depth, so we may reserve some "easier" pieces for new applicants.
+5. **When was their last article?** - As I mentioned above, we try to spread the work around, so if a writer hasn't gotten an article in a month or two, we might give them a slight priority over a writer who's just had a couple of pieces recently. This helps everyone get a fair shot and helps us maintain a diverse writer pool.
+6. **Speed to respond** - Finally, if a writer takes 3 or 4 days to respond to our weekly email, it's likely many of the pieces will already have been matched off.
 
 ### 4. Handling Unmatched Assignments
 If, at the end of the matching process, we couldn't find an interested writer for a particular article, we have a couple of options.
