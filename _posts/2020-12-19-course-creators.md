@@ -6,7 +6,7 @@ description: If your product requires specialized knowledge or if you're trying
   great marketing strategy.
 categories: tools
 author: karl
-date: 2020-12-19T18:15:38.059Z
+date: 2021-03-29T10:44:18.221Z
 img: /assets/posts/zyzhj4u.jpg
 ---
 
