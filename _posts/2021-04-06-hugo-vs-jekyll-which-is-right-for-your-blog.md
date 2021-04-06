@@ -72,7 +72,7 @@ Both languages offer options for easy hosting, but Jekyll is the simplest. Jekyl
 Hugo also offers many hosting options. For both generators, you have two fundamental options:
 
 1. You can run the site generator locally, then upload the results to a server. You can do this manually or instruct some service to grab your updated HTML.
-2. You can install the static site generator on a computer in the cloud, tell that computer to run the content generation command, then serve the files that process creates. This is how services like [Amazon Amplify[(https://aws.amazon.com/amplify/hosting/), [CloudCannon](https://cloudcannon.com/), and [Netlify](https://www.netlify.com/) all work. These providers all have specific guides for deploying sites, but the deployment process is pretty painless when using either static site generator.
+2. You can install the static site generator on a computer in the cloud, tell that computer to run the content generation command, then serve the files that process creates. This is how services like [Amazon Amplify](https://aws.amazon.com/amplify/hosting/), [CloudCannon](https://cloudcannon.com/), and [Netlify](https://www.netlify.com/) all work. These providers all have specific guides for deploying sites, but the deployment process is pretty painless when using either static site generator.
 
 ## What to Choose
 
