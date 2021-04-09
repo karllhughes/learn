@@ -5,7 +5,7 @@ description: "Write for a B2B audience the right way. Discover the best approach
   for creating newsletters, blogs, press releases, and emails "
 categories: writing
 author: chris
-date: 2021-04-09T08:12:07.554Z
+date: 2021-04-12T00:10:07.554Z
 img: /assets/posts/ktvipne.jpg
 ---
 [Business-to-business (B2B)](https://en.wikipedia.org/wiki/Business-to-business) writing is exactly what it says on the tin. It’s written communication from one business to another, often illustrating how your business can help the other. Have a tool or service or product that you’ve built to make another company’s workflow easier, say a hosting platform or a CI/CD SaaS? You need to communicate the benefits of it with B2B writing.
