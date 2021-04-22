@@ -87,6 +87,12 @@ authors:
     website: "https://www.linkedin.com/in/jgramila/"
     img: "/assets/authors/john.jpg"
     bio: "John Gramila is a coder and writer living in Chicago, and one of Draft.dev's first authors."
+  sodeeq:
+    name: Sodeeq Elusoji
+    twitter: sdktalks
+    website: "https://github.com/sdkcodes"
+    img: "/assets/authors/sodeeq.jpg"
+    bio: "Sodeeq Elusoji is a full-stack software developer, building web applications and writing technical content."
 
 # Tracker
 analytics: UA-19700764-23 # Google Analytics
