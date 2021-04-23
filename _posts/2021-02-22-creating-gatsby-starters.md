@@ -8,6 +8,7 @@ author: ashutosh
 date: 2021-02-23T11:16:13.255Z
 img: /assets/posts/gatsby-starters.png
 ---
+
 [GatsbyJS](https://www.gatsbyjs.com/) is an open-source [React](https://reactjs.org/)-based, [GraphQL](https://graphql.org/) powered static site generator. You can create blazingly fast websites in minutes using Gatsby, and many [technical companies use it for their blogs](https://draft.dev/learn/posts/blogging-platforms).
 
 [Gatsby Starters](https://www.gatsbyjs.com/docs/starters/) are boilerplates that you, as a developer, can use to set up a new site with preconfigured tools and plugins instantly. You can modify and build on top of the starters to speed up your development process.
@@ -48,6 +49,7 @@ Before we get started, you should have:
 
 ## Setting Up Gatsby
 
+{% raw %}
 In this tutorial, you will use the Gatsby CLI tool to generate a Gatsby-powered site with minimal configurations quickly.
 
 Run the following command in your terminal to create a Gatsby site with minimal configuration using [Gatsby Hello World Starter](https://github.com/gatsbyjs/gatsby-starter-hello-world).
@@ -1766,6 +1768,7 @@ Stop your development server and update the `gatsby-config.js` file to include t
   },
 },
 ```
+{% endraw %}
 
 There are two GraphQL queries in the above code: one for the site metadata and the other for all the posts. Like `gatsby-plugin-sitemap`, you will need to create a production build to see this plugin in action.
 

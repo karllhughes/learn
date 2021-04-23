@@ -132,7 +132,7 @@ _Note: I’ve been collecting [lists of marketing tools here](https://draft.dev/
 
 ### Idea 17: Start a Newsletter
 
-**Example:** The Draft.dev [newsletter for technical marketers](https://draft.dev/#playbook)
+**Example:** The Draft.dev [newsletter for technical marketers](https://draft.dev/newsletter)
 
 Cost is no longer the barrier to starting a newsletter. Cheap and free platforms like [Mailchimp](https://mailchimp.com/), [Substack](https://substack.com/), and [Revue](https://www.getrevue.co/) are all designed to make it really simple to start a newsletter. If you really don’t have time to write much, just share a few links to articles relevant to your customers and put a signup form on your website and social media handles.
 
