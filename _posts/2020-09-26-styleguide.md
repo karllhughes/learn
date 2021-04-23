@@ -271,4 +271,4 @@ Authors that fail to respond to emails about open assignments will not be eligib
 ## Final Notes
 Creating high-quality technical content requires consistency and clear expectations. While having a style guide may not be necessary during your blog's early days, it's an invaluable asset as you grow.
 
-Now that you've seen our style guide, I'd love to hear from you. If you have questions about an article you're writing, email [karl@draft.dev](mailto:karl@draft.dev) for help. If you'd like to talk about creating content for your blog, you can [schedule a call with me here](https://draft.dev/#call).
+Now that you've seen our style guide, I'd love to hear from you. If you have questions about an article you're writing, email [karl@draft.dev](mailto:karl@draft.dev) for help. If you'd like to talk about creating content for your blog, you can [schedule a call with me here](https://draft.dev/call).

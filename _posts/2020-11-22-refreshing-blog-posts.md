@@ -104,4 +104,4 @@ This increase in search traffic isn’t just limited to one post. Organic search
 
 Six months is not enough time to see the full effect of an update like this that’s still ongoing, but it does seem to suggest that refreshing old blog posts will work. I’ll report back on this as I continue to refresh my blog’s old content over 2021, so hopefully, we’ll have a more complete picture then.
 
-If you'd like any help creating or refreshing content for your blog, [book a call with me](https://draft.dev/#call). I'd love to help you out or just walk through the process with you.
+If you'd like any help creating or refreshing content for your blog, [book a call with me](https://draft.dev/call). I'd love to help you out or just walk through the process with you.

@@ -192,5 +192,5 @@ Don’t just create content for your site and social channels. Spread the love b
 Finally, don’t be afraid to share content—even the old stuff. I have a huge backlog of old content that I’m constantly refreshing and recycling across my social channels. Most people won’t catch every blog post the first time, so re-promote them every few months to get the most out of each piece.
 
 ## Need Technical Content?
-If you’ve gone through the ideas on this list and you’re ready to invest in high-quality technical content for your business, [let me know](https://draft.dev/#call). I’d be happy to help.
+If you’ve gone through the ideas on this list and you’re ready to invest in high-quality technical content for your business, [let me know](https://draft.dev/call). I’d be happy to help.
 

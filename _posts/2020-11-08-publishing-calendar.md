@@ -88,4 +88,4 @@ In addition to the [Airtable](https://airtable.com/invite/r/4EaSmQNr) template h
 
 -----
 
-If you’re struggling to keep up with all the content you have planned, or you need help building a robust publishing calendar, shoot me an email at [karl@draft.dev](mailto:karl@draft.dev). If you'd like to talk about how we can create content for your blog, you can [schedule a call with me here](https://draft.dev/#call).
+If you’re struggling to keep up with all the content you have planned, or you need help building a robust publishing calendar, shoot me an email at [karl@draft.dev](mailto:karl@draft.dev). If you'd like to talk about how we can create content for your blog, you can [schedule a call with me here](https://draft.dev/call).

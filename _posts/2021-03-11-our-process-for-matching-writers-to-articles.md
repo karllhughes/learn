@@ -23,7 +23,7 @@ So, our process works like this:
 ### 1. Weekly Email to Writers
 Each week, we send an email to our writers with all the topics we currently need a writer for. We [work with clients to determine these topics](https://draft.dev/learn/posts/content-plan) when they sign on with us, so while writers don't typically get to "pitch" topics, they have no obligation to take on a topic they don't know well.
 
-_PS: If you'd like to apply to write for Draft.dev, [here's the application form](http://draft.dev/#write)._
+_PS: If you'd like to apply to write for Draft.dev, [here's the application form](http://draft.dev/write)._
 
 ### 2. Gathering Replies
 Next, we wait a few days for our writers to read and reply to the email. Then, we create a list of writers who replied and which topics they are interested in. Some writers prefer to work exclusively on topics they already know well, while others take writing as an opportunity to learn new things. Either approach is fine so long as they are realistic about their ability to write on the topic with authority.
@@ -63,7 +63,7 @@ If you want more work and you're willing to learn some new skills or research a 
 ### More Articles are Just a Week Away
 Finally, we have new topics prepared every week. As they come in, we continue to send out emails to writers, so some weeks might have many options, and others might not. Just keep an eye on your inbox!
 
-Interested in writing for Draft.dev? [Click here to learn more and apply today](http://draft.dev/#write).
+Interested in writing for Draft.dev? [Click here to learn more and apply today](http://draft.dev/write).
 
-Want access to our fantastic pool of writers? [Schedule a call to learn more about what we do](https://draft.dev/#call).
+Want access to our fantastic pool of writers? [Schedule a call to learn more about what we do](https://draft.dev/call).
 

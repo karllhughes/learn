@@ -115,5 +115,5 @@ If you need help with promoting your tutorials, check out our [content promotion
 ## Conclusion
 In this article, I broke down some of the reasons you might want to write a technical tutorial. Whether you're interested in growing your business, advancing your career, or leveling up your skills, writing technical tutorials can offer many advantages.
 
-Finally, I broke down some of the crucial components of useful and informative technical tutorials. If you need help writing technical tutorials or you’d like to work with our team of writers to build content that reaches software engineers, [contact us today](https://draft.dev/#call).
+Finally, I broke down some of the crucial components of useful and informative technical tutorials. If you need help writing technical tutorials or you’d like to work with our team of writers to build content that reaches software engineers, [contact us today](https://draft.dev/call).
 
