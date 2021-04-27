@@ -56,7 +56,7 @@ Those options all take time and in-house expertise that most startups don’t ha
 One company that’s done written content really well is DigitalOcean. They have published _thousands_ of tutorials by developers for developers, and they employ a whole team of writers and editors to help with it.
 
 <div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/uvC6gq60ZzI frameborder='0' allowfullscreen></iframe>
+<iframe src='https://www.youtube.com/embed/uvC6gq60ZzI' frameborder='0' allowfullscreen></iframe>
 </div>
 
 Running this kind of content machine isn’t cheap and the payoff is slow, but if you can play the long game, there’s a ton of value in it.
