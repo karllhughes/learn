@@ -10,7 +10,7 @@ img: /assets/posts/lfropbg.png
 
 In this article, I'll be showing you how to create a custom error 404 page in [GitHub Pages](https://lab.github.com/githubtraining/github-pages), a static site hosting service that allows you to publish and host your web pages through GitHub.
 
-To break that down quickly: a static site is a website made up entirely of HTML, CSS, and JavaScript files. Everything the site needs to render is contained within these files, so there’s no need for server technology like PHP, Node.js, or Python. If the static site needs extra data from a server, it makes an asynchronous HTTP request with tools like `[fetch api](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)` or `[axios](https://github.com/axios/axios)`. And you’ll probably want to make sure that static site has a 404 page.
+To break that down quickly: a static site is a website made up entirely of HTML, CSS, and JavaScript files. Everything the site needs to render is contained within these files, so there’s no need for server technology like PHP, Node.js, or Python. If the static site needs extra data from a server, it makes an asynchronous HTTP request with tools like [`fetch api`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) or [`axios`](https://github.com/axios/axios). And you’ll probably want to make sure that static site has a 404 page.
 
 Displaying a 404 error page on your site is sort of like delivering bad news—the tone and manner of your delivery can determine if the person receiving the news will either be upset or be ready to agreeably look for another solution. Fortunately, GitHub Pages makes creating one a walk in the park.
 
@@ -34,7 +34,7 @@ Scroll down to the GitHub Pages section.
 
 Here, you can choose the branch you want to serve your pages from, the root directory, and even select a Jekyll theme. If you already have a custom domain name, you can add it here.
 
-By adding a custom domain name, you can access your site using `[yourdomainname](http://example.com)` instead of your `[github.io](http://github.io)` domain.
+By adding a custom domain name, you can access your site using [`yourdomainname`](http://example.com) instead of your [`github.io`](http://github.io) domain.
 
 ![GitHub Pages settings](https://imgur.com/JKGXKmS.png)
 
