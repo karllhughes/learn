@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Hands on with Developer Marketing
-description: This article explains how to make your marketing stand out to reach developers
+description: Software developers are notoriously hard to reach through
+  marketing. This article explains effective tactics to help you stand out to
+  them.
 categories: posts
 author: karl
 date: 2021-04-26T14:27:05.058Z
