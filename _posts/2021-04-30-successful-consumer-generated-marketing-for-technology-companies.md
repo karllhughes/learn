@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Successful Consumer-Generated Marketing for Technology Companies
-description: Consumer-generated-marketing is an effective tactic. This article
+description: Consumer-generated marketing is an effective tactic. This article
   shares tips and examples for doing it right.
 categories: posts
 author: karl
