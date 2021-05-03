@@ -18,7 +18,7 @@ At the same time, developers are an extremely valuable market to reach. They are
 
 **Because developers are harder to reach than the average consumer, many marketers struggle with B2D marketing**. Gimmicks like free t-shirts or exclusionary events centered around alcohol are not the way to go, but they’re still rampant in the space.
 
-As a [former software developer and engineering manager](https://www.karllhughes.com/posts/engineering-manager), I've seen many attempts at B2D marketing. In this post, I'll focus on what works in B2D marketing today, and I'll offer some tips for generating marketing campaigns that will reach software developers. Using these tips will make your outreach efforts more genuine and ultimately successful.
+As a [former software developer and engineering manager](https://www.toptal.com/engineering-management/a-day-in-life-engineering-manager), I've seen many attempts at B2D marketing. In this post, I'll focus on what works in B2D marketing today, and I'll offer some tips for generating marketing campaigns that will reach software developers. Using these tips will make your outreach efforts more genuine and ultimately successful.
 
 ## Tip 1: Be Authentic
 

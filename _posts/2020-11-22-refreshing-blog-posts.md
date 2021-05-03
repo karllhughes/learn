@@ -62,7 +62,7 @@ While having multiple posts about similar topics isn’t bad, I felt like there 
 So, I took all four posts and merged them into the URL with the most backlinks and search traffic already (which happened to be the oldest one). [This new post](https://www.karllhughes.com/posts/hiring-process) is essentially a complete rewrite, although it uses pieces of each of the original posts. It’s much longer but broken into scannable sections so that readers can easily jump to the parts they need.
 
 ### 3. Update Existing Posts That Rank Well
-In 2015, I wrote a post about [how I spent my time as an engineering manager](https://www.karllhughes.com/posts/engineering-manager). After tracking my time every day for months, I gave readers detailed insight into a day in the life of an engineering manager.
+In 2015, I wrote a post about [how I spent my time as an engineering manager](https://www.toptal.com/engineering-management/a-day-in-life-engineering-manager). After tracking my time every day for months, I gave readers detailed insight into a day in the life of an engineering manager.
 
 This post has done pretty well in search engines, ranking for a few terms that are very relevant to my blog’s audience. Unfortunately, even good blog posts tend to degrade over time, so by 2020, much of the luster had faded. I figured I would try to update the post to restore a bit of its former glory.
 
