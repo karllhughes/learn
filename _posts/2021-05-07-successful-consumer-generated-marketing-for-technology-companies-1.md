@@ -6,7 +6,7 @@ description: Consumer-Generated Marketing is an effective tactic. This article
 categories: posts
 author: karl
 date: 2021-05-07T19:37:01.047Z
-img: https://i.imgur.com/Cdc9i9w.jpg
+img: /assets/posts/cdc9i9w.jpg
 ---
 What was the last product you shared on Twitter?
 
