@@ -14,6 +14,11 @@ authors:
     website: "https://www.karllhughes.com"
     img: "/assets/authors/karl.png"
     bio: "Karl is a former startup CTO and the founder of Draft.dev. He writes about technical blogging and content management."
+  richard:
+    name: Richard White
+    website: "https://www.linkedin.com/in/richard-white-b9909511/"
+    img: "https://i.imgur.com/U3Lj2sP.png"
+    bio: "Richard is a communications expert with over a decade of experience across B2B and B2C. He currently manages marketing content at Draft.dev."
   alyssa:
     name: Alyssa Shea
   matt:
