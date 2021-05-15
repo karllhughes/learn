@@ -7,6 +7,12 @@ url: "https://draft.dev"
 twitter: draftdev
 default-img: default-img.jpg
 social-rss: /feed.xml
+defaults:
+  -
+    scope:
+      path: "admin/"
+    values:
+      sitemap: false
 authors:
   karl:
     name: Karl Hughes
