@@ -10,7 +10,7 @@ social-rss: /feed.xml
 defaults:
   -
     scope:
-      path: "admin/"
+      path: "admin/index.html"
     values:
       sitemap: false
 authors:
