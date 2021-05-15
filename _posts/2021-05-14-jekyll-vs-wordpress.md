@@ -4,7 +4,7 @@ title: Jekyll vs. WordPress
 description: "There are many choices when building a website. This article will
   help you choose between Jekyll and Wordpress. "
 categories: platforms
-author: richard white
+author: richard
 date: 2021-05-13T23:17:51.037Z
 img: /assets/posts/725c1b8e.png
 ---
