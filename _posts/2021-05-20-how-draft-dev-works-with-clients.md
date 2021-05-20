@@ -6,7 +6,7 @@ description: "Transparency is the key when working with clients. This article is
 categories: posts
 author: karl
 date: 2021-05-20T22:23:33.311Z
-img: https://i.imgur.com/8rGfMmj.jpg
+img: /assets/posts/8rgfmmj.jpg
 ---
 Since I started [Draft.dev](http://draft.dev/), our team and the number of clients we work with has grown a lot. With this growth has come the need for robust, consistent processes that help us ensure that each client gets the absolute best, highest-quality technical content possible.
 
