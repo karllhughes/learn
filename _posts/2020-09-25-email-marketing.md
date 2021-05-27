@@ -72,6 +72,8 @@ Here’s a rundown of great email marketing tools for startups and a little bit 
 
 **[Hubspot Email Marketing](https://www.hubspot.com/products/marketing/email)** ($0) - If you already use Hubspot, this will integrate nicely with their CRM.
 
+**[Hunter](https://hunter.io/email-finder)** ($0) -  This tool will help you find and verify professional email addresses, and also send highly personalized cold emails at scale.
+
 **[iContact](https://www.icontact.com/)** ($30.60) - With flexible template customization and unlimited emails, iContact is ideal for small-sized businesses. However, it has a limited image storage space.
 
 **[Litmus](https://litmus.com/)** ($79) - Provides accurate renderings for various devices, as well as an interactive Litmus Builder. However, loading an email might take slightly more time.
