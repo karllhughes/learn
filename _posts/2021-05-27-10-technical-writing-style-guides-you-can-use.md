@@ -5,7 +5,7 @@ description: Technical writing style guide you can use
 categories: writing
 author: Nicolas
 date: 2021-05-27T23:01:57.754Z
-img: https://i.imgur.com/KW22fGD.jpeg
+img: /assets/posts/kw22fgd.jpeg
 ---
 Great US soccer player Mia Hamm famously said, "It is more difficult to stay on top than to get there," which suggests that consistency is a highly desirable trait. In the field of technical writing, consistency is crucial because it provides the sense of confidence and continuity that every tech product needs to engage a user base. Also, consistency creates opportunities to build communities around technical documentation.
 
