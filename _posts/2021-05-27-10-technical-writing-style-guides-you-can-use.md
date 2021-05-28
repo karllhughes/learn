@@ -3,9 +3,9 @@ layout: post
 title: 10 Technical Writing Style Guides You Can Use
 description: Technical writing style guide you can use
 categories: writing
-author: Nicolas
+author: nicolas
 date: 2021-05-27T23:01:57.754Z
-img: /assets/posts/kw22fgd.jpeg
+img: /assets/posts/tech-style-guides.jpg
 ---
 Great US soccer player Mia Hamm famously said, "It is more difficult to stay on top than to get there," which suggests that consistency is a highly desirable trait. In the field of technical writing, consistency is crucial because it provides the sense of confidence and continuity that every tech product needs to engage a user base. Also, consistency creates opportunities to build communities around technical documentation.
 
@@ -110,7 +110,7 @@ The guide is very dense and has several sections, so I’ll just highlight a few
  - **Markdown versus HTML:** The guide posits that HTML is more expressive than Markdown, even if the second is easier for humans to read.
  - **Names and naming:** This section explains naming conventions for filenames, domains, trademarks, and more.
 
- ## Mailchimp Content Style Guide
+## Mailchimp Content Style Guide
 
 ![Mailchimp Content Style Guide](https://i.imgur.com/rBND4fX.png)
 
