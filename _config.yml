@@ -104,6 +104,11 @@ authors:
     website: "https://github.com/sdkcodes"
     img: "/assets/authors/sodeeq.jpg"
     bio: "Sodeeq Elusoji is a full-stack software developer, building web applications and writing technical content."
+  nicolas:
+    name: Nicolas Bohorquez
+    twitter: nickmancol
+    img: "/assets/authors/nicolas.jpg"
+    bio: "Nicolas Bohorquez is a data architect at Merqueo, has been part of development teams in a handful of startups, and has founded three companies in the Americas. He is passionate about the modeling of complexity and the use of data science to improve the world."
 
 # Tracker
 analytics: UA-19700764-23 # Google Analytics
