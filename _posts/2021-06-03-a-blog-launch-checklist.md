@@ -7,7 +7,7 @@ author: Richard White
 date: 2021-06-03T20:34:49.841Z
 img: /assets/posts/32a7f02c.png
 ---
-# A Blog Launch Checklist
+
 
 A blog isn’t just about putting words on a page for Google. It’s a window into your business.
 
