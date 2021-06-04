@@ -3,7 +3,7 @@ layout: post
 title: A Blog Launch Checklist
 description: blog launch checklist
 categories: posts
-author: Richard White
+author: richard
 date: 2021-06-03T20:34:49.841Z
 img: /assets/posts/32a7f02c.png
 ---
