@@ -75,7 +75,7 @@ Opt-in forms can be used in multiple places. Popular options include static form
 
 You can include more than one, but be mindful not to overdo it, otherwise you might just annoy your visitors and discourage them from reading your content in the future.
 
-### Get Familiar With Self-editing Tools
+### 5. Get Familiar With Self-editing Tools
 
 Before you publish your posts, it’s worth running them through a self-editing tool first. They’re no substitute for a professional editor, but these automated tools can help to ensure your post is easy to read, not full of incomprehensible words, and doesn’t have embarrassing spelling mistakes.
 
@@ -109,7 +109,7 @@ The guide should also include rules on the content itself. To determine those ru
 
 There’s no right or wrong answer to any of these questions, and the goal is simply to provide a level of consistency for readers. 
 
-### Draft Your ‘Kick-off’ Post
+### 8. Draft Your ‘Kick-off’ Post
 
 Now comes the fun part: writing your first post! 
 
@@ -123,13 +123,13 @@ Make the “kick-off” blog post a cornerstone piece of content that you keep v
 - How often posts will be published
 - How people can subscribe
 
-### 8. Draft The First Five Posts
+### 9. Draft The First Five Posts
 
 To avoid your blog fizzing out before it gets going, it’s recommended to have five posts drafted. This will help you build momentum, as well as start to create a backlog of content that you can pull from if you’re behind or struggling to create new posts in the future.
 
 These posts can be stored in an ideas section of your [project management tool](https://blog.trello.com/moved-to-published-using-trello-as-an-editorial-calendar), giving you a deep well of topics to draw from.
 
-### 9. What To Do Before Publishing Your Blog Posts
+### 10. What To Do Before Publishing Your Blog Posts
 
 Once the post is written, there are a few steps to take to help it really shine.
 
@@ -139,7 +139,7 @@ Second, add an image. If you have the resources then a custom image can be used,
 
 Third, add your call to action (CTA). This should be in line with your key metrics, so if your goal is to increase the number of subscribers on your email list, the CTA could be an email signup. 
 
-### 10. What To Do After Publishing Your Blog
+### 11. What To Do After Publishing Your Blog
 
 As noted earlier, creating content is only part of the task. To get readers and subscribers, you need to get the posts in front of the intended audience.
 
