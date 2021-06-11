@@ -109,6 +109,11 @@ authors:
     twitter: nickmancol
     img: "/assets/authors/nicolas.jpg"
     bio: "Nicolas Bohorquez is a data architect at Merqueo, has been part of development teams in a handful of startups, and has founded three companies in the Americas. He is passionate about the modeling of complexity and the use of data science to improve the world."
+  meagan:
+    name: Meagan Shelley
+    website: "https://www.linkedin.com/in/meaganshelley/"
+    img: "/assets/authors/meagan.jpg"
+    bio: "Meagan is a professional writer in VA that specializes in content marketing, research, and SEO. If she's not helping people craft their own stories, she's working on some of her own. When she takes time to step away from the laptop, she enjoys hiking, farmer's markets, and occasional thru-hikes."
 
 # Tracker
 analytics: UA-19700764-23 # Google Analytics
