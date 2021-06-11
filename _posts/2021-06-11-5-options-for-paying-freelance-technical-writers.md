@@ -7,7 +7,6 @@ author: meagan
 date: 2021-06-11T01:28:53.360Z
 img: /assets/posts/photo-1499951360447-b19be8fe80f5.png
 ---
-## **5 Options for Paying Freelance Technical Writers**
 If you haven’t tapped into the gig economy yet, don’t worry — you will. Freelancing is bigger than ever, employing a massive **[1.1 billion people](https://ddiy.co/freelance-statistics/)** worldwide and generating a whopping 5% of the American GDP.
 
 A third of Fortune 500 companies hire freelancers, and it’s easy to see why. Forgoing benefits, PTO, and other employee costs, freelance technical writers are a huge boon to corporate businesses. There’s just one potential problem: paying them.
