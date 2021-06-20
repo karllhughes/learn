@@ -1,6 +1,6 @@
 ---
 layout: post
-title: topic-clusters
+title: Topic Clusters and Keyword Research for Technical Content
 description: A “topic cluster” is a method for intentionally building content
   designed to rank well in search engines (especially Google). Here's our
   process for building topic clusters with our clients at Draft.dev.
