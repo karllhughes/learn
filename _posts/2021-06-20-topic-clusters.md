@@ -28,7 +28,7 @@ Then, by linking from those highly-ranked supporting pieces _to_ the more diffic
 In this post, I’ll walk you through how we do this at Draft.dev so you can try this for yourself or better understand what you’ll get when you work with us. I’ve also recorded a video version so you can follow along with a real example if you’d like.
 
 <div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/opeCmj4OyTQ frameborder='0' allowfullscreen></iframe>
+<iframe src='https://www.youtube.com/embed/opeCmj4OyTQ' frameborder='0' allowfullscreen></iframe>
 </div>
 
 ### Finding Keywords
