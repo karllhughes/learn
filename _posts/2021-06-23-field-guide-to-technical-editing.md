@@ -5,7 +5,7 @@ description: Guide to finding the best technical editors and writers
 categories: posts
 author: chris
 date: 2021-06-23T12:51:43.228Z
-img: https://imgur.com/LXA7fZn.jpg
+img: /assets/posts/lxa7fzn.jpg
 ---
 
 You’ve been tasked with editing material with deep knowledge—it’s complex and highly industry-specific. You’re an expert in the art of writing, but perhaps not exactly an expert on this particular topic. Perhaps even far from it. Now what?
