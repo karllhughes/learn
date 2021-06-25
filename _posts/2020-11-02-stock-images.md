@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Free Stock Images for Your Startup 
+title: Free Stock Images for Your Startup
+description: As a startup, you probably don't have a huge budget for stock
+  photography. That doesn't mean you can't find some great images for your blog
+  though.
+categories: tools
 author: karl
 date: 2020-11-02
-description: "As a startup, you probably don't have a huge budget for stock photography. That doesn't mean you can't find some great images for your blog though."
-categories: tools
 img: /assets/posts/stock-images.jpg
 ---
 
@@ -39,9 +41,8 @@ This workflow works for me, but Unsplash and Bannersnack aren't the only resourc
 
 **[Unsplash](https://unsplash.com/)** - My personal go-to for stock images because it's effortless to search and use. Attribution is also optional.
 
-**[Bannersnack](https://bannersnack.com)** - Great for customizing stock images to use for blog posts, social media ads, or other marketing materials.
+**[Creatopy](https://www.creatopy.com)** - Great for customizing stock images to use for blog posts, social media ads, or other marketing materials.
 
-**[Shutterography](https://shutterography.com/)** - Free stock photos for personal and commercial use. No attribution is required.
 
 **[Moose](https://photos.icons8.com/)** - Stock Photos Designed to Work Together — For Free
 
@@ -65,11 +66,9 @@ This workflow works for me, but Unsplash and Bannersnack aren't the only resourc
 
 **[Foodshot](http://foodshot.co/)** - Handpicked high-resolution food photos with new ones posted every day.
 
-**[Free-Images.cc](http://www.free-images.cc/)** - Allows you to quickly search tons of free stock images with tags and color palettes.
 
 **[ISO Republic](https://isorepublic.com/)** - ISO Republic provides free stock photos for creatives and has published over 3,000 CC0 licensed images since its inception.
 
-**[JoyDesign](https://joydesign.co/)** - Free illustrations for your next idea. Sign up to get high-quality illustrations sent to you every week.
 
 **[LibreStock](http://librestock.com/)** - Allows you to search multiple stock photo sites at once.
 
