@@ -25,8 +25,6 @@ In this list, I've included several of the tools I use to find and research sim
 
 **[Alexa](https://www.alexa.com/find-similar-sites)** ($0) - Alexa's similar site tool uses audience overlap rather than site content to determine similarity.
 
-**[Page Delta](https://pagedelta.com/)** ($0) - Monitors websites and notifies you of any changes, instantly. Monitor up to 3 pages for free.
-
 **[AlternativeTo](https://alternativeto.net/)** ($0) - If you know your product is similar to at least one other site, you can use AlternativeTo to find dozens of alternatives to that site.
 
 **[AngelList](https://angel.co/)** ($0) - Many startups create profiles on AngelList for hiring and promotional purposes, but you can also use it to learn about your competition and their history.
@@ -68,8 +66,6 @@ In this list, I've included several of the tools I use to find and research sim
 **[Visual Ping](https://visualping.io/)** ($0) - Monitors webpages by letting you select an area of text to watch.
 
 **[Wachete](https://www.wachete.com/)** ($0) - Track a website, get notified of changes
-
-**[Wappalyzer](https://wappalyzer.com/)** - Identify the marketing and tech tools that your competitors are using on their sites.
 
 **[WebWire](https://www.webwire.com/IndustryList.asp)** ($0) - WebWire hosts a list of trade journals by industry that could be very helpful if you're exploring a new market and want to know what the major news sources are.
 
