@@ -31,7 +31,7 @@ This list is meant to provide a jumping-off point. I've tried to highlight many 
 
 While you'll still have to do the hard work of creating your online course, having the right platform can make publishing, distributing, and administering your course much easier.
 
-- **[Thinkific](https://www.shareasale.com/r.cfm?b=775702&u=1653894&m=61624)** ($0) - Create, market, and sell courses online from your own website.
+- **[Thinkific](https://www.thinkific.com)** ($0) - Create, market, and sell courses online from your own website.
 
 - **[Teachable](https://teachable.com/)** ($33.25) - Teachable lets you create courses that you can charge users for.
 
@@ -49,8 +49,6 @@ While you'll still have to do the hard work of creating your online course, havi
 
 - **[ILIAS](https://www.ilias.de/docu/goto_docu_root_1.html)** ($0) - ILIAS is another open-source course management platform with millions of users in large and small businesses.
 
-- **[Lynda](https://www.lynda.com/aboutus/become-an-instructor)** ($0) - You will need to apply to be an instructor, but with Linkedin's backing, your reach on Lynda.com is likely to be significant.
-
 - **[Moodle](https://moodle.org/)** ($0) - Open source and used by many colleges, Moodle also offers recommended hosting options if you're not sure how to get started.
 
 - **[Opigno](https://www.opigno.org/en)** ($0) - A full-featured LMS built on the popular PHP framework, Drupal, Opigno can handle single courses and paid subscriptions.
@@ -58,8 +56,6 @@ While you'll still have to do the hard work of creating your online course, havi
 - **[Pluralsight](https://www.pluralsight.com/teach)** ($0) - Pluralsight also requires an application in exchange for a wider, built-in reach. It's especially popular with developers and technical topics.
 
 - **[Skillshare](https://www.skillshare.com/teach)** ($0) - Skillshare helps you create your course, distribute it, and make money with paid content.
-
-- **[Snapguide](https://snapguide.com/)** ($0) - Create step-by-step guides to showcase your knowledge and help others learn about topics you know.
 
 - **[Udemy](https://www.udemy.com/)** ($0) - Once your course is live, students will be able to discover and buy it, earning you money every time.
 
