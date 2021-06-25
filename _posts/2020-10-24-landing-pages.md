@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Landing Page Tools for Startups 
+title: Landing Page Tools for Startups
+description: No matter what you sell, you need a way to quickly tell visitors
+  about it and hook them into trying it. That’s where a landing page comes in.
+categories: tools
 author: karl
 date: 2020-10-24
-description: "No matter what you sell, you need a way to quickly tell visitors about it and hook them into trying it. That’s where a landing page comes in."
-categories: tools
 img: /assets/posts/landing-page-tools.jpg
 ---
 
@@ -63,12 +64,6 @@ Fortunately, there are many great and easy-to-use landing page generators and to
 **[Prelaunch Landing Page](https://github.com/evasio/prelaunch-landing-page)** ($0) - This simple open-source template uses Nette and Bootstrap 4 to allow users to sign up before your product has launched.
 
 **[ONTRApages](https://ontrapages.com/)** ($0) - Create your own landing page in minutes.
-
-**[Reverent Pages](https://www.reverentpages.com/)** - Unlike most options on this list, Reverent is a full-service landing page service rather than a DIY tool.
-
-**[RocketStart](http://rocketstart.me/en/)** - Make your “Coming Soon” landing page in couple minutes, upload images or logos and get all tools you need to interact with your audience.
-
-**[Rocketpages](http://www.rocketpages.net/)** - RocketPages helps you quickly and easily create, customize and publish beautiful and high converting squeeze pages, sales pages, landing pages and more.
 
 **[Squarespace](https://www.squarespace.com/)** ($12) - Squarespace is my go-to recommendation for non-technical people who need a website. Squarespace works just as well for basic landing pages as it does for a full-featured website and blog.
 
