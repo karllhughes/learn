@@ -15,7 +15,7 @@ One thing I value in our interactions with clients is transparency. We need clie
 ## Our Process for Working with Clients
 In the further interest of transparency, I'm going to share our entire client onboarding process as it stands today. While things occasionally deviate, you might find it helpful to see the whole thing laid out. Hopefully, this gives you a better idea of what to expect as you consider or start your engagement with Draft.dev.
 
-![Map of the whole client onboarding process at Draft.dev](https://i.imgur.com/yZz67ba.png)
+![Map of the whole client onboarding process at Draft.dev](https://i.imgur.com/U6C9SCM.png)
 
 ### 1. Discovery Call
 
@@ -70,7 +70,7 @@ About halfway through your first three-month engagement, we’ll start to talk a
 While that covers the basics, you probably have a few questions. Feel free to [book a call with us](https://draft.dev/call) or check out some of our FAQ below.
 
 ### How quickly can you get started?
-Because we’re a service-based business that relies on real humans to write and edit each article, we limit the number of new clients we take on each month. Typically, it takes six to eight weeks between signing our Statement of Work (SOW) and receiving your first piece of content, but wait times can be longer depending on our current volume.
+Because we’re a service-based business that relies on real humans to write and edit each article, we can't start overnight. Typically, it takes five to seven weeks between signing our Statement of Work (SOW) and receiving your first piece of content.
 
 We do not currently offer an option to “jump the line,” but if we are able to increase capacity or another client is delayed, we will move you up accordingly.
 
