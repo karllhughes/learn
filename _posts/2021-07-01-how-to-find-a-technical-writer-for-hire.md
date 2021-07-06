@@ -52,7 +52,7 @@ Once you know what you’re looking for, use [Medium](https://medium.com/), [Dev
 If your product is open source, you can also look through your [GitHub stargazers](https://docs.github.com/en/rest/reference/activity#starring), watchers, or contributors. There’s a chance that a few have blogs linked from their GitHub profiles, so you can see what their writing is like before you reach out.
 
 <div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/LctsOW4dRcM frameborder='0' allowfullscreen></iframe>
+<iframe src='https://www.youtube.com/embed/LctsOW4dRcM' frameborder='0' allowfullscreen></iframe>
 </div>
 
 Add each writer who might be a good fit to your list and look for their contact information. I prefer to reach out only to writers who list an email address publicly, but tools like [Clearbit](https://clearbit.com/), [Hunter](https://hunter.io/), and [People Data Labs](https://peopledatalabs.com/) can all help you find contact information for just about anyone on the basis of very limited information.
