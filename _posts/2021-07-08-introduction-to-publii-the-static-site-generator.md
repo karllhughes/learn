@@ -3,7 +3,7 @@ layout: post
 title: Introduction to Publii, the Static Site Generator
 description: Review of the static site generator, Publii
 categories: platforms
-author: "kealan "
+author: kealan
 date: 2021-07-07T19:00:49.467Z
 img: /assets/posts/x9eq4oe.jpg
 ---
