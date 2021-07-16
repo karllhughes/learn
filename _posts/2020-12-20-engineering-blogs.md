@@ -263,7 +263,7 @@ SciTech Daily is the most general technical blog on this list. It’s a digest o
 
 ![Instagram](https://i.imgur.com/ih91Z5q.png)
 
-The Instagram Engineering blog is mostly specific to Instagram services, there are some posts that cover more broadly implemented topics. For example, [“Static Analysis at Scale: An Instagram Story”](https://instagram-engineering.com/static-analysis-at-scale-an-instagram-story-8f498ab71a0c) offers insight into some Python-based programming. 
+The Instagram Engineering blog is mostly specific to Instagram services, there are some posts that cover more broadly implemented topics. For example, [“Static Analysis at Scale: An Instagram Story”](https://instagram-engineering.com/static-analysis-at-scale-an-instagram-story-8f498ab71a0c) offers insight into some [Python-based programming](/learn/python-blogs). 
 
 * Writing Quality - 4
 * Consistency - 5

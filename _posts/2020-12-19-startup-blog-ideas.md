@@ -1,27 +1,66 @@
 ---
 layout: post
 title: 50+ Ideas for Your Startup's Blog
-description: Coming up with ideas for your startup's blog can be mentally
-  taxing. In this post, I'll share 52 creative ideas that you can use on your
-  blog.
+description: "Coming up with ideas for your startup's blog can be mentally taxing. In this post, I'll share 52 creative ideas that you can use on your blog."
 categories: posts
 author: karl
 date: 2021-01-03T17:23:38.564Z
 img: /assets/posts/startup-blog-ideas.jpg
 ---
-Coming up with ideas for your startup's blog can be mentally taxing. While an [SEO audit](https://ahrefs.com/blog/seo-audit/) can help you find opportunities in Google results, it can leave your blog topics feeling a little bit flat.
+Coming up with ideas for your startup's blog can be mentally taxing. While [keyword research](/learn/topic-clusters) can help you find opportunities in Google results, it can leave your blog topics feeling a little bit flat.
 
-One strategy is to publish a mix of SEO-driven content with more creative, shareable posts that help you build organic backlinks and social proof. If you want to make sure you [always have some ideas in the hopper](https://draft.dev/learn/posts/ideas), you need to put a healthy backlog of creative blog post ideas into [your publishing calendar](https://draft.dev/learn/posts/publishing-calendar)
+## Three Steps to Generate Blog Ideas
+
+One strategy is to publish a mix of SEO-driven content with more creative, shareable posts that help you build organic backlinks and social proof. If you want to make sure you always have some ideas in the hopper, you need to put a healthy backlog of creative blog post ideas into [your publishing calendar](https://draft.dev/learn/posts/publishing-calendar).
+
+<!-- signup -->
+
+### Step 1: Expose yourself to inspiration
+
+> “Original ideas do not come from within. They are given to us, from without. A writer should not look inside, but outside, at external sources, stories, events, and emotions.” - [Robert Bruce](https://copyblogger.com/find-ideas/)
+
+Ideas won’t come to you if you spend all your time writing and editing - you have to get out of the [busyness trap](https://hbr.org/2011/05/the-busyness-trap) and read, learn, and listen. Here are a few ways you can expose yourself to good ideas:
+
+*   **Talk to a customer** - If you can get some face-time with a customer, ask them what they searched for to find you, what websites or newsletters they read regularly, or what issues they’ve faced recently.
+*   **Talk to your teammates** - Ask your sales or marketing team about common questions they hear from customers, talk to your dev team about projects they’ve recently worked on, and ask your boss to have a chat with you about the company’s vision.
+*   **Talk to other blog managers** - Technical blogs face unique challenges, but you can learn a lot from marketers in other industries too.
+*   **Subscribe to newsletters** - Subscribe to a handful of newsletters, filter them in a particular folder, and review them once or twice per week.
+*   **Subscribe to Hacker Newsletter** - It’s easy to get lost in [Hacker News](https://news.ycombinator.com/), so avoid the time-sink and subscribe to the once-weekly [Hacker Newsletter](https://hackernewsletter.com/).
+*   **Subscribe to your competitors’ blogs** - Be unique, but aware.
+*   **Read a book** - I like a [blend of fiction and non-fiction](https://www.karllhughes.com/posts/trello-as-a-reading-list). Read whatever inspires you.
+*   **Keyword research** - Using a tool like [Ahrefs](https://ahrefs.com/blog/keyword-research/), you can do in-depth keyword analysis to generate ideas that are likely to be searched for on Google.
+*   **Listen to podcasts** - They're a great way to expose yourself to new ideas on the go.
+*   **Do a deep dive into Stack Overflow** - Look for common questions relevant to your blog’s audience and consider if any would make useful blog posts.
+*   **Watch YouTube videos or conference talks** - A lot of new technology is announced at conferences, so being plugged into the conference circuit can help you come up with timely ideas.
+*   **Use your product** - Sometimes, it’s hard to know what unique challenges your customers face until you become one.
+*   **Create an idea matrix** - An idea matrix is a multi-dimensional collection of combinations of ideas. See this [startup idea matrix](https://medium.com/the-mission/the-startup-idea-matrix-182bf2e6a53a) for an example.
+*   **Take a break** - Take a walk, go for a run, or just sit outside. My best ideas come when I’m just reflecting on past conversations or projects.
+
+### Step 2: Collect ideas
+
+> “Ideas Won’t Keep. Something Must Be Done About Them.” - Alfred North Whitehead
+
+When I read something that triggers an idea, I write it down.
+
+I don’t think it matters which to-do list you use. Just have a consistent and reliable way to capture ideas at any time, and make a habit of putting those ideas somewhere regularly.
+
+### Step 3: Build a backlog of pitches
+
+> "Plan ahead: It wasn’t raining when Noah built the ark." - Richard Cushing
+
+If you expose yourself to inspiration and collect ideas for very long, you’ll have more ideas than you could ever write about. You need a method of refining and filtering them.
+
+I spend a little time every week going through my ideas and doing cursory research on them. Many technical blog posts require a high-level understanding of several frameworks or tools, so I’ll read the introductory docs and skim the APIs.
+
+By the end of this process, most ideas are left on the cutting room floor, but the ones you do have are much stronger.
 
 <div class='embed-container'>
 <iframe src='https://www.youtube.com/embed/J4jne2j8ivM' frameborder='0' allowfullscreen></iframe>
 </div>
 
-<!-- signup -->
+## 50+ Startup Blog Post Ideas
 
 Over the past decade, I’ve written a lot of blog posts and I’ve seen many of these ideas work for myself or clients. While not every idea in this list is going to be a good fit for your startup, these might help spark your creativity.
-
-## 50+ Startup Blog Post Ideas
 
 ### 1. Product Awareness
 These ideas are great if your startup is still in the launch and product-market fit phase. Once you start building a collection of posts explaining your product, you can send these to prospective customers to help make your case.

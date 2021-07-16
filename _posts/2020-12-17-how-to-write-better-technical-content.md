@@ -238,7 +238,7 @@ The truth is that all ideas [are really mashups of existing ideas](https://www.p
 ### Stay Open to Inspiration
 > “Most of what I “write” doesn’t even happen on the page. It happens while I’m away from the computer, when I’m in the line at the grocery store, waiting at the airport, or speaking with friends.” - [David Perell](https://www.perell.com/blog/the-ultimate-guide-to-writing-online)
 
-[Ideas come from without, not within](https://draft.dev/learn/posts/ideas). That means you have to get out into the world if you want to come up with good ideas for technical content.
+[Ideas come from without, not within](https://draft.dev/learn/startup-blog-ideas). That means you have to get out into the world if you want to come up with good ideas for technical content.
 
 Software engineers do this by tinkering with new frameworks and languages. Product managers might try new organization tools. Designers might have conversations with artists for inspiration.
 
@@ -255,7 +255,7 @@ I wasn’t actively promoting the post, but it was bringing in 60-120 pageviews 
 
 Simply sharing this blog post led to a 12x increase in traffic to it over the course of a month. This is why writers should learn to share their content. If you want people to read your work, promoting it is essential.
 
-If you’re looking for a checklist of ways you can promote technical blog posts, [I put mine up on the internet earlier this year](https://draft.dev/learn/posts/promotion). Every piece of content is different, but this should give you a good starting point.
+If you’re looking for a checklist of ways you can promote technical blog posts, [I put mine up on the internet earlier this year](https://draft.dev/learn/promotion). Every piece of content is different, but this should give you a good starting point.
 
 ## Final Thoughts
 Writing great technical content won’t happen overnight. If you expect to be good at it from the start, you’re likely to be sorely mistaken, but stick with it. Writing is a great way to [increase your influence](https://www.karllhughes.com/posts/engineers-should-write) and get noticed for your work.

@@ -67,7 +67,7 @@ If a key metric is collecting email addresses, you’ll need a mechanism to do t
 
 If you don’t have an email list, you’re relying on people remembering you. With so many things fighting for a user’s attention, the odds are stacked against that happening. Even if a reader does bookmark your site or remember to check in occasionally, it’s unlikely they’ll do so often. After all, how many sites do you check daily or weekly?
 
-There are plenty of [email marketing tools](https://draft.dev/learn/tools/email-marketing) to choose from, including some free options. 
+There are plenty of [email marketing tools](https://draft.dev/learn/email-marketing-tools) to choose from, including some free options. 
 
 Once your email marketing account is created, you’ll need clear ways for your visitors to sign up. A list that nobody knows how to join is just as bad as not having a list at all.
 
@@ -147,7 +147,7 @@ The first step is to promote the content internally. Share it with your team and
 
 Then, you’ll want to promote the post externally. Use everything from your email newsletter and social media profiles, to relevant online groups, subreddits, and forums. 
 
-The recommendation is to spend as much time sharing your content as you spend creating it. The end goal is to get viewers, and that means informing people that your blog exists. As with the checklist for your blog itself, promotion should be consistent and organized, so you can have a separate [checklist for promoting your blog posts](https://draft.dev/learn/posts/promotion).
+The recommendation is to spend as much time sharing your content as you spend creating it. The end goal is to get viewers, and that means informing people that your blog exists. As with the checklist for your blog itself, promotion should be consistent and organized, so you can have a separate [checklist for promoting your blog posts](https://draft.dev/learn/promotion).
 
 ## Summary
 

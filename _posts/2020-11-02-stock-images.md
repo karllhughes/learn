@@ -18,7 +18,7 @@ While large companies may justify an in-house designer, custom photography, or v
 
 But first, why should you have images in your blog posts at all? Isn't the focus primarily on the writing?
 
-Yes, you should spend most of your time writing great content for your blog and [promoting that content](https://draft.dev/learn/posts/promotion), but images are important too. For example:
+Yes, you should spend most of your time writing great content for your blog and [promoting that content](https://draft.dev/learn/promotion), but images are important too. For example:
 
 - They help break up long spans of text and give readers a break.
 - They are great for SEO (especially if they're unique).

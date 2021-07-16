@@ -1,7 +1,7 @@
 title: Draft.dev
 description: >
   Learn to Build a Better Technical Blog
-permalink: ':categories/:title'
+permalink: ':title'
 baseurl: "/learn"
 url: "https://draft.dev"
 twitter: draftdev

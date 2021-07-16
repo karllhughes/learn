@@ -5,7 +5,7 @@ description: What to Expect from a Content Creation Agency
 categories: posts
 author: richard
 date: 2021-07-15T17:22:11.105Z
-img: /assets/posts/c9584fd1771ec87186cae9df9452ecdb.png
+img: /assets/posts/content-creation-agency.jpg
 ---
 My grandmother, like most grandmothers, was a wise woman. She had a variety of lines that she would say with regularity, and one in particular always stands out:
 

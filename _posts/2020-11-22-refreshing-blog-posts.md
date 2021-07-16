@@ -81,7 +81,7 @@ Another series of posts that performed okay in search engines were all related t
 I looked through all the posts on my site and added categories. Then I looked for opportunities to link relevant posts to each other. I doubt this will dramatically improve my search rankings alone, but it’s not a bad idea.
 
 ### 5. Update Post Dates and Re-Promote
-Finally, after I updated each post, I updated the published date and put it through my [technical blog post promotion checklist](https://draft.dev/learn/posts/promotion) again. I had promoted these posts once when they were first published, but that was years ago. After refreshing them, the content was different enough that promoting them again seemed like an easy win.
+Finally, after I updated each post, I updated the published date and put it through my [technical blog post promotion checklist](https://draft.dev/learn/promotion) again. I had promoted these posts once when they were first published, but that was years ago. After refreshing them, the content was different enough that promoting them again seemed like an easy win.
 
 In the case of my post on _A Day in the Life of an Engineering Manager_, sharing it led to an additional 728 visitors to a post that was originally posted five years ago!
 

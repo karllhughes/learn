@@ -1,14 +1,15 @@
 ---
 layout: post
-title: How to Create a Hiring Rubric for Technical Writers 
+title: How to Create a Technical Writing Rubric 
 author: karl
-description: "A hiring rubric is a document that defines the criteria you use to decide whether a candidate is a good fit for your role or not."
+description: "A technical writing rubric is a document that defines the criteria you use to decide whether a writer is a good fit for your role or not."
 date: 2020-09-12
-categories: posts
+categories: processes
 img: /assets/posts/hiring-rubric.png
+cta: Playbook
 ---
 
-Hiring is always hard, but the more specialized your hire, the harder it will be. If you're managing a technical blog and you want to [stop writing everything yourself](https://draft.dev/learn/posts/finding-motivating-writers), you'll need to recruit and hire technical writers to help you out.
+Hiring is always hard, but the more specialized your hire, the harder it will be. If you're managing a technical blog and you want to [stop writing everything yourself](https://draft.dev/learn/finding-motivating-writers), you'll need to recruit and hire technical writers to help you out.
 
 While traditionally used in education, rubrics are a fantastic tool for hiring, and I've used them for years both as [an engineering manager](https://www.karllhughes.com/posts/developing-talent) and content manager at Draft. Whether you are bringing on a part-time freelancer or a full-time hire, having a good rubric will help you [objectively evaluate candidates](https://www.managementcenter.org/article/mitigate-bias-in-hiring-with-a-simple-rubric/) and keep you focused on the criteria that matter for your job.
 
@@ -25,7 +26,7 @@ To effectively use a rubric, you need to apply it consistently using measurable 
 
 <!-- signup -->
 
-## The Draft.dev Rubric for Hiring Technical Writers
+## The Draft.dev Technical Writing Rubric
 As I started hiring more writers for [Draft.dev](https://draft.dev), I began refining a rubric that would allow me to evaluate them quickly and objectively. Today, I'm sharing this rubric with you so you can use it as a starting point for creating your own hiring rubric.
 
 Our rubric currently has ten attributes that fall within three broad categories. Each of these attributes has 3-4 levels we can use to compare writers. We use this rubric to decide which candidates to bring on during the hiring process and as an ongoing evaluation tool for our existing writers. This strategy helps us consistently provide high-quality technical work for our clients.
@@ -48,7 +49,7 @@ English is a tough language to master. As such, many non-native writers will str
 Writers who have strong language skills use engaging words, varied sentence structure, and stylistically sophisticated vocabulary that isn't overly wordy. It's tough to do.
 
 #### Organization
-Finally, great writers have to be great organizers. While having [good content briefs with outlines](https://draft.dev/learn/posts/content-plan) can help with higher-level structure, the writer will still have to decide how to present sequential information in a way that readers can grok.
+Finally, great writers have to be great organizers. While having [good content briefs with outlines](https://draft.dev/learn/content-plan) can help with higher-level structure, the writer will still have to decide how to present sequential information in a way that readers can grok.
 
 To reach the highest level in this attribute, writers must create clear transitions between topics and consistent focus throughout the entire sample piece.
 

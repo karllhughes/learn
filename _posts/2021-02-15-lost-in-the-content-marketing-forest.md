@@ -57,7 +57,7 @@ Was every article they’ve produced the _best piece ever_? Did their founders p
 
 No. Instead, they allow developers to pitch ideas that _they_ think would be useful and interesting to write about. Over time, these unique pieces of content have snowballed into millions of monthly visitors and a steady stream of new customers. The founders helped set this in motion, but eventually, they stepped away and built processes that allowed their team to scale these content efforts.
 
-While output is just one part of what has made DigitalOcean so successful ([promoting their work](https://draft.dev/learn/posts/promotion) and >$100 million in funding helped too), **increasing your output of useful content is essential to content marketing success**.
+While output is just one part of what has made DigitalOcean so successful ([promoting their work](https://draft.dev/learn/promotion) and >$100 million in funding helped too), **increasing your output of useful content is essential to content marketing success**.
 
 ### The Trees: Everything Else
 So what holds some founders back when it comes to content marketing?
@@ -67,13 +67,13 @@ Usually, it’s the details:
 - Implementing editorial standards and a [style guide](https://draft.dev/learn/posts/styleguide)
 - [Creating a publishing calendar](https://draft.dev/learn/posts/publishing-calendar)
 - Setting up a [blogging platform](https://draft.dev/learn/tools/startup-blogging-platforms)
-- [Finding writers](https://draft.dev/learn/posts/finding-motivating-writers)
-- [Evaluating writers](https://draft.dev/learn/posts/hiring-rubric)
-- [Writing briefs](https://draft.dev/learn/posts/content-plan)
+- [Finding writers](https://draft.dev/learn/finding-motivating-writers)
+- [Evaluating writers](https://draft.dev/learn/technical-writing-rubric)
+- [Writing briefs](https://draft.dev/learn/content-plan)
 - [Picking the perfect image](https://draft.dev/learn/tools/stock-images)
 - [Coming up with new ideas](https://draft.dev/learn/posts/startup-blog-ideas)
 - Hiring an editor
-- [Promoting your content](https://draft.dev/learn/posts/promotion)
+- [Promoting your content](https://draft.dev/learn/promotion)
 
 There’s a lot to this whole content marketing thing, so rather than document and handoff all these processes, some founders think it will be easier to do it all themselves. In the short term, they're right, but in the long-term, founders must let go of the trees to keep an eye on the forest.
 

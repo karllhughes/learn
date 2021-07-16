@@ -37,11 +37,11 @@ Here’s how you can replicate our process and build your own freelance technica
 
 Many content managers lean too heavily on writers to pitch them topics for blog posts. This might work for huge companies with the [domain authority](https://moz.com/learn/seo/domain-authority) to rank for nearly everything, but it’s not very strategic.
 
-Instead, talk to customers, do keyword research, and create [detailed briefs and outlines](https://draft.dev/learn/posts/content-plan) for each article *before* you start looking for a writer. This ensures that you can give your technical writer clear expectations from the moment they start working with you. Once they’ve proven themselves and understand more about your company, let them pitch ideas as well.
+Instead, talk to customers, do keyword research, and create [detailed briefs and outlines](https://draft.dev/learn/content-plan) for each article *before* you start looking for a writer. This ensures that you can give your technical writer clear expectations from the moment they start working with you. Once they’ve proven themselves and understand more about your company, let them pitch ideas as well.
 
-Next, use a [hiring rubric for your technical writers](https://draft.dev/learn/posts/hiring-rubric). This sets clear standards and helps you objectively compare writers, rather than simply relying on gut feelings.
+Next, use a [hiring rubric for your technical writers](https://draft.dev/learn/technical-writing-rubric). This sets clear standards and helps you objectively compare writers, rather than simply relying on gut feelings.
 
-[![Hiring rubric for technical writers](https://draft.dev/learn/assets/posts/hiring-rubric.png)](https://draft.dev/learn/posts/hiring-rubric)
+[![Hiring rubric for technical writers](https://draft.dev/learn/assets/posts/hiring-rubric.png)](https://draft.dev/learn/technical-writing-rubric)
 
 Some writers are good at tutorials, others at high-level guides; some technical writers can create sample applications, others cannot. By setting clear expectations up front, you can avoid reaching out to writers who don’t have the skills or experience you need.
 

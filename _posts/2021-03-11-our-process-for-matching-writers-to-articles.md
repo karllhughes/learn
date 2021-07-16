@@ -21,7 +21,7 @@ Our writers are busy professionals, so we give them as much autonomy as possible
 So, our process works like this:
 
 ### 1. Weekly Email to Writers
-Each week, we send an email to our writers with all the topics we currently need a writer for. We [work with clients to determine these topics](https://draft.dev/learn/posts/content-plan) when they sign on with us, so while writers don't typically get to "pitch" topics, they have no obligation to take on a topic they don't know well.
+Each week, we send an email to our writers with all the topics we currently need a writer for. We [work with clients to determine these topics](https://draft.dev/learn/content-plan) when they sign on with us, so while writers don't typically get to "pitch" topics, they have no obligation to take on a topic they don't know well.
 
 _PS: If you'd like to apply to write for Draft.dev, [here's the application form](http://draft.dev/write)._
 
@@ -45,7 +45,7 @@ If, at the end of the matching process, we couldn't find an interested writer fo
 
 First, we might look through our list of writers and reach out to any with the requisite skills. Maybe they're interested but can't start this week? Or perhaps they missed the email? We usually build enough flexibility into our deadlines to accommodate small adjustments for the right writer.
 
-Second, we [actively recruit writers with specific skills](https://draft.dev/learn/posts/finding-motivating-writers). Typically, when a new client signs on, we'll look at our existing writers and any who have applied to make sure we have enough people on board to handle the new work. But, some topics are just hard to find qualified writers for, so we spend time every week actively reaching out to engineers outside our network who might have the skills to write these hard-to-match pieces.
+Second, we [actively recruit writers with specific skills](https://draft.dev/learn/finding-motivating-writers). Typically, when a new client signs on, we'll look at our existing writers and any who have applied to make sure we have enough people on board to handle the new work. But, some topics are just hard to find qualified writers for, so we spend time every week actively reaching out to engineers outside our network who might have the skills to write these hard-to-match pieces.
 
 While this process is likely to change as we grow, our philosophy is likely to remain the same. **We want to provide engineers with great opportunities to showcase their expertise _while_ giving our clients the best technical content possible.**
 

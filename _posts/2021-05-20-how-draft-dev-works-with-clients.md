@@ -34,7 +34,7 @@ Clients have two options for deciding on the topics they want us to write about:
 1. You can send us a list of proposed topics (usually a headline and short description is enough).
 2. We can conduct a topic discovery process for you.
 
-If you have your own topics based on keyword research or conversations with customers, we’ll use them [to create a content plan for you](https://draft.dev/learn/posts/content-plan). If you don’t, our topic discovery process is a great option. Using search engine keyword research, we’ll define multiple topic clusters and topics that will help you **increase organic search engine traffic** to your blog.
+If you have your own topics based on keyword research or conversations with customers, we’ll use them [to create a content plan for you](https://draft.dev/learn/content-plan). If you don’t, our topic discovery process is a great option. Using search engine keyword research, we’ll define multiple topic clusters and topics that will help you **increase organic search engine traffic** to your blog.
 
 Our topic discovery process typically takes a week and requires very little input from you, so it will save you a lot of time if you’re not already familiar with building [topic clusters](https://blog.hubspot.com/marketing/topic-clusters-seo).
 

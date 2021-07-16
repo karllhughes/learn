@@ -8,7 +8,7 @@ author: anastasia
 date: 2021-02-03T13:31:26.200Z
 img: /assets/posts/8d328334-ebeb-4089-a471-0f86f5873ef0.png
 ---
-What is a technical roundup? Some people call them listicles, since that’s their general format: a list of the best and most useful blogs, frameworks, tools, and so on. Think [the best Python blogs](https://draft.dev/learn/technical-blogs/python) or [the best computer science blogs](https://draft.dev/learn/technical-blogs/computer-science), for example. It’s a [popular article format](https://en.wikipedia.org/wiki/Listicle) for a reason. **A roundup offers a short, convenient, and well-structured guide to a variety of topics.** A good one gives readers a clear understanding of the subject matter, often with some sort of rating or a scoring system indicating the value of each resource.
+What is a technical roundup? Some people call them listicles, since that’s their general format: a list of the best and most useful blogs, frameworks, tools, and so on. Think [the best Python blogs](https://draft.dev/learn/python-blogs) or [the best computer science blogs](https://draft.dev/learn/technical-blogs/computer-science), for example. It’s a [popular article format](https://en.wikipedia.org/wiki/Listicle) for a reason. **A roundup offers a short, convenient, and well-structured guide to a variety of topics.** A good one gives readers a clear understanding of the subject matter, often with some sort of rating or a scoring system indicating the value of each resource.
 
 We write a lot of useful roundups for our clients at [Draft.dev](https://draft.dev/), so in this guide, I’ll provide some insight as to why technical roundups are valuable and how to write one that’s solid.
 
@@ -81,7 +81,7 @@ For a more in-depth discussion of style, check out [Draft’s styleguide](https:
 
 Even a good roundup needs promotion to get noticed. No one will read it if you don’t show your work to the world, so this is not the occasion to be modest. Craft Tweets, post on Facebook, add it to LinkedIn, and don’t forget to go beyond social media! Consider submitting to relevant newsletters and forums (though the key word there is _relevant_. Don’t spam these places if you’d like to have a chance of promoting there again). A sincere, intentional approach to promoting your listicle will go a long way in increasing your audience. 
 
-For more in-depth tips specifically about promoting your writing, check out [How to Promote Your Technical Blog Posts](https://draft.dev/learn/posts/promotion) by Karl Hughes.
+For more in-depth tips specifically about promoting your writing, check out [How to Promote Your Technical Blog Posts](https://draft.dev/learn/promotion) by Karl Hughes.
 
 ## Conclusion
 

@@ -1,14 +1,17 @@
 ---
 layout: post
-title: The Best Platforms for Your Technical Blog
+title: The Best Technical Blog Platforms
 author: alyssa
 date: 2020-06-24
 description: Which blogging platform is right for your technical blog? In this post, we compare some of the best options.
 categories: platforms
 img: /assets/posts/blogging-platforms.jpg
+cta: Content Ideas
 ---
 
 Are you considering starting your own technical blog but aren't sure which platform to use? There are so many to choose from that it can be difficult to pull the trigger. I've rounded up some of my favorites platforms for running your technical blog and why you might choose each of them.
+
+<!-- signup -->
 
 ### Medium
 
@@ -42,7 +45,7 @@ One of the best aspects of this platform is that it's been out for a while. Beca
 
 ### Hugo
 
-Yet another static site generator to consider is Hugo. It can go toe-to-toe with Jekyll and the two are generally compared against each other in reviews. The main advantage that you’ll find it has over any other SSG is its speed and thriving, active community. Another benefit is that it’s significantly easier to set up, especially when you compare it to Jekyll. As for content, it’s simply stored in text files within your project.
+Yet another static site generator to consider is Hugo. It can go toe-to-toe with Jekyll and the two are [generally compared against each other in reviews](/learn/hugo-vs-jekyll). The main advantage that you’ll find it has over any other SSG is its speed and thriving, active community. Another benefit is that it’s significantly easier to set up, especially when you compare it to Jekyll. As for content, it’s simply stored in text files within your project.
 
 [Hugo also supports a variety of formats](https://gohugo.io/), from Markdown to HTML or Asciidoc. Though it’s a bit of a newbie on the scene, there are still a variety of themes available thanks to its community of users. If you’re a beginner, you might find the template engine confusing. Also, there aren’t any extensions so you won’t have plugin support. Despite those issues, it’s still a very strong contender.
 

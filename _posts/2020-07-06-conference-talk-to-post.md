@@ -4,14 +4,17 @@ title: How to Turn Your Conference Talks Into Technical Blog Posts
 author: alyssa
 date: 2020-07-06
 description: Conference talks can make great blog posts. In this article, we explore some of the tools you can use to convert your conference talks into blog posts.
-categories: posts
+categories: developer-marketing
 img: /assets/posts/conference-talks.jpg
+cta: Content Ideas
 ---
 
 For many of us, it's easier to say what we mean than to write it down. Conference talks can make great blog posts, so if you've got a long list of presentations you give regularly, you might want to convert some of them to blog posts.
 
 ### Which Conference Talks Make Good Blog Posts?
 First, think about the Q&A section of your talk. Questions from your audience are a great way to get more material for your next blog post and find out if your speech was well received. We have to keep the audience in mind and give them something unique and exciting.
+
+<!-- signup -->
 
 Committing to one of your talks for blog conversion can be difficult. Consider choosing a presentation that you get especially excited about. If you're passionate about what you're saying, translating the talk into text will be less tedious.
 

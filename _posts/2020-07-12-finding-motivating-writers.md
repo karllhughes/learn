@@ -4,8 +4,9 @@ title: How to Find and Motivate Writers for Your Blog
 author: karl
 date: 2020-07-12
 description: "In the early days, you might write everything yourself, but this won't scale. In this post, we explore some options for finding technical writers for your blog."
-categories: posts
+categories: content-marketing
 img: /assets/posts/motivation.jpg
+cta: Playbook
 ---
 
 Most technical blogs have a surprisingly small staff, and many of the most prolific ones rely on contributions from freelancers or volunteer contributors. If you’re just starting out, you might wonder what options you have for finding and motivating writers for your technical blog.

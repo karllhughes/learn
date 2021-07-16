@@ -60,7 +60,7 @@ Similarly, different target markets prefer different channels to consume content
 
 As you build your digital content strategy, think about the channels you will use to **host** your content (e.g., your blog, website, YouTube) and the channels you will use to **distribute** your content (e.g., Facebook, Twitter, newsletters, paid advertisements). While some hosting channels provide distribution by default (when you publish a video on YouTube, it will automatically be distributed to subscribers), others require you to *push* your content out to get readers.
 
-Promotion is one of the most important and underutilized aspects of content marketing, but [I’ve got a checklist here](https://draft.dev/learn/posts/promotion) that I use to help get our content in front of more people.
+Promotion is one of the most important and underutilized aspects of content marketing, but [I’ve got a checklist here](https://draft.dev/learn/promotion) that I use to help get our content in front of more people.
 
 ### 4. Who Will Create This Content?
 Coming up with [ideas for content](https://draft.dev/learn/posts/startup-blog-ideas) is only half of the challenge. Finding people who can create the content is a whole new challenge.
@@ -84,7 +84,7 @@ I’ve been [collecting ideas for blog posts](https://draft.dev/learn/posts/star
 Most marketing teams start creating content in-house with just a couple of contributors, so it’s tempting to skip creating a [style guide](https://draft.dev/learn/posts/styleguide) or [publishing calendar](https://draft.dev/learn/posts/publishing-calendar). That’s fine for a while, but eventually, you’ll need standardized processes to help maintain consistency and drive results.
 
 ### 3. Finding Writers
-There are generally [three ways to recruit content creators](https://draft.dev/learn/posts/finding-motivating-writers) to help execute your digital content strategy:
+There are generally [three ways to recruit content creators](https://draft.dev/learn/finding-motivating-writers) to help execute your digital content strategy:
 
 - You can hire writers in-house. This is expensive, but you will get the most consistent and committed writers when you go this route.
 - You can hire individual freelancers. The challenge here is the variable quality and reliability of freelancers, but if you find a good one, I highly recommend sticking with them as long as you can.

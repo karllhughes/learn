@@ -6,6 +6,7 @@ description: "One of the most effective ways to encourage repeat visitors to you
 date: 2020-09-25
 categories: tools
 img: /assets/posts/email-tools.jpg
+cta: Content Ideas
 ---
 
 One of the most effective ways to encourage repeat visitors to your startup, to engage paying customers, and to improve conversion rates is to **get people to sign up with their email address.**

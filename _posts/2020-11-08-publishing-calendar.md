@@ -44,7 +44,7 @@ Our “Kanban View” in the “Assignments” table helps you see exactly where
 *   **Writing** - Once the writer is confirmed and starts working on the assignment, we move it to this column.
 *   **Editing** - After a writer submits their first draft, the article enters editing. Typically, this involves some sub-steps (technical review, copy editing, revisions, etc.), but by the end, we should have a complete piece of content that’s ready to publish by the end.
 *   **Scheduled** - Very few clients publish content the moment we hand it over to them, so each assignment enters the Scheduled stage until it goes live.
-*   **Published** - We don’t promote content directly for our clients, but [you should be](https://draft.dev/learn/posts/promotion). This column holds articles that have been published but not yet promoted.
+*   **Published** - We don’t promote content directly for our clients, but [you should be](https://draft.dev/learn/promotion). This column holds articles that have been published but not yet promoted.
 *   **Promoted** - At this point, the article is completely finished...until we decide to do a refresh.
 
 Here’s what the whole “Kanban View” looks like:
@@ -77,7 +77,7 @@ The “Kanban View” shows you all our writers (these aren’t our real writers
 
 ![Available writers in an Airtable Publishing Calendar](https://i.imgur.com/6T4jhwo.png)
 
-Every week, we review writer applications using [our hiring rubric for technical writers](https://draft.dev/learn/posts/hiring-rubric) and move those who meet our criteria to the “Accepted” status column.
+Every week, we review writer applications using [our hiring rubric for technical writers](https://draft.dev/learn/technical-writing-rubric) and move those who meet our criteria to the “Accepted” status column.
 
 ### 6. New Writer Applications
 Finally, we use Airtable as an intake form for new writer applications. You can see a slightly simplified version of our writer application form in the template by going to the “Writer Application” view in the “Writers” table.

@@ -53,7 +53,7 @@ Content created for developers takes many forms:
 
 All of this content must be genuinely helpful or educational; you can’t fill your engineering blog with fluff and expect it to resonate. So, most effective developer marketing content **is written by developers.** Most people I talk to either get their in-house engineers to write, hire full-time developer advocates, or start a [community writing program](https://github.com/malgamves/CommunityWriterPrograms).
 
-Those options all take time and in-house expertise that most startups don’t have, so you might hire and manage freelance writers or [work with an agency like us](https://draft.dev/). Obviously, I’m biased, but I’m also happy to offer tips for [finding and recruiting your own writers](https://draft.dev/learn/posts/finding-motivating-writers). 
+Those options all take time and in-house expertise that most startups don’t have, so you might hire and manage freelance writers or [work with an agency like us](https://draft.dev/). Obviously, I’m biased, but I’m also happy to offer tips for [finding and recruiting your own writers](https://draft.dev/learn/finding-motivating-writers). 
 
 One company that’s done written content really well is DigitalOcean. They have published _thousands_ of tutorials by developers for developers, and they employ a whole team of writers and editors to help with it.
 

@@ -21,7 +21,7 @@ Researching your competition can also help you discover new niches that may be u
 That said, where do you start on this path to knowing your competition? What tools can you use to find and learn about your competitors? That's where this list can help you.
 
 ## Startup Competitor Research Tools
-In this list, I've included several of the tools I use to find and research similar startups and products. You can use these tools to [come up with ideas for your blog](https://draft.dev/learn/posts/ideas), figure out how they're doing, and learn more about their customers.
+In this list, I've included several of the tools I use to find and research similar startups and products. You can use these tools to [come up with ideas for your blog](https://draft.dev/learn/startup-blog-ideas), figure out how they're doing, and learn more about their customers.
 
 **[Alexa](https://www.alexa.com/find-similar-sites)** ($0) - Alexa's similar site tool uses audience overlap rather than site content to determine similarity.
 

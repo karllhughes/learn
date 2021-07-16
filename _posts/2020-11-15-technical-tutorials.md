@@ -110,7 +110,7 @@ A technical tutorial needs an audience.
 
 Sharing your work with others is a great way to find more writing opportunities, so don’t be afraid to promote your tutorials on social media or start an email newsletter. Ask your readers for feedback on what worked and what could have been clearer in your tutorial. Taking feedback is essential to improving your writing skills.
 
-If you need help with promoting your tutorials, check out our [content promotion checklist for technical blog posts](https://draft.dev/learn/posts/promotion).
+If you need help with promoting your tutorials, check out our [content promotion checklist for technical blog posts](https://draft.dev/learn/promotion).
 
 ## Conclusion
 In this article, I broke down some of the reasons you might want to write a technical tutorial. Whether you're interested in growing your business, advancing your career, or leveling up your skills, writing technical tutorials can offer many advantages.

@@ -9,7 +9,7 @@ author: karl
 date: 2021-06-20T15:57:03.929Z
 img: /assets/posts/topic-clusters.png
 ---
-When I started [Draft.dev](https://draft.dev), I wanted us to keep our scope as narrow as possible. This focus on producing technical content aimed at software developers helped us standardize things like our [content briefs](https://draft.dev/learn/posts/content-plan), the [types of content we create](https://draft.dev/content-types), and more. By standardizing everything, we have been able to consistently deliver **high-quality technical content** to satisfied clients around the world.
+When I started [Draft.dev](https://draft.dev), I wanted us to keep our scope as narrow as possible. This focus on producing technical content aimed at software developers helped us standardize things like our [content briefs](https://draft.dev/learn/content-plan), the [types of content we create](https://draft.dev/content-types), and more. By standardizing everything, we have been able to consistently deliver **high-quality technical content** to satisfied clients around the world.
 
 The problem with being so narrow in our scope is that we have to say “no” or “not yet” to a lot of good clients. Up until now, we haven’t officially offered idea generation as a service, so clients had to do their own keyword research or brainstorming sessions _before_ working with Draft.dev.
 

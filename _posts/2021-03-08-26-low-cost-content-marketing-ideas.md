@@ -154,7 +154,7 @@ This year, I’ve been playing around with automated content generation using th
 
 ### Idea 20: Write Detailed Outlines for Freelance Writers
 
-**Example:** [“How to Create a Technical Content Plan” on Draft.dev](https://draft.dev/learn/posts/content-plan)
+**Example:** [“How to Create a Technical Content Plan” on Draft.dev](https://draft.dev/learn/content-plan)
 
 A lot of people think you have to spend a ton of money to get a decent writer, and while there are _absolutely_ differences between a $0.10 and a $0.50 per word writer, one way to make average writers look better is to give them a good outline. Even if you’re writing the content yourself, having an outline makes you faster and more focused in your writing.
 
@@ -187,7 +187,7 @@ That said, Google Analytics is notoriously complicated, so I’d recommend inves
 Don’t just create content for your site and social channels. Spread the love by submitting guest posts. They can help you build links to your website, raise your profile in the community, and expand your audience.
 
 ### Idea 26: Promote an Old Post
-**Example:** [“How to Promote Your Blog Posts” on Draft.dev](https://learn.draft.dev/posts/promotion)
+**Example:** [“How to Promote Your Blog Posts” on Draft.dev](https://learn.draft.dev/promotion)
 
 Finally, don’t be afraid to share content—even the old stuff. I have a huge backlog of old content that I’m constantly refreshing and recycling across my social channels. Most people won’t catch every blog post the first time, so re-promote them every few months to get the most out of each piece.
 

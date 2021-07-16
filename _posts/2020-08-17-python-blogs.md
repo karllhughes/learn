@@ -6,6 +6,7 @@ date: 2020-08-17
 description: "We dug deep into dozens of blogs to create this comprehensive list of the 29 best Python blogs published today."
 categories: technical-blogs
 img: /assets/posts/python.png
+cta: Content Ideas
 ---
 
 Python is one of [the most popular programming languages](http://pypl.github.io/PYPL.html) in use today, so I went on a journey to find the best Python blogs on the internet. Each of these sites demonstrates technical expertise, is relatively easy to comprehend, publishes content consistently, and has stood the test of time.
