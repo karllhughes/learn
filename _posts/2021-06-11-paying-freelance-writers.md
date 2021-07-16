@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 5 Options for Paying Freelance Technical Writers
-description: Paying freelance writers, see the options
-categories: content-marketing
 author: meagan
 date: 2021-06-11T01:28:53.360Z
 img: /assets/posts/photo-1499951360447-b19be8fe80f5.png
 cta: Content Ideas
+title: 5 Options for Paying Freelance Technical Writers
+description: Paying freelance writers, see the options
+categories: content-marketing
 ---
 If you haven’t tapped into the gig economy yet, don’t worry — you will. Freelancing is bigger than ever, employing a massive **[1.1 billion people](https://ddiy.co/freelance-statistics/)** worldwide and generating a whopping 5% of the American GDP.
 
@@ -29,7 +29,7 @@ Freelance technical writers can create:
 *   Webpages
 *   Product manuals
 
-Since they can take on very specific work with tight deadlines, freelance technical writers remove unnecessary burdens from your core team. They are highly skilled at whagnmt they do and make it easy for leads to access your technical content. Finally, and maybe most importantly, freelance tech writers cost much less than full-time employees. Instead of paying training costs, benefits, and salaries, you’ll only pay the freelancer’s asking rate.
+Since they can take on very specific work with tight deadlines, freelance technical writers remove unnecessary burdens from your core team. They are highly skilled at what they do and make it easy for leads to access your technical content. Finally, and maybe most importantly, freelance tech writers cost much less than full-time employees. Instead of paying training costs, benefits, and salaries, you’ll only pay the freelancer’s asking rate.
 
 ## What’s So Hard About Paying Your Freelance Technical Writer? 
 
