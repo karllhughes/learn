@@ -8,6 +8,7 @@ categories: tools
 author: karl
 date: 2020-12-23T17:46:01.324Z
 img: /assets/posts/wkefgok.jpg
+cta: Content Ideas
 ---
 Contacting bloggers and journalists directly to pitch your startup works, but it’s incredibly time-consuming. Sometimes, a low-cost or free press release is well worth it, so if you’re considering investing in one for your startup, look no further.
 

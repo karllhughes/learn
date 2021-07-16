@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Startup Logo Creators
+title: Startup Logo Creation Tools
 description: You might not be ready to invest a lot of money into your logo on
   day 1. In this post, we've assembled the best low-cost logo creators for
   startups.
@@ -8,6 +8,7 @@ categories: tools
 author: karl
 date: 2020-11-24
 img: /assets/posts/logos.jpg
+cta: Content Ideas
 ---
 
 I’m not a designer, and I’ve never been great at coming up with branding or logos. That said, a company with a distinct and creative logo will always look more reputable than one without.
@@ -23,6 +24,8 @@ Since plenty of you are like me and don’t have the greatest logo design skills
 ## Logo Creation and Design Tools
 
 **[FlatIcon](https://www.flaticon.com/)** ($0) - Free vector graphics and icons for use with attribution. Lots of great full-color logo elements here will be good for your startup's icon or on-page styles.
+
+**[Canva](https://www.canva.com/)** ($0) - I've fallen heavily into using Canva for designing social media and other design content. It's a great tool and the free tier is well worth trying.
 
 **[Looka Logo Maker](https://looka.com/logo-maker/)** ($20) - Looka uses artificial intelligence to instantly generate beautiful, unique logo ideas for your business. Once you narrow down the ones you like, you can tweak the design to your ideal preferences.
 

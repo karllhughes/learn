@@ -48,7 +48,7 @@ With the metrics decided, track them monthly in a spreadsheet to ensure the blog
 
 ### 2. Choose A Platform
 
-WordPress is, without question, the big player in the website space, [reportedly powering 40% of all websites](https://www.searchenginejournal.com/wordpress-powers-39-5-of-all-websites/391647/). That’s enough to convince some people that it’s the best option to use, but there’s not really a right or wrong answer when it comes to choosing a platform. The best [startup blogging platform](https://draft.dev/learn/platforms/startup-blogging-platforms) will be the one that meets your requirements.
+WordPress is, without question, the big player in the website space, [reportedly powering 40% of all websites](https://www.searchenginejournal.com/wordpress-powers-39-5-of-all-websites/391647/). That’s enough to convince some people that it’s the best option to use, but there’s not really a right or wrong answer when it comes to choosing a platform. The best [startup blogging platform](https://draft.dev/learn/startup-blogging-platforms) will be the one that meets your requirements.
 
 If you want full control, then a self-hosted option like Wordpress or GitHub may be most appropriate. On the other hand, if you want to launch your blog quickly and have readers immediately then an established option like Medium might be more appealing. The trade off with Medium is you have no control over the platform. The trade off to a self-hosted option, however, is the additional time required to build the blog and grow the readership.
 

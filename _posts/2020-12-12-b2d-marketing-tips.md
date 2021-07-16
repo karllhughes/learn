@@ -4,10 +4,11 @@ title: 6 Tips for B2D Marketing
 description: B2D marketing describes marketing initiatives designed to attract
   software developers. Because developers are harder to reach than the average
   consumer, many marketers struggle with B2D marketing.
-categories: posts
+categories: developer-marketing
 author: karl
 date: 2020-12-12T19:31:38.463Z
 img: /assets/posts/b2d-marketing.png
+cta: Playbook
 ---
 
 Business-to-developer marketing (often shortened “B2D marketing”) describes **marketing initiatives designed to reach software developers**. As a former software developer, I can tell you that devs are a notoriously difficult group to market to. They’re tech-savvy, generally skeptical, and often use tools like [adblockers](https://www.forbes.com/sites/tjmccue/2019/03/19/47-percent-of-consumers-are-blocking-ads/?sh=244a64d02037) to prevent popups and banner advertisements from reaching them.

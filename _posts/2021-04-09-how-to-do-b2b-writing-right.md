@@ -73,7 +73,7 @@ Writing material for someone else to stand behind and say, “Yes, these are my 
 
 As the name suggests, a press release is meant to release news to a press. You’ve raised a round of funding, you’re getting ready to release a new version, you’re discontinuing a legacy service—and you’d like to inform the industry.
                     
-There are guides galore on [how to write a press release](https://blog.hubspot.com/marketing/press-release-template-ht) and many [tools to help you distribute them](https://draft.dev/learn/tools/press-releases), so I won’t belabor the specs myself. I will emphasize that structure matters here more than any other piece of B2B writing I’ve touched on, so glance over a few tutorials, find the commonalities, and stick to them religiously.
+There are guides galore on [how to write a press release](https://blog.hubspot.com/marketing/press-release-template-ht) and many [tools to help you distribute them](https://draft.dev/learn/press-release-tools), so I won’t belabor the specs myself. I will emphasize that structure matters here more than any other piece of B2B writing I’ve touched on, so glance over a few tutorials, find the commonalities, and stick to them religiously.
 
 The press release is an efficient formula for delivering information to people who will transfer it to another format, usually a news article or industry blog. These people will be looking for specific info to craft their own writing from, and the press release is designed to help them find it easily. Mess with the formatting too much, and your press release is going in the trash, I guarantee you.
 

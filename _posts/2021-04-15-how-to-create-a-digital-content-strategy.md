@@ -63,7 +63,7 @@ As you build your digital content strategy, think about the channels you will us
 Promotion is one of the most important and underutilized aspects of content marketing, but [I’ve got a checklist here](https://draft.dev/learn/promotion) that I use to help get our content in front of more people.
 
 ### 4. Who Will Create This Content?
-Coming up with [ideas for content](https://draft.dev/learn/posts/startup-blog-ideas) is only half of the challenge. Finding people who can create the content is a whole new challenge.
+Coming up with [ideas for content](https://draft.dev/learn/startup-blog-ideas) is only half of the challenge. Finding people who can create the content is a whole new challenge.
 
 Your digital content strategy should offer some guidance on who will create which pieces of content for you. Some content should almost always be created in-house (like thought leadership and [point of view content](https://neilpatel.com/blog/how-developing-point-of-view-can-explode-fan-base/)), but other content can be outsourced to a trusted partner.
 
@@ -78,7 +78,7 @@ With so many marketing data tools out there, it can be overwhelming to figure ou
 Now that you understand the basic elements of a successful digital content strategy and why each is important, it’s time to go out and create your own. It’s hard to give generalized advice on the finer details of content marketing because it’s really a case-by-case problem, but there are a few things I often see clients struggle with.
 
 ### 1. Coming Up With Topics
-I’ve been [collecting ideas for blog posts](https://draft.dev/learn/posts/startup-blog-ideas) for a while now because this is the most challenging thing for new content marketers to wrap their heads around. While there are specific strategies for this (e.g., SEO audits, copy competitors), the best advice is to **talk to customers**. Understand their struggles and create content that is genuinely helpful.
+I’ve been [collecting ideas for blog posts](https://draft.dev/learn/startup-blog-ideas) for a while now because this is the most challenging thing for new content marketers to wrap their heads around. While there are specific strategies for this (e.g., SEO audits, copy competitors), the best advice is to **talk to customers**. Understand their struggles and create content that is genuinely helpful.
 
 ### 2. Standardizing Processes
 Most marketing teams start creating content in-house with just a couple of contributors, so it’s tempting to skip creating a [style guide](https://draft.dev/learn/styleguide) or [publishing calendar](https://draft.dev/learn/airtable-publishing-calendar). That’s fine for a while, but eventually, you’ll need standardized processes to help maintain consistency and drive results.

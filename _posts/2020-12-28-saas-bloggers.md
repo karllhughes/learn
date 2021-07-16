@@ -8,6 +8,7 @@ categories: technical-blogs
 author: amisha
 date: 2021-01-01T18:20:08.931Z
 img: /assets/posts/robot-13.png
+cta: Content Ideas
 ---
 In the last decade or so, SaaS companies have shown an [enormous amount of potential](https://www.bmc.com/blogs/saas-growth-trends/) and therefore, the number of individuals writing about SaaS marketing, sales, and operational tactics has increased exponentially.
 
@@ -26,6 +27,8 @@ If you’re new to the world of SaaS blogging then start with SaaStr. Since its 
 *   Broad Usefulness - 5
 
 Total Score - 5
+
+<!-- signup -->
 
 ### [Joel Capperella’s Blog](http://joelcapperella.com/blog/)
 

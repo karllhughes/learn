@@ -7,6 +7,7 @@ categories: technical-blogs
 author: anastasia
 date: 2020-12-28T18:00:24.211Z
 img: /assets/posts/engineering-12.png
+cta: Content Ideas
 ---
 The world of tech and software development evolves fast, with new frameworks and libraries advancing all the time. It’s important to stay tuned in, or you could be left behind. To make that less of a challenge, I’ve handpicked thirty engineering blogs that you should follow or at least bookmark for future reference.
 
@@ -27,6 +28,8 @@ As one of the tech’s headliners, Facebook Engineering offers a highly technica
 * Broad Usefulness - 5
 
 **Total score: 5.0**
+
+<!-- signup -->
 
 ### 2. [Github Engineering](https://github.blog/category/engineering/)
 

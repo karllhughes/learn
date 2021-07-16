@@ -8,6 +8,7 @@ categories: technical-blogs
 author: piero
 date: 2020-11-30
 img: /assets/posts/programmer.png
+cta: Content Ideas
 ---
 
 Practicing a few key disciplines goes a long way toward building a successful career as a developer. Staying up to date with the latest coding trends is definitely one of them. And that’s where software development blogs and communities come in handy.
@@ -21,17 +22,9 @@ Never fear, I’m here to help you wade in with [Draft.dev](https://draft.dev)�
 For easy skimming and quick decision-making, I’ve rated each blog based on five different criteria:
 
 * **Writing quality:** the overall quality and readability of the content the blog normally produces
-
-
 * **Consistency:** how often the blog produces new content
-
-
 * **Longevity:** the length of time the blog has been around, which often indicates the trustworthiness and authority of its content
-
-
 * **Technical depth:** the level of technical detail you can expect to find on the blog
-
-
 * **Broad usefulness:** how many different interests, disciplines, and skill levels the blog appeals to
 
 

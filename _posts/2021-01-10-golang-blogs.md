@@ -7,6 +7,7 @@ categories: technical-blogs
 author: zara
 date: 2021-01-10T19:18:47.165Z
 img: /assets/posts/golang.png
+cta: Content Ideas
 ---
 Go recently turned eleven, so you can imagine how much the language and its ecosystem have evolved through the years. A strongly typed language, it’s become increasingly popular with its garbage collection and concurrency support. It’s massively performant, scalable, and resource-use efficient. Small wonder that Go is applied across a multitude of areas these days, including web applications, microservices, cloud computing, web servers, and other systems/tools.
 

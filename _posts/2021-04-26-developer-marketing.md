@@ -20,7 +20,7 @@ All this leads to a big question for marketing professionals who want to reach d
 ## How Can You Make Your Developer Marketing Efforts Stand Out?
 While I’ll admit that companies are getting better at reaching software developers and there are [more software developers to reach](https://www.statista.com/statistics/627312/worldwide-developer-population/), marketers still ask me this question all the time. I spent ten years as a hands-on software developer and technical leader before [starting Draft.dev](https://draft.dev), so I have some thoughts on both sides of this topic.
 
-Generally, **the keys to good developer marketing are [authenticity and understanding your audience](https://draft.dev/learn/posts/6-tips-for-b2d-marketing)**. This means you need to spend time with developers—online or in-person—to understand how they think and talk about services they buy. I already mentioned that developers might be averse to marketing, but on the other hand, they tend to be [averse to doing boring work](https://swizec.com/blog/programmers-are-fucking-lazy), too. So if you can find a way to position your product as genuinely helpful (and ideally, something their employer can pay for), developers will be happy to give it a try.
+Generally, **the keys to good developer marketing are [authenticity and understanding your audience](https://draft.dev/learn/b2d-marketing-tips)**. This means you need to spend time with developers—online or in-person—to understand how they think and talk about services they buy. I already mentioned that developers might be averse to marketing, but on the other hand, they tend to be [averse to doing boring work](https://swizec.com/blog/programmers-are-fucking-lazy), too. So if you can find a way to position your product as genuinely helpful (and ideally, something their employer can pay for), developers will be happy to give it a try.
 
 What’s more, software developers are a well-connected bunch. Sure, we may look quiet sitting behind keyboards with headphones on, but we talk a lot in forums where we feel comfortable. That means that viral marketing and word-of-mouth is just as important in developer marketing as it is anywhere else. The next step for you, dear marketer, is finding developers.
 
@@ -47,7 +47,7 @@ Big companies like Amazon use a combination of speaking, sponsoring, and running
 Content created for developers takes many forms:
 
 - **Documentation** is important, especially if your company sells a complex product, but very few businesses use [documentation as a marketing channel](https://clickhelp.com/clickhelp-technical-writing-blog/technical-documentation-as-a-marketing-tool/).
-- **[Tutorials and guides](https://draft.dev/learn/writing/technical-tutorials)** can help users see how to use your product in the real world. This can help augment your documentation and might be more illustrative.
+- **[Tutorials and guides](https://draft.dev/learn/technical-tutorials)** can help users see how to use your product in the real world. This can help augment your documentation and might be more illustrative.
 - **Awareness-driving content** is written to increase the top of your funnel, and might be published on external partner sites for more reach. Places like Dev.to, HackerNoon, and DZone all allow you to publish developer content for free.
 - **Blog posts** on your own website allow you to engage readers and increase newsletter signups (assuming you have some sort of email capture).
 
@@ -96,7 +96,7 @@ One of the best examples of using open source as a marketing tool is [Automattic
 ![Automattic’s open-source tool, WordPress](https://i.imgur.com/VcmdOHE.png)
 
 ## Tips for Developer Marketing
-Now that you have a better idea of the viable marketing channels you can use in developer marketing, I’ll leave you with five quick tips that [I outlined in more detail here](https://draft.dev/learn/posts/6-tips-for-b2d-marketing):
+Now that you have a better idea of the viable marketing channels you can use in developer marketing, I’ll leave you with five quick tips that [I outlined in more detail here](https://draft.dev/learn/b2d-marketing-tips):
 
 1. **Be authentic** and genuinely helpful. Developers are smart, and they know when they’re being sold to.
 2. **Spend time with them** online or offline. I think the best marketers know their audience _extremely_ well, and the only way to do that is to mingle with them.

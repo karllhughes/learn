@@ -1,17 +1,18 @@
 ---
 layout: post
-title: 50+ Ideas for Your Startup's Blog
+title: 50+ Startup Blog Ideas
 description: "Coming up with ideas for your startup's blog can be mentally taxing. In this post, I'll share 52 creative ideas that you can use on your blog."
-categories: posts
+categories: content-marketing
 author: karl
 date: 2021-01-03T17:23:38.564Z
 img: /assets/posts/startup-blog-ideas.jpg
+cta: Playbook
 ---
 Coming up with ideas for your startup's blog can be mentally taxing. While [keyword research](/learn/topic-clusters) can help you find opportunities in Google results, it can leave your blog topics feeling a little bit flat.
 
 ## Three Steps to Generate Blog Ideas
 
-One strategy is to publish a mix of SEO-driven content with more creative, shareable posts that help you build organic backlinks and social proof. If you want to make sure you always have some ideas in the hopper, you need to put a healthy backlog of creative blog post ideas into [your publishing calendar](https://draft.dev/learn/airtable-publishing-calendar).
+One strategy is to publish a mix of SEO-driven content with more creative, shareable posts that help you build organic backlinks and social proof. If you want to make sure you always have some ideas in the hopper, you need to put a healthy backlog of creative blog post ideas into [your publishing calendar](/learn/airtable-publishing-calendar).
 
 <!-- signup -->
 

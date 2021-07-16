@@ -18,7 +18,7 @@ In this post, I’m going to share 26 low-cost or free content marketing ideas. 
 
 This first section of ideas are all about content. People who are just starting out on their writing journey often have a hard time coming up with topics to write about. The suggestions here are pretty much universal, but they’re also relatively easy to write (or hire a freelancer to write cheaply).
 
-_Note: If you’re looking for more blog post ideas specifically, [check out this huge list for a place to start](https://draft.dev/learn/posts/startup-blog-ideas)._
+_Note: If you’re looking for more blog post ideas specifically, [check out this huge list for a place to start](https://draft.dev/learn/startup-blog-ideas)._
 
 ![Idea light bulb](https://i.imgur.com/e1C5bAu.jpg)
 
@@ -172,7 +172,7 @@ If you ever might run advertisements for your business, you want to use retarget
 ### Idea 23: Do a Content Audit
 **Example:** [Ahrefs’ content audit strategy](https://ahrefs.com/blog/content-audit/)
 
-A _content audit_ is about figuring out what content you have on your site, how well it’s doing, and what content you should have. I did one a few months ago [when I started refreshing my old blog](https://draft.dev/learn/posts/refreshing-blog-posts), and traffic went up considerably after I started implementing some changes. While tools like Ahrefs or SEMRush can help, you can use their free trials or just Google Analytics and Search Console to cover the basics.
+A _content audit_ is about figuring out what content you have on your site, how well it’s doing, and what content you should have. I did one a few months ago [when I started refreshing my old blog](https://draft.dev/learn/refreshing-blog-posts), and traffic went up considerably after I started implementing some changes. While tools like Ahrefs or SEMRush can help, you can use their free trials or just Google Analytics and Search Console to cover the basics.
 
 ### Idea 24: Learn Google Analytics and Search Console
 **Example:** [Google Analytics vs. Search Console](https://www.rivalmind.com/making-the-most-of-googles-tools-google-analytics-vs-google-search-console)

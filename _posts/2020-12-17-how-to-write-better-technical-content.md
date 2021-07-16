@@ -136,7 +136,7 @@ If you’re writing technical tutorials, you should create the demo application 
 
 If you’re a new technical writer, it’s probably hard to know how to start organizing technical content. There are four [commonly accepted methods](https://www.grammarly.com/blog/organization-tips-for-writers/) that I push people towards:
 
-1. **Chronological** - [Tutorials](https://draft.dev/learn/posts/technical-tutorials) are typically organized from first step to last.
+1. **Chronological** - [Tutorials](https://draft.dev/learn/technical-tutorials) are typically organized from first step to last.
 2. **Importance** - When presenting multiple options or comparing factors between tools, it’s usually a good idea to order them by importance.
 3. **Problem and Solution** - I like framing posts around problems and solutions when they’re aimed at technical decision-makers.
 4. **Roundups (aka Listicles)** - This method works well when you want to make information more scannable.
@@ -245,7 +245,7 @@ Software engineers do this by tinkering with new frameworks and languages. Produ
 ## 7. Tell People
 > “Distribution is the secret of the most successful blogs. Writing well is the cost of entry, but distribution takes you to the top.” - [David Perell](https://www.perell.com/blog/the-ultimate-guide-to-writing-online)
 
-I’ve been [refreshing blog posts on my personal blog](https://draft.dev/learn/posts/refreshing-blog-posts) for the past couple of months. To illustrate the power of distribution, here’s the traffic on one of my old posts over the past year:
+I’ve been [refreshing blog posts on my personal blog](https://draft.dev/learn/refreshing-blog-posts) for the past couple of months. To illustrate the power of distribution, here’s the traffic on one of my old posts over the past year:
 
 ![Traffic to an old blog post before I promoted it](https://i.imgur.com/4WDWFoK.png)
 

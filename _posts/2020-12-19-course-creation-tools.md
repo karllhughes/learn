@@ -8,6 +8,7 @@ categories: tools
 author: karl
 date: 2021-03-29T10:44:18.221Z
 img: /assets/posts/zyzhj4u.jpg
+cta: Content Ideas
 ---
 
 If your product requires specialized knowledge or if you're trying to position yourself as a thought leader, creating an online course could be a great marketing strategy. Online courses can [even be businesses in their own right](https://www.thepennyhoarder.com/make-money/how-to-create-online-courses/). Many people are more comfortable taking courses online so they don't have to leave home, but if you're trying to create one, where do you start?

@@ -8,6 +8,7 @@ categories: technical-blogs
 author: sebastian
 date: 2020-12-20T00:56:12.303Z
 img: /assets/posts/c-sharp-blogs.png
+cta: Content Ideas
 ---
 C# is a language loved by its users for being versatile, productive, and keeping up with the current problems programmers need to solve. For example, maintainers have added functional programming concepts to the primarily imperative C# language, adding the powerful query-functionality in LINQ, and smoother handling of asynchronous programming with the `async`/`await`-syntax.
 

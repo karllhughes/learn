@@ -6,6 +6,7 @@ date: 2020-11-15
 description: "We write hundreds of technical tutorials every year, so in this post, we've collected some of our top tips for writing great software development tutorials."
 categories: writing
 img: /assets/posts/technical-tutorial.png
+cta: Content Ideas
 ---
 
 Technical tutorials offer compact lessons on various technical subjects from general programming to web development to large scale infrastructure and beyond. They are usually short enough to be digested in one sitting (1500 to 3000 words) and aim to solve a specific problem using a particular technology or set of technologies.
