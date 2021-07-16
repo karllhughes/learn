@@ -1,13 +1,14 @@
 ---
 layout: post
 title: How to Find a Technical Writer for Hire
-description: How to find the best technical writers
-categories: posts
+description: "In this post, you'll learn how to find freelance technical writers to help you produce blog posts and other content online."
+categories: content-marketing
 author: karl
 date: 2021-07-01T12:37:22.640Z
 img: /assets/posts/photo-1487528278747-ba99ed528ebc.jpg
+cta: Call
 ---
-Most companies that want to [start a technical blog](https://draft.dev/learn/posts/three-questions) just need a few writers to produce a steady stream of content. But that is easier said than done. Very few software developers have the capacity and desire to write blog posts for their marketing efforts, and non-technical writers won’t [be able to speak with the authenticity required](https://draft.dev/learn/b2d-marketing-tips).
+Most companies that want to [start a technical blog](https://draft.dev/learn/three-questions) just need a few writers to produce a steady stream of content. But that is easier said than done. Very few software developers have the capacity and desire to write blog posts for their marketing efforts, and non-technical writers won’t [be able to speak with the authenticity required](https://draft.dev/learn/b2d-marketing-tips).
 
 We’ve written hundreds of technical blog posts for our clients this year, and I recently announced that [our team of technical writers has grown to fifty people across twenty-seven countries](https://twitter.com/KarlLHughes/status/1384234165231525898). We are in a unique position at [Draft.dev](https://draft.dev), as we cover a wide variety of topics, but a lot of people often ask me how we’ve achieved this.
 

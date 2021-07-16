@@ -20,7 +20,7 @@ In the early days, you might have to manage, plan, and write everything yourself
 There are a few tricks you can use to maximize your output when you’re the only writer though:
 
 *   Publish [interviews with customers or team members](https://www.codeinwp.com/blog/guide-to-blog-interviews/)
-*   Transcribe [conference talks and turn them into blog posts](https://draft.dev/learn/posts/conference-talk-to-post)
+*   Transcribe [conference talks and turn them into blog posts](https://draft.dev/learn/conference-talk-to-post)
 *   Ask partners to collaborate with you on posts
 *   [Republish](https://www.impulsecreative.com/blog/best-practices-for-reposting-blogs-aka-content-syndication) (with permission) content from the community
 
@@ -40,11 +40,11 @@ The challenge here is that other people in your company have a job to do, and it
 
 > "I have always depended on the kindness of strangers." - Blanche DuBois, A Streetcar Named Desire
 
-If you have a budget for creating content, you can probably find customers, community members, or freelancers who will be willing to write content for your blog. Many companies have [paid writing programs](https://github.com/malgamves/CommunityWriterPrograms) that you can reference for inspiration.
+If you have a budget for creating content, you can probably find customers, community members, or freelancers who will be willing to [write content for your blog](/learn/technical-writer-for-hire). Many companies have [paid writing programs](https://github.com/malgamves/CommunityWriterPrograms) that you can reference for inspiration.
 
 Hiring outside freelancers is a great way to get new voices, but it presents its own challenges. You have to manage writers who probably have a full-time job. Even if they're good writers, they aren’t going to jeopardize their job for a few hundred bucks.
 
-Second, to cover a wide range of topics, you’ll need a variety of writers. The more writers you have to manage, the more overhead you'll incur. If you hire people outside the country or in certain states, you might have to worry about the legal ramifications of sending them money or [whether they’re considered a “contractor” or not](https://www.thebalancesmb.com/what-is-the-abc-test-for-independent-contractors-4586615).
+Second, to cover a wide range of topics, you’ll need a variety of writers. The more writers you have to manage, the more overhead you'll incur. If you hire people outside the country or in certain states, you might have to worry about the legal ramifications of [paying them](/learn/paying-freelance-writers) or [whether they’re considered a “contractor” or not](https://www.thebalancesmb.com/what-is-the-abc-test-for-independent-contractors-4586615).
 
 ### Option 4: Work with a technical blogging agency
 

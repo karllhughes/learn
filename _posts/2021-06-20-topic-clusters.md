@@ -4,10 +4,11 @@ title: Topic Clusters and Keyword Research for Technical Content
 description: A “topic cluster” is a method for intentionally building content
   designed to rank well in search engines (especially Google). Here's our
   process for building topic clusters with our clients at Draft.dev.
-categories: posts
+categories: processes
 author: karl
 date: 2021-06-20T15:57:03.929Z
 img: /assets/posts/topic-clusters.png
+cta: Call
 ---
 When I started [Draft.dev](https://draft.dev), I wanted us to keep our scope as narrow as possible. This focus on producing technical content aimed at software developers helped us standardize things like our [content briefs](https://draft.dev/learn/content-plan), the [types of content we create](https://draft.dev/content-types), and more. By standardizing everything, we have been able to consistently deliver **high-quality technical content** to satisfied clients around the world.
 
@@ -17,7 +18,7 @@ Today, I’m happy to announce that we’re officially launching **SEO keyword r
 
 ## What Are “Topic Clusters”?
 
-First, if you’re not an SEO expert, you might not be familiar with the term. A “[topic cluster](https://blog.hubspot.com/marketing/topic-clusters-seo)” is a method for intentionally building content designed to rank well in search engines (especially Google).
+First, if you’re not an SEO expert, you might not be familiar with the term. A “[topic cluster](/learn/topic-clusters)” is a method for intentionally building content designed to rank well in search engines (especially Google).
 
 The idea is that by writing several pieces of content that are related, you can develop a really valuable “pillar piece” supported by a handful of “supporting pieces.” By targeting keywords that have relatively low keyword difficulty and decent volume, you can ensure that some of your supporting pieces rank on the first page of search results quickly.
 
@@ -63,7 +64,7 @@ At the end of this process, we supply clients with a simple, easy-to-understand 
 
 ![Finished topic clusters](https://i.imgur.com/fs2kLz7.png)
 
-Sometimes this requires a couple of iterations, but it’s usually a quick process, adding just a week to our [standard client onboarding timeline](https://draft.dev/learn/posts/how-draft-dev-works-with-clients).
+Sometimes this requires a couple of iterations, but it’s usually a quick process, adding just a week to our [standard client onboarding timeline](https://draft.dev/learn/client-onboarding).
 
 Once we’ve locked in the topics and agreed to the briefs, we’ll start production. With 50+ technical writers in our pool, we can cover almost any software development topic, and we’re always willing to recruit specialists when the project calls for it.
 

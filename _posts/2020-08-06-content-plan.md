@@ -17,7 +17,7 @@ There are two mistakes that most companies make when they decide to pursue techn
 I recently wrote about [how I recommend starting with a checklist to promote your blog posts](https://draft.dev/learn/promotion). While I could say more, I’m going to focus on the first problem: **creating a technical content plan.**
 
 ## What is a Content Plan?
-Most companies that start a blog have a higher-level strategy. They know [why they want to start creating content](https://draft.dev/learn/posts/three-questions) but rarely dive into the specific article ideas and resources they want to create.
+Most companies that start a blog have a higher-level strategy. They know [why they want to start creating content](https://draft.dev/learn/three-questions) but rarely dive into the specific article ideas and resources they want to create.
 
 **A content plan is a detailed outline of the content you want to produce for your blog.**
 

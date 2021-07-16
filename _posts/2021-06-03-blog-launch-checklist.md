@@ -2,18 +2,20 @@
 layout: post
 title: A Blog Launch Checklist
 description: blog launch checklist
-categories: posts
+categories: content-marketing
 author: richard
 date: 2021-06-03T20:34:49.841Z
 img: /assets/posts/32a7f02c.png
+cta: Content Ideas
 ---
-
 
 A blog isn’t just about putting words on a page for Google. It’s a window into your business.
 
 A blog is a powerful tool in your business arsenal, and unlike adverts—where you put yourself in front of people in the hope they’ll like it—a blog attracts people to you. It’s an opportunity to create a new relationship through education, information, humor, shared values, or simply a need for what you offer.
 
 By blogging, you give yourself the chance to be found by potential customers all over the world. But it’s not a golden ticket to growth. There’s a right way and a wrong way to build a blog, and just like there are millions of incredible artists, musicians, writers, and other creatives that success eludes, your ability to create a great blog is only part of the equation.
+
+<!-- signup -->
 
 While your content needs to be good enough to retain the visitors it attracts, most of a blog’s success is the result of what happens after you hit publish—at least in its early days. Your blog also needs a solid purpose. The internet is awash with unread blogs, and there are three big reasons why:
 

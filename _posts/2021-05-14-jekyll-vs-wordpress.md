@@ -7,14 +7,16 @@ categories: platforms
 author: richard
 date: 2021-05-13T23:17:51.037Z
 img: /assets/posts/725c1b8e.png
+cta: Content Ideas
 ---
-
 
 There are many choices when it comes to building a website or blog, catering to every level of technical knowledge. It can be overwhelming, especially because once you’ve chosen one, you probably won’t want to migrate to another one in the near future.
 
 This post compares two of the heavyweights: [WordPress](https://wordpress.com/) and [Jekyll](https://jekyllrb.com/). 
 
 Both are open source and very capable platforms, but with significant usability differences. WordPress is a content management system (CMS) that creates dynamic websites, with tens of thousands of plug-ins that expand the functionality of the site. Jekyll is a static site generator, so you build sites by generating static files (such as HTML) with your computer’s command line, and as such, there isn’t a database.
+
+<!-- signup -->
 
 While WordPress’s popularity isn’t likely to go away anytime soon, its position as an all-around system means there are instances where it offers more than you need. Like having a full toolbox when you just need a screwdriver. Jekyll, and other lightweight alternatives, offer a stripped-back experience that aims to provide only what you need, and no more.
 

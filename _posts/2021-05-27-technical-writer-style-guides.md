@@ -6,6 +6,7 @@ categories: writing
 author: nicolas
 date: 2021-05-27T23:01:57.754Z
 img: /assets/posts/tech-style-guides.jpg
+cta: Content Ideas
 ---
 Great US soccer player Mia Hamm famously said, "It is more difficult to stay on top than to get there," which suggests that consistency is a highly desirable trait. In the field of technical writing, consistency is crucial because it provides the sense of confidence and continuity that every tech product needs to engage a user base. Also, consistency creates opportunities to build communities around technical documentation.
 
@@ -13,7 +14,9 @@ How do you make your technical documentation more consistent? One of the first s
 
 Since style guides cover so much ground, they can be a chore to create from scratch. Fortunately, many companies make their own technical writing style guides available publicly, so you can analyze their strengths as you create your own style.
 
-## Draft.dev
+<!-- signup -->
+
+## Draft.dev Style Guide
 
 Draft.dev [Technical Blogging Style Guide](https://draft.dev/learn/styleguide) is a good place to start. It’s used by several technical writers who cover a variety of topics, mainly because it sets down the basics of style decoupled from any context that’s too specific. This guide breaks style into the following four sections:
 - **Voice:** It recommends using the second person (_you, yours_) to engage the reader and establish a clear point of view.

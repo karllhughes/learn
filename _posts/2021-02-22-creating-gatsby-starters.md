@@ -10,7 +10,7 @@ img: /assets/posts/gatsby-starters.png
 cta: Content Ideas
 ---
 
-[GatsbyJS](https://www.gatsbyjs.com/) is an open-source [React](https://reactjs.org/)-based, [GraphQL](https://graphql.org/) powered static site generator. You can create blazingly fast websites in minutes using Gatsby, and many [technical companies use it for their blogs](https://draft.dev/learn/posts/blogging-platforms).
+[GatsbyJS](https://www.gatsbyjs.com/) is an open-source [React](https://reactjs.org/)-based, [GraphQL](https://graphql.org/) powered static site generator. You can create blazingly fast websites in minutes using Gatsby, and many [technical companies use it for their blogs](https://draft.dev/learn/technical-blog-platforms).
 
 [Gatsby Starters](https://www.gatsbyjs.com/docs/starters/) are boilerplates that you, as a developer, can use to set up a new site with preconfigured tools and plugins instantly. You can modify and build on top of the starters to speed up your development process.
 

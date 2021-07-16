@@ -13,7 +13,7 @@ As your blog grows and you [get more writers to contribute](https://draft.dev/le
 
 Generally, **a style guide includes expectations for your contributors**. Depending on your priorities, you may include more or less information than we do at [Draft.dev](https://draft.dev), but our style guide should give you an excellent place to start. We send this style guide to all new contributors to ensure they are familiar with our expectations, and we refer to this guide throughout the editing process.
 
-Of course, ours is not the only example of a technical writing style guide. If you're looking to compare your options, check out [Google's developer documentation style guide](https://developers.google.com/style), [DigitalOcean's technical writing guidelines](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines), and some of the [other guides here](/learn/10-technical-writing-style-guides-you-can-use). If you're creating a style guide, I'd recommend reading over several and deciding what you want to include in yours.
+Of course, ours is not the only example of a technical writing style guide. If you're looking to compare your options, check out [Google's developer documentation style guide](https://developers.google.com/style), [DigitalOcean's technical writing guidelines](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines), and some of the [other guides here](/learn/technical-writer-style-guides). If you're creating a style guide, I'd recommend reading over several and deciding what you want to include in yours.
 
 ## The Draft.dev Technical Blogging Style Guide
 

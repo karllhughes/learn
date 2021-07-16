@@ -3,10 +3,11 @@ layout: post
 title: How Draft.dev Works with Clients
 description: "Transparency is the key when working with clients. This article is
   about how Draft.dev mastered it. "
-categories: posts
+categories: processes
 author: karl
 date: 2021-05-20T22:23:33.311Z
 img: /assets/posts/8rgfmmj.jpg
+cta: Call
 ---
 Since I started [Draft.dev](http://draft.dev/), our team and the number of clients we work with has grown a lot. With this growth has come the need for robust, consistent processes that help us ensure that each client gets the absolute best, highest-quality technical content possible.
 
@@ -36,7 +37,7 @@ Clients have two options for deciding on the topics they want us to write about:
 
 If you have your own topics based on keyword research or conversations with customers, we’ll use them [to create a content plan for you](https://draft.dev/learn/content-plan). If you don’t, our topic discovery process is a great option. Using search engine keyword research, we’ll define multiple topic clusters and topics that will help you **increase organic search engine traffic** to your blog.
 
-Our topic discovery process typically takes a week and requires very little input from you, so it will save you a lot of time if you’re not already familiar with building [topic clusters](https://blog.hubspot.com/marketing/topic-clusters-seo).
+Our topic discovery process typically takes a week and requires very little input from you, so it will save you a lot of time if you’re not already familiar with building [topic clusters](/learn/topic-clusters).
 
 ### 4. Approve Briefs and Outlines
 With topics in hand, we’ll create detailed briefs and outlines for each piece. By breaking down each post and detailing the exact expectations before we start writing, we can ensure that expectations are clear for our writers and editors.

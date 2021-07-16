@@ -2,16 +2,19 @@
 layout: post
 title: 5 Options for Paying Freelance Technical Writers
 description: Paying freelance writers, see the options
-categories: posts
+categories: content-marketing
 author: meagan
 date: 2021-06-11T01:28:53.360Z
 img: /assets/posts/photo-1499951360447-b19be8fe80f5.png
+cta: Content Ideas
 ---
 If you haven’t tapped into the gig economy yet, don’t worry — you will. Freelancing is bigger than ever, employing a massive **[1.1 billion people](https://ddiy.co/freelance-statistics/)** worldwide and generating a whopping 5% of the American GDP.
 
 A third of Fortune 500 companies hire freelancers, and it’s easy to see why. Forgoing benefits, PTO, and other employee costs, freelance technical writers are a huge boon to corporate businesses. There’s just one potential problem: paying them.
 
 Payments for freelance technical writers can take on many forms. From physical checks to payroll systems, it’s something that should and must get done before the first project is ever completed. But which option is the right one?
+
+<!-- signup -->
 
 In this roundup, we’ll take a closer look at how to pay for your gig talent, all without breaking the bank.
 

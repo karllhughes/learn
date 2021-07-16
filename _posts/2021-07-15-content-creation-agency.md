@@ -2,10 +2,11 @@
 layout: post
 title: What to Expect from a Content Creation Agency
 description: What to Expect from a Content Creation Agency
-categories: posts
+categories: content-marketing
 author: richard
 date: 2021-07-15T17:22:11.105Z
 img: /assets/posts/content-creation-agency.jpg
+cta: Playbook
 ---
 My grandmother, like most grandmothers, was a wise woman. She had a variety of lines that she would say with regularity, and one in particular always stands out:
 
@@ -91,7 +92,7 @@ Be sure to check their expertise, confirming that they know how to [write B2B co
 Once you’ve chosen an agency, it’s time to get down to business. They’ll want to learn as much about your company as possible: what you do, who your audience is, your tone of voice, branding, and so on. This is also where you will discuss deliverables—what types of content they will produce for you and how often, as well as any other responsibilities.
 It’s important for both sides to be clear on all responsibilities from the outset, as this will avoid any confusion down the road.
 
-The agency will have its own process for [working with clients](https://draft.dev/learn/posts/how-draft-dev-works-with-clients), from onboarding through to the first set of deliverables. Again, being up front about processes and expectations will help to ensure a smooth and pleasant partnership.
+The agency will have its own process for [working with clients](https://draft.dev/learn/client-onboarding), from onboarding through to the first set of deliverables. Again, being up front about processes and expectations will help to ensure a smooth and pleasant partnership.
 
 ### Possible Services an Agency Will Provide
 

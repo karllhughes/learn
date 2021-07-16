@@ -7,14 +7,16 @@ categories: platforms
 author: matias
 date: 2021-06-16T23:58:09.138Z
 img: /assets/posts/c4f82d27.png
+cta: Content Ideas
 ---
-![Hugo vs Gatsby](https://imgur.com/j9ScdkO.png)
 
 JAMStack, which stands for JavaScript, API, and Markup, is the latest buzzword in the world of web development. It aims to drop the complexity of your system, and helps you to deliver better apps in less time. As with any new innovation in tech, there is a plethora of companies offering competing JAMStack options. How can you choose which is the right one for you?
 
 There are two main types of JAMStack sites: static, in which assets are created at build time ahead of deployment, and directly served when the user creates the website; and dynamic, in which a server creates the content and assets every time a user lands on your site. 
 
 In this article, we’ll be focusing on static sites and comparing the two most popular solutions: [Hugo](https://gohugo.io/) and [Gatsby](https://www.gatsbyjs.com/). You’ll learn the advantages and disadvantages of each, and which one would be best for your specific use case.
+
+<!-- signup -->
 
 ## Why Static Sites?
 
@@ -144,10 +146,13 @@ So as both frameworks are free, this one is a tie.
 
 ### Community
 ![Hugo Community Discourse](https://i.imgur.com/nxK7FE4.png)
+
 ![Gatsby Community Resource](https://i.imgur.com/Ev4ZTuf.png)
 
 With every tool or technology, having an active community can be a huge bonus, particularly if you run into an issue that’s not covered by documentation. In this case, Gatsby is a clear winner, with a thriving and growing community complete with global events and conferences. 
 
 ## Conclusion
+
+![Hugo vs Gatsby](https://imgur.com/j9ScdkO.png)
 
 Both Gatsy and Hugo do a great job in every category that matters for comparison, with Gatsby drawing an ever-so-slight edge in the community aspect. But, I think it all boils down to your development team’s experience: if your team is already experienced with javascript and React, then Gatsby is an excellent choice to start right away, and if JavaScript is not a tool you have under your belt, then the learning curve of Hugo will be lower, so it can be a great alternative.
