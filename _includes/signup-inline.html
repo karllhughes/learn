@@ -1,7 +1,16 @@
+{% if include.cta == "Content Ideas" %}
+<div class="signup inline">
+  <h3>Want ideas for your next blog post?</h3>
+  <p>
+    <i class="fa fa-download"></i> Download <a href="https://draft.dev/ideas?utm_source=academy&utm_medium=inline&utm_campaign=post&utm_content={{ include.link }}"><strong>50 Winning Ideas for Your Startup's Blog</strong></a>
+  </p>
+</div>
+{% else %}
 <div class="signup inline">
   <h3>Want to reach more software developers?</h3>
   <p>
     <i class="fa fa-download"></i> Download <a href="https://draft.dev/playbook?utm_source=academy&utm_medium=inline&utm_campaign=post&utm_content={{ include.link }}"><strong>The Technical Content Manger's Playbook</strong></a>
   </p>
 </div>
+{% endif %}
 
