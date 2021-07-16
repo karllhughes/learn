@@ -1,18 +1,19 @@
 ---
 layout: post
-title: How to Create a Technical Blogging Style Guide
+title: The Draft.dev Technical Blogging Style Guide
 author: karl
 date: 2020-09-26
-description: "A style guide includes expectations for your contributors. In this post, we break down our technical blogging style guide."
-categories: posts
+description: "A style guide includes expectations for your contributors. In this post, we break down our technical blogging style guide at Draft.dev."
+categories: processes
 img: /assets/posts/styleguide.jpg
+cta: Call
 ---
 
 As your blog grows and you [get more writers to contribute](https://draft.dev/learn/finding-motivating-writers), you need to build documents and processes to help you maintain high quality and consistent style. To serve this goal, you should create a style guide to help writers and editors stay on the same page.
 
 Generally, **a style guide includes expectations for your contributors**. Depending on your priorities, you may include more or less information than we do at [Draft.dev](https://draft.dev), but our style guide should give you an excellent place to start. We send this style guide to all new contributors to ensure they are familiar with our expectations, and we refer to this guide throughout the editing process.
 
-Of course, ours is not the only example of a technical writing style guide. If you're looking to compare your options, check out [Google's developer documentation style guide](https://developers.google.com/style), [DigitalOcean's technical writing guidelines](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines), and some of the [other guides here](https://medium.com/technical-writing-is-easy/style-guides-for-technical-writers-72b011f84c4b). If you're creating a style guide, I'd recommend reading over several and deciding what you want to include in yours.
+Of course, ours is not the only example of a technical writing style guide. If you're looking to compare your options, check out [Google's developer documentation style guide](https://developers.google.com/style), [DigitalOcean's technical writing guidelines](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines), and some of the [other guides here](/learn/10-technical-writing-style-guides-you-can-use). If you're creating a style guide, I'd recommend reading over several and deciding what you want to include in yours.
 
 ## The Draft.dev Technical Blogging Style Guide
 
@@ -114,7 +115,7 @@ Good:
 
 > “Measuring programming progress by lines of code is like measuring aircraft building progress by weight.” - Bill Gates
 
-The bar for using images is even higher. You may not use images from another website unless they expressly allow it. If you need stock images, use a site like [Unsplash](https://unsplash.com/) or [one of the options here](https://draft.dev/learn/tools/stock-images).
+The bar for using images is even higher. You may not use images from another website unless they expressly allow it. If you need stock images, use a site like [Unsplash](https://unsplash.com/) or [one of the options here](https://draft.dev/learn/free-stock-images).
 
 #### The Conclusion
 Every article should include a 1-2 paragraph conclusion. This should restate the thesis of the article and remind readers what they learned. It may also include other resources readers can reference to learn more.

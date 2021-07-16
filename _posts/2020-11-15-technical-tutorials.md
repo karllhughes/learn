@@ -95,7 +95,7 @@ It’s always helpful to provide unique code, dependencies, and configuration fi
 A few things to keep in mind as you include code samples:
 
 - ***Break them down into digestible chunks***. Don't provide 80 lines of code and then tell your reader to copy and paste it. Better to choose smaller sections of code that are more digestible, making sure to explain what each line does.
-- **Format your code correctly**. Code that isn't formatted correctly is difficult to read and, therefore, difficult to understand. Find a [style guide](https://draft.dev/learn/posts/styleguide) for the language you're working in and make sure your code sticks to the standards agreed upon by the community.
+- **Format your code correctly**. Code that isn't formatted correctly is difficult to read and, therefore, difficult to understand. Find a [style guide](https://draft.dev/learn/styleguide) for the language you're working in and make sure your code sticks to the standards agreed upon by the community.
 - **Don't forget about file structure**. This usually only applies to large projects, especially when working with React or Ruby on Rails. In these frameworks, the location of your files can affect how and if it runs. It's sometimes helpful to provide the file name and path at the top of the code snippet in the form of a comment:
 
 ```Python

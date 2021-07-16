@@ -64,13 +64,13 @@ So what holds some founders back when it comes to content marketing?
 
 Usually, it’s the details:
 
-- Implementing editorial standards and a [style guide](https://draft.dev/learn/posts/styleguide)
-- [Creating a publishing calendar](https://draft.dev/learn/posts/publishing-calendar)
+- Implementing editorial standards and a [style guide](https://draft.dev/learn/styleguide)
+- [Creating a publishing calendar](https://draft.dev/learn/airtable-publishing-calendar)
 - Setting up a [blogging platform](https://draft.dev/learn/tools/startup-blogging-platforms)
 - [Finding writers](https://draft.dev/learn/finding-motivating-writers)
 - [Evaluating writers](https://draft.dev/learn/technical-writing-rubric)
 - [Writing briefs](https://draft.dev/learn/content-plan)
-- [Picking the perfect image](https://draft.dev/learn/tools/stock-images)
+- [Picking the perfect image](https://draft.dev/learn/free-stock-images)
 - [Coming up with new ideas](https://draft.dev/learn/posts/startup-blog-ideas)
 - Hiring an editor
 - [Promoting your content](https://draft.dev/learn/promotion)

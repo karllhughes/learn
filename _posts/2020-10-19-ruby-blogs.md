@@ -6,6 +6,7 @@ date: 2020-10-19
 description: "Stay on top of Ruby’s new features and best practices. Here are the 22 best Ruby blogs on the internet today."
 categories: technical-blogs
 img: /assets/posts/ruby-blogs.png
+cta: Content Ideas
 ---
 
 [Ruby](https://www.ruby-lang.org/en/) is a popular language used for building full-stack and backend web applications, so I set out to find the 22 best Ruby blogs publishing today. Developers who want to keep up with Ruby’s new features, frameworks, and best practices should keep up with the content they find most helpful.

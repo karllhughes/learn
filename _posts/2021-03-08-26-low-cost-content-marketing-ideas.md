@@ -58,7 +58,7 @@ Sharing other peoples’ ideas (with credit) might also make them want to share 
 
 ### Idea 6: Create a Graphic or Video Summarizing a Blog Post
 
-**Example:** [“Free Stock Image” post with embedded video showing how to use the images](https://draft.dev/learn/tools/stock-images)
+**Example:** [“Free Stock Image” post with embedded video showing how to use the images](https://draft.dev/learn/free-stock-images)
 
 Infographics were all the rage five years ago, but imagery can still be compelling. If you have existing blog posts or find good ones, you can create a graphic or video summarizing the post. This reuse of existing content will save you a lot of time over trying to create everything new from scratch, and readers might like the option to view rather than read the content.
 
@@ -102,7 +102,7 @@ If you have access to a significant portion of your target market (say through a
 
 Data does well in search engines, and if you can get some pull quotes as well, you’ll have some more free original content from your survey.
 
-_Note: I’ve created [a big list of survey tools here](https://draft.dev/learn/tools/surveys) to help you get started._
+_Note: I’ve created [a big list of survey tools here](https://draft.dev/learn/survey-tools) to help you get started._
 
 ### Idea 13: List Bloggers in Your Industry
 **Example:** [List of the best technical blogs on Draft.dev](https://draft.dev/learn/technical-blogs/)

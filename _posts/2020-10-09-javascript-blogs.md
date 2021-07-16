@@ -7,6 +7,7 @@ categories: technical-blogs
 author: matt
 date: 2020-10-09
 img: /assets/posts/octocat.jpg
+cta: Content Ideas
 ---
 
 JavaScript is used by [almost every website on the internet](https://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites), so I embarked on a quest to find the best active JavaScript blogs. Each of these sites demonstrates technical expertise, is relatively easy to comprehend, publishes content consistently, and has stood the test of time.

@@ -7,6 +7,7 @@ categories: technical-blogs
 author: keanan
 date: 2020-10-23
 img: /assets/posts/cloud-14.png
+cta: Content Ideas
 ---
 
 DevOps is a term that has become more and more popular in job postings and with those looking to break into the industry, especially over the past few years. However, one of the most challenging aspects of DevOps is understanding exactly what it is and how it's applied in the industry. I’ve rounded up some of the best devops blogs and resources to help you learn about the practice and keep up with changes as they come.
@@ -24,6 +25,8 @@ While not strictly a blog, the Arrested DevOps podcast was one of the first that
 - Broad Usefulness - 5
 
 **Total Score: 5**
+
+<!-- signup -->
 
 ### [The Microsoft Azure Blog](https://azure.microsoft.com/en-us/blog/)
 

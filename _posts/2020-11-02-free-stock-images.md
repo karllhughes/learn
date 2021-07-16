@@ -8,6 +8,7 @@ categories: tools
 author: karl
 date: 2020-11-02
 img: /assets/posts/stock-images.jpg
+cta: Content Ideas
 ---
 
 It’s really hard to justify paying for stock images on your blog when your startup is just getting off the ground.

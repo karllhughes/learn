@@ -3,9 +3,10 @@ layout: post
 title: Creating a Multi-Author Publishing Calendar in Airtable
 author: karl
 date: 2020-11-08
-description: "Airtable is a free content management system that is perfect for managing large blogs with multiple authors. Here's how we use it."
-categories: posts
+description: "Airtable is a free content management system that is perfect for managing large blogs with multiple authors. Here's how we use it for our publishing calendar."
+categories: tools
 img: /assets/posts/publishing-calendar.png
+cta: Content Ideas
 ---
 
 If you want to publish new content consistently, you have to plan for it. A publishing calendar will help hold you and your writers accountable for delivering content consistently.

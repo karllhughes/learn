@@ -15,7 +15,7 @@ Since style guides cover so much ground, they can be a chore to create from scra
 
 ## Draft.dev
 
-Draft.dev [Technical Blogging Style Guide](https://draft.dev/learn/posts/styleguide) is a good place to start. It’s used by several technical writers who cover a variety of topics, mainly because it sets down the basics of style decoupled from any context that’s too specific. This guide breaks style into the following four sections:
+Draft.dev [Technical Blogging Style Guide](https://draft.dev/learn/styleguide) is a good place to start. It’s used by several technical writers who cover a variety of topics, mainly because it sets down the basics of style decoupled from any context that’s too specific. This guide breaks style into the following four sections:
 - **Voice:** It recommends using the second person (_you, yours_) to engage the reader and establish a clear point of view.
 - **Content:** The guide recommends a certain structure for blog posts and demonstrates how to support claims with evidence while avoiding plagiarism.
 - **Conventions:** This section sets standards for formatting, such as using Markdown and how to add images to a post. 

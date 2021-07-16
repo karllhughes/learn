@@ -46,7 +46,7 @@ Once you approve the briefs and outlines, we’ll get them into our CMS and send
 ![Your team reads and approves each brief before we send it to a writer](https://i.imgur.com/LWAdWIq.jpg)
 
 ### 5. Production Starts
-At this point, we’ve already started recruiting writers, and now that your briefs are in our system, we will start assigning them to our writers. Because our writers are practicing software engineers (most with day jobs), you’ll likely have several writers assigned to your content over the course of the engagement. That said, our skilled editing team ensures that the quality and tone of each piece are consistent with our [style guide](https://draft.dev/learn/posts/styleguide) and your preferences.
+At this point, we’ve already started recruiting writers, and now that your briefs are in our system, we will start assigning them to our writers. Because our writers are practicing software engineers (most with day jobs), you’ll likely have several writers assigned to your content over the course of the engagement. That said, our skilled editing team ensures that the quality and tone of each piece are consistent with our [style guide](https://draft.dev/learn/styleguide) and your preferences.
 
 Finally, if your piece requires custom illustrations or application diagrams, we work with designers to create the assets you need. The goal is for each piece to come back to you _ready to publish_.
 

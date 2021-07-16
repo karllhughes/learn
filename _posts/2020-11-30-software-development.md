@@ -62,7 +62,7 @@ DigitalOcean might be the next great thing in the developer community. With thei
 
 ### [Smashing Magazine](https://www.smashingmagazine.com/)
 
-Visually appealing for web developers of all backgrounds, Smashing Magazine consistently provides long, technical reads about topics like JavaScript, React and web design in general.
+Visually appealing for web developers of all backgrounds, Smashing Magazine consistently provides long, technical reads about topics like [JavaScript](/learn/javascript-blogs), React and web design in general.
 
 * **Writing quality:** 5
 

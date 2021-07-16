@@ -81,7 +81,7 @@ Now that you understand the basic elements of a successful digital content strat
 I’ve been [collecting ideas for blog posts](https://draft.dev/learn/posts/startup-blog-ideas) for a while now because this is the most challenging thing for new content marketers to wrap their heads around. While there are specific strategies for this (e.g., SEO audits, copy competitors), the best advice is to **talk to customers**. Understand their struggles and create content that is genuinely helpful.
 
 ### 2. Standardizing Processes
-Most marketing teams start creating content in-house with just a couple of contributors, so it’s tempting to skip creating a [style guide](https://draft.dev/learn/posts/styleguide) or [publishing calendar](https://draft.dev/learn/posts/publishing-calendar). That’s fine for a while, but eventually, you’ll need standardized processes to help maintain consistency and drive results.
+Most marketing teams start creating content in-house with just a couple of contributors, so it’s tempting to skip creating a [style guide](https://draft.dev/learn/styleguide) or [publishing calendar](https://draft.dev/learn/airtable-publishing-calendar). That’s fine for a while, but eventually, you’ll need standardized processes to help maintain consistency and drive results.
 
 ### 3. Finding Writers
 There are generally [three ways to recruit content creators](https://draft.dev/learn/finding-motivating-writers) to help execute your digital content strategy:

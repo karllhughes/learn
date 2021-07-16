@@ -28,7 +28,7 @@ Readers will generally be sophisticated enough to sniff out flat-out advertising
 
 > “Be the most authoritative source, provide the most credible, researched and in-depth information. If the best format for your content is a listicle, that's fine. But don't write a listicle without thinking of all the other factors that matter to SEO.” - [SpiderGroupUK, Reddit](https://www.reddit.com/r/SEO/comments/bxsdel/are_listicle_articles_good_for_seo/)
 
-Roundups tend to perform well on search engines because the click-through rate is high. They tend to answer common queries like, “what are the best tools for continuous integration?” or [“what are the best Ruby blogs](https://draft.dev/learn/technical-blogs/ruby)?” So, when a searcher sees a list post that answers their question, they’re likely to click.
+Roundups tend to perform well on search engines because the click-through rate is high. They tend to answer common queries like, “what are the best tools for continuous integration?” or [“what are the best Ruby blogs](https://draft.dev/learn/ruby-blogs)?” So, when a searcher sees a list post that answers their question, they’re likely to click.
 
 As a company, you can harness these click-throughs to get more eyes on your product. In addition to suggesting the top solutions or tools for a problem, roundups often note which options work best for specific use cases, helping readers narrow their focus and isolate a path forward.
 
@@ -61,7 +61,7 @@ When you feel confident that you know who your audience is, it’s time to choos
 For a few examples of well-researched technical roundups, check out:
 * [Static analysis in JavaScript: 11 tools to help you catch errors before users do](https://blog.logrocket.com/static-analysis-in-javascript-11-tools-to-help-you-catch-errors-before-users-do/): I appreciated the structure here. You got a full understanding of static analysis in general and neatly promotes [LogRocket](https://logrocket.com/).
 * [The Many Roles of a Startup CTO] (https://www.karllhughes.com/posts/roles-of-startup-cto): More of a business-oriented roundup, this listicle offers clarity into the multi-task reality of a startup and offers recommendations for more resources, as well as a video for visual learners. 
-* [The Best DevOps Blogs](https://draft.dev/learn/technical-blogs/devops): This is a good example of a scored blog, with list items organized according to writing quality, consistency, longevity, technical depth, and usefulness.
+* [The Best DevOps Blogs](https://draft.dev/learn/devops-blogs): This is a good example of a scored blog, with list items organized according to writing quality, consistency, longevity, technical depth, and usefulness.
 
 ### Pay Attention to the Structure
 
@@ -75,7 +75,7 @@ Also, don’t forget to include some screenshots—it breaks up your long read i
 
 The tone and vocabulary you write with will have a definite impact on how your piece comes across. Consider how it matches with the tone of your company overall—are you more formal or more casual? Do you want to be seen as authoritative or edgy or laid-back? Now consider that general perception against the backdrop of the specific listicle you want to pull together. Is this topic better served by sticking to just the facts, or do you want to be more opinionated and expository? Do you want to take the time to define everything and produce, say, a 3,000-word article, or would it be better to keep things short and sweet and rely on readers to look up things on their own? Consider the main goal of your roundup and adjust your voice accordingly.
 
-For a more in-depth discussion of style, check out [Draft’s styleguide](https://draft.dev/learn/posts/styleguide).
+For a more in-depth discussion of style, check out [Draft’s styleguide](https://draft.dev/learn/styleguide).
 
 ### Promote Your Work 
 

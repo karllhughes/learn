@@ -44,7 +44,7 @@ By automating your social media efforts, you can queue up posts for the month ah
 
 **[Hootsuite](https://hootsuite.com/)** ($0) - Much like Tweetdeck, Hootsuite helps you manage multiple Twitter accounts, but Hootsuite takes it further. You can also schedule posts to other social networks, find new content automatically, and track your posts' performance.
 
-**[Social Share Preview](https://socialsharepreview.com/)** ($0) - Preview your site, landing page, or blog posts on social media before publishing them.
+**[Social Share Preview](https://socialsharepreview.com/)** ($0) - Preview your site, [landing page](/learn/landing-page-tools), or blog posts on social media before publishing them.
 
 **[Hubspot](https://www.hubspot.com/products/marketing/social-inbox)** ($0) - As part of Hubspot's marketing platform, you get a social media management tool.
 

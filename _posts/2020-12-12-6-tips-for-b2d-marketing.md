@@ -67,7 +67,7 @@ The best way to generate this kind of content is to hire people who can create i
 That said, if you’re looking to start creating technical content without a budget, there are a few things you can do to get started:
 
 ### Ask Your Company’s Engineers to Contribute
-It may be hard to get time on their calendars, but if technical content is a priority, use the resources you already have first. Give engineers a [style guide](https://draft.dev/learn/posts/styleguide) and [content brief](https://draft.dev/learn/content-plan) to help them produce better work.
+It may be hard to get time on their calendars, but if technical content is a priority, use the resources you already have first. Give engineers a [style guide](https://draft.dev/learn/styleguide) and [content brief](https://draft.dev/learn/content-plan) to help them produce better work.
 
 ### Interview an Expert
 Another strategy is to publish an interview with a technical expert. Get them to explain a topic and dig deep into the details. These experts can be at your company, or they could be partners, customers, or people in your network. Learning to [interview well](https://contentmarketinginstitute.com/2017/01/journalists-interviews-life/) is a valuable skill for any content marketer.

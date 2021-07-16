@@ -7,6 +7,7 @@ categories: tools
 author: karl
 date: 2020-10-24
 img: /assets/posts/survey-tools.jpg
+cta: Content Ideas
 ---
 
 Collecting surveys from your customers is one of the best ways to gauge how and why they’re interested in your product. Sometimes you may be surprised by what you learn, but more often, surveys are a great way to identify your strongest advocates and highlight their happiness.

@@ -7,6 +7,7 @@ categories: tools
 author: karl
 date: 2020-10-24
 img: /assets/posts/landing-page-tools.jpg
+cta: Content Ideas
 ---
 
 One challenge that every startup faces is attracting and engaging users. Whether you sell a software tool or a service, you need a way to quickly tell visitors about it and hook them into trying it. That’s where a landing page comes in.

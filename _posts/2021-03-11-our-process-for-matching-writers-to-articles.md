@@ -53,7 +53,7 @@ While this process is likely to change as we grow, our philosophy is likely to r
 Sometimes writers ask me what they can do if they want _more_ writing work with Draft.dev. While all our writers today are independent contractors and we can't guarantee a specific number of articles, here's what I tell them:
 
 ### Do Your Best on Every Article
-Delivering your work on time, consistently, and at high quality is the #1 thing writers can do to improve their chances of getting more work. Writers who [follow our style guide](https://draft.dev/learn/posts/styleguide), self-edit, follow the outlines and briefs, return assignments on time, and respond to revisions promptly will almost always get more assignments in the future.
+Delivering your work on time, consistently, and at high quality is the #1 thing writers can do to improve their chances of getting more work. Writers who [follow our style guide](https://draft.dev/learn/styleguide), self-edit, follow the outlines and briefs, return assignments on time, and respond to revisions promptly will almost always get more assignments in the future.
 
 Conversely, if you agree to write an article about a topic you don't know, and it goes poorly, you may not be considered for future work at all. When issues come up, or you realize an article is out of your depth, let us know as soon as possible so we can find another author.
 

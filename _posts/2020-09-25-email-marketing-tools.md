@@ -31,7 +31,7 @@ Here’s a rundown of great email marketing tools for startups and a little bit 
 
 **[ActiveCampaign](http://www.activecampaign.com/)** ($9) - Lets you create automated marketing workflows and manage emails and newsletters.
 
-**[ActiveTrail](https://www.activetrail.com/email_marketing_software/)** ($8) - ActiveTrail is an “All-in-One” marketing automation software. It offers various features, such as responsive mobile emails, SMS campaigns, sales boosters, and landing page builders.
+**[ActiveTrail](https://www.activetrail.com/email_marketing_software/)** ($8) - ActiveTrail is an “All-in-One” marketing automation software. It offers various features, such as responsive mobile emails, SMS campaigns, sales boosters, and [landing page builders](/learn/landing-page-tools).
 
 **[Aweber](https://www.aweber.com/)** ($0) - Allows you to create newsletters, AMP emails, dynamic content, and much more for free, if you have less than 500 subscribers. It also offers a nice drag-and-drop email builder and thousands of professional images.
 

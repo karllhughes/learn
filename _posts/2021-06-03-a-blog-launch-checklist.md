@@ -87,7 +87,7 @@ Grammarly works as your assistant, spotting spelling mistakes and offering impro
 
 ### 6. Set Up A Publishing Calendar
 
-Once you have everything set up and ready to go, it’s time to turn your attention to your [publishing calendar](https://draft.dev/learn/posts/publishing-calendar). This will help ensure the blog has regular posts, and if you have multiple writers a calendar keeps everyone accountable.
+Once you have everything set up and ready to go, it’s time to turn your attention to your [publishing calendar](https://draft.dev/learn/airtable-publishing-calendar). This will help ensure the blog has regular posts, and if you have multiple writers a calendar keeps everyone accountable.
 
 There are, as always, multiple options to choose from at various levels of complexity. 
 
@@ -97,7 +97,7 @@ Alternatively, you can choose from a dedicated [project management tool](https:/
 
 ### 7. Adopt A Style Guide
 
-A [style guide](https://draft.dev/learn/posts/styleguide) is optional, but if you want your blog to stand out and scream professionalism, it’s worth taking the time to create one.
+A [style guide](https://draft.dev/learn/styleguide) is optional, but if you want your blog to stand out and scream professionalism, it’s worth taking the time to create one.
 
 By having a style guide, you’re providing a consistent experience for readers, in exactly the same way that businesses use specific colors and fonts in their branding. The guide should include the voice of your blog, so posts don’t range from very formal to very informal, or first-to second-person. If readers enjoy the posts because they’re fun and light, they’ll be surprised and possibly disappointed to find a dense, humorless post.
 
@@ -135,7 +135,7 @@ Once the post is written, there are a few steps to take to help it really shine.
 
 First, edit the text. It’s good to have a person read over it—either yourself or someone else. Make sure the content makes sense and there aren’t obvious mistakes. This is also a good time to use [Hemingway](https://hemingwayapp.com) or [Grammarly](https://www.grammarly.com) for anything you may have overlooked.
 
-Second, add an image. If you have the resources then a custom image can be used, otherwise there’s nothing wrong with using [free stock images](https://draft.dev/learn/tools/stock-images).
+Second, add an image. If you have the resources then a custom image can be used, otherwise there’s nothing wrong with using [free stock images](https://draft.dev/learn/free-stock-images).
 
 Third, add your call to action (CTA). This should be in line with your key metrics, so if your goal is to increase the number of subscribers on your email list, the CTA could be an email signup. 
 
