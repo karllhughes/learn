@@ -8,6 +8,7 @@ categories: writing
 author: karl
 date: 2021-01-28T13:57:21.293Z
 img: /assets/posts/img_0990.png
+cta: Playbook
 ---
 
 I recently spoke to the CTO Craft community about [building a software engineering team blog](https://www.youtube.com/watch?v=lez5V41rwTs). Towards the end, we got into some specific writing tips for software engineers who struggle to create strong technical content.
@@ -27,6 +28,8 @@ This is a long post, so if you’d like to hop around, here’s what I’ll cove
 5. [Prove Your Point](#5-prove-your-point)
 6. [Invest in Interesting Ideas](#6-invest-in-interesting-ideas)
 7. [Tell People](#7-tell-people)
+
+<!-- signup -->
 
 ## 1. Don’t Expect to Be Very Good
 

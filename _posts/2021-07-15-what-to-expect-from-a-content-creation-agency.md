@@ -86,7 +86,7 @@ By choosing to work with an agency, you can expect the benefits of having an int
 
 The first step in the process is finding an agency that appeals to you. This will be a working partnership, so you need to be as happy with them as you would be with an internal member of staff.
 
-Be sure to check their expertise, confirming that they know how to [write B2B content effectively](https://draft.dev/learn/writing/how-to-do-b2b-writing-right). You can shortlist your favorites and have meetings with each one to help make a decision.
+Be sure to check their expertise, confirming that they know how to [write B2B content effectively](https://draft.dev/learn/b2b-writing). You can shortlist your favorites and have meetings with each one to help make a decision.
 
 Once you’ve chosen an agency, it’s time to get down to business. They’ll want to learn as much about your company as possible: what you do, who your audience is, your tone of voice, branding, and so on. This is also where you will discuss deliverables—what types of content they will produce for you and how often, as well as any other responsibilities.
 It’s important for both sides to be clear on all responsibilities from the outset, as this will avoid any confusion down the road.
@@ -98,7 +98,7 @@ The agency will have its own process for [working with clients](https://draft.de
 Agencies come in all sorts of shapes and sizes. Draft.dev creates written technical content aimed at reaching software developers, including handling topic planning and research. At the other end of the scale are “full-service” marketing agencies, which offer a wide range of marketing services typically including web design and social media management.
 And of course, there’s everything in between. [Brafton](https://www.brafton.com/) describes itself as a “creative content marketing agency,” offering blogs, email newsletters, and video production, while [SeedX](https://seedx.us/) creates content for industries as diverse as e-commerce stores and political campaigning.
 
-Needless to say, it’s essential that you hire an agency that’s capable of producing what you need. That means not only the *type* of service, but the quality of that work too. For example, it’s no secret that [developers are known to be averse to marketing](https://draft.dev/learn/posts/hands-on-with-developer-marketing), and strategies need to consider this. Therefore, not every agency will be capable of reaching developers effectively, whereas it’s what Draft.dev specializes in. On the other hand, if you want a new website and omni-channel marketing strategy, you’d need an agency that offers those.
+Needless to say, it’s essential that you hire an agency that’s capable of producing what you need. That means not only the *type* of service, but the quality of that work too. For example, it’s no secret that [developers are known to be averse to marketing](https://draft.dev/learn/developer-marketing), and strategies need to consider this. Therefore, not every agency will be capable of reaching developers effectively, whereas it’s what Draft.dev specializes in. On the other hand, if you want a new website and omni-channel marketing strategy, you’d need an agency that offers those.
 
 ## Conclusion
 

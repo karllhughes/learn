@@ -3,10 +3,11 @@ layout: post
 title: "Hugo vs. Jekyll: Which is Right for Your Blog?"
 description: Hugo and Jekyll are two of the most popular static site generators.
   This comparison explores the main features of both.
-categories: posts
+categories: platforms
 author: john
 date: 2021-04-06T08:43:43.718Z
 img: /assets/posts/hugovsjek-20.png
+cta: Content Ideas
 ---
 Static site generators create HTML sites, with predictable page layouts and content with regular presentation such as blogs. There are many frameworks that can leverage a programming language and allow you to reuse code and process assets for these HTML pages, but this article will compare two of the most popular: [Hugo](https://gohugo.io/) and [Jekyll](https://jekyllrb.com/).
 
@@ -19,6 +20,8 @@ With static HTML pages, the pages are pre-rendered, so the server doesn’t do a
 Static pages cut out the page generation, so the user receives their page much more quickly. Security risks are also smaller because there are fewer moving parts for attackers to infiltrate and exploit. Static HTML pages are easily cached, so they’re well suited to be served from content delivery networks (CDNs), making response times even faster.
 
 Because static pages don’t require servers to perform calculations or query the database, you can deploy them using very simple, low-cost hosting options like an [Amazon S3 bucket](https://docs.aws.amazon.com/AmazonS3/latest/userguide/HostingWebsiteOnS3Setup.html) or [GitHub Pages](https://pages.github.com/).
+
+<!-- signup -->
 
 ## Static Site Generators
 
@@ -44,7 +47,7 @@ Each framework also has different preferences about what languages it works well
 
 One of the main benefits of Jekyll is its ease of use, well-developed documentation, and broad support from major organizations like GitHub. Jekyll was released twelve years ago and helped kick off the new interest in static HTML sites. Hugo was released later and is less popular, so it has a less developed ecosystem of plug-ins and templates.
 
-GitHub topics offers a whopping [1,200 themes](https://github.com/topics/jekyll-theme) to choose from for Jekyll, while there are only 370 options offered on the Hugo [themes pages](https://themes.gohugo.io/). Obviously, it’s much more likely you’ll find a theme with the look you want with Jekyll. Jekyll is supported by GitHub, so if you want a simple, no-cost deployment, Jekyll works seamlessly with [GitHub Pages](https://pages.github.com/), so you can have a simple blog up and online very quickly by following GitHub’s [excellent documentation](https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll).
+GitHub topics offers a whopping [1,200 themes](https://github.com/topics/jekyll-theme) to choose from for Jekyll, while there are only 370 options offered on the Hugo [themes pages](https://themes.gohugo.io/) ([although, you can also create your own themes](/learn/creating-hugo-themes)). Obviously, it’s much more likely you’ll find a theme with the look you want with Jekyll. Jekyll is supported by GitHub, so if you want a simple, no-cost deployment, Jekyll works seamlessly with [GitHub Pages](https://pages.github.com/), so you can have a simple blog up and online very quickly by following GitHub’s [excellent documentation](https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll).
 
 Another difference between the frameworks is that creating a brand-new site with Jekyll by running the command `jekyll new my-awesome-site` installs a basic theme, while creating a new site with the `hugo new site my-awesome-site` command only generates the folder structure and an archetype file. With Jekyll, you’ll have something to work with right away, but with Hugo you’ll be looking at an empty screen waiting for you to add a theme or custom templates.
 

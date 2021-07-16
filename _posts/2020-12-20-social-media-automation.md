@@ -8,6 +8,7 @@ categories: tools
 author: karl
 date: 2021-03-15T09:35:25.433Z
 img: /assets/posts/sm-automation.jpg
+cta: Content Ideas
 ---
 Social media can be a time-consuming and mentally tasking chore. Many small business owners just skip social media, but after spending years posting consistently on my personal social media accounts, I can tell you that **it can work and it doesn't take as much time as you think**.
 

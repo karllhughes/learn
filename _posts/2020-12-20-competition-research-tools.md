@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Tools for Finding and Researching Your Competition
+title: Competition Research Tools
 description: Want to know what your competitors are up to? Here are 20+ tools
   for keeping up with your startup's competition.
 categories: tools
 author: karl
 date: 2021-03-22T10:29:15.383Z
 img: /assets/posts/competition.jpg
+cta: Content Ideas
 ---
 You may think that your startup stands alone - that it's truly unique in the market - but that's rarely true. In fact, having no competition might mean that your startup just isn't necessary. If there's a market of people willing to buy your product, they're probably spending their money elsewhere today. Your job is to find out where.
 

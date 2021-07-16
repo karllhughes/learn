@@ -7,6 +7,7 @@ categories: platforms
 author: ashutosh
 date: 2021-02-23T11:16:13.255Z
 img: /assets/posts/gatsby-starters.png
+cta: Content Ideas
 ---
 
 [GatsbyJS](https://www.gatsbyjs.com/) is an open-source [React](https://reactjs.org/)-based, [GraphQL](https://graphql.org/) powered static site generator. You can create blazingly fast websites in minutes using Gatsby, and many [technical companies use it for their blogs](https://draft.dev/learn/posts/blogging-platforms).
@@ -18,6 +19,8 @@ You might ask, why create your own starter? Why not just use an existing starter
 - To help other developers build a better site on Gatsby using unique features or designs.
 - To showcase it in the official Gatsby Starter Library and gain recognition for your work.
 - To promote your freelance services by creating a portfolio starter with your information. Every time someone uses your starter, they will see your portfolio.
+
+<!-- signup -->
 
 ### Tutorial Overview
 In this tutorial, I’ll show you how to build a [Gatsby](https://www.gatsbyjs.com/) starter from scratch using [MDX](https://mdxjs.com/) and [Styled Components](https://styled-components.com/), the best CSS-in-JS tool. If you want to jump right into the code, check out the [GitHub Repo here](https://github.com/lelouchB/gatsby-starter-blog), and check out [the deployed version here](https://lelouchb-gatsby-starter-blog.netlify.app/).

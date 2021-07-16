@@ -8,6 +8,7 @@ categories: tools
 author: karl
 date: 2021-03-01T13:03:44.286Z
 img: /assets/posts/chat.jpg
+cta: Content Ideas
 ---
 If you want to engage your customers at the moment they're considering buying your product or signing up for your service, there's no better way than live chat. You're probably familiar with Intercom or Autopilot because they've become so ubiquitous now, but there are _many_ other options out there.
 

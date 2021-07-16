@@ -3,10 +3,11 @@ layout: post
 title: 26 Low-Cost Content Marketing Ideas
 description: Here are 26 low-cost or free content ideas to help you build a
   library of original content
-categories: posts
+categories: content-marketing
 author: karl
 date: 2021-03-08T10:03:33.716Z
 img: /assets/posts/pennies-20.png
+cta: Content Ideas
 ---
 I talk to a lot of early-stage startups that aren’t sure about content marketing yet. I’ll admit, it’s usually not the best marketing channel to start with because it takes a long time to ramp up and a lot of prior knowledge to do well. That said, the payoff over years is huge.
 

@@ -3,10 +3,11 @@ layout: post
 title: Our Process for Matching Writers to Articles
 description: How to become a writer for Draft and create technical content for
   engineers and technology leaders
-categories: posts
+categories: processes
 author: karl
 date: 2021-03-11T07:51:27.002Z
 img: /assets/posts/aaron-burden-xg8iqmqmitm-unsplash.jpg
+cta: Call
 ---
 With a growing number of writers around the world and a growing roster of [clients who rely on us for top-notch technical content](https://draft.dev/), one of the challenges we face is making sure each assignment gets matched to the best technical writer possible. In this blog post, I'll outline our approach, which we share with writers and clients when they ask about this topic.
 
@@ -34,7 +35,7 @@ This is where it gets a little fuzzy, and I'll admit, sometimes challenging. Our
 So here's what we look at:
 
 1. **Proven knowledge of the topic** - We look at each writer's past work with us, their writing samples, and their work experience on Linkedin or GitHub to see if they have the technical skills needed for this article.
-2. **Proven ability for this type of writing** - Writing a [tutorial](https://draft.dev/learn/technical-tutorials) is _very different_ from writing a good [technical roundup](https://draft.dev/learn/writing/a-guide-to-writing-technical-roundups), and that's very different from a high-level guide.
+2. **Proven ability for this type of writing** - Writing a [tutorial](https://draft.dev/learn/technical-tutorials) is _very different_ from writing a good [technical roundup](https://draft.dev/learn/writing-technical-roundups), and that's very different from a high-level guide.
 3. **The writer's current work queue** - We rarely give writers more than one assignment at a time because we don't want to overwhelm them. Most articles require some revisions, so we don't want writers to overcommit and be unable to handle revision requests promptly.
 4. **Is this a new writer?** - We only accept a few applicants every month, but we try to give new writers a chance to prove themselves within their first few weeks. At the same time, we don't want to give them an assignment that is out of their depth, so we may reserve some "easier" pieces for new applicants.
 5. **When was their last article?** - As I mentioned above, we try to spread the work around, so if a writer hasn't gotten an article in a month or two, we might give them a slight priority over a writer who's just had a couple of pieces recently. This helps everyone get a fair shot and helps us maintain a diverse writer pool.

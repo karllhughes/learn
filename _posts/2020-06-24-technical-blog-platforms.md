@@ -29,6 +29,8 @@ A static site generator (SSG) is great because there is no time wasted on server
 
 Something else to consider is that Gatsby uses GraphQL to manage data through its plugin ecosystem. If you use something like [Netlify](https://www.netlify.com/) in conjunction with Gatsby, you can easily manage your content with the use of these plugins. Or, you can use their gatsby-image and gatsby-plugin-favicon to easily process and size your images. The biggest issue with Gatsby that users have that, due to not having a server, searching your site might be difficult. Learning to use it isn't very intuitive so be ready to dedicate a good portion of your time to that.
 
+_If you're using Gatsby, [you might also want to check out our guide to creating Gatsby starters](/learn/creating-gatsby-starters)._
+
 ### WordPress
 
 Almost everyone that uses the internet has heard of [WordPress](http://wordpress.org/). It's so common to click on a blog article and see that familiar logo that many people immediately reach for WordPress when they decide to create their own blog. We can trust that it's here for the long haul at this point. Something that can be a bit confusing is what the difference between WordPress.com and WordPress.org is and figuring out which one you're supposed to be using. 

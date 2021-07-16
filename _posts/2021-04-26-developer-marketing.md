@@ -4,16 +4,19 @@ title: Hands on with Developer Marketing
 description: Software developers are notoriously hard to reach through
   marketing. This article explains effective tactics to help you stand out to
   them.
-categories: posts
+categories: developer-marketing
 author: karl
 date: 2021-04-26T14:27:05.058Z
 img: /assets/posts/gustas-brazaitis-xnky-cu20d4-unsplash.jpg
+cta: Playbook
 ---
 Developers have a reputation of being averse to marketing, but that’s not necessarily true. Developers—like most savvy buyers—are averse to pushy, inept marketing, but with hundreds of thousands of software developers out there, it’s naive to speak about them in broad strokes on any topic.
 
 The truth is that developers are gaining more purchasing power and respect within companies of all sizes. Because good developers are hard to find and retain, employers recognize that it’s important to invest in tools to help them stay productive and happy.
 
 Meanwhile, developer tools have proliferated in recent years. A decade ago, all you had was an IDE and a bare metal server to run your application, but now the number of higher level abstractions and paid services is nearly endless. Software developers buy tools to test their code, collaborate with team members, deploy to servers, and run their databases. There are even [low-code tools](https://www.telerik.com/blogs/what-no-code-movement-means-for-software-developers) aimed at software developers who just want to spend less time writing boilerplate code.
+
+<!-- signup -->
 
 All this leads to a big question for marketing professionals who want to reach developers:
 

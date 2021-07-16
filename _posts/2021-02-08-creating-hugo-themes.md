@@ -7,6 +7,7 @@ categories: platforms
 author: siddhant
 date: 2021-02-08T18:19:06.799Z
 img: /assets/posts/hugo-themes.png
+cta: Content Ideas
 ---
 Lately, developers are adopting static site generators like [Hugo](https://gohugo.io/) to quickly deliver content to their audience. Frameworks like these cut down on issues that pop up with scalability, version control, managing dependencies, and performance.
 
@@ -15,6 +16,8 @@ Hugo in particular offers tons of features right out of the box for creating fas
 Hugo also has plenty of themes ready to go [right away](https://themes.gohugo.io/), but a prebuilt theme probably isn’t going to match your brand's vision. Most likely, you’re going to want a custom theme, something that affords you fine-grained control over things like color schemes, typography, and UI components.
 
 In this article, I’ll walk you through how to quickly customize your Hugo site for your desired brand and aesthetic by building your own theme.
+
+<!-- signup -->
 
 ##  How to Create a Multi-author Hugo Blog Theme  
 Specifically, I’ll demonstrate how to create a multi-author blog theme in Hugo. I’ll cover paginating multiple blog posts, adding tags or categories, setting up support for multiple authors, and adding some SEO considerations to give your site more presence on the web.

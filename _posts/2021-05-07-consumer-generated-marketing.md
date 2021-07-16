@@ -3,10 +3,11 @@ layout: post
 title: Successful Consumer-Generated Marketing for Technology Companies
 description: Consumer-Generated Marketing is an effective tactic. This article
   shares tips and examples for doing it right.
-categories: posts
+categories: content-marketing
 author: karl
 date: 2021-05-07T19:37:01.047Z
 img: /assets/posts/cdc9i9w.jpg
+cta: Playbook
 ---
 What was the last product you shared on Twitter?
 
@@ -15,6 +16,8 @@ Have you ever created a video showing people how to use a SaaS tool you love?
 Consumer-generated marketing (CGM) like this is one of the strongest forms of marketing a business can invest in. It’s authentic because it comes from customers instead of the company, it’s unique because it didn’t go through the company’s official “branding” rules, and it’s cost-effective because the company didn’t have to pay for it directly. In fact, they might be _making money_ from consumers generating this content!
 
 You can see why consumer-generated marketing is so appealing, but it’s also not easy to pull off. In this post, I’m going to show you how technology companies use consumer-generated marketing as a growth channel. I’ll share some of the reasons companies pursue this strategy, dissect some specific examples of it in use today, and offer some tips for implementing similar strategies.
+
+<!-- signup -->
 
 ## Why Consumer-Generated Marketing?
 Consumer-generated marketing broadly covers any form of marketing where your customers create marketing collateral for you. This might mean you encourage users to create reviews or videos of how they use your product, but it also might be less manufactured than that. For example, I share interesting tech tools on my blog and Twitter account frequently and most of the time nobody asked me to.
