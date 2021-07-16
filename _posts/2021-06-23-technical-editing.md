@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Field Guide to Technical Editing
-description: Guide to finding the best technical editors and writers
+description: Our tips for technical editors working with subject matter experts.
 categories: writing
 author: chris
 date: 2021-06-23T12:51:43.228Z
