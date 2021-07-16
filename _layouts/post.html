@@ -12,22 +12,19 @@ layout: main
     <h1 class="page-title">{{page.title}}</h1>
 
     <p class="post-meta">
-      {% if page.categories.size > 0 %}
       Published in
-        {% for category in page.categories %}
-          <a href="{{site.baseurl}}/{{ category | slugify }}/">{{ category }}</a>{% if forloop.last %}{% else %},{% endif %}
-        {% endfor %}
-      by
-      {% else %}
-      By
-      {% endif %}
-       {{author.name}}&nbsp;&nbsp;&nbsp;—&nbsp;
+      {% for category in page.categories %}
+        <a href="{{site.baseurl}}/{{ category | slugify }}/">{{ category }}</a>{% if forloop.last %}{% else %},{% endif %}
+      {% endfor %}
+      {% if page.author %}
+        by {{author.name}}&nbsp;&nbsp;
+      {% endif %}&nbsp;—&nbsp;
       {% capture words %}{{ page.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}
     </p>
 
     {% if content contains "<!-- signup -->" %}
       {{ content | split:"<!-- signup -->" | first | markdownify }}
-      {% include signup-inline.html link=page.id %}
+      {% include signup-inline.html link=page.id cta=page.cta %}
       {{ content | split:"<!-- signup -->" | last | markdownify }}
     {% else %}
       {{ content | markdownify }}
@@ -41,7 +38,7 @@ layout: main
       {% include author-bio.html %}
     {% endif %}
 
-    {% include signup.html link=page.id %}
+    {% include signup.html link=page.id cta=page.cta %}
 
     {% unless page.link %}
       {% include disqus.html %}

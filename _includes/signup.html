@@ -1,6 +1,30 @@
+{% if include.cta == "Content Ideas" %}
+<section class="signup">
+  <a href="https://draft.dev/ideas?utm_source=academy&utm_medium=banner&utm_campaign=post&utm_content={{ include.link }}">
+    <img alt="50 Ideas for Your Next Blog Post" src="/learn/assets/img/ideas.png" />
+  </a>
+  <h3>Want ideas for your next blog post?</h3>
+  <p>Kickstart your content marketing efforts. Download our list of 50+ winning ideas for your company's blog today.</p>
+  <div class="button-container">
+    <a class="button" href="https://draft.dev/ideas?utm_source=academy&utm_medium=banner&utm_campaign=post&utm_content={{ include.link }}">Download Now!</a>
+  </div>
+</section>
+{% elsif include.cta == "Call" %}
+<section class="signup">
+  <a href="https://draft.dev/call?utm_source=academy&utm_medium=banner&utm_campaign=post&utm_content={{ include.link }}">
+    <img alt="Schedule a Call" src="/learn/assets/img/ideas.png" />
+  </a>
+  <h3>Looking for content designed to reach software developers?</h3>
+  <p>We create blog posts and tutorials designed to reach software developers, data engineers, engineering managers, and technologists.
+    Book a call to learn more about Draft.dev today.</p>
+  <div class="button-container">
+    <a class="button" href="https://draft.dev/call?utm_source=academy&utm_medium=banner&utm_campaign=post&utm_content={{ include.link }}">Book a Call!</a>
+  </div>
+</section>
+{% else %}
 <section class="signup">
   <a href="https://draft.dev/playbook?utm_source=academy&utm_medium=banner&utm_campaign=post&utm_content={{ include.link }}">
-    <img alt="The Technical Content Manager's Playbook" src="https://draft.dev/learn/assets/img/playbook.jpg" />
+    <img alt="The Technical Content Manager's Playbook" src="/learn/assets/img/playbook.jpg" />
   </a>
   <h3>Build a Blog that Software Developers Will Read</h3>
   <p><a style="color: #ffffff;" href="https://draft.dev/playbook?utm_source=academy&utm_medium=banner&utm_campaign=post&utm_content={{ include.link }}">The Technical Content Manager’s Playbook</a> is a collection of resources you can use to manage a high-quality, technical blog:</p>
@@ -10,7 +34,7 @@
     <li>A technical blogging style guide</li>
   </ul>
   <div class="button-container">
-    <a class="button" href="https://draft.dev/playbook?utm_source=academy&utm_medium=banner&utm_campaign=post&utm_content={{ include.link }}">Download Your Free Copy Today!</a>
+    <a class="button" href="https://draft.dev/playbook?utm_source=academy&utm_medium=banner&utm_campaign=post&utm_content={{ include.link }}">Download Now!</a>
   </div>
 </section>
-
+{% endif %}
