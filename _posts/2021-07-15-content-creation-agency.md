@@ -5,7 +5,7 @@ description: What to Expect from a Content Creation Agency
 categories: content-marketing
 author: richard
 date: 2021-07-15T17:22:11.105Z
-img: /assets/posts/content-creation-agency.jpg
+img: /assets/posts/group-28.jpg
 cta: Playbook
 ---
 My grandmother, like most grandmothers, was a wise woman. She had a variety of lines that she would say with regularity, and one in particular always stands out:
