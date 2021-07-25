@@ -17,30 +17,28 @@ collections:
       - {label: "SEO Description", name: "description", widget: "string"}
       - {label: "Category", name: "categories", widget: "string"}
       - {label: "CTA", name: "cta", widget: "select", options: ["Content Ideas", "Playbook", "Call"]}
-      - {label: "Author", name: "author", widget: "string", default: "karl" }
+      - {
+        label: 'Author',
+        name: 'author',
+        widget: 'relation',
+        collection: 'authors',
+        display_fields: [ display_name ],
+        search_fields: [ display_name ],
+        value_field: 'name',
+      }
+      - {label: "Raw Author", name: "author", widget: "string", default: "karl" }
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "img", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
-#  - name: author
-#    label: Authors
-#    folder: "_authors"
-#    create: true
-#    slug: "{{slug}}"
-#    fields:
-#      - widget: string
-#        name: title
-#        label: Name
-#        required: true
-#        hint: >-
-#          The name of the author
-#      - widget: string
-#        name: short
-#        label: Short Name
-#        required: true
-#        hint: >-
-#          The post URL (do not include folder or file extension)
-#      - widget: markdown
-#        name: body
-#        label: Content
-#        required: true
-#        hint: Author bio
+  - name: authors
+    label: Authors
+    folder: "_authors"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Short Name", name: "name", widget: "string"}
+      - {label: "Name", name: "display_name", widget: "string"}
+      - {label: "Twitter Handle", name: "twitter", widget: "string"}
+      - {label: "Website", name: "website", widget: "string"}
+      - {label: "Profile Image", name: "img", widget: "image"}
+      - {label: "Bio", name: "bio", widget: "text"}
