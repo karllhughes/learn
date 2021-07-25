@@ -1,14 +1,14 @@
 <div class="author">
   {% if author.img %}
-  <img src="{{site.baseurl}}{{ author.img }}" class="author-image" alt="{{ author.name }}" />
+  <img src="{{site.baseurl}}{{ author.img }}" class="author-image" alt="{{ author.display_name }}" />
   {% endif %}
   <h4>
-    By {{ author.name }}
+    By {{ author.display_name }}
     {% if author.twitter %}
       <a href="https://twitter.com/{{ author.twitter }}" target="_blank" title="@{{ author.twitter }} on Twitter"><i class="fa fa-twitter"></i></a>
     {% endif %}
     {% if author.website %}
-      <a href="{{ author.website }}" target="_blank" title="{{ author.name }}'s website"><i class="fa fa-external-link"></i></a>
+      <a href="{{ author.website }}" target="_blank" title="{{ author.display_name }}'s website"><i class="fa fa-external-link"></i></a>
     {% endif %}
   </h4>
   <p>{{ author.bio }}</p>

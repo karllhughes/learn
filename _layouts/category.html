@@ -20,7 +20,10 @@ layout: main
 
   <div class="post-content column">
     <h3 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h3>
-    <p class="post-meta">By {{site.authors[post.author].name}}</p>
+    {% assign author = site.authors | where: 'name', post.author | first %}
+    {% if author %}
+    <p class="post-meta">By {{author.display_name}}</p>
+    {% endif %}
     <p class="post-summary">{{ post.content | strip_html | truncatewords: 15 }}<a style="text-decoration: none;" href="{{post.url | prepend: site.baseurl}}">read more</a>.</p>
   </div>
 </article>

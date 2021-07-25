@@ -2,7 +2,7 @@
 layout: post
 title: SEO Keyword Opportunities in Developer Marketing
 description: Keyword research and opportunities at Draft.dev
-categories: posts
+categories: developer-marketing
 cta: Playbook
 author: karl
 date: 2021-07-21T16:04:45.984Z

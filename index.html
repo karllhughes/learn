@@ -12,7 +12,10 @@ layout: main
       </a>
     </div>
     <p class="post-meta">
-      By {{site.authors[post.author].name}}
+      {% assign author = site.authors | where: 'name', post.author | first %}
+      {% if author %}
+      By {{author.display_name}}
+      {% endif %}
       on {{post.date | date: '%b %d, %Y'}}&nbsp;&nbsp;&nbsp;—&nbsp;
       {% capture words %}{{ post.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}
     </p>
