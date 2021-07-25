@@ -1,12 +1,14 @@
 ---
 layout: post
 title: The Best Computer Science Blogs
-author: piero
-date: 2020-12-06
-description: "Detailing 30 of the best computer science blogs, this list will help you continue your education and find enriching, intriguing topics related to this rapidly changing discipline."
+description: Detailing 30 of the best computer science blogs, this list will
+  help you continue your education and find enriching, intriguing topics related
+  to this rapidly changing discipline.
 categories: technical-blogs
-img: /assets/posts/computer-science-blogs.png
 cta: Content Ideas
+author: test-name
+date: 2020-12-06
+img: /assets/posts/computer-science-blogs.png
 ---
 
 Computer science is an amazing field of study, formalizing as a college discipline [in the ’60s](https://cs.uwaterloo.ca/~shallit/Courses/134/history.html#:~:text=1960's,at%20Purdue%20University%20in%201962.) and evolving through the decades since to become part of daily life around the world. And, for some of us, it’s also turned into a passion.
