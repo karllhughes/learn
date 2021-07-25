@@ -26,7 +26,7 @@ collections:
         search_fields: [ display_name ],
         value_field: 'name',
       }
-      - {label: "Raw Author", name: "author", widget: "string", default: "karl" }
+#      - {label: "Raw Author", name: "author", widget: "string", default: "karl" }
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "img", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
