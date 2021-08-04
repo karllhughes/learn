@@ -1,12 +1,12 @@
 ---
 layout: post
-author: meagan
-date: 2021-06-11T01:28:53.360Z
-img: /assets/posts/photo-1499951360447-b19be8fe80f5.png
-cta: Content Ideas
 title: 5 Options for Paying Freelance Technical Writers
 description: Paying freelance writers, see the options
 categories: content-marketing
+cta: Content Ideas
+author: meagan
+date: 2021-06-11T01:28:53.360Z
+img: /assets/posts/photo-1499951360447-b19be8fe80f5.png
 ---
 If you haven’t tapped into the gig economy yet, don’t worry — you will. Freelancing is bigger than ever, employing a massive **[1.1 billion people](https://ddiy.co/freelance-statistics/)** worldwide and generating a whopping 5% of the American GDP.
 
@@ -91,7 +91,7 @@ Wire transfers continue to be one of the **[most used payment systems](https://w
 
 #### **Advantages**
 
-*   **Works internationally: **Wire transfers allow you to send funds to anyone in any location. If you are planning on hiring a freelance technical writer anywhere outside of the US, you can easily bypass ACH limitations with a simple wire transfer.
+*   **Works internationally**: Wire transfers allow you to send funds to anyone in any location. If you are planning on hiring a freelance technical writer anywhere outside of the US, you can easily bypass ACH limitations with a simple wire transfer.
 *   **Online convenience**: Funds can be wired from your bank, grocery store, or even your home office. Chances are you won’t take more than a few minutes to get the job done.
 
 
@@ -101,7 +101,7 @@ Wire transfers continue to be one of the **[most used payment systems](https://w
 *   **Legal issues**: Unlike other types of freelancer payments, wire transfers won’t handle any legal or withholding concerns for you. This is up to your team to handle separately. What’s more, wire transfers are nonreversible. If something goes wrong, you’re on your own.
 
 
-### **PayPal **
+### **PayPal**
 
 ![PayPal offers an easy interface and rapid transfers](https://i.imgur.com/9ihiQov.png)
 
@@ -110,7 +110,7 @@ Lots of freelance technical writers prefer getting their payments via PayPal tha
 #### **Advantages**
 
 *   **Easy to use**: It doesn’t take a rocket scientist to figure out how PayPal works. Even if you do get a little tripped up, the company offers plenty of helpful content on how to send and receive funds.
-*   **Fast setup: **Invoicing and payment plans are free to set up using an email and phone number, resulting in almost no paperwork or red tape.
+*   **Fast setup**: Invoicing and payment plans are free to set up using an email and phone number, resulting in almost no paperwork or red tape.
 
 #### **Disadvantages**
 
