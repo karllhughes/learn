@@ -10,7 +10,7 @@ social-rss: /feed.xml
 
 collections:
   authors:
-    output: true
+    output: false
 
 defaults:
   - scope:
