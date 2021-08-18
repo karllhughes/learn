@@ -6,7 +6,7 @@ categories: platforms
 cta: Playbook
 author: shaundai
 date: 2021-08-11T13:52:49.538Z
-img: /assets/posts/5ee3c164.jpg
+img: /assets/posts/next-vs-gatsby.jpg
 ---
 React frameworks are software platforms that extend the capabilities of React web applications. Certain functionality needed in most blogs and websites (page routing and image optimization for example) don’t come packaged as part of the Create React app; they require libraries and complicated configuration to implement.
 

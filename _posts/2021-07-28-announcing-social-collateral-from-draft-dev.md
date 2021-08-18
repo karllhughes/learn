@@ -6,7 +6,7 @@ categories: content-marketing
 cta: Call
 author: karl
 date: 2021-07-28T17:32:37.633Z
-img: /assets/posts/j5k8s7s.png
+img: /assets/posts/social-collateral.png
 ---
 Most of the developer tools companies we work with generate the bulk of their traffic from two sources:
 
