@@ -61,6 +61,8 @@ As you probably noticed, we specified _rough_ diagram. While our talented writer
 
 We sometimes ask our writers for code samples. This is common for tutorials where the writer provides step-by-step instructions. In this case explaining a concept isn’t usually sufficient—we want concrete examples of how something should be written so the reader can replicate it.
 
+<!-- signup -->
+
 ## Why are Content Types and Deliverables Important?
 
 Content types and deliverables significantly help define our expectations for both our writers and clients. While you can certainly run a content creation agency without these concepts, adopting them will allow you to more consistently deliver quality content without sacrificing speed.
