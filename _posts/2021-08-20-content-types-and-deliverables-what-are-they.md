@@ -8,11 +8,11 @@ author: kasper
 date: 2021-08-20T17:33:03.132Z
 img: /assets/posts/zimmtiy.jpeg
 ---
-Draft is a content creation agency, meaning process optimization is critical to our success. But process optimization isn’t just about efficient growth. It helps us to deliver consistently quality material for our clients, and ensures the smooth running of our day-to-day operations.
+Draft.dev is a [content creation agency](https://draft.dev/learn/content-creation-agency), meaning process optimization is critical to our success. But process optimization isn’t just about efficient growth. It helps us to deliver consistently quality material for our clients, and ensures the smooth running of our day-to-day operations.
 
 Defining what content type a specific article will be—and what deliverables clients can expect to receive as a result—is a key component of this process.
 
-In this article, we’ll break down the content types and deliverables we currently use at Draft, and—importantly—why we use them.
+In this article, we’ll break down the content types and deliverables we currently use at Draft.dev, and—importantly—why we use them.
 
 ## Content Types and Deliverables
 
@@ -65,7 +65,7 @@ We sometimes ask our writers for code samples. This is common for tutorials wher
 
 Content types and deliverables significantly help define our expectations for both our writers and clients. While you can certainly run a content creation agency without these concepts, adopting them will allow you to more consistently deliver quality content without sacrificing speed.
 
-Some writers are good at persuasive writing but not tutorials, others are the exact opposite. Defining content types and deliverables helps us assign articles to the writers best suited for them, resulting in great content.
+Some writers are good at persuasive writing but not tutorials, others are the exact opposite. Defining content types and deliverables helps us [assign articles to the writers best suited for them](https://draft.dev/learn/matching-writers), resulting in great content.
 
 ## Conclusion
 
