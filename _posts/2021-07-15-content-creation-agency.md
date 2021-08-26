@@ -3,10 +3,10 @@ layout: post
 title: What to Expect from a Content Creation Agency
 description: What to Expect from a Content Creation Agency
 categories: content-marketing
+cta: Playbook
 author: richard
 date: 2021-07-15T17:22:11.105Z
 img: /assets/posts/group-28.jpg
-cta: Playbook
 ---
 My grandmother, like most grandmothers, was a wise woman. She had a variety of lines that she would say with regularity, and one in particular always stands out:
 
@@ -71,7 +71,7 @@ Internal staff are also the most expensive option. In addition to the salary, th
 ### How Do Freelancers Compare?
 
 Freelancers are a popular option, particularly for businesses that need additional resources occasionally but not enough to justify hiring a new team member. They are often the cheapest option, are available for ad hoc work, and can provide support almost immediately.
-But freelancers aren’t without their complications. They face the notorious “feast-or-famine” cycles, where there are periods of high income and ample work, followed by periods of uncertainty. Understandably, freelancers can be reluctant to turn work away, so it’s not unheard of for them to overcommit to too many projects.
+But freelancers aren’t without their complications. [There can be difficulties in paying them](https://draft.dev/learn/paying-freelance-writers). They face the notorious “feast-or-famine” cycles, where there are periods of high income and ample work, followed by periods of uncertainty. Understandably, freelancers can be reluctant to turn work away, so it’s not unheard of for them to overcommit to too many projects.
 
 Some are able to balance this commendably, but it can result in missed deadlines or sloppy work—neither of which helps your business reach its content creation goals.
 
@@ -98,7 +98,7 @@ The agency will have its own process for [working with clients](https://draft.de
 
 ### Possible Services an Agency Will Provide
 
-Agencies come in all sorts of shapes and sizes. Draft.dev creates written technical content aimed at reaching software developers, including handling topic planning and research. At the other end of the scale are “full-service” marketing agencies, which offer a wide range of marketing services typically including web design and social media management.
+Agencies come in all sorts of shapes and sizes. Draft.dev creates written technical content aimed at reaching software developers, including [handling topic planning and research](https://draft.dev/learn/topic-clusters) as well as [creating social media collateral](https://draft.dev/learn/announcing-social-collateral-from-draft-dev). At the other end of the scale are “full-service” marketing agencies, which offer a wide range of marketing services typically including web design and social media management.
 And of course, there’s everything in between. [Brafton](https://www.brafton.com/) describes itself as a “creative content marketing agency,” offering blogs, email newsletters, and video production, while [SeedX](https://seedx.us/) creates content for industries as diverse as e-commerce stores and political campaigning.
 
 Needless to say, it’s essential that you hire an agency that’s capable of producing what you need. That means not only the *type* of service, but the quality of that work too. For example, it’s no secret that [developers are known to be averse to marketing](https://draft.dev/learn/developer-marketing), and strategies need to consider this. Therefore, not every agency will be capable of reaching developers effectively, whereas it’s what Draft.dev specializes in. On the other hand, if you want a new website and omni-channel marketing strategy, you’d need an agency that offers those.
