@@ -3,12 +3,12 @@ layout: post
 title: Introduction to Publii, the Static Site Generator
 description: Review of the static site generator, Publii
 categories: platforms
+cta: Content Ideas
 author: kealan
 date: 2021-07-07T19:00:49.467Z
 img: /assets/posts/x9eq4oe.jpg
-cta: Content Ideas
 ---
-There is so much to consider when making a basic website. You have to think about how to get a domain name and where to get it. You need to work out the general costs of building and maintaining it, where you can host your content, and how much the hosting would cost, alongside actually doing the coding and getting all the assets together. You need to performance test it, make sure it is kept up-to-date, and configure a process to get code regularly deployed out. On top of all that, there are web-safety standards like configuring HTTPS instead of HTTP to ensure the connection is encrypted.
+There is so much to consider when [making a basic website](https://draft.dev/learn/platforms/). You have to think about how to get a domain name and where to get it. You need to work out the general costs of building and maintaining it, where you can host your content, and how much the hosting would cost, alongside actually doing the coding and getting all the assets together. You need to performance test it, make sure it is kept up-to-date, and configure a process to get code regularly deployed out. On top of all that, there are web-safety standards like configuring HTTPS instead of HTTP to ensure the connection is encrypted.
 
 This can be confusing and overwhelming—especially if you aren’t familiar with software  development or web development. Static site generators (SSG) were introduced to solve this problem: How do you easily create and maintain a website?
 
@@ -135,7 +135,7 @@ In static websites, you only send generated website files making the site [“ni
 
 The biggest limitation if you choose Publii is that it is a **static site** generator.
 
-If you need a complex, dynamic website that lets users log in and purchase things, and on which you can change stock levels, Publii probably would not be your best choice. Publii isn’t trying to do too much and they have their use cases well laid out.
+If you need a complex, dynamic website that lets users log in and purchase things, and on which you can change stock levels, Publii probably would not be your best choice. Publii isn’t trying to do too much and they have their use cases well laid out. [This post compares Wordpress with Jekyll](https://draft.dev/learn/jekyll-vs-wordpress), another static site generator, highlighting the differences with dynamic sites. 
 
 Another potential weakness I noticed, from reading posts in the official Publii [Forum](https://forum.getpublii.com/topic/is-it-possible-to-insert-a-tag-url-as-a-base-url-for-posts/), was that many users who wanted to configure their post URL's a certain way could not because Publii doesn’t allow that. This use case won't affect my example site, but it may be something to consider.
 
