@@ -3,13 +3,13 @@ layout: post
 title: Field Guide to Technical Editing
 description: Our tips for technical editors working with subject matter experts.
 categories: writing
+cta: Playbook
 author: chris
 date: 2021-06-23T12:51:43.228Z
 img: /assets/posts/technical-editing.jpg
-cta: Playbook
 ---
 
-You’ve been tasked with editing material with deep knowledge—it’s complex and highly industry-specific. You’re an expert in the art of writing, but perhaps not exactly an expert on this particular topic. Perhaps even far from it. Now what?
+You’ve been tasked with editing material with deep knowledge—it’s complex and highly industry-specific. You’re an expert in [the art of writing](https://draft.dev/learn/technical-content), but perhaps not exactly an expert on this particular topic. Perhaps even far from it. Now what?
 
 Don’t panic. I’ve been at this for years and I’ll gladly pass along my bag of editing tricks to you.
 
