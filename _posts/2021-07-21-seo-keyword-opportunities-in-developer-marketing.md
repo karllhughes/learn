@@ -10,7 +10,7 @@ img: /assets/posts/n5kzpgs.jpg
 ---
 We recently started supporting our clients at Draft.dev [with keyword research](https://draft.dev/learn/posts/topic-clusters) which, given our unique position, has generated some exciting opportunities. We work with an array of clients, targeting different kinds of customers, in a hyper-defined niche: software development.
 
-Developer marketing is unique. It moves fast, and new terms are being popularized constantly. These factors, plus our position as a content marketing agency in the space, have allowed us to rank well in Google searches—fast.
+[Developer marketing](https://draft.dev/learn/developer-marketing) is unique. It moves fast, and new terms are being popularized constantly. These factors, plus our position as a [content marketing agency](https://draft.dev/learn/content-creation-agency) in the space, have allowed us to rank well in Google searches—fast.
 
 In this piece, you’ll get an overview of these opportunities. I’ll offer a tiny bit of free keyword research, but competitors in our space are moving quickly. Much of this information will be outdated in 3-6 months, so it’s critical to reassess your keyword research regularly.
 
@@ -52,6 +52,8 @@ Useful search terms for companies to reach Python developers include:
 - **python command line arguments**, 5,000+ monthly searches
 
 In a real keyword research project, you’d filter terms by your target audience and product use case. But with thousands of keywords having a difficulty score less than 30, you’re sure to find a few good options.
+
+<!-- signup -->
 
 ## 3. GraphQL
 
