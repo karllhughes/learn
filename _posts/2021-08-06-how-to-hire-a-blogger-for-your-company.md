@@ -12,7 +12,7 @@ In the world of marketing, content is king. If your business has any sort of web
 
 Georgia-based Reynolds Golf Academy experienced the results of content firsthand. The book “**[Content Rules](https://www.amazon.com/Content-Rules-Podcasts-Webinars-Customers/dp/1118232607)**” explains how Charlie King, the company’s director of instruction, created a blog, videos, and an eBook to encourage newcomers to the sport and existing golfers to increase their skills. The results were stunning — 2009 was RGA’s best year ever, even during the midst of a recession.
 
-Great results from content marketing don't start in a vacuum. First, you need to hire a knowledgeable writer. A great blogger can have a huge impact on the quality and quantity of content output, but finding and retaining one is harder than it looks. This article will explain where to find strong writers and how to verify they’re appropriate for your niche. 
+Great results from content marketing don't start in a vacuum. First, you need to [hire a knowledgeable writer](https://draft.dev/learn/technical-writer-for-hire). A great blogger can have a huge impact on the quality and quantity of content output, but finding and retaining one is harder than it looks. This article will explain where to find strong writers and how to verify they’re appropriate for your niche. 
 
 We’re going to cover:
 
@@ -49,12 +49,12 @@ If you have ever tried to hire a writer in the past, you already know that not a
 
 When it comes down to brass tacks, writing experience is the most integral aspect of hiring a writer. Certain functions of blogging may be able to slide by without experience, including non-technical writing, basic guest posting, or microcopy. But if you need a technical case study written about a client, you’ll need to hire someone with industry knowledge. Truthfully, finding skilled writers with experience in your field can be a large initial barrier.
 
-In addition, not all writers have experience with the marketing side of writing, including search optimization. If you’ll need writers to perform keyword research, SEO, or plan a content strategy, you’ll need to incorporate this into your hiring process. \
+In addition, not all writers have experience with the marketing side of writing, including search optimization. If you’ll need writers to perform keyword research, SEO, or plan a content strategy, you’ll need to incorporate this into your hiring process. 
 
 
 Writers that provide keyword research and in-depth marketing knowledge may be harder to find, particularly if they also need expertise in a particular niche. What’s more, they likely aren’t going to charge the same rate as an industry beginner.
 
-When looking for a writer, be prepared to ask questions and use particular keywords to find the right fit. For example, ‘content writer’ is going to return very different results from ‘technical writer.’
+When looking for a writer, be prepared to ask questions and use particular keywords to find the right fit. For example, ‘content writer’ is going to return very different results from ‘technical writer.’ Also consider using a [technical writing rubric])https://draft.dev/learn/technical-writing-rubric) to objectively evaluate each writer.
 
 
 ## **How To Find Writers In Your Industry**
@@ -67,6 +67,7 @@ There’s also a good chance that someone in your immediate network has experien
 
 If you want to pull from a wider selection of applicants, create postings on job boards or freelance sites. Remember that almost anyone can see and apply for these jobs, and you may get hundreds of applicants that do not fit your needs.
 
+<!-- signup -->
 
 ## **Vetting Potential Blogging Candidates**
 
@@ -125,7 +126,7 @@ Agencies make finding writers faster, more efficient, and sometimes more cost-ef
 
 
 
-*   Deadline management, payment, and writer vetting are all exclusively handled by the agency. This frees more of your time up for other tasks.
+*   Deadline management, [payment](https://draft.dev/learn/paying-freelance-writers), and writer vetting are all exclusively handled by the agency. This frees more of your time up for other tasks.
 *   Some agencies help chart your business’s content marketing from the get-go. Their writers are fully equipped to generate unique content. Agency subject matter experts often have more scope and industry experience than freelance writers.
 *   Agency writers have experience with many different industries. **[Draft.dev](https://draft.dev/)** offers technical marketing content for software startups, for example. 
 
