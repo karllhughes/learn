@@ -66,6 +66,8 @@ Due to its template-based approach, Vue is not the best for creating large appli
 
 React performs well on any size application. I’ve worked with React enterprise-level apps many times. Thanks to its JavaScript approach, this framework is easy to scale with classic code organization techniques.
 
+<!-- signup -->
+
 ### Learning Curve
 
 Both frameworks use HTML, CSS, and JavaScript as their core technologies, but I find Vue significantly easier to grasp than React. React requires the use of JSX, which can be confusing for beginners as they learn a new approach to writing code and managing views.
@@ -96,11 +98,11 @@ While famous apps built with Vue include:
 
 ### Bonus: Blogging
 
-As a content creator, I’m interested in creating and hosting my own blogging platform. As a developer, I’m interested in how React and Vue would compare for this purpose.
+As a content creator, I’m interested in creating and hosting my own [blogging platform](https://draft.dev/learn/technical-blog-platforms). As a developer, I’m interested in how React and Vue would compare for this purpose.
 
 One new development over the past few years is the static site generator (SSG), a software application that creates HTML pages based on raw data and a template. An SSG is an excellent technical choice for building a blog.
 
-Both React and Vue support SSGs, but honorable mentions should go to Gatsby.js and Gridsome.
+Both React and Vue support SSGs, but honorable mentions should go to [Gatsby.js](https://draft.dev/learn/hugo-vs-gatsby) and Gridsome.
 
 Gatsby is an open-source framework based on React and ideated to allow the creation of super-fast websites. It offers various tools like code-splitting, image optimization, and an internally generated GraphQL API for your project. It also features a rich collection of plugins for extending its support to other technologies.
 
