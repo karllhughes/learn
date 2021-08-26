@@ -1,12 +1,13 @@
 ---
 layout: post
 title: How to Find a Technical Writer for Hire
-description: "In this post, you'll learn how to find freelance technical writers to help you produce blog posts and other content online."
+description: In this post, you'll learn how to find freelance technical writers
+  to help you produce blog posts and other content online.
 categories: content-marketing
+cta: Call
 author: karl
 date: 2021-07-01T12:37:22.640Z
 img: /assets/posts/photo-1487528278747-ba99ed528ebc.jpg
-cta: Call
 ---
 Most companies that want to [start a technical blog](https://draft.dev/learn/three-questions) just need a few writers to produce a steady stream of content. But that is easier said than done. Very few software developers have the capacity and desire to write blog posts for their marketing efforts, and non-technical writers won’t [be able to speak with the authenticity required](https://draft.dev/learn/b2d-marketing-tips).
 
@@ -28,6 +29,8 @@ The next avenue I tried was Upwork. This was an utter failure—I had to complet
 
 Another option many of my clients have tried is asking their in-house engineers. While this seems like a good idea, it’s really hard to get engineering time reserved for writing blog posts. You’re not likely to get consistent output unless you make technical writing a core part of someone’s job or you hire a [technical content agency](http://draft.dev/).
 
+<!-- signup -->
+
 ## Our Process for Finding and Hiring Technical Writers
 
 After almost a year of recruiting technical writers and working on hundreds of blog posts, we’ve established a repeatable process for bringing on new writers. While we rely more on inbound than outbound now, it takes time to build a presence in the community.
@@ -44,7 +47,7 @@ Next, use a [hiring rubric for your technical writers](https://draft.dev/learn/t
 
 [![Hiring rubric for technical writers](https://draft.dev/learn/assets/posts/hiring-rubric.png)](https://draft.dev/learn/technical-writing-rubric)
 
-Some writers are good at tutorials, others at high-level guides; some technical writers can create sample applications, others cannot. By setting clear expectations up front, you can avoid reaching out to writers who don’t have the skills or experience you need.
+Some writers are good at tutorials, others at high-level guides; some technical writers can create sample applications, others cannot. By [setting clear expectations up front](https://draft.dev/learn/content-types-and-deliverables-what-are-they), you can avoid reaching out to writers who don’t have the skills or experience you need.
 
 ### 2. Search Dev.to, Medium, and GitHub
 
@@ -98,8 +101,8 @@ All these channels work, but depending on the volume of content you need, they m
 
 ## Drawbacks to Hiring Your Own Technical Writers
 
-Even if you find a few great technical writers for hire, you still have a lot of work to do. You have to coordinate topics, due dates, and payment for your writers. Platforms like PayPal and Upwork make this slightly easier, but even so, there may be legal and tax implications to consider.
+Even if you find a few great technical writers for hire, you still have a lot of work to do. You have to coordinate topics, due dates, and [payment for your writers](https://draft.dev/learn/paying-freelance-writers). Platforms like PayPal and Upwork make this slightly easier, but even so, there may be legal and tax implications to consider.
 
-You will also need to hire or work with an editor. While writing samples will help you avoid really bad technical writers, almost every article will need at minimum a light round of editing. You also have to watch out for plagiarism and misuse of copyrighted images, as well as assess the technical quality of their work.
+You will also need to hire or [work with an editor](https://draft.dev/learn/paying-freelance-writers). While writing samples will help you avoid really bad technical writers, almost every article will need at minimum a light round of editing. You also have to watch out for plagiarism and misuse of copyrighted images, as well as assess the technical quality of their work.
 
 If you’re trying to find a technical writer for hire but you’re feeling stuck, [reach out to us](https://draft.dev/call). With over fifty active writers at Draft.dev, we’re able to cover a wide range of technical topics for tutorials, blog posts, ebooks, and more. We’re able to provide consistently high-quality content that is professionally edited and technically sound without the management overhead required to assemble your own team of freelancers.
