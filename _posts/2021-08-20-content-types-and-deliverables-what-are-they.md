@@ -28,6 +28,8 @@ If your intent is just to introduce a concept to the reader (rather than provide
 
 Broadly, the content type sets the overall tone of an article. Content type helps the writer to understand what perspective they should write from. They also help to set client expectations; if a content type has been agreed, there will be no surprises upon article delivery. You can read more about the specific content types we use on our [Content Types](https://draft.dev/content-types) page.
 
+<!-- signup -->
+
 ## Deliverables
 
 While content type helps set the overall article tone, content deliverables define the actual contents of the article. We currently select from the following options when defining content deliverables:
@@ -60,8 +62,6 @@ As you probably noticed, we specified _rough_ diagram. While our talented writer
 ### Code Samples
 
 We sometimes ask our writers for code samples. This is common for tutorials where the writer provides step-by-step instructions. In this case explaining a concept isn’t usually sufficient—we want concrete examples of how something should be written so the reader can replicate it.
-
-<!-- signup -->
 
 ## Why are Content Types and Deliverables Important?
 
