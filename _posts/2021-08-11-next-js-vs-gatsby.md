@@ -8,7 +8,7 @@ author: shaundai
 date: 2021-08-11T13:52:49.538Z
 img: /assets/posts/next-vs-gatsby.jpg
 ---
-React frameworks are software platforms that extend the capabilities of React web applications. Certain functionality needed in most blogs and websites (page routing and image optimization for example) don’t come packaged as part of the Create React app; they require libraries and complicated configuration to implement.
+React frameworks are [software platforms](https://draft.dev/learn/platforms/) that extend the capabilities of React web applications. Certain functionality needed in most blogs and websites (page routing and image optimization for example) don’t come packaged as part of the Create React app; they require libraries and complicated configuration to implement.
 
 Frameworks like Gatsby.js and Next.js include this functionality as defaults, enabling React developers to easily build full sites without much upfront configuration. Additionally, since their individual parts were optimized to work together (vs. installing libraries that came from different places), you begin with an incredibly performant site.
 
@@ -19,7 +19,7 @@ When deciding between Gatsby and Next, how do you determine which framework is b
 Let’s begin with a look at what it’s like to start up a site with Gatsby versus Next.js.
 
 ### Gatsby
-In addition to comprehensive documentation, Gatsby’s website includes a mini-tutorial that shows new users that building and deploying a Gatsby site takes just a few simple steps.  Developers can start a basic site using the Gatsby CLI or choose a pre-styled template from Gatsby’s [library of starter sites](https://www.gatsbyjs.com/starters/?v=2). Starter templates allow users to quickly spin up a beautiful and functional blog without having to fuss about design.
+In addition to comprehensive documentation, Gatsby’s website includes a mini-tutorial that shows new users that building and deploying a Gatsby site takes just a few simple steps.  Developers can start a basic site using the Gatsby CLI or choose a pre-styled template from Gatsby’s [library of starter sites](https://www.gatsbyjs.com/starters/?v=2). Starter templates allow users to quickly spin up a beautiful and functional blog without having to fuss about design. Developers can also [create their own Gatsby starters](https://draft.dev/learn/creating-gatsby-starters).
 
 Though getting started is easy, customization can involve a bit of a learning curve. Gatsby relies heavily on [GraphQL](https://graphql.org/) for page routing, fetching API information, and use of plugins (we’ll talk more about this later). If you’ve never worked with GraphQL before, it is worth it to take a quick tutorial to learn the fundamentals.
 
@@ -52,6 +52,8 @@ Next’s primary differentiator is its use of *dynamic rendering* (a fancy way o
 ## Fetching and Handling Data
 
 The biggest difference in the methods used to fetch your data will depend on whether your app is statically-generated or server-side rendered.  Since statically-generated sites pre-build pages before they are rendered in the browser, they fetch any data they need at **build time**.  By contrast, server-side generated sites fetch the data needed at **run time**.
+
+<!-- signup -->
 
 ### Gatsby
 Gatsby does not care which API your data comes from, but it will take and source whatever data it gets back and make it available to you as a GraphQL API. In order to access your data, however, you will need to write GraphQL queries in your code.
