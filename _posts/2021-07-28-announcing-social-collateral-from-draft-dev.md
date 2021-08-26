@@ -47,6 +47,8 @@ We also find that some of the pieces we write for clients are rather difficult t
 
 Again, having subject matter experts who can guide you is the key. If your developers can do it, great, but if they don’t have time, we’re here to help.
 
+<!-- signup -->
+
 ## Our Offering: Social Media Collateral for Technical Content
 
 To solve both of the above problems, **we’re now offering social media collateral as an add-on service to our clients.**
