@@ -20,7 +20,7 @@ In this roundup, we’ll take a closer look at how to pay for your gig talent, a
 
 ## What Are Freelance Technical Writers Used For?
 
-Freelance technical writers can create:
+Freelance technical writers can create all [content types](https://draft.dev/learn/content-types-and-deliverables-what-are-they), such as:
 
 *   Tutorials
 *   Blog posts
@@ -46,7 +46,7 @@ Bear in mind that this is not an exhaustive list of issues that could arise with
 
 ## Options for Paying Freelance Technical Writers
 
-Although it can be tricky, it is possible to pay your writers quickly, safely, and efficiently. Let’s list and compare the top 5 most popular options for paying your freelance technical writers.
+Although it can be tricky, it is possible to pay your writers quickly, safely, and efficiently. Let’s list and compare the top 5 most popular options for paying your freelance [technical writers](https://draft.dev/learn/technical-writer-for-hire).
 
 ### **Upwork**
 
@@ -121,7 +121,7 @@ Lots of freelance technical writers prefer getting their payments via PayPal tha
 
 ![Draft.dev is a marketing agency that specializes in the use of freelance technical writers](https://i.imgur.com/zhztYVK.png)
 
-Draft.dev is a marketing agency that specializes in the use of freelance technical writers. We help software startups generate technical marketing content that informs, educates, and impresses potential leads from all over the country. Blog posts, tutorials, case studies, and lots of other forms of technical marketing plans are executed by a talented team of freelance writers. Best of all, there’s no need to manage payment, invoicing, or billing. We’ve got it all covered.
+[Draft.dev](https://draft.dev) is a marketing agency that specializes in the use of freelance technical writers. We help software startups generate technical marketing content that informs, educates, and impresses potential leads from all over the country. Blog posts, tutorials, case studies, and lots of other forms of technical marketing plans are executed by a talented team of freelance writers. Best of all, there’s no need to manage payment, invoicing, or billing. We’ve got it all covered.
 
 #### **Advantages**
 
