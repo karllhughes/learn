@@ -4,10 +4,10 @@ title: Hugo vs. Gatsby
 description: In this article you will learn advantages and disadvantages of two
   JAMStack static sites, Hugo and Gatsby.
 categories: platforms
+cta: Content Ideas
 author: matias
 date: 2021-06-16T23:58:09.138Z
 img: /assets/posts/c4f82d27.png
-cta: Content Ideas
 ---
 
 JAMStack, which stands for JavaScript, API, and Markup, is the latest buzzword in the world of web development. It aims to drop the complexity of your system, and helps you to deliver better apps in less time. As with any new innovation in tech, there is a plethora of companies offering competing JAMStack options. How can you choose which is the right one for you?
@@ -49,7 +49,7 @@ When comparing the two tools, these are the key aspects you want to focus on:
 
 For a developer, the learning curve is an important aspect to consider when selecting a tool; this will help you define how much time you will need to deliver value to your user.
 
-Gatsby is built on top of React as the "templating" language, so if you know React and JavaScript in general, you are all set to start working with Gatsby. The next step in this curve is to understand how to work with [graphql](https://graphql.org/). Gatsby uses a graphql layer to collect the different data sources from [various plugins](https://www.gatsbyjs.com/plugins) to be consumed by your React code. However, Gatsby does provide many templates or ready-to-use "starters" that can help you avoid the complexity of React and graphql.
+Gatsby is built on top of React as the "templating" language, so if you know React and JavaScript in general, you are all set to start working with Gatsby. The next step in this curve is to understand how to work with [graphql](https://graphql.org/). Gatsby uses a graphql layer to collect the different data sources from [various plugins](https://www.gatsbyjs.com/plugins) to be consumed by your React code. However, Gatsby does provide many templates or ready-to-use "[starters](https://draft.dev/learn/creating-gatsby-starters)" that can help you avoid the complexity of React and graphql.
 
 On the other hand, Hugo is built with Go, but you don't necessarily need to know Go to use it. If you choose to use a pre-made template, then your work will be mostly related to TOML files for configuration and Markdown for the content files. Still, if you want to customize your site or build from the ground up, you need to know how to write your templates using [Go's templating system](https://golang.org/pkg/text/template/).
 
@@ -112,7 +112,7 @@ So in terms of security, you can consider that both frameworks have similar or e
 
 ### Flexibility
 
-What is the level of customizability that each framework offers? Do Gatsby and Hugo let you create what you want, or are there limitations on design?.
+What is the level of customizability that each framework offers? Do Gatsby and Hugo let you create what you want, or are there limitations on design?
 
 Here, both frameworks offer full features on customization; Gatsby allows you to create any component you wish with React and any UI library or CSS solution you prefer: tailwind, emotion, or just plain old CSS. Hugo is also free of design opinions, so you are free to implement any UI you wish with the tools available: Go templates and any CSS framework.
 
@@ -128,7 +128,7 @@ They mention that they have acknowledged that Gatsby has scaling issues when the
 
 One way they offer to solve this building scalability is with their cloud system, but this is an imperfect solution.
 
-On the other hand, Hugo prides itself to be blazing fast for building thousands of pages, so we can say (again) that Hugo here is a winner if we’re looking purley at scalability of build.
+On the other hand, Hugo prides itself to be blazing fast for building thousands of pages, so we can say (again) that Hugo here is a winner if we’re looking purely at scalability of build.
 
 But static sites are built, or updated, way less often than they are read, so the other important point on scalability is how well they behave under heavy load.
 
