@@ -5,16 +5,18 @@ description: A “topic cluster” is a method for intentionally building conten
   designed to rank well in search engines (especially Google). Here's our
   process for building topic clusters with our clients at Draft.dev.
 categories: processes
+cta: Call
 author: karl
 date: 2021-06-20T15:57:03.929Z
 img: /assets/posts/topic-clusters.png
-cta: Call
 ---
 When I started [Draft.dev](https://draft.dev), I wanted us to keep our scope as narrow as possible. This focus on producing technical content aimed at software developers helped us standardize things like our [content briefs](https://draft.dev/learn/content-plan), the [types of content we create](https://draft.dev/content-types), and more. By standardizing everything, we have been able to consistently deliver **high-quality technical content** to satisfied clients around the world.
 
 The problem with being so narrow in our scope is that we have to say “no” or “not yet” to a lot of good clients. Up until now, we haven’t officially offered idea generation as a service, so clients had to do their own keyword research or brainstorming sessions _before_ working with Draft.dev.
 
 Today, I’m happy to announce that we’re officially launching **SEO keyword research and topic cluster generation as a service**. In this post, I’ll share more about what this offering includes, but if you have questions, [feel free to book a call with me](http://draft.dev/call).
+
+<!-- signup -->
 
 ## What Are “Topic Clusters”?
 
@@ -74,7 +76,7 @@ Using keyword-based topic clusters like this isn’t suitable in every situation
 
 On the other hand, if you’re hoping to build awareness, generate new leads, or build up your domain authority to make ranking for more difficult topics easier in the future, this strategy is a perfect fit.
 
-By focusing on keywords you can rank for within a few weeks, you won’t have to wait years to see a return on investment for your content. You can attract buyers at the top and middle of your funnel to raise awareness and introduce your solution. Then, by retargeting them with ads or introducing them to your mailing list, you can build a content engine that delivers consistent growth for years to come.
+By focusing on [keywords you can rank for within a few weeks](https://draft.dev/learn/seo-keyword-opportunities-in-developer-marketing), you won’t have to wait years to see a return on investment for your content. You can attract buyers at the top and middle of your funnel to raise awareness and introduce your solution. Then, by retargeting them with ads or introducing them to your mailing list, you can build a content engine that delivers consistent growth for years to come.
 
 To learn more, ask questions, or get started, [book a call with me today](http://draft.dev/call)!
 
