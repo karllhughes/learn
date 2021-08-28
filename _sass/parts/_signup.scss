@@ -38,8 +38,6 @@
 
 .signup.inline {
   background: $off-white;
-  //border-bottom: 1px solid $gray;
-  //border-top: 1px solid $gray;
   color: $dark-gray;
   margin: 1rem 0 0 0;
   padding: 1.4rem 1.8rem;
@@ -62,7 +60,18 @@
     }
   }
 }
-
+.signup.inline.with-img {
+  background: $white;
+  padding: 0;
+  a {
+    img.full-width {
+      max-width: 98%;
+      height: auto;
+      float: none;
+      margin: 0 auto;
+    }
+  }
+}
 .signup.home {
   background: $off-white;
   text-align: center;
