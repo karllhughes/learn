@@ -3,14 +3,14 @@ layout: post
 title: 10 Technical Writing Style Guides You Can Use
 description: Technical writing style guide you can use
 categories: writing
+cta: Content Ideas
 author: nicolas
 date: 2021-05-27T23:01:57.754Z
 img: /assets/posts/tech-style-guides.jpg
-cta: Content Ideas
 ---
 Great US soccer player Mia Hamm famously said, "It is more difficult to stay on top than to get there," which suggests that consistency is a highly desirable trait. In the field of technical writing, consistency is crucial because it provides the sense of confidence and continuity that every tech product needs to engage a user base. Also, consistency creates opportunities to build communities around technical documentation.
 
-How do you make your technical documentation more consistent? One of the first steps is to adhere to a technical writing style guide. Itself a piece of documentation, a style guide defines communication standards for any tech document that you or your team will produce. It usually covers the voice, structure, and technical conventions (such as the format of the text, audio, and images) used in the documentation.
+How do you make your technical documentation more consistent? One of the first steps is to adhere to a technical writing style guide. Itself a piece of documentation, a style guide defines communication standards for any tech document that your business produces, and [all of your writers](https://draft.dev/learn/technical-writer-for-hire) can follow it. It usually covers the voice, structure, and technical conventions (such as the format of the text, audio, and images) used in the documentation.
 
 Since style guides cover so much ground, they can be a chore to create from scratch. Fortunately, many companies make their own technical writing style guides available publicly, so you can analyze their strengths as you create your own style.
 
