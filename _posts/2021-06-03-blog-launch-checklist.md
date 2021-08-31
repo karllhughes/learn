@@ -3,17 +3,17 @@ layout: post
 title: A Blog Launch Checklist
 description: blog launch checklist
 categories: content-marketing
+cta: Content Ideas
 author: richard
 date: 2021-06-03T20:34:49.841Z
 img: /assets/posts/32a7f02c.png
-cta: Content Ideas
 ---
 
 A blog isn’t just about putting words on a page for Google. It’s a window into your business.
 
 A blog is a powerful tool in your business arsenal, and unlike adverts—where you put yourself in front of people in the hope they’ll like it—a blog attracts people to you. It’s an opportunity to create a new relationship through education, information, humor, shared values, or simply a need for what you offer.
 
-By blogging, you give yourself the chance to be found by potential customers all over the world. But it’s not a golden ticket to growth. There’s a right way and a wrong way to build a blog, and just like there are millions of incredible artists, musicians, writers, and other creatives that success eludes, your ability to create a great blog is only part of the equation.
+By blogging, you give yourself the chance to be found by potential customers all over the world. But it’s not a golden ticket to growth. There’s a right way and a wrong way to build a blog, and just like there are millions of incredible artists, musicians, writers, and other creatives that success eludes, your ability to create a great blog is only part of the equation. What you need is a [digital content strategy](https://draft.dev/learn/digital-content-strategy), of which a blog plays a significant role.
 
 <!-- signup -->
 
@@ -79,7 +79,7 @@ You can include more than one, but be mindful not to overdo it, otherwise you mi
 
 ### 5. Get Familiar With Self-editing Tools
 
-Before you publish your posts, it’s worth running them through a self-editing tool first. They’re no substitute for a professional editor, but these automated tools can help to ensure your post is easy to read, not full of incomprehensible words, and doesn’t have embarrassing spelling mistakes.
+Before you publish your posts, it’s worth running them through a self-editing tool first. They’re no substitute for a [professional editor](https://draft.dev/learn/technical-editing), but these automated tools can help to ensure your post is easy to read, not full of incomprehensible words, and doesn’t have embarrassing spelling mistakes.
 
 Two of the most popular tools are [Hemingway](https://hemingwayapp.com) and [Grammarly](https://www.grammarly.com). 
 
@@ -104,6 +104,7 @@ A [style guide](https://draft.dev/learn/styleguide) is optional, but if you want
 By having a style guide, you’re providing a consistent experience for readers, in exactly the same way that businesses use specific colors and fonts in their branding. The guide should include the voice of your blog, so posts don’t range from very formal to very informal, or first-to second-person. If readers enjoy the posts because they’re fun and light, they’ll be surprised and possibly disappointed to find a dense, humorless post.
 
 The guide should also include rules on the content itself. To determine those rules, consider asking yourself and your team:
+- Will you have specific [content types](https://draft.dev/learn/content-types-and-deliverables-what-are-they)?
 - What structure should the articles follow? 
 - Are there templates? 
 - What are the requirements for supporting links? 
