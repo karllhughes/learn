@@ -4,10 +4,10 @@ title: How Draft.dev Works with Clients
 description: "Transparency is the key when working with clients. This article is
   about how Draft.dev mastered it. "
 categories: processes
+cta: Call
 author: karl
 date: 2021-05-20T22:23:33.311Z
 img: /assets/posts/8rgfmmj.jpg
-cta: Call
 ---
 Since I started [Draft.dev](http://draft.dev/), our team and the number of clients we work with has grown a lot. With this growth has come the need for robust, consistent processes that help us ensure that each client gets the absolute best, highest-quality technical content possible.
 
@@ -22,7 +22,7 @@ In the further interest of transparency, I'm going to share our entire client on
 
 Before we begin working with a new client, we want to make sure we’re a good fit for you. In our [30-minute discovery session](https://draft.dev/call), we’ll ask you where your business is at, what your content goals are, and the type of content you’re looking to produce.
 
-Based on this call, we’ll follow up with [samples of our various types of content](https://draft.dev/content-types) and next steps, or we’ll refer you to another content provider who’s a better fit.
+Based on this call, we’ll follow up with [samples of our various types of content](https://draft.dev/learn/content-types-and-deliverables-what-are-they) and next steps, or we’ll refer you to another content provider who’s a better fit.
 
 [![Schedule a call with me at Draft.dev](https://i.imgur.com/hXAlmgs.png)](https://draft.dev/call)
 
@@ -47,7 +47,7 @@ Once you approve the briefs and outlines, we’ll get them into our CMS and send
 ![Your team reads and approves each brief before we send it to a writer](https://i.imgur.com/LWAdWIq.jpg)
 
 ### 5. Production Starts
-At this point, we’ve already started recruiting writers, and now that your briefs are in our system, we will start assigning them to our writers. Because our writers are practicing software engineers (most with day jobs), you’ll likely have several writers assigned to your content over the course of the engagement. That said, our skilled editing team ensures that the quality and tone of each piece are consistent with our [style guide](https://draft.dev/learn/styleguide) and your preferences.
+At this point, we’ve already started recruiting writers, and now that your briefs are in our system, we will start [assigning them to our writers](https://draft.dev/learn/matching-writers). Because our writers are practicing software engineers (most with day jobs), you’ll likely have several writers assigned to your content over the course of the engagement. That said, our skilled editing team ensures that the quality and tone of each piece are consistent with our [style guide](https://draft.dev/learn/styleguide) and your preferences.
 
 Finally, if your piece requires custom illustrations or application diagrams, we work with designers to create the assets you need. The goal is for each piece to come back to you _ready to publish_.
 
