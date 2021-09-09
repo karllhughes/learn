@@ -5,10 +5,10 @@ description: Software developers are notoriously hard to reach through
   marketing. This article explains effective tactics to help you stand out to
   them.
 categories: developer-marketing
+cta: Playbook
 author: karl
 date: 2021-04-26T14:27:05.058Z
 img: /assets/posts/gustas-brazaitis-xnky-cu20d4-unsplash.jpg
-cta: Playbook
 ---
 Developers have a reputation of being averse to marketing, but that’s not necessarily true. Developers—like most savvy buyers—are averse to pushy, inept marketing, but with hundreds of thousands of software developers out there, it’s naive to speak about them in broad strokes on any topic.
 
@@ -47,7 +47,7 @@ Big companies like Amazon use a combination of speaking, sponsoring, and running
 ![Speaking is a common form of developer marketing](https://i.imgur.com/KDoYwew.jpg)
 
 ### Written Content
-Content created for developers takes many forms:
+Content created for developers [takes many forms](https://draft.dev/learn/content-types-and-deliverables-what-are-they):
 
 - **Documentation** is important, especially if your company sells a complex product, but very few businesses use [documentation as a marketing channel](https://clickhelp.com/clickhelp-technical-writing-blog/technical-documentation-as-a-marketing-tool/).
 - **[Tutorials and guides](https://draft.dev/learn/technical-tutorials)** can help users see how to use your product in the real world. This can help augment your documentation and might be more illustrative.
