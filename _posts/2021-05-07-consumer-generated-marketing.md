@@ -4,12 +4,12 @@ title: Successful Consumer-Generated Marketing for Technology Companies
 description: Consumer-Generated Marketing is an effective tactic. This article
   shares tips and examples for doing it right.
 categories: content-marketing
+cta: Playbook
 author: karl
 date: 2021-05-07T19:37:01.047Z
 img: /assets/posts/cdc9i9w.jpg
-cta: Playbook
 ---
-What was the last product you shared on Twitter?
+What was the last product you shared on [Twitter](https://twitter.com/draftdev)?
 
 Have you ever created a video showing people how to use a SaaS tool you love?
 
@@ -20,7 +20,7 @@ You can see why consumer-generated marketing is so appealing, but it’s also no
 <!-- signup -->
 
 ## Why Consumer-Generated Marketing?
-Consumer-generated marketing broadly covers any form of marketing where your customers create marketing collateral for you. This might mean you encourage users to create reviews or videos of how they use your product, but it also might be less manufactured than that. For example, I share interesting tech tools on my blog and Twitter account frequently and most of the time nobody asked me to.
+Consumer-generated marketing broadly covers any form of marketing where your customers create marketing collateral for you. This might mean you encourage users to create reviews or videos of how they use your product, but it also might be less manufactured than that. For example, I share interesting tech tools on my blog and [Twitter account](https://twitter.com/karllhughes) frequently and most of the time nobody asked me to.
 
 Having loyal customers who also create marketing content for your brand is obviously a powerful asset. If you can create a [viral loop](https://referralrock.com/hub/growth-marketing/viral-loop/) whereby existing customers bring in more customers, you’ll be able to spend a lot less on marketing for the same growth rate.
 
@@ -77,7 +77,7 @@ I’ve been helping maintain [a list of community writing programs](https://gith
 
 Honeybadger is a small company, but in addition to their scrappy in-person marketing efforts, they’ve done a great job cultivating a community of writers to write about relevant topics. This has contributed to their high domain authority and estimated [200,000 visitors per month](https://www.similarweb.com/website/honeybadger.io/).
 
-Of course, finding software engineers who are also good writers is really tricky. This is what I do full time at [Draft.dev](https://draft.dev), so I can tell you it’s a lot of work to find, guide, and edit content from subject matter experts who may not be experienced writers.
+Of course, [finding software engineers who are also good writers](https://draft.dev/learn/technical-writer-for-hire) is really tricky. This is what I do full time at [Draft.dev](https://draft.dev), so I can tell you it’s a lot of work to find, guide, and edit content from subject matter experts who may not be experienced writers.
 
 If you decide that a community writing program is going to be more work than your team can handle, but you want to invest in high-quality technical content, [book a call with us](https://draft.dev/call). We can help you produce great technical content that’s aimed at software developers for much less than it costs to hire a team to start your own writing program.
 
@@ -95,7 +95,7 @@ The giveaway has gotten so popular that some open-source maintainers argue that 
 Love it or hate it, you can’t deny the effectiveness of this tactic. DigitalOcean’s [Hacktoberfest Twitter account](https://twitter.com/hacktoberfest) has almost 18,000 followers and gets thousands of mentions from participants every October.
 
 ## Tips for Consumer-Generated Marketing in Tech
-No matter which form of CGM you pursue, you have to pursue it delicately. Developers are smart, so be careful about forced consumer-generated content, as it won’t sound genuine.
+No matter which form of CGM you pursue, you have to pursue it delicately. [Developers are smart](https://draft.dev/learn/developer-marketing), so be careful about forced consumer-generated content, as it won’t sound genuine.
 
 Here are a few more things to think about as you explore this consumer-generated marketing:
 
