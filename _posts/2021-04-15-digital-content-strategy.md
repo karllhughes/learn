@@ -3,10 +3,10 @@ layout: post
 title: How to Create a Digital Content Strategy
 description: How to Create a Digital Content Strategy
 categories: content-marketing
+cta: Content Ideas
 author: karl
 date: 2021-04-15T07:19:06.140Z
 img: /assets/posts/lc3eyiw.jpg
-cta: Content Ideas
 ---
 If you've been working in marketing for long, you've probably created all kinds of plans and strategy documents. The complexity and thoroughness of these plans varies widely depending on the maturity of your company and size of your team, but as with any major business initiative, having a good plan is generally better than having no plan.
 
@@ -17,7 +17,7 @@ One of the marketing artifacts I ask my clients about most often at [Draft.dev](
 ## Why Develop a Digital Content Strategy?
 **A digital content strategy is important because it helps ensure your content aligns with your company's broader marketing goals.**
 
-A lot of companies waste resources creating content that _does not_ move the business forward. For example, you see a lot of companies use social media merely as a press release channel: companies post announcements, but little truly valuable content for their customers. This comes from either failing to develop a digital content strategy or just being behind on the way customers now expect companies to use content channels today.
+A lot of companies waste resources creating content that _does not_ move the business forward. For example, you see a lot of companies use social media merely as a press release channel: companies post announcements, but little truly [valuable content](https://draft.dev/learn/content-marketing-forest) for their customers. This comes from either failing to develop a digital content strategy or just being behind on the way customers now expect companies to use content channels today.
 
 ## Good Strategies Serve Your Business at Any Stage
 In the early days of your business, a good digital content strategy will help you gauge whether your assumptions about your target market are correct. Even before you release your product, you can create content that speaks to your target customers’ pain points, desires, and aspirations. By distributing this content, you can hear what people think about your problem space and refine your offering and messaging before launch.
@@ -41,7 +41,7 @@ A good digital content strategy should start with your business goals. Some poss
 - Increase [marketing qualified leads](https://blog.hubspot.com/marketing/definition-marketing-qualified-lead-mql-under-100-sr)
 - Drive more free trials
 - Convert more free trial users to paid users
-- Improve awareness in the community
+- [Improve awareness](https://draft.dev/learn/developer-marketing) in the community
 - Improve perception among target buyers
 - Increase organic traffic to your site
 - Increase the number of social media followers you have
@@ -52,7 +52,7 @@ Having predetermined goals will help you decide which direction your content sho
 ![Lead magnet](https://i.imgur.com/fsHUazy.jpg)
 
 ### 2. What Kind of Content Will You Create?
-Next, you have to decide what kind of content will best serve your goals given your target audience. If you know your customers read blog posts, then long-form content is a great investment, but don’t assume that blogging is the right move for every business.
+Next, you have to decide [what kind of content](https://draft.dev/learn/content-types-and-deliverables-what-are-they) will best serve your goals given your target audience. If you know your customers read blog posts, then long-form content is a great investment, but don’t assume that blogging is the right move for every business.
 
 Younger buyers might prefer short video content, busy travelers might like audio content (e.g., podcasts), and older buyers might trust traditional print publications more. You can’t expect every kind of content to work for every demographic; you have to meet your audience where they are.
 
@@ -68,7 +68,7 @@ Coming up with [ideas for content](https://draft.dev/learn/startup-blog-ideas) i
 
 Your digital content strategy should offer some guidance on who will create which pieces of content for you. Some content should almost always be created in-house (like thought leadership and [point of view content](https://neilpatel.com/blog/how-developing-point-of-view-can-explode-fan-base/)), but other content can be outsourced to a trusted partner.
 
-In working with dozens of startups at [Draft.dev](http://draft.dev/), I’ve found that we do best with technical content that marketing teams struggle to produce in-house or with traditional freelancers. For example, if you’re a startup that sells to software developers, your marketing team isn’t going to have the expertise to write tutorials in ten different programming languages. That’s where working with a specialized content marketing company can be really helpful.
+In working with dozens of startups at [Draft.dev](http://draft.dev/), I’ve found that we do best with technical content that marketing teams struggle to produce in-house or with traditional freelancers. For example, if you’re a startup that sells to software developers, your marketing team isn’t going to have the expertise to write tutorials in ten different programming languages. That’s where working with a specialized [content marketing company](https://draft.dev/learn/content-creation-agency) can be really helpful.
 
 ### 5. How Will You Know It’s Working?
 Finally, your digital content strategy should provide a plan for tracking the results of your efforts based on your goals. Google Analytics will get you things like pageviews, but you’ll need other tooling to capture leads, qualify prospects, and measure social media engagement.
@@ -82,7 +82,7 @@ Now that you understand the basic elements of a successful digital content strat
 I’ve been [collecting ideas for blog posts](https://draft.dev/learn/startup-blog-ideas) for a while now because this is the most challenging thing for new content marketers to wrap their heads around. While there are specific strategies for this (e.g., SEO audits, copy competitors), the best advice is to **talk to customers**. Understand their struggles and create content that is genuinely helpful.
 
 ### 2. Standardizing Processes
-Most marketing teams start creating content in-house with just a couple of contributors, so it’s tempting to skip creating a [style guide](https://draft.dev/learn/styleguide) or [publishing calendar](https://draft.dev/learn/airtable-publishing-calendar). That’s fine for a while, but eventually, you’ll need standardized processes to help maintain consistency and drive results.
+Most marketing teams start creating content in-house with just a couple of contributors, so it’s tempting to skip creating a [style guide](https://draft.dev/learn/styleguide) or [publishing calendar](https://draft.dev/learn/airtable-publishing-calendar). That’s fine for a while, but eventually, you’ll need standardized processes to help maintain consistency and drive results. These processes can include [technical content plans](https://draft.dev/learn/content-plan).
 
 ### 3. Finding Writers
 There are generally [three ways to recruit content creators](https://draft.dev/learn/finding-motivating-writers) to help execute your digital content strategy:
