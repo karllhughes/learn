@@ -4,13 +4,13 @@ title: Jekyll vs. WordPress
 description: "There are many choices when building a website. This article will
   help you choose between Jekyll and Wordpress. "
 categories: platforms
+cta: Content Ideas
 author: richard
 date: 2021-05-13T23:17:51.037Z
 img: /assets/posts/725c1b8e.png
-cta: Content Ideas
 ---
 
-There are many choices when it comes to building a website or blog, catering to every level of technical knowledge. It can be overwhelming, especially because once you’ve chosen one, you probably won’t want to migrate to another one in the near future.
+There are [many choices when it comes to building a website or blog](https://draft.dev/learn/platforms/), catering to every level of technical knowledge. It can be overwhelming, especially because once you’ve chosen one, you probably won’t want to migrate to another one in the near future.
 
 This post compares two of the heavyweights: [WordPress](https://wordpress.com/) and [Jekyll](https://jekyllrb.com/). 
 
