@@ -22,22 +22,22 @@ Balancing timelines, deadlines, and creative briefs, your head of marketing will
 That’s the function of your head of marketing. Backed by years of experience, these team leaders have managed teams before, and have the portfolio to prove it. Marketing heads are fast acting, flexible under pressure, and able to keep tabs on all of your marketing activities.
 
 Their responsibilities might include:
-
-Creating a buyer’s journey or sales funnel on your site
-Driving conversions by tracking the ROI of initiatives
-Managing in-house and freelance workers
-Writing content briefs or outlines 
-Brainstorming new initiatives
+- Creating a buyer’s journey or sales funnel on your site
+- Driving conversions by tracking the ROI of initiatives
+- Managing in-house and freelance workers
+- Writing content briefs or outlines 
+- Brainstorming new initiatives
 
 But how do you find a head of marketing, and when should you start looking for the person that will ultimately be the foundation of your marketing initiatives? Well, that depends on what you need.
 
 Let’s cover some need-to-knows about hiring a head of marketing, including:
 
-What is a head of marketing?
-When should you hire a head of marketing?
-Finding the right candidate
-Where you go from here
-What is a Head of Marketing?
+- What is a head of marketing?
+- When should you hire a head of marketing?
+- Finding the right candidate
+- Where you go from here
+- What is a Head of Marketing?
+
 A head of marketing is a senior role in the team. They often report directly to the Chief Marketing Officer (CMO) or, in some companies, both roles are filled by the same person. It all comes down to what works best for your company and its structure.
 
 A head of marketing can take a variety of roles around your company. They can create or oversee the creation of customer personas, monitor company messaging, evaluate market positioning, understand threats and opportunities, and manage the rest of your marketing team. Their role in your company is pivotal as they guide other marketers towards ultimate business goals.
@@ -46,9 +46,9 @@ Marketing heads have a unique relationship with hands-on marketing. While they m
 
 When reporting to senior management, heads of marketing collect statistics for marketing spend, ROI, and KPIs. There are several approaches your company might take:
 
-The head of marketing establishes KPIs for the marketing team, which are then communicated to executives.
-Senior management establishes an overall business strategy, which helps the marketing lead create a digital marketing strategy to achieve goals.
-Both sides work together to establish metrics, budgets, and expectations.
+- The head of marketing establishes KPIs for the marketing team, which are then communicated to executives.
+- Senior management establishes an overall business strategy, which helps the marketing lead create a digital marketing strategy to achieve goals.
+- Both sides work together to establish metrics, budgets, and expectations.
 
 Heads of marketing are leadership powerhouses. However, their place within the structure of your company will depend on its size, scope, and marketing capacity.
 When Should You Hire a Head of Marketing?
@@ -64,10 +64,10 @@ Like many of the other considerations, this question is a matter of understandin
 Does My Company Need A Head of Marketing?
 The right time to hire a head of marketing is before your company needs to retain one. Although this date will be different for everyone, there may be a set of benchmarks you can follow that clarifies the timeline:
 
-Your business revenue could accommodate a full time employee (as well as their benefits, training etc).
-Your company is a SaaS or hardware-focused industry that relies on product launches.
-Your internal departments are unable to execute marketing strategies on their own.
-You’re looking to establish or build a marketing department.
+- Your business revenue could accommodate a full time employee (as well as their benefits, training etc).
+- Your company is a SaaS or hardware-focused industry that relies on product launches.
+- Your internal departments are unable to execute marketing strategies on their own.
+- You’re looking to establish or build a marketing department.
 
 If you do not meet any of the above criteria, your company may not be ready to hire a full-time head of marketing. Instead, consider using an agency of professional freelancers to get the job done right. Agencies like Draft.dev vet applicants to find the most qualified freelance writers possible. By focusing on quality, we help businesses craft a holistic approach to marketing team growth.
 Finding the Right Candidate
@@ -86,5 +86,3 @@ Where You Go From Here
 Your marketing team is going to need strong leadership. If hiring a head of marketing is the next step for you, start planning for change now. Make sure the timing is right, and always choose the right candidate even if it means prolonging the hiring process. Your bottom line will thank you, big time.
 
 Marketing to technical decision makers? We’d love to talk with you. Learn more about Draft.dev and our marketing process by booking a discovery call.
-
-
