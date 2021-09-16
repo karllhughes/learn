@@ -46,15 +46,15 @@ Once you approve the briefs and outlines, we’ll get them into our CMS and send
 
 ![Your team reads and approves each brief before we send it to a writer](https://i.imgur.com/LWAdWIq.jpg)
 
-### 5. Production Starts
+### 5. First Payment
+When we lock in your outlines, we’ll arrange a payment method with you. We offer quarterly payments by default or monthly payments for a small premium. Most clients pay by credit card or bank transfer, but we can accomodate custom invoicing options as well.
+
+![Payment plans at Draft.dev](https://draft.dev/learn/assets/posts/pennies-20.png)
+
+### 6. Production Starts
 At this point, we’ve already started recruiting writers, and now that your briefs are in our system, we will start [assigning them to our writers](https://draft.dev/learn/matching-writers). Because our writers are practicing software engineers (most with day jobs), you’ll likely have several writers assigned to your content over the course of the engagement. That said, our skilled editing team ensures that the quality and tone of each piece are consistent with our [style guide](https://draft.dev/learn/styleguide) and your preferences.
 
 Finally, if your piece requires custom illustrations or application diagrams, we work with designers to create the assets you need. The goal is for each piece to come back to you _ready to publish_.
-
-### 6. First Payment
-As we work on your first few articles, we’ll arrange a payment method with you. We currently offer monthly or quarterly payment plans, but custom invoicing options are available.
-
-![Payment plans at Draft.dev](https://draft.dev/learn/assets/posts/pennies-20.png)
 
 ### 7. Delivery of First Article
 
@@ -71,7 +71,7 @@ About halfway through your first three-month engagement, we’ll start to talk a
 While that covers the basics, you probably have a few questions. Feel free to [book a call with us](https://draft.dev/call) or check out some of our FAQ below.
 
 ### How quickly can you get started?
-Because we’re a service-based business that relies on real humans to write and edit each article, we can't start overnight. Typically, it takes five to seven weeks between signing our Statement of Work (SOW) and receiving your first piece of content.
+Because we’re a service-based business that relies on real humans to write and edit each article, we can't start overnight. Typically, it takes six to eight weeks between signing our Statement of Work (SOW) and receiving your first piece of content.
 
 We do not currently offer an option to “jump the line,” but if we are able to increase capacity or another client is delayed, we will move you up accordingly.
 
@@ -99,7 +99,7 @@ Most clients start with a package of blog posts, but we have experience writing 
 We don’t currently offer trial articles to prospective clients, but we are happy to send you additional samples. We also offer revisions, rewrites, or refunds if you’re ever unsatisfied with our work.
 
 ### How much does it cost?
-Currently, plans start at $4800 per month, but we invite you to [refer to our website](https://draft.dev/#pricing) for the most up-to-date pricing. If you need a combination of services that isn’t listed, just let us know and we can accommodate it.
+Currently, plans start at $16,200 per quarter, but we invite you to [book a call](https://draft.dev/call) for the most up-to-date pricing and packages. Most clients start with a quarterly pilot and renew according to their needs each quarter.
 
 ## Want to Get Started?
 Now that you know exactly what to expect when you start your engagement with Draft.dev, I’d love to hear from you. To get started, [book a call with us](https://draft.dev/call) and learn more about how Draft.dev can help you create in-depth, technical content that resonates with your audience.
