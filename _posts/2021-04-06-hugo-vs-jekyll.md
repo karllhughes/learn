@@ -4,12 +4,12 @@ title: "Hugo vs. Jekyll: Which is Right for Your Blog?"
 description: Hugo and Jekyll are two of the most popular static site generators.
   This comparison explores the main features of both.
 categories: platforms
+cta: Content Ideas
 author: john
 date: 2021-04-06T08:43:43.718Z
 img: /assets/posts/hugovsjek-20.png
-cta: Content Ideas
 ---
-Static site generators create HTML sites, with predictable page layouts and content with regular presentation such as blogs. There are many frameworks that can leverage a programming language and allow you to reuse code and process assets for these HTML pages, but this article will compare two of the most popular: [Hugo](https://gohugo.io/) and [Jekyll](https://jekyllrb.com/).
+Static site generators create HTML sites, with predictable page layouts and content with regular presentation such as blogs. There are many frameworks that can leverage a programming language and allow you to reuse code and process assets for these HTML pages, but this article will compare two of the most popular: [Hugo](https://gohugo.io/) and [Jekyll](https://jekyllrb.com/). (For a comparison of a static site and a dynamic site, see [Jekyll vs Wordpress](https://draft.dev/learn/jekyll-vs-wordpress))
 
 ## Why Use Static HTML Pages?
 
@@ -31,7 +31,7 @@ One of the first static site generators to restart this trend in web development
 
 ## Hugo vs. Jekyll
 
-With either generator, you can get a templated blog up and running in under thirty minutes. If you’re starting from nothing, Hugo is slightly easier to install. With Jekyll, you have to install a [couple prerequisites](https://jekyllrb.com/docs/installation/#requirements) like Ruby. Go comes as a precompiled binary bundled along with the Hugo installation.
+With either generator, you can get a templated [blog up and running](https://draft.dev/learn/startup-blogging-platforms) in under thirty minutes. If you’re starting from nothing, Hugo is slightly easier to install. With Jekyll, you have to install a [couple prerequisites](https://jekyllrb.com/docs/installation/#requirements) like Ruby. Go comes as a precompiled binary bundled along with the Hugo installation.
 
 For both frameworks, you’d normally write a content file like a blog post in HTML or Markdown. This content gets combined with HTML templates, which wrap and style the content, outputting an HTML file for display on the web.
 
