@@ -4,15 +4,15 @@ title: Our Process for Matching Writers to Articles
 description: How to become a writer for Draft and create technical content for
   engineers and technology leaders
 categories: processes
+cta: Call
 author: karl
 date: 2021-03-11T07:51:27.002Z
 img: /assets/posts/aaron-burden-xg8iqmqmitm-unsplash.jpg
-cta: Call
 ---
 With a growing number of writers around the world and a growing roster of [clients who rely on us for top-notch technical content](https://draft.dev/), one of the challenges we face is making sure each assignment gets matched to the best technical writer possible. In this blog post, I'll outline our approach, which we share with writers and clients when they ask about this topic.
 
 ## About Our Writers
-First, if you're not familiar with [Draft.dev](https://draft.dev), we write technical content (tutorials, guides, comparisons, etc.) aimed at software engineers, data engineers, and technology leaders. Because our content is so technical, we don't work with typical freelance writers - almost all our writers are practicing software engineers or managers.
+First, if you're not familiar with Draft.dev, we [write technical content](https://draft.dev/learn/technical-content) (tutorials, guides, comparisons, etc.) aimed at software engineers, data engineers, and technology leaders. Because our content is so technical, we don't work with typical freelance writers - almost all our writers are practicing software engineers or managers.
 
 Since almost all of our writers have a day job, their capacity is limited. Most contribute 1-2 articles per month, so while some are matched up to the same client consistently for an extended period, many work with several clients per year. This means that we spend a fair bit of time finding the best writer for each article we commit to.
 
