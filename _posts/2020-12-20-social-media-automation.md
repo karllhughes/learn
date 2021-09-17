@@ -5,17 +5,17 @@ description: If you want to consistently publish high-quality content on social
   media, you need the right tools to do it. Here are some of the best social
   media optimization tools for startups.
 categories: tools
+cta: Content Ideas
 author: karl
 date: 2021-03-15T09:35:25.433Z
 img: /assets/posts/sm-automation.jpg
-cta: Content Ideas
 ---
 Social media can be a time-consuming and mentally tasking chore. Many small business owners just skip social media, but after spending years posting consistently on my personal social media accounts, I can tell you that **it can work and it doesn't take as much time as you think**.
 
 ## Why Use Social Media?
 Social media is a great way to drive traffic once you build a following, but for many small businesses, the question is, "how do you build a following?"
 
-Step one is to **consistently post relevant content on social media**. It may take months or years to build up a significant following, but once you do, social media can be as powerful as an [email marketing list](https://draft.dev/learn/email-marketing-tools) for driving traffic to your blog or website.
+Step one is to **[consistently post relevant content on social media](https://draft.dev/learn/announcing-social-collateral-from-draft-dev)**. It may take months or years to build up a significant following, but once you do, social media can be as powerful as an [email marketing list](https://draft.dev/learn/email-marketing-tools) for driving traffic to your blog or website.
 
 Not only will your followers see updates, most social networks have an amplification formula where popular public posts will be shared to an even broader audience. The only way to eventually make something go viral is to make sure people hear about it, and social media is a great place to start.
 
