@@ -4,10 +4,10 @@ title: 26 Low-Cost Content Marketing Ideas
 description: Here are 26 low-cost or free content ideas to help you build a
   library of original content
 categories: content-marketing
+cta: Content Ideas
 author: karl
 date: 2021-03-08T10:03:33.716Z
 img: /assets/posts/pennies-20.png
-cta: Content Ideas
 ---
 I talk to a lot of early-stage startups that aren’t sure about content marketing yet. I’ll admit, it’s usually not the best marketing channel to start with because it takes a long time to ramp up and a lot of prior knowledge to do well. That said, the payoff over years is huge.
 
@@ -79,7 +79,7 @@ People buy from other people, so showcase your humanity. Highlight someone on yo
 
 **Example:** [Courier’s blog posts covering major features](https://www.courier.com/blog/white-labeling-email-notifications)
 
-Product pages are great, but what if you want to go really deep?
+Product pages are great, but what if you want to [go really deep](https://draft.dev/learn/a-complete-introduction-to-technical-marketing)?
 
 Creating video or text content around each of your product’s features is a good way to showcase what you can do for customers, and serves as valuable sales collateral. The challenge with this kind of content is that it tends to get out of date quickly, so you might need to revisit it every year.
 
@@ -108,7 +108,7 @@ _Note: I’ve created [a big list of survey tools here](https://draft.dev/learn/
 ### Idea 13: List Bloggers in Your Industry
 **Example:** [List of the best technical blogs on Draft.dev](https://draft.dev/learn/technical-blogs/)
 
-We help companies create better technical blogs, so we decided to create ranked lists of some of the best resources in our niche. These posts tend to get shared widely and do well in search engines. While they take some time to create, they’re relatively straightforward to write.
+We help companies create better [technical blogs](https://draft.dev/learn/technical-content), so we decided to create ranked lists of some of the best resources in our niche. These posts tend to get shared widely and do well in search engines. While they take some time to create, they’re relatively straightforward to write.
 
 ### Idea 14: Take a Stand
 **Example:** [“Why AnyList Won’t Be Supporting Sign In with Apple”](https://blog.anylist.com/2020/06/sign-in-with-apple/)
@@ -190,7 +190,7 @@ Don’t just create content for your site and social channels. Spread the love b
 ### Idea 26: Promote an Old Post
 **Example:** [“How to Promote Your Blog Posts” on Draft.dev](https://learn.draft.dev/promotion)
 
-Finally, don’t be afraid to share content—even the old stuff. I have a huge backlog of old content that I’m constantly refreshing and recycling across my social channels. Most people won’t catch every blog post the first time, so re-promote them every few months to get the most out of each piece.
+Finally, don’t be afraid to share content—even the old stuff. I have a huge backlog of old content that I’m constantly refreshing and recycling across my social channels. Most people won’t catch every blog post the first time, so [re-promote them](https://draft.dev/learn/promotion) every few months to get the most out of each piece.
 
 ## Need Technical Content?
 If you’ve gone through the ideas on this list and you’re ready to invest in high-quality technical content for your business, [let me know](https://draft.dev/call). I’d be happy to help.
