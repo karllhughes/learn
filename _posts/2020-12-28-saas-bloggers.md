@@ -5,10 +5,10 @@ description: As software-as-a-service (SaaS) businesses rise, the number of
   dedicated bloggers out there rises as well. Here are 30 of our favorite SaaS
   bloggers writing today.
 categories: technical-blogs
+cta: Content Ideas
 author: amisha
 date: 2021-01-01T18:20:08.931Z
 img: /assets/posts/robot-13.png
-cta: Content Ideas
 ---
 In the last decade or so, SaaS companies have shown an [enormous amount of potential](https://www.bmc.com/blogs/saas-growth-trends/) and therefore, the number of individuals writing about SaaS marketing, sales, and operational tactics has increased exponentially.
 
@@ -70,7 +70,7 @@ A Smart Bear is simply terrific. From the web page design to well-crafted articl
 
 Total Score - 5
 
-### **[Hitenism by Hiten Shah](https://hitenism.com) **
+### **[Hitenism by Hiten Shah](https://hitenism.com)**
 
 If you’re interested in marketing, then you’ve probably come across Hiten Shah or some of his well-known projects ([Crazy Egg](https://www.crazyegg.com), [KISSmetrics](https://www.kissmetrics.io), and [Quick Sprout](https://www.quicksprout.com)) that he co-founded. Hitenism is Shah’s personal blog where he shares his expert opinion on SaaS marketing, growth hacking, digital marketing, social media, and more.
 
