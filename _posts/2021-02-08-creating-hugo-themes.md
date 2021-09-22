@@ -4,14 +4,14 @@ title: Creating Hugo Themes
 description: What is a Hugo Theme and why might you want one? We answer that
   here, and give a step-by-step to create your own.
 categories: platforms
+cta: Content Ideas
 author: siddhant
 date: 2021-02-08T18:19:06.799Z
 img: /assets/posts/hugo-themes.png
-cta: Content Ideas
 ---
 Lately, developers are adopting static site generators like [Hugo](https://gohugo.io/) to quickly deliver content to their audience. Frameworks like these cut down on issues that pop up with scalability, version control, managing dependencies, and performance.
 
-Hugo in particular offers tons of features right out of the box for creating fast, modern, and secure static websites. It's written in Go, a powerful server-side scripting language, and offers a clean workflow for creating landing pages, portfolios, documentation, or blogs without a lot of extra layers of complexity.
+Hugo in particular offers tons of features right out of the box for creating fast, modern, and secure static websites. It's written in [Go](https://draft.dev/learn/golang-blogs), a powerful server-side scripting language, and offers a clean workflow for creating landing pages, portfolios, documentation, or blogs without a lot of extra layers of complexity.
 
 Hugo also has plenty of themes ready to go [right away](https://themes.gohugo.io/), but a prebuilt theme probably isn’t going to match your brand's vision. Most likely, you’re going to want a custom theme, something that affords you fine-grained control over things like color schemes, typography, and UI components.
 
