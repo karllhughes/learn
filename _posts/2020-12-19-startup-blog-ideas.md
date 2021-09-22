@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 50+ Startup Blog Ideas
-description: "Coming up with ideas for your startup's blog can be mentally taxing. In this post, I'll share 52 creative ideas that you can use on your blog."
+description: Coming up with ideas for your startup's blog can be mentally
+  taxing. In this post, I'll share 52 creative ideas that you can use on your
+  blog.
 categories: content-marketing
+cta: Playbook
 author: karl
 date: 2021-01-03T17:23:38.564Z
 img: /assets/posts/startup-blog-ideas.jpg
-cta: Playbook
 ---
 Coming up with ideas for your startup's blog can be mentally taxing. While [keyword research](/learn/topic-clusters) can help you find opportunities in Google results, it can leave your blog topics feeling a little bit flat.
 
@@ -95,7 +97,8 @@ This strategy can net you dozens of blog posts with just a few hours of work, an
 - Feature guest posts from industry experts.
 
 ### 3. Roundups
-Lists of tools, tips, and ideas (like this one) are among the most widely-shared and easily read content on the internet. Readers can skim the piece quickly and use the roundup as a jumping-off point for solving their problems, and [they tend to rank well in Google](https://www.grizzle.io/listicles/).
+[Lists of tools, tips, and ideas](https://draft.dev/learn/writing-technical-roundups)
+ (like this one) are among the most widely-shared and easily read content on the internet. Readers can skim the piece quickly and use the roundup as a jumping-off point for solving their problems, and [they tend to rank well in Google](https://www.grizzle.io/listicles/).
 
 Here are a few ideas for generating lists that might do well on your blog:
 
