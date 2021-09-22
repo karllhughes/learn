@@ -4,10 +4,10 @@ title: A Guide to Writing Technical Roundups
 description: What is a technical roundup? In this post, we look at roundups and
   listicles and why you should write them
 categories: writing
+cta: Playbook
 author: anastasia
 date: 2021-02-03T13:31:26.200Z
 img: /assets/posts/8d328334-ebeb-4089-a471-0f86f5873ef0.png
-cta: Playbook
 ---
 What is a technical roundup? Some people call them listicles, since that’s their general format: a list of the best and most useful blogs, frameworks, tools, and so on. Think [the best Python blogs](https://draft.dev/learn/python-blogs) or [the best computer science blogs](https://draft.dev/learn/computer-science-blogs), for example. It’s a [popular article format](https://en.wikipedia.org/wiki/Listicle) for a reason. **A roundup offers a short, convenient, and well-structured guide to a variety of topics.** A good one gives readers a clear understanding of the subject matter, often with some sort of rating or a scoring system indicating the value of each resource.
 
@@ -61,12 +61,12 @@ When you feel confident that you know who your audience is, it’s time to choos
 
 For a few examples of well-researched technical roundups, check out:
 * [Static analysis in JavaScript: 11 tools to help you catch errors before users do](https://blog.logrocket.com/static-analysis-in-javascript-11-tools-to-help-you-catch-errors-before-users-do/): I appreciated the structure here. You got a full understanding of static analysis in general and neatly promotes [LogRocket](https://logrocket.com/).
-* [The Many Roles of a Startup CTO] (https://www.karllhughes.com/posts/roles-of-startup-cto): More of a business-oriented roundup, this listicle offers clarity into the multi-task reality of a startup and offers recommendations for more resources, as well as a video for visual learners. 
+* [The Many Roles of a Startup CTO](https://www.karllhughes.com/posts/roles-of-startup-cto): More of a business-oriented roundup, this listicle offers clarity into the multi-task reality of a startup and offers recommendations for more resources, as well as a video for visual learners. 
 * [The Best DevOps Blogs](https://draft.dev/learn/devops-blogs): This is a good example of a scored blog, with list items organized according to writing quality, consistency, longevity, technical depth, and usefulness.
 
 ### Pay Attention to the Structure
 
-One of the main attractions of a roundup is its reliable structure: a list of best tools or blogs or methods, each item accompanied by a short description and an explanation for why you recommend it. Do you want to score each item for easy reading comprehension? Consider what qualities your readers will be most interested to know about each item in your listicle, and rate them accordingly.
+One of the main attractions of a roundup is its reliable structure: a list of [best tools](https://draft.dev/learn/tools/) or blogs or methods, each item accompanied by a short description and an explanation for why you recommend it. Do you want to score each item for easy reading comprehension? Consider what qualities your readers will be most interested to know about each item in your listicle, and rate them accordingly.
 
 Also, don’t forget to include some screenshots—it breaks up your long read into smaller pieces which make the whole article more readable. 
 
@@ -74,7 +74,7 @@ Also, don’t forget to include some screenshots—it breaks up your long read i
 
 ### Be Intentional About Your Style 
 
-The tone and vocabulary you write with will have a definite impact on how your piece comes across. Consider how it matches with the tone of your company overall—are you more formal or more casual? Do you want to be seen as authoritative or edgy or laid-back? Now consider that general perception against the backdrop of the specific listicle you want to pull together. Is this topic better served by sticking to just the facts, or do you want to be more opinionated and expository? Do you want to take the time to define everything and produce, say, a 3,000-word article, or would it be better to keep things short and sweet and rely on readers to look up things on their own? Consider the main goal of your roundup and adjust your voice accordingly.
+The [tone and vocabulary you write with](https://draft.dev/learn/technical-writer-style-guides) will have a definite impact on how your piece comes across. Consider how it matches with the tone of your company overall—are you more formal or more casual? Do you want to be seen as authoritative or edgy or laid-back? Now consider that general perception against the backdrop of the specific listicle you want to pull together. Is this topic better served by sticking to just the facts, or do you want to be more opinionated and expository? Do you want to take the time to define everything and produce, say, a 3,000-word article, or would it be better to keep things short and sweet and rely on readers to look up things on their own? Consider the main goal of your roundup and adjust your voice accordingly.
 
 For a more in-depth discussion of style, check out [Draft’s styleguide](https://draft.dev/learn/styleguide).
 
