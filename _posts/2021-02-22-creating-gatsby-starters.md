@@ -4,10 +4,10 @@ title: Creating Gatsby Starters
 description: Learn how to create your own Gatsby Starter for a blog and why it
   can be a better option than using a ready-made starter
 categories: platforms
+cta: Content Ideas
 author: ashutosh
 date: 2021-02-23T11:16:13.255Z
 img: /assets/posts/gatsby-starters.png
-cta: Content Ideas
 ---
 
 [GatsbyJS](https://www.gatsbyjs.com/) is an open-source [React](https://reactjs.org/)-based, [GraphQL](https://graphql.org/) powered static site generator. You can create blazingly fast websites in minutes using Gatsby, and many [technical companies use it for their blogs](https://draft.dev/learn/technical-blog-platforms).
@@ -841,7 +841,7 @@ Restart your development server and head over to [http://localhost:8000/](http:/
 ![Bio Component](https://i.imgur.com/1wDxrKC.png)
 
 ## Creating an SEO Component
-SEO stands for **Search Engine Optimization**, it means that you are optimizing your website to rank better in the results on search engines like Google. There are many factors that affect your site rank on Google or other search engines like the [web crawl accessibility](https://developer.mozilla.org/en-US/docs/Glossary/Crawler),  optimized keywords on each page, fast loading speeds, good user experience, and more. 
+SEO stands for **Search Engine Optimization**, it means that you are optimizing your website to rank better in the results on search engines like Google. There are many factors that affect your site rank on Google or other search engines like the [web crawl accessibility](https://developer.mozilla.org/en-US/docs/Glossary/Crawler),  [optimized keywords](https://draft.dev/learn/seo-keyword-opportunities-in-developer-marketing) on each page, fast loading speeds, good user experience, and more. 
 
 Gatsby can help your site rank and perform better in search engines. Because Gatsby pages are server-rendered, the crawlers are easily able to access your site. You can also add meta information so the search engines can understand your content and know where to show your pages in search results.  You can read more about SEO for Gatsby [here](https://www.gatsbyjs.com/docs/seo/).
 
@@ -1452,7 +1452,7 @@ Alternatively, head over to [http://localhost:8000/posts/markdown-syntax-guide](
 
 ## Creating a 404 Page
 
-A 404 page is the page that users see when they try to visit a non-existing URL on your website or when the server cannot find the requested URL. A good 404 page contributes to a better user experience by reducing bounce rate and maintains consistent branding and layout throughout the website.
+A 404 page is the page that users see when they try to visit a non-existing URL on your website or when the server cannot find the requested URL. [A good 404 page](https://draft.dev/learn/github-pages-404) contributes to a better user experience by reducing bounce rate and maintains consistent branding and layout throughout the website.
 
 It can show users that the URL they are trying to access doesn’t exist and redirect them somewhere else (like the home page), or it can show a few popular blog posts to help visitors find something else they might like. Gatsby comes with a prebuilt 404 page for non-existing routes, but it’s probably a good idea to add a custom 404 page to your blog.
 
