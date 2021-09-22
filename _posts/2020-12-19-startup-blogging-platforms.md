@@ -5,12 +5,12 @@ description: If you're looking for the best options to start your startup's
   content marketing efforts, look no further. In this post, we highlight the
   best options for running your startup's blog.
 categories: platforms
+cta: Content Ideas
 author: karl
 date: 2021-01-18T14:36:07.019Z
 img: /assets/posts/startup-blog.jpg
-cta: Content Ideas
 ---
-There are many good reasons to start a blog for your startup: to update your customers, to generate content that ranks in search engines, or to establish your founders as subject matter experts. After you [come up with some ideas](https://draft.dev/learn/startup-blog-ideas), [understand why you're writing](https://draft.dev/learn/three-questions), and [create a content plan](https://draft.dev/learn/content-plan), you need to decide on a blogging platform.
+There are many good reasons to start a blog for your startup: to update your customers, to [generate content that ranks in search engines](https://draft.dev/learn/seo-keyword-opportunities-in-developer-marketing), or to establish your founders as subject matter experts. After you [come up with some ideas](https://draft.dev/learn/startup-blog-ideas), [understand why you're writing](https://draft.dev/learn/three-questions), and [create a content plan](https://draft.dev/learn/content-plan), you need to decide on a blogging platform.
 
 <!-- signup -->
 
@@ -34,7 +34,7 @@ Setting up a blog doesn’t have to be a headache - there are many platforms out
 
 **[GraphCMS](https://graphcms.com/)** ($0) - Brings your content to any platform or static site builder. With GraphCMS, you build the essential GraphQL infrastructure and they build a headless CMS for your content creators.
 
-**[Jekyll](https://jekyllrb.com/)** ($0) - If you don't mind writing a little HTML yourself, Jekyll is an awesome landing page and blogging platform. It can scale pretty much infinitely and it's free to use with Github pages.
+**[Jekyll](https://jekyllrb.com/)** ($0) - If you don't mind writing a little HTML yourself, Jekyll is an awesome landing page and blogging platform. It can scale pretty much infinitely and it's free to use with Github pages. You can also read [our comparison with Wordpress](https://draft.dev/learn/jekyll-vs-wordpress) and [our comparison with Hugo](https://draft.dev/learn/hugo-vs-jekyll).
 
 **[Gatsby](https://www.gatsbyjs.com/)** ($0) - The new, hot static site builder has a great reputation among developers, and they're growing quickly. If your tech team uses React, you might want to consider Gatsby.
 
