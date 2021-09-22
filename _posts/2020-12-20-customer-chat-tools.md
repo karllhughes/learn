@@ -5,17 +5,17 @@ description: If you want to engage your customers at the moment they're
   considering buying your product or signing up for your service, there's no
   better way than live chat.
 categories: tools
+cta: Content Ideas
 author: karl
 date: 2021-03-01T13:03:44.286Z
 img: /assets/posts/chat.jpg
-cta: Content Ideas
 ---
 If you want to engage your customers at the moment they're considering buying your product or signing up for your service, there's no better way than live chat. You're probably familiar with Intercom or Autopilot because they've become so ubiquitous now, but there are _many_ other options out there.
 
 ![Live chat demo using Autopilot](https://i.imgur.com/yyUjCLE.gif)
 
 ## Should You Use Live Chat?
-To be honest, live chat widgets aren't for everyone. You'll notice that I don't have one on the [Draft.dev](https://draft.dev) website because it's rarely critical that we address customers' concerns immediately.
+To be honest, live chat widgets aren't for everyone. You'll notice that I don't have one on the [Draft.dev](https://draft.dev) website because as a [content creation agency](https://draft.dev/learn/content-creation-agency) it's rarely critical that we address customers' concerns immediately.
 
 That said, software-as-a-service vendors should consider adding live chat. Users expect a seamless, self-service experience, so being able to respond immediately is really important.
 
