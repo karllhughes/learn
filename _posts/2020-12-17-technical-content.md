@@ -5,10 +5,10 @@ description: If you're a subject matter expert who wants to start creating
   in-depth technical content, this guide will give you the steps you can take to
   improve as a writer.
 categories: writing
+cta: Playbook
 author: karl
 date: 2021-01-28T13:57:21.293Z
 img: /assets/posts/img_0990.png
-cta: Playbook
 ---
 
 I recently spoke to the CTO Craft community about [building a software engineering team blog](https://www.youtube.com/watch?v=lez5V41rwTs). Towards the end, we got into some specific writing tips for software engineers who struggle to create strong technical content.
@@ -55,9 +55,9 @@ Just remember that everyone starts out as a beginner, and you can't create skill
 ### Find an Editor
 Once you accept the fact that your early writing won’t be that good, it takes a weight off, but how do you actually start to get better?
 
-A few years ago, I started [dabbling in freelance writing](https://www.karllhughes.com/posts/start-freelance-blogging). I remember thinking I was a pretty good writer, but my first draft back from an editor was riddled with suggestions. Some were simple formatting issues, but many were structural. I had to go back and rewrite large chunks of the piece to get it right.
+A few years ago, I started [dabbling in freelance writing](https://www.karllhughes.com/posts/start-freelance-blogging). I remember thinking I was a pretty good writer, but my [first draft back from an editor was riddled with suggestions](https://draft.dev/learn/5-steps-to-a-quality-edit-for-your-technical-blog). Some were simple formatting issues, but many were structural. I had to go back and rewrite large chunks of the piece to get it right.
 
-If you aren’t ready to submit work to an editor yet, you can always enlist a friend for help. Even non-technical editors can help you improve your technical content. The best editors will be able to tell you when an idea you present doesn’t make sense or the piece is poorly organized.
+If you aren’t ready to submit work to an editor yet, you can always enlist a friend for help. Even non-technical [editors can help you improve your technical content](https://draft.dev/learn/technical-editing). The best editors will be able to tell you when an idea you present doesn’t make sense or the piece is poorly organized.
 
 ## 2. Be Consistent Anyway
 
@@ -132,7 +132,7 @@ My rule of thumb is to write an outline that covers all the H2 and H3 tags on th
 
 Don’t stick to the outline like a rule-book; it’s more like a starting point. I often discover new ideas as I’m writing and need to move things around to accommodate them.
 
-If you’re writing technical tutorials, you should create the demo application and outline the steps _before_ you start writing the rest of the content. If you do it this way, you’ll find the writing part is very quick. It often takes me less than two hours to finish a 1500-word tutorial after I’ve written the code and outline.
+If you’re [writing technical tutorials](https://draft.dev/learn/technical-tutorials), you should create the demo application and outline the steps _before_ you start writing the rest of the content. If you do it this way, you’ll find the writing part is very quick. It often takes me less than two hours to finish a 1500-word tutorial after I’ve written the code and outline.
 
 ### Organization Methods
 ![Organizing by color is one form of organizing by type](https://i.imgur.com/bKAlBDq.jpg)
@@ -142,7 +142,8 @@ If you’re a new technical writer, it’s probably hard to know how to start or
 1. **Chronological** - [Tutorials](https://draft.dev/learn/technical-tutorials) are typically organized from first step to last.
 2. **Importance** - When presenting multiple options or comparing factors between tools, it’s usually a good idea to order them by importance.
 3. **Problem and Solution** - I like framing posts around problems and solutions when they’re aimed at technical decision-makers.
-4. **Roundups (aka Listicles)** - This method works well when you want to make information more scannable.
+4. **[Roundups (aka Listicles)](https://draft.dev/learn/writing-technical-roundups)
+** - This method works well when you want to make information more scannable.
 
 There are probably optimal organizational systems for different kinds of posts, but honestly, just having any system will make your writing better than most.
 
@@ -186,7 +187,7 @@ My rule of thumb when writing technical content is to pretend you’re in a busi
 ### Self-Editing
 > “Writing without revising is the literary equivalent of waltzing gaily out of the house in your underwear.” - Patricia Fuller
 
-Editing is an entirely different skill than writing. I used to assume that anyone who could write could also edit, but I’ve since backed off that view. Writing is the big-picture process of organizing, researching, and molding ideas together. Editing is getting the nitty-gritty details right and asking if this whole thing even makes sense.
+Editing is an entirely different skill than writing. I used to assume that anyone who could write could also edit, but I’ve since backed off that view. Writing is the big-picture process of organizing, researching, and molding ideas together. [Editing is getting the nitty-gritty details right](https://draft.dev/learn/5-steps-to-a-quality-edit-for-your-technical-blog) and asking if this whole thing even makes sense.
 
 That said, good writers do at least a little bit of self-editing.
 
@@ -221,7 +222,7 @@ In fact, the best writers come back to the same few ideas repeatedly throughout 
 
 > “The key is identifying all of the smaller components that go into the same topic and then fleshing each of them out until they are large enough to make up a complete piece of writing on their own.” - [Louise Truscott](https://singlewhitefemalewriter.wordpress.com/2018/12/26/how-many-different-ways-are-there-to-write-about-the-same-thing/)
 
-I can’t remember where I first heard this idea, but lately, I’ve been trying out ideas on Twitter. If they pick up a little traction, I’ll bring them into conversations and keep an eye out for other writing on the topic.
+I can’t remember where I first heard this idea, but lately, I’ve been trying out ideas [on Twitter](https://twitter.com/karllhughes). If they pick up a little traction, I’ll bring them into conversations and keep an eye out for other writing on the topic.
 
 If it seems like others are interested in the idea, I’ll write a short bit about the topic in my email newsletter or on Reddit.
 
