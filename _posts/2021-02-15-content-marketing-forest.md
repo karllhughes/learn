@@ -3,10 +3,10 @@ layout: post
 title: Lost in the Content Marketing Forest
 description: How to create a content marketing strategy that scales as your business grows
 categories: content-marketing
+cta: Playbook
 author: karl
 date: 2021-02-15T11:11:02.151Z
 img: /assets/posts/forest-trees-1-.png
-cta: Playbook
 ---
 While most of our clients are larger now, I worked directly with a lot of founders at early-stage startups in my first few months at [Draft.dev](http://draft.dev/). I like working with founders; they are passionate, enthusiastic, and typically quick learners. On the flip side, they can be tough to please. Because they care about every detail and know their product better than anyone, [some of them can be very hard to work with](https://www.karllhughes.com/posts/working-at-startup).
 
@@ -24,14 +24,14 @@ Even if with a great team, most founders are used to being “the voice of the c
 The founders who struggle to scale their content marketing efforts tend to fall into one of the following buckets:
 
 #### The Perfectionist
-My background is [in software engineering](https://www.karllhughes.com/posts/cto-writer), so when I first started hiring other writers to produce technical content, it was a struggle. I would comb through every line of code and refactor it based on my preferences. I didn’t realize that nobody reading this tutorial would discount the whole thing if the writer preferred `camelCase` to `snake_case`.
+My background is [in software engineering](https://www.karllhughes.com/posts/cto-writer), so when I first started [hiring other writers](https://draft.dev/learn/how-to-hire-a-freelance-marketing-writer) to produce technical content, it was a struggle. I would comb through every line of code and refactor it based on my preferences. I didn’t realize that nobody reading this tutorial would discount the whole thing if the writer preferred `camelCase` to `snake_case`.
 
 Founders who fall into this same trap likely have a long backlog of blog posts to approve. They become the bottleneck, and while the content that finally makes it to the blog will undoubtedly be great, this strategy won’t work at scale.
 
 #### The Ideator
 Another common pitfall is having **too many ideas with too little focus**. It’s okay to be a little more scattered in your approach to content marketing in the early days, but if your posts randomly oscillate between 300-word release updates, video announcements, 2000-word tutorials, and short news commentary, it’s really hard for readers (or search engines) to know what to expect.
 
-Ideator founders treat their startup’s blog like a personal blog with little focus on keywords, types of content, or formats. Again, it’s fine to do this when you’re early on and just finding your footing, but this is not a scalable content marketing strategy.
+Ideator founders treat their startup’s blog like a personal blog with little focus on keywords, types of content, or formats. Again, it’s fine to do this when you’re early on and just finding your footing, but this is not a scalable [content marketing strategy](https://draft.dev/learn/digital-content-strategy).
 
 #### The DIYer
 Finally, some founders just like doing everything themselves. Sometimes it’s a matter of money (I’ll admit, high-quality technical content is not cheap), and sometimes it’s therapeutic. Founders who are strong, prolific writers can pull this off for years, but it gets harder the bigger the company gets.
@@ -75,7 +75,7 @@ Usually, it’s the details:
 - [Writing briefs](https://draft.dev/learn/content-plan)
 - [Picking the perfect image](https://draft.dev/learn/free-stock-images)
 - [Coming up with new ideas](https://draft.dev/learn/startup-blog-ideas)
-- Hiring an editor
+- [Hiring an editor](https://draft.dev/learn/technical-editing)
 - [Promoting your content](https://draft.dev/learn/promotion)
 
 There’s a lot to this whole content marketing thing, so rather than document and handoff all these processes, some founders think it will be easier to do it all themselves. In the short term, they're right, but in the long-term, founders must let go of the trees to keep an eye on the forest.
