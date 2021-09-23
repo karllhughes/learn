@@ -275,3 +275,5 @@ Total Score - 4
 ## Final Thoughts
 
 This list is relatively small when you consider the number of SaaS bloggers writing online today, but hopefully it helps you get started. If you know of other SaaS bloggers we should include, please [submit them here](https://airtable.com/shrKNdNjYO6hNQxJV).
+
+If you've enjoyed this, don't miss our other [Best Technical Blogs](https://draft.dev/learn/technical-blogs/) lists.
