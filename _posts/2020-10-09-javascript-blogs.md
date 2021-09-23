@@ -4,15 +4,15 @@ title: The Best JavaScript Blogs
 description: JavaScript is the most popular programming language in use today,
   and these are the best JavaScript blogs publishing top-tier content today.
 categories: technical-blogs
+cta: Content Ideas
 author: matt
 date: 2020-10-09
 img: /assets/posts/octocat.jpg
-cta: Content Ideas
 ---
 
 JavaScript is used by [almost every website on the internet](https://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites), so I embarked on a quest to find the best active JavaScript blogs. Each of these sites demonstrates technical expertise, is relatively easy to comprehend, publishes content consistently, and has stood the test of time.
 
-During this process, I used a consistent approach to analyze and compare common qualities (or deficiencies) in each blog. I looked at the depth of each blog’s technical content and the usefulness of that content. I read a few posts from start to finish to get a sense of the writing quality and comprehensibility. I looked at how consistently each blog publishes new content, and I did some digging to learn how long each site has been around.
+During this process, I used a consistent approach to analyze and compare common qualities (or deficiencies) in each blog. I looked at the depth of each blog’s [technical content](https://draft.dev/learn/technical-content) and the usefulness of that content. I read a few posts from start to finish to get a sense of the writing quality and comprehensibility. I looked at how consistently each blog publishes new content, and I did some digging to learn how long each site has been around.
 
 Based on those criteria, here are the 26 best JavaScript blogs I could find:
 
@@ -404,3 +404,5 @@ Getaround.tech is the blog for the peer-to-peer car rental start-up. Articles ar
 This concludes my hunt to identify, analyze, and rank the best JavaScript blogs in 2020. While my grading system may not be perfect, it allowed me to assign some numerical value to each blog and let the data do the talking. It’s a satisfying approach for the technical blogger in me.
 
 **Know another blog I should consider for this list? [Click here to submit it](https://airtable.com/shrKNdNjYO6hNQxJV).**
+
+If you've enjoyed this, don't miss our other [Best Technical Blogs lists](https://draft.dev/learn/technical-blogs/).
