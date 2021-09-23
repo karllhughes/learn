@@ -106,7 +106,7 @@ That said, I’ve met plenty of technical marketers who don’t have a technical
 > You want to get a great shot of the elusive white tiger. Where do you go?
 > How about where the tigers hang out? Where is their watering hole? Odds are pretty good that if you hang out where the tigers hang out — you’ll get that shot. - [McLellan Marketing Group](https://www.mclellanmarketing.com/2007/09/where-is-your-c.html)
 
-In order to understand a technical audience, you have to enter their world. Set up meetings—both formal and informal—with your customers and internal engineering teams. Get to know them” learn how they think; learn what’s easy and hard for them to do; learn about what bugs them.
+In order to understand a technical audience, [you have to enter their world](https://draft.dev/learn/b2d-marketing-tips). Set up meetings—both formal and informal—with your customers and internal engineering teams. Get to know them; learn how they think; learn what’s easy and hard for them to do; learn about what bugs them.
 
 As you learn about the subject matter experts who use your technical marketing content, you'll naturally get better at appealing to them. Yes, this takes time, but it will make you much more valuable in the field of marketing. According to [ZipRecruiter](https://ziprecruiter.com/), Technical Marketing Managers typically make over 65% more than Marketing Managers in the United States.
 
