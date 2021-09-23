@@ -4,13 +4,13 @@ title: Survey Tools for Startups
 description: How do you find out what users think of your product? Here are some
   of the best survey tools available for startups today.
 categories: tools
+cta: Content Ideas
 author: karl
 date: 2020-10-24
 img: /assets/posts/survey-tools.jpg
-cta: Content Ideas
 ---
 
-Collecting surveys from your customers is one of the best ways to gauge how and why they’re interested in your product. Sometimes you may be surprised by what you learn, but more often, surveys are a great way to identify your strongest advocates and highlight their happiness.
+Collecting surveys from your customers is one of the best ways to gauge how and why they’re interested in your product. Sometimes you may be surprised by what you learn, but more often, surveys are a great way to identify your strongest advocates and highlight their happiness. You can also [use the responses to create new content](https://draft.dev/learn/low-cost-marketing-ideas).
 
 While you can bring in your development team to build forms that capture customer responses, it’s usually much faster to use an off-the-shelf product. Below I’ve collected some of my favorite options.
 
