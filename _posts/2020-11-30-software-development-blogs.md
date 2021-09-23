@@ -5,17 +5,17 @@ description: If you're looking for resources to help you advance your career as
   a software developer, you've come to the right place. In this guide, we've
   highlighted the 30 best software development blogs.
 categories: technical-blogs
+cta: Content Ideas
 author: piero
 date: 2020-11-30
 img: /assets/posts/programmer.png
-cta: Content Ideas
 ---
 
 Practicing a few key disciplines goes a long way toward building a successful career as a developer. Staying up to date with the latest coding trends is definitely one of them. And that’s where software development blogs and communities come in handy.
 
 However, as a simple Google search on the term [software development blog](https://www.google.com/search?ei=OEu4X5XGEoO5tQbP1rS4DA&q=software+development+blog&oq=software+development+blog&gs_lcp=CgZwc3ktYWIQAzICCAAyAggAMgYIABAHEB4yBggAEAcQHjICCAAyAggAMgQIABAeMgQIABAeMgQIABAeMgYIABAFEB46BAgAEA06CAgAEAcQChAeOggIABAIEAcQHjoICAAQBxAFEB5Q7y5YzkJgtENoAHABeACAAasBiAGrDZIBBDE5LjGYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=psy-ab&ved=0ahUKEwiVwo_OnZLtAhWDXM0KHU8rDccQ4dUDCA0&uact=5) can prove, there are just a few resources out there. It’s easy to feel discouraged about where to even start reading.
 
-Never fear, I’m here to help you wade in with [Draft.dev](https://draft.dev)’s guide to 30 of the best software development blogs on the web. Get ready to enhance your career and deepen your personal knowledge with informative, enriching articles for every discipline and every background.
+Never fear, I’m here to help you wade in with [Draft.dev](https://draft.dev)’s guide to 30 of the best software development blogs on the web. Get ready to [enhance your career](https://stackoverflow.blog/2021/08/09/how-writing-can-advance-your-career-as-a-developer/) and deepen your personal knowledge with informative, enriching articles for every discipline and every background.
 
 <!-- signup -->
 
@@ -675,3 +675,5 @@ A community built by women to inspire other women to join the tech world and hel
 * **Overall score:** 3
 
 Do you have a favorite software development blog that I didn't include in this list? [Submit your suggestions here](https://airtable.com/shrKNdNjYO6hNQxJV)!
+
+If you've enjoyed this, don't miss our other [Best Technical Blogs](https://draft.dev/learn/technical-blogs/) lists.
