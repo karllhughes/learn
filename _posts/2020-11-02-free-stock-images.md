@@ -5,10 +5,10 @@ description: As a startup, you probably don't have a huge budget for stock
   photography. That doesn't mean you can't find some great images for your blog
   though.
 categories: tools
+cta: Content Ideas
 author: karl
 date: 2020-11-02
 img: /assets/posts/stock-images.jpg
-cta: Content Ideas
 ---
 
 It’s really hard to justify paying for stock images on your blog when your startup is just getting off the ground.
@@ -19,7 +19,7 @@ While large companies may justify an in-house designer, custom photography, or v
 
 But first, why should you have images in your blog posts at all? Isn't the focus primarily on the writing?
 
-Yes, you should spend most of your time writing great content for your blog and [promoting that content](https://draft.dev/learn/promotion), but images are important too. For example:
+Yes, you should spend most of your time [writing great content](https://draft.dev/learn/low-cost-marketing-ideas) for your blog and [promoting that content](https://draft.dev/learn/promotion), but images are important too. For example:
 
 - They help break up long spans of text and give readers a break.
 - They are great for SEO (especially if they're unique).
