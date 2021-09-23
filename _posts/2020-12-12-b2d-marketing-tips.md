@@ -5,10 +5,10 @@ description: B2D marketing describes marketing initiatives designed to attract
   software developers. Because developers are harder to reach than the average
   consumer, many marketers struggle with B2D marketing.
 categories: developer-marketing
+cta: Playbook
 author: karl
 date: 2020-12-12T19:31:38.463Z
 img: /assets/posts/b2d-marketing.png
-cta: Playbook
 ---
 
 Business-to-developer marketing (often shortened “B2D marketing”) describes **marketing initiatives designed to reach software developers**. As a former software developer, I can tell you that devs are a notoriously difficult group to market to. They’re tech-savvy, generally skeptical, and often use tools like [adblockers](https://www.forbes.com/sites/tjmccue/2019/03/19/47-percent-of-consumers-are-blocking-ads/?sh=244a64d02037) to prevent popups and banner advertisements from reaching them.
@@ -19,7 +19,7 @@ At the same time, developers are an extremely valuable market to reach. They are
 
 **Because developers are harder to reach than the average consumer, many marketers struggle with B2D marketing**. Gimmicks like free t-shirts or exclusionary events centered around alcohol are not the way to go, but they’re still rampant in the space.
 
-As a [former software developer and engineering manager](https://www.toptal.com/engineering-management/a-day-in-life-engineering-manager), I've seen many attempts at B2D marketing. In this post, I'll focus on what works in B2D marketing today, and I'll offer some tips for generating marketing campaigns that will reach software developers. Using these tips will make your outreach efforts more genuine and ultimately successful.
+As a [former software developer and engineering manager](https://www.toptal.com/engineering-management/a-day-in-life-engineering-manager), I've seen many attempts at B2D marketing. In this post, I'll focus on [what works in B2D marketing today](https://draft.dev/learn/developer-marketing), and I'll offer some tips for generating marketing campaigns that will reach software developers. Using these tips will make your outreach efforts more genuine and ultimately successful.
 
 ## Tip 1: Be Authentic
 
@@ -63,9 +63,9 @@ Subtle differences between terms can be the difference between building trust wi
 
 Two of the best ways to reach a software developer audience today are written content (blog posts, guides, guest posts) and videos (tutorials, conference talks). If you want your content to stand out, it can’t be thin, junior-level fluff. Reaching decision-makers takes in-depth technical knowledge and unique expertise, which is hard to fake.
 
-The best way to generate this kind of content is to hire people who can create it for you (disclaimer: this is what [we do for our clients at Draft.dev](https://draft.dev)). If you don’t want to bring on in-house writers, freelancers or an agency are both viable options.
+The best way to generate this kind of content is to hire people who can create it for you (disclaimer: this is what [we do for our clients at Draft.dev](https://draft.dev)). If you don’t want to bring on [in-house writers, freelancers or an agency](https://draft.dev/learn/content-creation-agency) are both viable options.
 
-That said, if you’re looking to start creating technical content without a budget, there are a few things you can do to get started:
+That said, if you’re looking to [start creating technical content](https://draft.dev/learn/technical-content) without a budget, there are a few things you can do to get started:
 
 ### Ask Your Company’s Engineers to Contribute
 It may be hard to get time on their calendars, but if technical content is a priority, use the resources you already have first. Give engineers a [style guide](https://draft.dev/learn/styleguide) and [content brief](https://draft.dev/learn/content-plan) to help them produce better work.
@@ -74,7 +74,7 @@ It may be hard to get time on their calendars, but if technical content is a pri
 Another strategy is to publish an interview with a technical expert. Get them to explain a topic and dig deep into the details. These experts can be at your company, or they could be partners, customers, or people in your network. Learning to [interview well](https://contentmarketinginstitute.com/2017/01/journalists-interviews-life/) is a valuable skill for any content marketer.
 
 ### Ask to Republish Content
-Finally, you can ask software developers who blog about relevant topics if they are willing to let you republish some of their work on your site. This won’t get you much search engine juice, but you might get traffic from social media, and it’ll give you some technical content to seed your blog.
+Finally, you can ask [software developers who blog about relevant topics](https://draft.dev/learn/technical-blogs/) if they are willing to let you republish some of their work on your site. This won’t get you much search engine juice, but you might get traffic from social media, and it’ll give you some technical content to seed your blog.
 
 ## Tip 5: Attend and Sponsor Events
 
