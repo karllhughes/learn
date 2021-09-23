@@ -14,7 +14,7 @@ img: /assets/posts/photo-1483058712412-4245e9b90334.jpg
 
 If your core audience is technical, you already know that your readers won’t pay attention to any content that’s not written by subject matter experts.
 
-Your audience needs to know that your company understands the industry and its particular niche in it. However, this prerequisite can put a bit of a hiccup in your content publishing pipeline: subject matter experts aren’t always expert writers.
+Your audience needs to know that your company understands the industry and its particular niche in it. However, this prerequisite can put a bit of a hiccup in your content publishing pipeline: [subject matter experts aren’t always expert writers](https://draft.dev/learn/technical-content).
 
 Fortunately, with [a robust editing process in place](https://draft.dev/learn/posts/field-guide-to-technical-editing), they don’t have to be. At the end of your content workflow, your writers should feel confident that their point is being conveyed clearly and efficiently, and your audience should be able to trust that your content is easy to understand and correct.
 
@@ -74,7 +74,7 @@ Don’t forget to run an eye over formatting as well. Are your header styles con
 
 ## 5. The Stakeholder Revision: the Stamp of Approval
 
-At Draft.dev, our clients are the final review before publication. The content should be tight enough that they can easily see the big picture and point out any areas where they want more or less information or a different nuance.
+At [Draft.dev](https://draft.dev), our clients are the final review before publication. The content should be tight enough that they can easily see the big picture and point out any areas where they want more or less information or a different nuance.
 
 We can expect the content to consistently be at that level because each editing stage beforehand is very intentional. Something specific is being addressed at each point. The content is not being aimlessly tossed from person to person to see what they think.
 
