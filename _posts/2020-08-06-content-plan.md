@@ -1,12 +1,14 @@
 ---
 layout: post
 title: How to Create a Technical Content Plan
+description: A content plan is a detailed outline of the content you want to
+  produce for your blog. Having one will ensure your writers can execute on each
+  piece you assign to them.
+categories: processes
+cta: Call
 author: karl
 date: 2020-08-06
-description: "A content plan is a detailed outline of the content you want to produce for your blog. Having one will ensure your writers can execute on each piece you assign to them."
-categories: processes
 img: /assets/posts/content-roadmap.jpg
-cta: Call
 ---
 
 There are two mistakes that most companies make when they decide to pursue technical content marketing:
@@ -36,13 +38,13 @@ Let’s take a look at the first article in the content plan: *How to Deploy Wor
 <!-- signup -->
 
 ### The Title
-While it may change, the working title tells us what each article's main keywords are and the tone. Articles that start with “How to…” like this one are generally tutorials, but as you’ll see, we clarify that further down in the plan.
+While it may change, the working title tells us what each article's [main keywords](https://draft.dev/learn/seo-keyword-opportunities-in-developer-marketing) are and the tone. Articles that start with “How to…” like this one are generally tutorials, but as you’ll see, we clarify that further down in the plan.
 
 ### The Pitch
 Freelance journalists [typically write a “pitch”](https://genprogress.org/how-to-write-a-pitch/) to sell an editor on their idea. The pitch in your content plan accomplishes a similar goal, giving others a high-level view of the article what readers will learn.
 
 ### Assets Delivered
-I like to be clear about what will be entailed in creating each piece of content I write. Include expectations for the article length, type, and supporting data or code samples that will be delivered.
+I like to be clear about [what will be entailed in creating each piece of content](https://draft.dev/learn/content-types-and-deliverables-what-are-they) I write. Include expectations for the article length, type, and supporting data or code samples that will be delivered.
 
 ### Audience
 If your writer assumes the article is directed at entry-level developers, but you meant it to be aimed at managers, you’re not going to be happy with the outcome. Having a clear audience attached to each piece will also help you think about how you’ll promote it after publication.
@@ -66,7 +68,7 @@ It’s easy to fall into the trap of publishing anything anyone wants to write o
 Having a defined audience for each post you write will help your marketing team decide on a [promotional plan](https://draft.dev/learn/promotion) for each piece. That allows them to do research *before* the post goes live to give it the best chance of success the moment it’s published.
 
 ### Enables You to Find the Right Writers
-Whether you’ve got dedicated in-house resources or a large pool of community contributors, writers will struggle to come up with good topics consistently. By having a list of content ideas, you can control the content’s quality and topic choice. You can even start targeted outreach to find writers with specific experience for each post.
+Whether you’ve got dedicated in-house resources or a large pool of community contributors, writers will struggle to come up with good topics consistently. By having a list of content ideas, you can control the content’s quality and topic choice. You can even [start targeted outreach to find writers](https://draft.dev/learn/how-to-hire-a-blogger-for-your-company) with specific experience for each post.
 
 ### Minimizes Back-and-Forth
 One of the most frustrating things as a writer is having unclear expectations for your work. Imagine spending 5-10 hours writing an in-depth, technical piece and then being told you missed the mark. I’ve done it; it sucks. A content plan will make sure writers don’t waste their time or yours.
@@ -78,7 +80,7 @@ Once your team agrees that a content plan is necessary, it’s time to get to wo
 2. Coming up with ideas
 3. Research and add details
 
-Generally, step 1 is done at the top. Whether it’s the Head of Marketing, Community Manager, or Content Marketing Manager, someone familiar with the company’s overarching goals should be responsible for choosing and defining a content strategy. This strategy won’t go into specific article ideas, but rather set the target audience, the kind of content you’ll create, and how you’ll capture readers to turn them into leads.
+Generally, step 1 is done at the top. Whether it’s the [Head of Marketing](https://draft.dev/learn/what-is-a-head-of-marketing), Community Manager, or Content Marketing Manager, someone familiar with the company’s overarching goals should be responsible for choosing and defining a content strategy. This strategy won’t go into specific article ideas, but rather set the target audience, the kind of content you’ll create, and how you’ll capture readers to turn them into leads.
 
 Next, use the strategy to come up with a list of possible article ideas. At this stage, each idea will probably just be a title and maybe a couple of bullet points. If there are lots of ideas, you may need to rank them and pick the winners. If you’re [having trouble coming up with ideas](https://draft.dev/learn/startup-blog-ideas), you might want to take a break and return to it later.
 
