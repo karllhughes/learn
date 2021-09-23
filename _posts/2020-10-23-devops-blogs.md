@@ -4,10 +4,10 @@ title: The Best DevOps Blogs
 description: We've graded the 30 best DevOps blog based on writing quality,
   consistency, longevity, technical depth, and usefulness.
 categories: technical-blogs
+cta: Content Ideas
 author: keanan
 date: 2020-10-23
 img: /assets/posts/cloud-14.png
-cta: Content Ideas
 ---
 
 DevOps is a term that has become more and more popular in job postings and with those looking to break into the industry, especially over the past few years. However, one of the most challenging aspects of DevOps is understanding exactly what it is and how it's applied in the industry. I’ve rounded up some of the best devops blogs and resources to help you learn about the practice and keep up with changes as they come.
@@ -389,3 +389,5 @@ The Continuous Delivery blog is definitely one of the most specific ones on this
 As you can see, there is no shortage of people talking about DevOps and trying to keep up with the changes in the industry. Hopefully in the list above you've found a new resource or two that you'll refer back to in the future.
 
 Do you have a favorite blog that I didn't include in this list? [Submit your suggestions here](https://airtable.com/shrKNdNjYO6hNQxJV)!
+
+If you've enjoyed this, don't miss our other [Best Technical Blogs lists](https://draft.dev/learn/technical-blogs/)
