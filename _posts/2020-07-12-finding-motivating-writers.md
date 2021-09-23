@@ -1,12 +1,14 @@
 ---
 layout: post
 title: How to Find and Motivate Writers for Your Blog
+description: In the early days, you might write everything yourself, but this
+  won't scale. In this post, we explore some options for finding technical
+  writers for your blog.
+categories: content-marketing
+cta: Playbook
 author: karl
 date: 2020-07-12
-description: "In the early days, you might write everything yourself, but this won't scale. In this post, we explore some options for finding technical writers for your blog."
-categories: content-marketing
 img: /assets/posts/motivation.jpg
-cta: Playbook
 ---
 
 Most technical blogs have a surprisingly small staff, and many of the most prolific ones rely on contributions from freelancers or volunteer contributors. If you’re just starting out, you might wonder what options you have for finding and motivating writers for your technical blog.
@@ -15,7 +17,7 @@ Most technical blogs have a surprisingly small staff, and many of the most proli
 
 > “You can’t do everything, and if you try to you’ll do even less.” - Josh Steimle
 
-In the early days, you might have to manage, plan, and write everything yourself. While this will give you a lot of control over the content, it’s hard to produce more than a few pieces of content per month this way.
+In the early days, you might have to manage, [plan](https://draft.dev/learn/content-plan), and write everything yourself. While this will give you a lot of control over the content, it’s hard to produce more than a few pieces of content per month this way.
 
 There are a few tricks you can use to maximize your output when you’re the only writer though:
 
@@ -42,15 +44,15 @@ The challenge here is that other people in your company have a job to do, and it
 
 If you have a budget for creating content, you can probably find customers, community members, or freelancers who will be willing to [write content for your blog](/learn/technical-writer-for-hire). Many companies have [paid writing programs](https://github.com/malgamves/CommunityWriterPrograms) that you can reference for inspiration.
 
-Hiring outside freelancers is a great way to get new voices, but it presents its own challenges. You have to manage writers who probably have a full-time job. Even if they're good writers, they aren’t going to jeopardize their job for a few hundred bucks.
+[Hiring outside freelancers](https://draft.dev/learn/how-to-hire-a-freelance-marketing-writer) is a great way to get new voices, but it presents its own challenges. You have to manage writers who probably have a full-time job. Even if they're good writers, they aren’t going to jeopardize their job for a few hundred bucks.
 
 Second, to cover a wide range of topics, you’ll need a variety of writers. The more writers you have to manage, the more overhead you'll incur. If you hire people outside the country or in certain states, you might have to worry about the legal ramifications of [paying them](/learn/paying-freelance-writers) or [whether they’re considered a “contractor” or not](https://www.thebalancesmb.com/what-is-the-abc-test-for-independent-contractors-4586615).
 
 ### Option 4: Work with a technical blogging agency
 
-When you realize how much work it is to manage freelancers, you might consider hiring an agency. I’m biased because that’s what my company [Draft](https://draft.dev/) does, but it is a good option for some companies.
+When you realize how much work it is to manage freelancers, you might consider [hiring an agency](https://draft.dev/learn/content-creation-agency). I’m biased because that’s what my company [Draft](https://draft.dev/) does, but it is a good option for some companies.
 
-Typically, an agency will work with you to decide on a list of topics each month and then deliver that content to you. They’ll usually take care of the editing and may even help with promotion and distribution. You will have one bill to pay each month, one contact to interact with, and you will likely get higher quality content.
+Typically, an agency will work with you to decide on a list of topics each month and then deliver that content to you. They’ll usually take care of the [editing](https://draft.dev/learn/technical-editing) and may even help with [promotion and distribution](https://draft.dev/learn/promotion). You will have one bill to pay each month, one contact to interact with, and you will likely get higher quality content.
 
 The downside to an agency is cost. While they will save you time, you will pay a markup on the content they produce, so you should be committed to building a blog before you engage them. I only recommend the agency model if you’re looking to build high-quality, long-lasting technical content as a business asset.
 
@@ -58,7 +60,7 @@ The downside to an agency is cost. While they will save you time, you will pay a
 
 > "I hire people brighter than me and then I get out of their way." - Lee Iacocca
 
-Finally, the most expensive option is to hire a team of in-house technical writers. This is usually cost-prohibitive for all but the largest tech companies, but it gives you a lot of control over the quality and quantity of content on your blog. Companies like Microsoft, IBM, and Google have teams of developer marketing and developer advocates producing original blog posts, videos, and conference talks.
+Finally, the most expensive option is to hire a team of in-house technical writers. This is usually cost-prohibitive for all but the largest tech companies, but it gives you a lot of control over the quality and quantity of content on your blog. Companies like Microsoft, IBM, and Google have teams of [developer marketing](https://draft.dev/learn/developer-marketing) and developer advocates producing original blog posts, videos, and conference talks.
 
 Whichever option you choose, your blog will grow faster with a range of voices and topics. Using external writers is a great way to do this, but you’ll have to weigh the overhead of managing them with the cost of working with an agency or hiring someone full-time.
 
