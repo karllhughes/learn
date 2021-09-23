@@ -8,14 +8,14 @@ author: meagan
 date: 2021-09-01T12:26:55.211Z
 img: /assets/posts/605ad558.jpg
 ---
-Freelance marketing writers provide all the [benefits of a content strategy](https://draft.dev/learn/posts/how-to-create-a-digital-content-strategy) without the costs of hiring permanent staff. This article will explain where to find strong writers and how to verify they’re appropriate for your business. 
+Freelance marketing writers provide all the [benefits of a content strategy](https://draft.dev/learn/posts/how-to-create-a-digital-content-strategy) without the costs of hiring permanent staff. This article will explain where to find strong writers and [how to verify they’re appropriate for your business](https://draft.dev/learn/technical-writing-rubric). 
 
 
 ## **What Freelance Marketing Writers Do**
 
-Freelance marketers are the driving power of communicating your USP. They know how to write about your product in a way that boosts comprehension and drives sales. These writers are typically professionals on SEO writing, keyword research, and [SERP marketing](https://digitalmarketinginstitute.com/resources/lessons/seo-search-engine-optimization_serps_el3t).
+Freelance marketers are the driving power of communicating your USP. They know how to write about your product in a way that boosts comprehension and drives sales. These writers are typically professionals on SEO writing, [keyword research](https://draft.dev/learn/seo-keyword-opportunities-in-developer-marketing), and [SERP marketing](https://digitalmarketinginstitute.com/resources/lessons/seo-search-engine-optimization_serps_el3t).
 
-Marketing writers focus on deriving action from their writing. They typically have a different objective and writing style than blog writers, and use research and content strategy to plan their pieces. While blog writers are usually skilled in one type of copy, marketing writers have experience writing for many mediums (emails, tutorials, case studies, etc).
+Marketing writers focus on deriving action from their writing. They typically have a different objective and writing style than blog writers, and use research and [content strategy](https://draft.dev/learn/digital-content-strategy) to plan their pieces. While blog writers are usually skilled in one type of copy, marketing writers have experience writing for many mediums (emails, tutorials, case studies, etc).
 
 Freelance marketing writers can be important assets for businesses of all sizes. We’re going to take a closer look at working with a freelance marketing writer, including:
 
@@ -83,7 +83,7 @@ If hiring a freelance marketing writer is the best decision for you, you’ll ne
 
 ### 1. Outline Duties
 
-Define what you need from your writers. Will they have set hours that are dedicated to you each month? What are their deliverables? Have this written up and be sure to note it on any job listings. The more information you provide, the better chance you’ll have of finding a good fit.
+Define what you need from your writers. Will they have set hours that are dedicated to you each month? [What are their deliverables](https://draft.dev/learn/content-types-and-deliverables-what-are-they)? Have this written up and be sure to note it on any job listings. The more information you provide, the better chance you’ll have of finding a good fit.
 
 
 ### 2. Be Specific
@@ -151,7 +151,7 @@ Marketing writers can kickstart your business into high gear. By composing email
 
 Your needs will dictate whether a freelance or in-house team member is right for you. Onboarding the right person from the right place will take time, but work wonders down the road. If your hiring process is fine-tuned accordingly, you can start creating marketing content within weeks.
 
-If neither in-house writers nor freelance marketing writers are right for you, retaining an agency could be a good fit. Agencies make a great alternative for companies that have the budget and want the additional capacity that agencies provide over an individual freelancer. Draft.dev sources writers with deep expertise in their industry, vetted and reviewed to create technical content such as tutorials, blog posts, lead magnets, and more. **[Book a call](https://draft.dev/call)** to find out what we can do for you.
+If neither in-house writers nor freelance marketing writers are right for you, retaining [an agency could be a good fit](https://draft.dev/learn/content-creation-agency). Agencies make a great alternative for companies that have the budget and want the additional capacity that agencies provide over an individual freelancer. Draft.dev sources writers with deep expertise in their industry, vetted and reviewed to create technical content such as tutorials, blog posts, lead magnets, and more. **[Book a call](https://draft.dev/call)** to find out what we can do for you.
 
 
 
