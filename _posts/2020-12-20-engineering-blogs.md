@@ -4,12 +4,12 @@ title: The Best Engineering Blogs
 description: A great engineering blog is both entertaining and educational. In
   this list, we've captured 30 of our favorite engineering blogs.
 categories: technical-blogs
+cta: Content Ideas
 author: anastasia
 date: 2020-12-28T18:00:24.211Z
 img: /assets/posts/engineering-12.png
-cta: Content Ideas
 ---
-The world of tech and software development evolves fast, with new frameworks and libraries advancing all the time. It’s important to stay tuned in, or you could be left behind. To make that less of a challenge, I’ve handpicked thirty engineering blogs that you should follow or at least bookmark for future reference.
+The world of tech and software development evolves fast, with new [frameworks and libraries](https://draft.dev/learn/technical-blogs/) advancing all the time. It’s important to stay tuned in, or you could be left behind. To make that less of a challenge, I’ve handpicked thirty engineering blogs that you should follow or at least bookmark for future reference.
 
 _Engineering blog_ is, of course, an umbrella term that includes not just software engineering but also a wide range of engineering disciplines. So to properly evaluate each blog, I scored them against a consistent set of criteria: writing quality, consistency, longevity, technical depth, broad usefulness. 
 
@@ -389,3 +389,5 @@ Lyft Engineering is similar to the Uber blog, but I did find this one to be less
 Clearly, there are a lot of great engineering blogs out there worth following. I hope this list has helped you discover some resources to keep you up to speed with everything happening in the world of tech.   
 
 And please remember: knowledge is all about sharing. Do you have an engineering blog that you’d like to share? Don’t hesitate to [submit your suggestions here](https://airtable.com/shrKNdNjYO6hNQxJV)!
+
+If you've enjoyed this, don't miss our other [Best Technical Blogs](https://draft.dev/learn/technical-blogs/) lists.
