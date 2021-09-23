@@ -25,7 +25,7 @@ That’s the function of your head of marketing. Backed by years of experience, 
 Their responsibilities might include:
 - Creating a buyer’s journey or sales funnel on your site
 - Driving conversions by tracking the ROI of initiatives
-- Managing in-house and freelance workers
+- Managing in-house and [freelance workers](https://draft.dev/learn/how-to-hire-a-freelance-marketing-writer)
 - Writing content briefs or outlines 
 - Brainstorming new initiatives
 
