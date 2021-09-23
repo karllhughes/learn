@@ -1,17 +1,18 @@
 ---
 layout: post
 title: The Draft.dev Technical Blogging Style Guide
+description: A style guide includes expectations for your contributors. In this
+  post, we break down our technical blogging style guide at Draft.dev.
+categories: processes
+cta: Call
 author: karl
 date: 2020-09-26
-description: "A style guide includes expectations for your contributors. In this post, we break down our technical blogging style guide at Draft.dev."
-categories: processes
 img: /assets/posts/styleguide.jpg
-cta: Call
 ---
 
 As your blog grows and you [get more writers to contribute](https://draft.dev/learn/finding-motivating-writers), you need to build documents and processes to help you maintain high quality and consistent style. To serve this goal, you should create a style guide to help writers and editors stay on the same page.
 
-Generally, **a style guide includes expectations for your contributors**. Depending on your priorities, you may include more or less information than we do at [Draft.dev](https://draft.dev), but our style guide should give you an excellent place to start. We send this style guide to all new contributors to ensure they are familiar with our expectations, and we refer to this guide throughout the editing process.
+Generally, **a style guide includes expectations for your contributors**. Depending on your priorities, you may include more or less information than we do at [Draft.dev](https://draft.dev), but our style guide should give you an excellent place to start. We send this style guide to all new contributors to ensure they are familiar with our expectations, and we refer to this guide throughout the [editing process](https://draft.dev/learn/5-steps-to-a-quality-edit-for-your-technical-blog).
 
 Of course, ours is not the only example of a technical writing style guide. If you're looking to compare your options, check out [Google's developer documentation style guide](https://developers.google.com/style), [DigitalOcean's technical writing guidelines](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines), and some of the [other guides here](/learn/technical-writer-style-guides). If you're creating a style guide, I'd recommend reading over several and deciding what you want to include in yours.
 
@@ -270,6 +271,6 @@ Bad:
 Authors that fail to respond to emails about open assignments will not be eligible for future assignments.
 
 ## Final Notes
-Creating high-quality technical content requires consistency and clear expectations. While having a style guide may not be necessary during your blog's early days, it's an invaluable asset as you grow.
+Creating [high-quality technical content](https://draft.dev/learn/technical-content) requires consistency and clear expectations. While having a style guide may not be necessary during your blog's early days, it's an invaluable asset as you grow.
 
 Now that you've seen our style guide, I'd love to hear from you. If you have questions about an article you're writing, email [karl@draft.dev](mailto:karl@draft.dev) for help. If you'd like to talk about creating content for your blog, you can [schedule a call with me here](https://draft.dev/call).
