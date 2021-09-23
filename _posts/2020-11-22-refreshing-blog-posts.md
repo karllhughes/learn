@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Refreshing Old [Technical] Blog Posts"
+title: Refreshing Old [Technical] Blog Posts
+description: Want 61.9% more traffic on your blog in just 5 months? Here's how
+  refreshing some of my old blog posts led to a huge uptick in SEO.
+categories: writing
+cta: Content Ideas
 author: karl
 date: 2020-11-22
-description: "Want 61.9% more traffic on your blog in just 5 months? Here's how refreshing some of my old blog posts led to a huge uptick in SEO."
-categories: writing
 img: /assets/posts/refresh.jpg
-cta: Content Ideas
 ---
 
 When I left my role as a [startup CTO to found Draft.dev](https://www.karllhughes.com/posts/cto-writer), I decided I would invest a little time improving [my personal blog](https://www.karllhughes.com/). I’ve been writing sporadically on the site for the past decade, but before 2020, I wasn’t consistent, and the topics varied widely. As I began writing full-time for clients and learning more about SEO, I decided it was time to make some updates to my personal blog as well.
@@ -22,7 +23,7 @@ The goal of refreshing my blog was to increase the amount of traffic I got from 
 
 ## The Challenge in Keeping a Technical Blog Up-to-Date
 
-My blog contains a mix of [developer tutorials](https://draft.dev/learn/technical-tutorials), opinion-driven technical thought leadership pieces, and collections of books and tools I find useful. While most of the posts written in the past couple of years weren’t too bad, many of the older posts are now full of deprecated references and technologies.
+My blog contains a mix of [developer tutorials](https://draft.dev/learn/technical-tutorials), opinion-driven technical thought leadership pieces, and collections of books and [tools I find useful](https://draft.dev/learn/tools/). While most of the posts written in the past couple of years weren’t too bad, many of the older posts are now full of deprecated references and technologies.
 
 Blog posts will suffer in search engines if they get out of date or factually inaccurate. If you write a lot of tutorials, this can make keeping your blog relevant incredibly hard. You might spend half your time just keeping old posts updated.
 
