@@ -1,19 +1,20 @@
 ---
 layout: post
 title: The Best Python Blogs
+description: We dug deep into dozens of blogs to create this comprehensive list
+  of the 29 best Python blogs published today.
+categories: technical-blogs
+cta: Content Ideas
 author: matt
 date: 2020-08-17
-description: "We dug deep into dozens of blogs to create this comprehensive list of the 29 best Python blogs published today."
-categories: technical-blogs
 img: /assets/posts/python.png
-cta: Content Ideas
 ---
 
 Python is one of [the most popular programming languages](http://pypl.github.io/PYPL.html) in use today, so I went on a journey to find the best Python blogs on the internet. Each of these sites demonstrates technical expertise, is relatively easy to comprehend, publishes content consistently, and has stood the test of time.
 
 During this process, I used the same approach for analyzing and comparing common qualities (or deficiencies) in each blog. 
 
-I looked at the depth of each blog's technical content and the usefulness of that content. I read a few posts from start to finish to get a sense of the writing quality and comprehensibility. I looked at how consistently each blog publishes new content, and I did some digging to learn how long each site has been around.
+I looked at the depth of each blog's [technical content](https://draft.dev/learn/technical-content) and the usefulness of that content. I read a few posts from start to finish to get a sense of the writing quality and comprehensibility. I looked at how consistently each blog publishes new content, and I did some digging to learn how long each site has been around.
 
 Here are the top 29 Python blogs I found:
 
@@ -434,3 +435,5 @@ Astro Python is a blog solely focused on Python applications in astronomy. While
 This concludes my quest to identify, analyze, and rank the best Python blogs in 2020. While my grading system may not be perfect, it allowed me to assign some numerical value to each blog and let the data do the talking. It's a satisfying approach for the technical blogger in me.
 
 **Know another blog I should consider for this list? [Click here to submit it](https://airtable.com/shrKNdNjYO6hNQxJV).**
+
+If you've enjoyed this, don't miss our other [Best Technical Blogs lists](https://draft.dev/learn/technical-blogs/).
