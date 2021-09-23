@@ -1,12 +1,13 @@
 ---
 layout: post
 title: The 3 Questions You Should Ask Before Starting a Technical Blog
+description: The best technical blogs have a clear audience and defined goals.
+  Here are the three questions you should ask before starting a technical blog.
+categories: processes
+cta: Content Ideas
 author: karl
 date: 2020-06-28
-description: The best technical blogs have a clear audience and defined goals. Here are the three questions you should ask before starting a technical blog.
-categories: processes
 img: /assets/posts/three-questions.jpg
-cta: Content Ideas
 ---
 
 The best technical blogs have a clear audience and defined goals. Today, I'm going to share the three questions I ask every [client I work with at Draft](https://draft.dev/):
@@ -22,7 +23,7 @@ Not every technical blog’s goals are the same, but the good ones know why they
 *   **Build an audience** - Some blogs act as the top of the marketing team's funnel. These blogs usually seek to capture leads through an email or social signup.
 *   **Thought leadership** - Consultants and agencies are especially motivated to establish themselves as thought leaders in their industry.
 *   **Move prospects through your funnel** - Content isn’t just for the top of the funnel. Your blog can support nurturing campaigns that turn leads into customers.
-*   **Search engine optimization (SEO)** - Once your blog has been around for a while, it may start to rank for keywords on Google. If you want to maximize your traffic from search engines, a blog is critical.
+*   **Search engine optimization (SEO)** - Once your blog has been around for a while, it may start to [rank for keywords on Google](https://draft.dev/learn/seo-keyword-opportunities-in-developer-marketing). If you want to maximize your traffic from search engines, a blog is critical.
 
 There are plenty of marketing and communication channels available, so don't feel like you have to have a blog. If you do create one, set a clear goal before you start investing in it.
 
@@ -49,8 +50,8 @@ A clearly defined audience will go miles towards making your blog better.
 
 Your content should be unique, but it shouldn’t surprise your audience. Most successful blogs choose 2-3 standard "formats" and publish them consistently. Here are the most common formats I see on software engineering blogs:
 
-*   **Tutorials** - These step-by-step walkthroughs show readers how to build something or illustrate a specific use-case for your product. They provide a lot of value to engineers who are using your tool or related technologies.
-*   **Roundups** - [Listacles](https://en.wikipedia.org/wiki/Listicle) get a bad wrap, but high-quality curation is still valuable when done right. Roundups bring together a wealth of information to help your readers make decisions.
+*   **Tutorials** - These [step-by-step walkthroughs](https://draft.dev/learn/technical-tutorials) show readers how to build something or illustrate a specific use-case for your product. They provide a lot of value to engineers who are using your tool or related technologies.
+*   **Roundups** - [Listicles](https://en.wikipedia.org/wiki/Listicle) get a bad wrap, but high-quality curation is still valuable when done right. Roundups bring together a wealth of information to help your readers make decisions.
 *   **Case Studies** - Like tutorials, case studies can illustrate a use-case for your product, but they tend to be more focused on the outcomes than the process. Case studies can also come off as a bit “salesy” if you're not careful.
 *   **Features** - Borrowing [the word from journalism](https://www.bbc.co.uk/bitesize/guides/zqt7k7h/revision/1), a “feature” dives deep into something of interest to your audience. For example, you might introduce a new feature, highlight a team member, or do a technical teardown of part of your codebase.
 *   **Q&As** - Interviews with team members, customers, and influencers in the industry can be a great way to focus your blog’s lense outwards and help you piggyback off your interviewee's audience.
