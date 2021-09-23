@@ -5,17 +5,17 @@ description: Contacting bloggers and journalists directly to pitch your startup
   works, but it’s incredibly time-consuming. Sometimes, a low-cost or free press
   release is well worth it.
 categories: tools
+cta: Content Ideas
 author: karl
 date: 2020-12-23T17:46:01.324Z
 img: /assets/posts/wkefgok.jpg
-cta: Content Ideas
 ---
 Contacting bloggers and journalists directly to pitch your startup works, but it’s incredibly time-consuming. Sometimes, a low-cost or free press release is well worth it, so if you’re considering investing in one for your startup, look no further.
 
 ## Is a Press Release Worth It?
 The truth is, many startups pass on press releases because it's often hard to measure or determine the ROI (return on investment). That said, when done as part of a comprehensive media push, I've seen them work before.
 
-Pushing a press release [is just the first step in the process](https://publicize.co/guides/example-press-releases/). When coupled with strong content marketing, outreach to journalists, and paid media, a press release can add credibility and authoritative information to your outreach efforts.
+Pushing a press release [is just the first step in the process](https://publicize.co/guides/example-press-releases/). When coupled with strong [content marketing](https://draft.dev/learn/content-marketing/), outreach to journalists, and paid media, a press release can add credibility and authoritative information to your outreach efforts.
 
 <!-- signup -->
 
