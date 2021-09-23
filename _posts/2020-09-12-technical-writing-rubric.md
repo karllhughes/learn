@@ -1,15 +1,16 @@
 ---
 layout: post
-title: How to Create a Technical Writing Rubric 
-author: karl
-description: "A technical writing rubric is a document that defines the criteria you use to decide whether a writer is a good fit for your role or not."
-date: 2020-09-12
+title: How to Create a Technical Writing Rubric
+description: A technical writing rubric is a document that defines the criteria
+  you use to decide whether a writer is a good fit for your role or not.
 categories: processes
-img: /assets/posts/hiring-rubric.png
 cta: Playbook
+author: karl
+date: 2020-09-12
+img: /assets/posts/hiring-rubric.png
 ---
 
-Hiring is always hard, but the more specialized your hire, the harder it will be. If you're managing a technical blog and you want to [stop writing everything yourself](https://draft.dev/learn/finding-motivating-writers), you'll need to recruit and hire technical writers to help you out.
+Hiring is always hard, but the more specialized your hire, the harder it will be. If you're managing a technical blog and you want to [stop writing everything yourself](https://draft.dev/learn/finding-motivating-writers), you'll need to recruit and [hire technical writers](https://draft.dev/learn/technical-writer-for-hire) to help you out.
 
 While traditionally used in education, rubrics are a fantastic tool for hiring, and I've used them for years both as [an engineering manager](https://www.karllhughes.com/posts/developing-talent) and content manager at Draft. Whether you are bringing on a part-time freelancer or a full-time hire, having a good rubric will help you [objectively evaluate candidates](https://www.managementcenter.org/article/mitigate-bias-in-hiring-with-a-simple-rubric/) and keep you focused on the criteria that matter for your job.
 
@@ -54,10 +55,10 @@ Finally, great writers have to be great organizers. While having [good content b
 To reach the highest level in this attribute, writers must create clear transitions between topics and consistent focus throughout the entire sample piece.
 
 ### Category 2: Technical
-As a technical content agency, Draft.dev's writers must have specialized experience. While not every piece we produce requires deep knowledge about a specific technical topic, writers must research, understand, and speak to technical topics.
+As a [technical content agency](https://draft.dev/learn/content-creation-agency), Draft.dev's writers must have specialized experience. While not every piece we produce requires deep knowledge about a specific technical topic, writers must research, understand, and speak to technical topics.
 
 #### Development
-In this context, "development" doesn't mean software development skills - it means the ability to develop and present an idea. A well-developed piece of writing goes beyond the step-by-step "how" and builds the "why" as well.
+In this context, "development" doesn't mean software development skills - it means the ability to develop and present an idea. A well-developed piece of writing [goes beyond the step-by-step "how" and builds the "why" as well](https://stackoverflow.blog/2021/06/08/podcast-345-a-good-software-tutorial-explains-the-how-a-great-one-explains-the-why/).
 
 A writer who can present their main idea and strongly support it with technical evidence while keeping the "why" central to the work will get full points in this category.
 
