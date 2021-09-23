@@ -43,7 +43,7 @@ Currently the richest, most active place online, in my opinion, where you can re
 
 ### [Stack Overflow Blog](https://stackoverflow.blog/)
 
-Stack Overflow always keeps its promise to solve your technical problems. That’s true not only for their forum, but also for their blog, which publishes great, daily articles about computer science topics of all kinds, but with special regard for programming languages.
+Stack Overflow always keeps its promise to solve your technical problems. That’s true not only for their forum, but also for their blog, which publishes great, daily articles about computer science topics of all kinds, but with special regard for programming languages. Our founder Karl Hughes has [also been a contributor](https://stackoverflow.blog/author/karl-hughes/).
 
 * **Writing quality:** 5
 
@@ -520,3 +520,5 @@ Created by Mark Guzdial, a professor at the University of Michigan in computer s
 Finding places to renew and test your knowledge is vital to keep any passion alive, and hopefully, this list has helped you do just that. 
 
 If you’d like to contribute to the community of computer science enthusiasts, submit the best computer science blogs you know about [here](https://airtable.com/shrKNdNjYO6hNQxJV), and help more people find the best places online to nurture their passion for computer science. 
+
+If you've enjoyed this, don't miss our other [Best Technical Blogs](https://draft.dev/learn/technical-blogs/) lists
