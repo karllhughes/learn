@@ -1,12 +1,14 @@
 ---
 layout: post
 title: Creating a Multi-Author Publishing Calendar in Airtable
+description: Airtable is a free content management system that is perfect for
+  managing large blogs with multiple authors. Here's how we use it for our
+  publishing calendar.
+categories: tools
+cta: Content Ideas
 author: karl
 date: 2020-11-08
-description: "Airtable is a free content management system that is perfect for managing large blogs with multiple authors. Here's how we use it for our publishing calendar."
-categories: tools
 img: /assets/posts/publishing-calendar.png
-cta: Content Ideas
 ---
 
 If you want to publish new content consistently, you have to plan for it. A publishing calendar will help hold you and your writers accountable for delivering content consistently.
@@ -42,8 +44,8 @@ Our “Kanban View” in the “Assignments” table helps you see exactly where
 
 *   **Preparing** - Ideas and loose pitches that still need to be defined go here. We typically want to have a complete brief (see _Part 1_ above) before moving an assignment out of this column.
 *   **Ready** - At this stage, the assignment is defined, it has a due date, and we’re deciding who will write it.
-*   **Writing** - Once the writer is confirmed and starts working on the assignment, we move it to this column.
-*   **Editing** - After a writer submits their first draft, the article enters editing. Typically, this involves some sub-steps (technical review, copy editing, revisions, etc.), but by the end, we should have a complete piece of content that’s ready to publish.
+*   **Writing** - [Once the writer is confirmed](https://draft.dev/learn/matching-writers) and starts working on the assignment, we move it to this column.
+*   **Editing** - After a writer submits their first draft, the article enters editing. Typically, this involves some [sub-steps (technical review, copy editing, revisions, etc.)](https://draft.dev/learn/5-steps-to-a-quality-edit-for-your-technical-blog), but by the end, we should have a complete piece of content that’s ready to publish.
 *   **Scheduled** - Very few clients publish content the moment we hand it over to them, so each assignment enters the Scheduled stage until it goes live.
 *   **Published** - We don’t promote content directly for our clients, but [you should be](https://draft.dev/learn/promotion). This column holds articles that have been published but not yet promoted.
 *   **Promoted** - At this point, the article is completely finished...until we decide to do a refresh.
