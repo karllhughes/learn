@@ -1,12 +1,13 @@
 ---
 layout: post
 title: The Best Ruby Blogs
+description: Stay on top of Ruby’s new features and best practices. Here are the
+  22 best Ruby blogs on the internet today.
+categories: technical-blogs
+cta: Content Ideas
 author: tola
 date: 2020-10-19
-description: "Stay on top of Ruby’s new features and best practices. Here are the 22 best Ruby blogs on the internet today."
-categories: technical-blogs
 img: /assets/posts/ruby-blogs.png
-cta: Content Ideas
 ---
 
 [Ruby](https://www.ruby-lang.org/en/) is a popular language used for building full-stack and backend web applications, so I set out to find the 22 best Ruby blogs publishing today. Developers who want to keep up with Ruby’s new features, frameworks, and best practices should keep up with the content they find most helpful.
@@ -291,4 +292,6 @@ Martin Fowler's blog is focused on architecture and software development in a wi
 -----
 
 This concludes my quest to evaluate, rate, and rank the best Ruby blogs and resources in 2020. If you know another blog I should consider for this list, [click here to submit it](https://airtable.com/shrKNdNjYO6hNQxJV).
+
+If you've enjoyed this, don't miss our other [Best Technical Blogs lists](https://draft.dev/learn/technical-blogs/).
 
