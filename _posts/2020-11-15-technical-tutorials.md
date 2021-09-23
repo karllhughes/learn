@@ -1,12 +1,14 @@
 ---
 layout: post
 title: How to Write a Technical Tutorial
+description: We write hundreds of technical tutorials every year, so in this
+  post, we've collected some of our top tips for writing great software
+  development tutorials.
+categories: writing
+cta: Content Ideas
 author: josh
 date: 2020-11-15
-description: "We write hundreds of technical tutorials every year, so in this post, we've collected some of our top tips for writing great software development tutorials."
-categories: writing
 img: /assets/posts/technical-tutorial.png
-cta: Content Ideas
 ---
 
 Technical tutorials offer compact lessons on various technical subjects from general programming to web development to large scale infrastructure and beyond. They are usually short enough to be digested in one sitting (1500 to 3000 words) and aim to solve a specific problem using a particular technology or set of technologies.
@@ -28,7 +30,7 @@ The goal here is to write tutorials that answer common questions so that enginee
 ### 2. Solidify Your Learning
 [Studies have shown](https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.3410?campaign=wolearlyview) that teaching a subject can enhance your understanding of the material.
 
-Writing technical tutorials is a great way to boost your learning. Many people think that they can’t write technical articles because they are not an “expert” in the subject matter, but **some of the best tutorials are written by writers who are just learning the material themselves**.
+Writing technical tutorials is a great way to boost your learning. Many people think that they can’t [write technical articles](https://draft.dev/learn/technical-content) because they are not an “expert” in the subject matter, but **some of the best tutorials are written by writers who are just learning the material themselves**.
 
 Writers who are new to a subject are closer to a _learner’s mindset_, which allows them to anticipate the types of questions a reader might have and fill in gaps they wish were clearer when they first learned the material.
 
@@ -89,6 +91,8 @@ Your conclusion should mirror your introduction and answer the following questio
 1. What did the reader just learn?
 2. What problem was solved?
 3. What next steps can the reader take if they want to learn more?
+
+[A technical edit](https://draft.dev/learn/technical-editing) can help you ensure the tutorial is reader-focused and flows correctly.
 
 ### 4. Provide Code Snippets
 It’s always helpful to provide unique code, dependencies, and configuration files that are required for your technical tutorial. You can provide a link to your completed project on GitHub if you want, but you’ll need to be selective about what code you include in the article itself.
