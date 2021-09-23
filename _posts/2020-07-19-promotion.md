@@ -1,17 +1,19 @@
 ---
 layout: post
 title: The Big Blog Promotion Checklist
+description: "The #1 mistake new writers and blog managers make is failing to
+  share their work. It’s sad to think how much great content is out there that
+  we’ll never see."
+categories: content-marketing
+cta: Playbook
 author: karl
 date: 2020-07-19
-description: "The #1 mistake new writers and blog managers make is failing to share their work. It’s sad to think how much great content is out there that we’ll never see."
-categories: content-marketing
 img: /assets/posts/promotion.png
-cta: Playbook
 ---
 
 The #1 mistake new writers and blog managers make is failing to share their work.
 
-Creating great technical content takes time, but without adequate promotion, nobody's going to read it. Writing a fantastic, in-depth tutorial and then posting it once to your Twitter account is unlikely to yield results, but that’s what 90% of writers do. It’s sad to think how much great content is out there that we’ll never see.
+Creating great [technical content](https://draft.dev/learn/technical-content) takes time, but without adequate promotion, nobody's going to read it. Writing a fantastic, in-depth tutorial and then posting it once to your Twitter account is unlikely to yield results, but that’s what 90% of writers do. It’s sad to think how much great content is out there that we’ll never see.
 
 ## How Much Time Should You Spend Promoting Your Work?
 
