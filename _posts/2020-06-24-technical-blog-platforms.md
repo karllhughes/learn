@@ -1,12 +1,13 @@
 ---
 layout: post
 title: The Best Technical Blog Platforms
+description: Which blogging platform is right for your technical blog? In this
+  post, we compare some of the best options.
+categories: platforms
+cta: Content Ideas
 author: alyssa
 date: 2020-06-24
-description: Which blogging platform is right for your technical blog? In this post, we compare some of the best options.
-categories: platforms
 img: /assets/posts/blogging-platforms.jpg
-cta: Content Ideas
 ---
 
 Are you considering starting your own technical blog but aren't sure which platform to use? There are so many to choose from that it can be difficult to pull the trigger. I've rounded up some of my favorites platforms for running your technical blog and why you might choose each of them.
@@ -39,7 +40,7 @@ Simply put, WordPress.org is where you'll go if you're hosting your own site wit
 
 ### Jekyll
 
-If you aren't intimidated by HTML, CSS, Markdown, you might want to [give Jekyll a shot](https://jekyllrb.com/). Jekyll doesn't have a user-friendly back end like WordPress does, but if your writers are mostly developers, they may be very comfortable with editing markdown files in Github anyway. Because Jekyll also generates a static website, you'll find that it's fast and takes very little effort on your end to optimize.
+If you aren't intimidated by HTML, CSS, Markdown, you might want to [give Jekyll a shot](https://jekyllrb.com/). Jekyll doesn't have a user-friendly back end like WordPress does, but if your writers are mostly developers, they may be very comfortable with editing markdown files in Github anyway. (You can see more of the differences between Jekyll and Wordpress [in this comparison](https://draft.dev/learn/jekyll-vs-wordpress).)Because Jekyll also generates a static website, you'll find that it's fast and takes very little effort on your end to optimize.
 
 Jekyll uses [Liquid](https://shopify.github.io/liquid/) and gives you a blank slate when it comes to templates. There will be little built-in code, so you'll have to rely on Jekyll's plugins. You can also host it for free on GitHub Pages so your costs are basically nil. This means that you'll never have to upgrade your site or lose your content because it automatically works with GitHub. It'll all be backed up.
 
