@@ -4,10 +4,10 @@ title: The Best Golang Blogs
 description: Stay on top of the latest changes to the Go programming language
   with 25 of the best Golang blogs in operation today.
 categories: technical-blogs
+cta: Content Ideas
 author: zara
 date: 2021-01-10T19:18:47.165Z
 img: /assets/posts/golang.png
-cta: Content Ideas
 ---
 Go recently turned eleven, so you can imagine how much the language and its ecosystem have evolved through the years. A strongly typed language, it’s become increasingly popular with its garbage collection and concurrency support. It’s massively performant, scalable, and resource-use efficient. Small wonder that Go is applied across a multitude of areas these days, including web applications, microservices, cloud computing, web servers, and other systems/tools.
 
@@ -252,3 +252,5 @@ Tutorial Edge posts all kinds of tutorials for computer science, frontend framew
 Keeping up with Go blogs is a smart way to stay exposed to how others are using Go to solve problems. There is so much Go content out there, and it’s not just limited to blogs; more and more people are turning to video and audio to share their Go content, not to mention all the Go forums and newsletters that are available.
 
 There’s always something new to learn about Go, and better or more interesting ways to work with it are always popping up. If you know of other Go blogs we should include in this list, [submit them here](https://airtable.com/shrKNdNjYO6hNQxJV).
+
+If you've enjoyed this, don't miss our other [Best Technical Blogs](https://draft.dev/learn/technical-blogs/) lists.
