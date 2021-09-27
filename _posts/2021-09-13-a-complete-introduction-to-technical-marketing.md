@@ -7,7 +7,7 @@ categories: developer-marketing
 cta: Playbook
 author: karl
 date: 2021-09-08T09:10:20.147Z
-img: /assets/posts/technicalmarketing.jpg
+img: /assets/posts/technical_marketing-01-2.png
 ---
 One of the challenges many business-to-business marketers face is selling a complex product to a knowledgeable audience. For example, companies like [Okta](https://www.okta.com/), [SendGrid](https://sendgrid.com/), and [AWS](https://aws.amazon.com/) must convince software developers—[often a skeptical audience](https://draft.dev/learn/b2d-marketing-tips)—that their tools are up to the job. This means that even non-technical marketing and salespeople at these companies might be asked in-depth technical questions or encounter complex jargon from time-to-time. This is where technical marketing comes in.
 
