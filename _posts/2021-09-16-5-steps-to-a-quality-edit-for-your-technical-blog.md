@@ -31,6 +31,9 @@ And sometimes even two more:
 
 Want to develop your own editorial process for your technical blog? I’ll guide you through all five of our steps here at Draft.dev in detail. By the end of this article, you should be well on your way to a thorough and efficient edit that you can recreate with each new post.
 
+<!-- signup -->
+
+
 ## 1. The Technical Review: the Red Flag 
 
 Edits should always progress from the biggest picture to the finest detail. There’s no point worrying if commas are in the right place when the piece has huge inaccuracies.
