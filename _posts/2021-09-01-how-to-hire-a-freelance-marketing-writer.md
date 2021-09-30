@@ -6,7 +6,7 @@ categories: posts
 cta: Playbook
 author: meagan
 date: 2021-09-01T12:26:55.211Z
-img: /assets/posts/605ad558.jpg
+img: /assets/posts/job_interview.png
 ---
 Freelance marketing writers provide all the [benefits of a content strategy](https://draft.dev/learn/posts/how-to-create-a-digital-content-strategy) without the costs of hiring permanent staff. This article will explain where to find strong writers and [how to verify they’re appropriate for your business](https://draft.dev/learn/technical-writing-rubric). 
 
