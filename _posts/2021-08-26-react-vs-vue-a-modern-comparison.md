@@ -38,6 +38,8 @@ React natively supports components, essential state management, and DOM manipula
 
 Vue, meanwhile, has a highly active set of core solutions, like Vue Router and Vuex, which are constantly maintained and improved by the team behind the framework.
 
+<!-- signup -->
+
 ### Performance
 
 Usually, comparing the performance of two front-end frameworks means looking at three stats: DOM manipulation speed, startup time, and memory allocation. From [this website](https://stefankrause.net/js-frameworks-benchmark8/table.html), you can see how these frameworks compare.
