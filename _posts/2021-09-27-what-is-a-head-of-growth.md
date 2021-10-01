@@ -8,7 +8,7 @@ categories: content-marketing
 cta: Content Ideas
 author: meagan
 date: 2021-09-23T18:17:45.837Z
-img: /assets/posts/image1.jpg
+img: /assets/posts/unnamed-3.jpg
 ---
 Have you considered hiring a head of growth? This relatively new role is in high demand, even within mega-corporations like [Uber, DropBox, and Google](https://neilpatel.com/blog/team-needs-growth-manager/).
 
