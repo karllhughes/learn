@@ -26,6 +26,7 @@ Freelance marketing writers can be important assets for businesses of all sizes.
 *   Where to find writers when you need them
 *   How to be sure they’ll be the right fit
 
+<!-- signup -->
 
 ## **Freelance Or In-House Marketing Writers?**
 
