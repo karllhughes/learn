@@ -9,7 +9,6 @@ author: karl
 date: 2020-09-26
 img: /assets/posts/styleguide.jpg
 ---
-
 As your blog grows and you [get more writers to contribute](https://draft.dev/learn/finding-motivating-writers), you need to build documents and processes to help you maintain high quality and consistent style. To serve this goal, you should create a style guide to help writers and editors stay on the same page.
 
 Generally, **a style guide includes expectations for your contributors**. Depending on your priorities, you may include more or less information than we do at [Draft.dev](https://draft.dev), but our style guide should give you an excellent place to start. We send this style guide to all new contributors to ensure they are familiar with our expectations, and we refer to this guide throughout the [editing process](https://draft.dev/learn/5-steps-to-a-quality-edit-for-your-technical-blog).
@@ -25,11 +24,12 @@ Below is our style guide, which is broken up into four sections:
 1. [Voice](#voice)
 2. [Content](#content)
 3. [Conventions](#conventions) 
-3. [Communication](#communication) 
+4. [Communication](#communication) 
 
 ### Voice
 
 #### Write in Second Person
+
 Speak to your readers directly using "you" and "your." Avoid "we" and "our."
 
 Good:
@@ -41,6 +41,7 @@ Bad:
 > We can use our web browsers (like Chrome, Safari, or Edge) to access web sites on the internet.
 
 #### Use Conversational, Business-Appropriate Language
+
 Read your article out loud and ask yourself, "Would I talk like this at work?" Use your real-world experience, but avoid jargon when possible.
 
 Good:
@@ -52,6 +53,7 @@ Bad:
 > Many scholars would agree that, had it not been for active networks, the simulation of Lamport clocks might never have occurred. The notion that end-users synchronize with the investigation of Markov models is rarely outdated. A theoretical grand challenge in theory is the important unification of virtual machines and real-time theory. To what extent can web browsers be constructed to achieve this purpose?
 
 #### Don't Repeat Yourself
+
 Eliminate wordiness. You shouldn't repeat yourself when programming, and you shouldn't repeat yourself when writing.
 
 Good:
@@ -65,47 +67,35 @@ Bad:
 ### Content
 
 #### The Introduction
-Every article should have a 1-3 paragraph introduction. This introduction should accomplish two things:
- 
-1. Briefly tell readers what the article is about. 
-2. Hook your readers. Give them a reason to continue reading.
 
-Good:
+Every article should have a 1-3 paragraph introduction. A good intro needs to answer a few questions right away:
 
-> I remember the first time I built user preferences into an app. At first, users just needed to be able to opt in or out of our weekly emails. "No big deal," I thought, "I'll just add a new field on the Users table." For a while, that was fine. A few weeks later, my boss asked me if we could let users opt into push notifications. Fine, that's just one more column on the database. Can't hurt, right?
-> 
-> You probably see where this is going.
->
-> Within months, my user table had 40 columns, and while Postgres can handle it, it gets pretty tricky for new devs to keep up with all of them.
->
-> Fortunately, Postgres provides rich support for JSON fields, which can be very handy in situations like mine. Both JSON data types (`json` and `jsonb`) allow you to store entire objects or lists directly in your database. This means that you can store any number of user preferences in one column.
->
-> In this post, I'll show you how to use Postgres' JSON fields in a Django web application. You'll learn about the differences between `json` and `jsonb`, how to query JSON data and some of the drawbacks of storing your data in JSON.
+* What's the paint point I'm addressing here? How do I hook my readers? 
+* What's the solution to this problem?
+* What am I going to do in this article?
 
-Bad (no "hook"):
-
-> Postgres provides rich support for JSON fields, which can be very handy. Both JSON data types (`json` and `jsonb`) allow you to store entire objects or lists directly in your database. This means that you can store any number of user preferences in one column.
->
-> In this post, I'll show you how to use Postgres' JSON fields in a Django web application. You'll learn about the differences between `json` and `jsonb`, how to query JSON data and some of the drawbacks of storing your data in JSON.
+Make sure your introduction is completed by letting the user know how you're going to teach them to solve this pain point.
 
 #### Support Claims With Evidence
+
 For every claim you make, ask yourself, "How can I prove this?" You can do this by:
 
-- Including a link to a reputable article
-- Including a quote from another source
-- Citing an academic study
-- Linking to the official documentation
-- Interviewing knowledgeable professionals
+* Including a link to a reputable article
+* Including a quote from another source
+* Citing an academic study
+* Linking to the official documentation
+* Interviewing knowledgeable professionals
 
 Good:
 
-> While \[Postgres can handle hundreds of columns\]\(https://nerderati.com/2017/01/03/postgresql-tables-can-have-at-most-1600-columns/), it might not be a good idea to take advantage of this feature.
+> While \[Postgres can handle hundreds of columns](https://nerderati.com/2017/01/03/postgresql-tables-can-have-at-most-1600-columns/), it might not be a good idea to take advantage of this feature.
 
 Bad:
 
 > While I'm guessing Postgres can handle a lot of columns, it might not be a good idea to use more than a hundred if you can help it.
 
 #### Plagiarism and Copyright Infringement
+
 Written content that is copied directly from another source must be quoted and cited appropriately. Switching out a few words in a sentence is not enough to make the content original, so be sure to put everything in your own words.
 
 Bad:
@@ -119,62 +109,67 @@ Good:
 The bar for using images is even higher. You may not use images from another website unless they expressly allow it. If you need stock images, use a site like [Unsplash](https://unsplash.com/) or [one of the options here](https://draft.dev/learn/free-stock-images).
 
 #### The Conclusion
+
 Every article should include a 1-2 paragraph conclusion. This should restate the thesis of the article and remind readers what they learned. It may also include other resources readers can reference to learn more.
 
 Good:
 
-> While JSON data types come with some drawbacks, they are useful when you need more flexibility in your data structure. Thanks to Django's native support for \`jsonb\`, you can get started using JSON data in your web applications without \[learning all the native Postgres query operators\]\(https://www.postgresql.org/docs/current/functions-json.html).
+> While JSON data types come with some drawbacks, they are useful when you need more flexibility in your data structure. Thanks to Django's native support for \`jsonb\`, you can get started using JSON data in your web applications without \[learning all the native Postgres query operators](https://www.postgresql.org/docs/current/functions-json.html).
 >
 > Next time you need more flexibility in your data model and want to benefit from the strengths of Postgres give \`jsonb\` fields a try.
 
 ### Conventions
 
 #### Write in Markdown
+
 All articles should be written in [Markdown](https://guides.github.com/features/mastering-markdown/) and submitted in the [Google Doc](http://docs.google.com/) sent to you when you accept the assignment.
 
 Good:
 
-> Markdown is a formatting language often \*used by static site generators\* and \*blogs\*. If you aren't familiar with its syntax, you can \[click here to learn more\](https://guides.github.com/features/mastering-markdown/).
+> Markdown is a formatting language often \*used by static site generators\* and \*blogs\*. If you aren't familiar with its syntax, you can \[click here to learn more](https://guides.github.com/features/mastering-markdown/).
 
 #### Upload Images to [Imgur](https://imgur.com/)
+
 If you have screenshots or diagrams in your article, upload them to [Imgur's free image hosting service](https://imgur.com/) and embed them using Markdown. Include descriptive text inside the brackets (`[...]`) so that screen readers can describe the image.
 
 Good:
 
-> \!\[A diagram showing different computer hardware\]\(https://i.imgur.com/hBE7ZF8.jpg)
+> !\[A diagram showing different computer hardware](https://i.imgur.com/hBE7ZF8.jpg)
 
 Bad:
 
-> \!\[\]\(https://www.my-private-image-server.net/image-1.png)
+> !\[](https://www.my-private-image-server.net/image-1.png)
 
 #### Use Headers to Break Up Sections
+
 Headers make your content more scannable. Use `##`, `###`, and `####` header tags to denote different sections. Headings should be written in [title case](https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case).
 
 Good:
 
-> \#\# How to Use JSON Fields in Your Python Application
+> \## How to Use JSON Fields in Your Python Application
 >
 > ...
 >
-> \#\#\# The Two JSON Formats Supported by Postgres
+> \### The Two JSON Formats Supported by Postgres
 >
 > ...
 
 Bad (not title case):
 
-> \#\# How to use JSON fields in your Python application
+> \## How to use JSON fields in your Python application
 >
 > ...
-> \#\#\# The two JSON formats supported by Postgres
+> ### The two JSON formats supported by Postgres
 >
 > ...
 
 #### Denote Code with Backticks
+
 Use code blocks when the code is one or more lines long or deserves special emphasis.
 
 Good:
 
-> \`\`\`
+> \`\``
 >
 > function snafu() {
 >
@@ -182,15 +177,15 @@ Good:
 >
 > }
 >
-> \`\`\`
+> \`\``
 
 Bad:
 
-> \`function snafu() { 
+> `function snafu() { 
 >
 >   return null;
-> 
-> }\`
+>
+> }`
 
 Use inline code when referring to a variable name or short command in context.
 
@@ -203,6 +198,7 @@ Bad:
 > Call the "snafu()" method to exit and return to your command line.
 
 #### Use Double Quotes for Quotations
+
 Use blockquotes when the quote is two or more lines long.
 
 Good:
@@ -228,6 +224,7 @@ Bad:
 > \> "There's nothing to see here." - Davies
 
 #### Use Emphasis Sparingly
+
 Use *italics* to emphasize text or use **bold** to suggest strong emphasis.
 
 Good:
@@ -237,6 +234,7 @@ Good:
 ### Communication
 
 #### Communicate Delays and Roadblocks to Your Editor Proactively
+
 You will not be penalized for late work if you've been in communication with us about the assignment. We can offer technical help and extensions, but you must ask two or more days before the due date.
 
 Good:
@@ -253,7 +251,8 @@ Bad:
 
 Authors that miss deadlines without communicating will not be eligible for future assignments.
 
-#### Check Your Email When You Have an Open Assignment 
+#### Check Your Email When You Have an Open Assignment
+
 While you have an open assignment, you should respond to emails within 48 hours unless you've notified us of your unavailability. If the assignment is overdue, you should respond within 24 hours.
 
 Good:
@@ -271,6 +270,7 @@ Bad:
 Authors that fail to respond to emails about open assignments will not be eligible for future assignments.
 
 ## Final Notes
+
 Creating [high-quality technical content](https://draft.dev/learn/technical-content) requires consistency and clear expectations. While having a style guide may not be necessary during your blog's early days, it's an invaluable asset as you grow.
 
 Now that you've seen our style guide, I'd love to hear from you. If you have questions about an article you're writing, email [karl@draft.dev](mailto:karl@draft.dev) for help. If you'd like to talk about creating content for your blog, you can [schedule a call with me here](https://draft.dev/call).
