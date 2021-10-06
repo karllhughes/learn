@@ -16,7 +16,13 @@ One thing I value in our interactions with clients is transparency. We need clie
 ## Our Process for Working with Clients
 In the further interest of transparency, I'm going to share our entire client onboarding process as it stands today. While things occasionally deviate, you might find it helpful to see the whole thing laid out. Hopefully, this gives you a better idea of what to expect as you consider or start your engagement with Draft.dev.
 
-![Map of the whole client onboarding process at Draft.dev](https://i.imgur.com/U6C9SCM.png)
+**Typically, onboarding takes 6-9 weeks between when we sign a statement of work and when your first article is completed.**
+
+
+
+![Map of the whole client onboarding process at Draft.dev](https://i.imgur.com/f0xRcMF.png)
+
+The timeline may increase if we're fully booked though, so be sure to check with us if you need hard deadlines.
 
 ### 1. Discovery Call
 
@@ -32,12 +38,12 @@ We almost always have a backlog of new clients waiting to start, so once you’r
 ### 3. Commit to Specific Topics
 Clients have two options for deciding on the topics they want us to write about:
 
-1. You can send us a list of proposed topics (usually a headline and short description is enough).
+1. You can send us a list of proposed topics (we have an intake form that will walk you through this).
 2. We can conduct a topic discovery process for you.
 
-If you have your own topics based on keyword research or conversations with customers, we’ll use them [to create a content plan for you](https://draft.dev/learn/content-plan). If you don’t, our topic discovery process is a great option. Using search engine keyword research, we’ll define multiple topic clusters and topics that will help you **increase organic search engine traffic** to your blog.
+If you have your own topics based on keyword research or conversations with customers, we’ll use them [to create a content plan for you](https://draft.dev/learn/content-plan). If you don’t, our topic discovery process is a great option. Using search engine keyword or community-based research, we’ll define multiple topic clusters and topics that will help you **increase traffic** to your content.
 
-Our topic discovery process typically takes a week and requires very little input from you, so it will save you a lot of time if you’re not already familiar with building [topic clusters](/learn/topic-clusters).
+Our topic discovery process typically takes a week and requires just a bit more input from you, so it will save you a lot of time if you’re not already familiar with building [topic clusters](/learn/topic-clusters).
 
 ### 4. Approve Briefs and Outlines
 With topics in hand, we’ll create detailed briefs and outlines for each piece. By breaking down each post and detailing the exact expectations before we start writing, we can ensure that expectations are clear for our writers and editors.
@@ -86,14 +92,18 @@ Broadly speaking, we break blog posts down into [four types](https://draft.dev/c
 Typically, we don’t write content that involves inside knowledge of your company or tool, but we can write tutorials based on public-facing APIs or the documented features of your tool. We can also write comparisons, high-level guides, introductions to technical topics, roundups (or listicles), and persuasive pieces.
 
 ### Do you do ghostwriting?
-Not typically.
+Yes, but it follows a different process and pricing model.
 
-Our authors are all technical experts who write to showcase their expertise and learn new things. In rare cases, we can provide ghostwriting for a premium rate. Whether or not ghostwriting is an option depends on the subject and timeline.
+Our standard content authors are technical experts who write to showcase their expertise and learn new things.
 
-### Can you write ebooks, case studies, or whitepapers?
-Yes!
+For ghostwriting, we'll pair you up with a dedicated writer and account manager who will interview you and work specifically on each piece.
 
-Most clients start with a package of blog posts, but we have experience writing ebooks, whitepapers, and case studies for technical audiences as well. We price this work on a per-project basis and dedicate a team member to coordinate the effort from start to finish.
+
+
+### Can you write ebooks or whitepapers?
+Yes.
+
+Most clients start with a package of blog posts, but we have experience writing ebooks and whitepapers for technical audiences as well. We price this work on a per-project basis and dedicate a team member to coordinate the effort from start to finish.
 
 ### Can I start with a trial article?
 We don’t currently offer trial articles to prospective clients, but we are happy to send you additional samples. We also offer revisions, rewrites, or refunds if you’re ever unsatisfied with our work.
