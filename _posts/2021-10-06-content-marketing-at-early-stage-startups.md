@@ -111,4 +111,4 @@ It’s really easy to spend a lot of money and time producing content and then f
 - **Not putting enough time or money into content before quitting** - I get it, you don’t want to waste money, but like any organic channel, content marketing takes time. I typically recommend 6-12 months.
 - **Not promoting content** - Finally, if you’re strategically writing great content but letting it languish on your blog with no traffic, you probably need to spend more time or money promoting it. I advocate using a [promotional checklist like this](https://draft.dev/learn/promotion) to help seed some conversations.
 
-If you’ve got your own tips for marketing at early stage startups, I’m always open to updates and suggestions. [Find me on Twitter](https://twitter.com/KarlLHughes) to pick up the conversation.
+If you’ve got your own tips for marketing at early stage startups, I’m always open to updates and suggestions. [Find me on Twitter](https://twitter.com/KarlLHughes) to pick up the conversation. 
