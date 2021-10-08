@@ -8,7 +8,7 @@ categories: content-marketing
 cta: Content Ideas
 author: karl
 date: 2021-10-06T20:25:17.623Z
-img: https://i.imgur.com/p43UFeH.jpg
+img: /assets/posts/p43ufeh.jpg
 ---
 Marketing at a startup is really tough.
 
