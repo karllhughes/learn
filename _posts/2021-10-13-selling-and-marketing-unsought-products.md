@@ -10,7 +10,7 @@ description: Unsought products are a unique beast. These items certainly have a
   are, the challenges of marketing unsought products, why content is an ideal
   tactic for marketing unsought products, and creating a cohesive strategy for
   unsought products.
-categories: content marketing
+categories: content-marketing
 cta: Content Ideas
 author: richard
 date: 2021-10-14T17:00:00.000Z
