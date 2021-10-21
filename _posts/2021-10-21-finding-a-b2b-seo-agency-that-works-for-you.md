@@ -9,7 +9,7 @@ description: Finding the right B2B agency can take time, but it doesn’t have t
 categories: content-marketing
 cta: Content Ideas
 author: meagan
-date: 2021-10-22T00:34:12.396Z
+date: 2021-10-21T14:20:33.406Z
 img: /assets/posts/pexels-pixabay-270637.jpg
 ---
 An SEO agency that specializes in B2B can be a big asset for increasing organic traffic. This article will explain how to find an agency that knows your industry and customers to get the best results.
