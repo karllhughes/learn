@@ -109,7 +109,7 @@ Most clients start with a package of blog posts, but we have experience writing 
 We don’t currently offer trial articles to prospective clients, but we are happy to send you additional samples. We also offer revisions, rewrites, or refunds if you’re ever unsatisfied with our work.
 
 ### How much does it cost?
-Currently, plans start at $16,200 per quarter, but we invite you to [book a call](https://draft.dev/call) for the most up-to-date pricing and packages. Most clients start with a quarterly pilot and renew according to their needs each quarter.
+Packages start at $16,800 per quarter, but we invite you to [book a call](https://draft.dev/call) for the most up-to-date pricing and packages. Most clients start with a quarterly pilot and renew according to their needs each quarter.
 
 ## Want to Get Started?
 Now that you know exactly what to expect when you start your engagement with Draft.dev, I’d love to hear from you. To get started, [book a call with us](https://draft.dev/call) and learn more about how Draft.dev can help you create in-depth, technical content that resonates with your audience.
