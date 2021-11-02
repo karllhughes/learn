@@ -128,7 +128,18 @@ Good:
 
 > Markdown is a formatting language often \*used by static site generators\* and \*blogs\*. If you aren't familiar with its syntax, you can \[click here to learn more](https://guides.github.com/features/mastering-markdown/).
 
-#### Upload Images to [Imgur](https://imgur.com/)
+#### Annotate Screenshots in Excalidraw
+
+If you need to circle something or add some text to a screenshot, follow our [*Annotating Screenshots for Publication* guidelines](https://draftdev.notion.site/Annotating-Screenshots-for-Publication-93f27dd2e52e4cddbdb1f758907a020f). This will ensure that screenshots in all of our articles share a standard look.
+
+We also suggest using [Excalidraw](https://excalidraw.com/) for any diagrams you may need to make, though other acceptable tools are:
+
+* [dbdiagram.io](https://dbdiagram.io/home)
+* [Google Drawings](https://docs.google.com/drawings/d/1xQa6fd3tTxo5iF9sAq4ynEs-6b4n-gvh14kXEkCvyW0/edit)
+* [](https://mermaid-js.github.io/mermaid/#/)[Mermaid-JS](https://mermaid-js.github.io/mermaid/#/)
+* [Lucidchart](https://www.lucidchart.com/pages)
+
+#### [](https://www.lucidchart.com/pages)Upload Images to [Imgur](https://imgur.com/)
 
 If you have screenshots or diagrams in your article, upload them to [Imgur's free image hosting service](https://imgur.com/) and embed them using Markdown. Include descriptive text inside the brackets (`[...]`) so that screen readers can describe the image.
 
@@ -159,6 +170,7 @@ Bad (not title case):
 > \## How to use JSON fields in your Python application
 >
 > ...
+>
 > ### The two JSON formats supported by Postgres
 >
 > ...
