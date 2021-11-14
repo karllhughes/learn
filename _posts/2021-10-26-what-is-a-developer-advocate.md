@@ -184,7 +184,7 @@ In Thengvall's opinion, Developer Advocates' success should be measured by "[Dev
 
 However you choose to measure success, it's important to remember that numbers will never tell the full story. As [Steve Pousty](https://developerrelations.com/strategy-and-metrics/roi-is-a-trap) of [VMWare](https://www.vmware.com/) says in the video below, "not everything of value can be measured." In DevRel, there are a lot of valuable things that can't be easily measured, like how much developers trust you or how your community makes them feel. Delivering that hard-to-quantify value to developers while simultaneously demonstrating measurable value to the company is a balancing act that DevRel teams must perform daily.
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/95ILNUaUAO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>&lt;/iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/95ILNUaUAO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Conclusion
 
