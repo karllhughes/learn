@@ -50,7 +50,7 @@ According to the 2020 [State of Developer Relations](https://hoopy.io/about/#res
 
 ### 3. Content Creation
 
-Finally, creating content is _huge _in the world of Developer Advocacy. The 2020 State of Developer Relations survey showed that for 61% of DevRel professionals, content development is one of the top two ways they spend their time at work.
+Finally, creating content is _huge_ in the world of Developer Advocacy. The 2020 State of Developer Relations survey showed that for 61% of DevRel professionals, content development is one of the top two ways they spend their time at work.
 
 This can mean recording videos, [writing technical blog posts](https://draft.dev/learn/technical-content), working on documentation, or creating example applications. Content is typically geared toward getting developers up and running with the technology as quickly as possible, and answering any questions they have about it along the way.
 
@@ -68,7 +68,7 @@ Duties that one company might assign to a Developer Marketer, another might give
 
 ## Who Do Developer Advocates Work for?
 
-One of the biggest questions that companies face when starting a developer advocacy program is w[hich department does it belong in](https://dev.to/kimmaida/which-department-does-devrel-belong-in-3om)?
+One of the biggest questions that companies face when starting a developer advocacy program is [which department does it belong in](https://dev.to/kimmaida/which-department-does-devrel-belong-in-3om)?
 
 The answer to this question is not straightforward. It differs depending on the company, and often comes down to the budget source.
 
