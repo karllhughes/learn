@@ -7,7 +7,7 @@ categories: processes
 cta: Call
 author: karl
 date: 2020-09-26
-img: /assets/posts/styleguide.jpg
+img: /assets/posts/style-guide.jpg
 ---
 As your blog grows and you [get more writers to contribute](https://draft.dev/learn/finding-motivating-writers), you need to build documents and processes to help you maintain high quality and consistent style. To serve this goal, you should create a style guide to help writers and editors stay on the same page.
 
