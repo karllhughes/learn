@@ -2,8 +2,8 @@
 layout: post
 title: How To Hire A Blogger For Your Company
 description: "Hire the best bloggers for your company, learn how. "
-categories: posts
-cta: Call
+categories: content-marketing
+cta: Playbook
 author: meagan
 date: 2021-08-06T11:30:57.582Z
 img: /assets/posts/beverage-blogger-blogging-browsing.jpg

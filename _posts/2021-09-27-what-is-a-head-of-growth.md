@@ -4,7 +4,7 @@ title: What is a Head of Growth?
 description: "A head of growth has one focus: to hit company growth targets.
   This article will explore what the role looks like and what companies should
   consider recruiting for it."
-categories: content-marketing
+categories: marketing-titles
 cta: Content Ideas
 author: meagan
 date: 2021-09-23T18:17:45.837Z

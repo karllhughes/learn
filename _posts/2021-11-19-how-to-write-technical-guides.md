@@ -10,7 +10,7 @@ description: Once you embark on the journey of technical writing, you will
   you will be shown what it means to write a technical guide, why you would want
   to do so, and you'll be given some tips on how to make great ones.
 categories: processes
-cta: Playbook
+cta: Apply
 author: kasper
 date: 2021-11-19T03:37:52.118Z
 img: /assets/posts/scott-graham-5fnmwej4taa-unsplash.jpg

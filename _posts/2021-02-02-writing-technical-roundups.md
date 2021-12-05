@@ -4,7 +4,7 @@ title: A Guide to Writing Technical Roundups
 description: What is a technical roundup? In this post, we look at roundups and
   listicles and why you should write them
 categories: writing
-cta: Playbook
+cta: Apply
 author: anastasia
 date: 2021-02-03T13:31:26.200Z
 img: /assets/posts/8d328334-ebeb-4089-a471-0f86f5873ef0.png

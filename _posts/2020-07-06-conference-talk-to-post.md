@@ -5,7 +5,7 @@ description: Conference talks can make great blog posts. In this article, we
   explore some of the tools you can use to convert your conference talks into
   blog posts.
 categories: developer-marketing
-cta: Content Ideas
+cta: Playbook
 author: alyssa
 date: 2020-07-06
 img: /assets/posts/conference-talks.jpg

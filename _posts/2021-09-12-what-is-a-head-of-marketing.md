@@ -3,7 +3,7 @@ layout: post
 title: What is a Head of Marketing?
 description: Marketing team is an important part of the organization, and should
   be treated as such. Learn how to hire the best head of marketing.
-categories: content-marketing
+categories: marketing-titles
 cta: Content Ideas
 author: meagan
 date: 2021-09-12T08:30:17.696Z

@@ -12,7 +12,7 @@ description: With the current demand for technical content being as high as it
   articles?  I’ve got you covered. Take your cue from this article, and
   technical publishers will be piling requests into your inbox.
 categories: processes
-cta: Call
+cta: Apply
 author: chris
 date: 2021-11-03T17:39:48.081Z
 img: /assets/posts/lee-campbell-dtdlvpy-vvq-unsplash.jpg

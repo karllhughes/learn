@@ -4,7 +4,7 @@ title: Our Process for Matching Writers to Articles
 description: How to become a writer for Draft and create technical content for
   engineers and technology leaders
 categories: processes
-cta: Call
+cta: Apply
 author: karl
 date: 2021-03-11T07:51:27.002Z
 img: /assets/posts/aaron-burden-xg8iqmqmitm-unsplash.jpg

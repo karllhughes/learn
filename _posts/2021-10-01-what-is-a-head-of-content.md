@@ -4,7 +4,7 @@ title: What is a Head of Content?
 description: "What does a head of content do that a head of marketing doesn’t?
   This article will explain what a head of content does and what companies might
   need one. "
-categories: content-marketing
+categories: marketing-titles
 cta: Content Ideas
 author: meagan
 date: 2021-09-30T19:32:12.462Z

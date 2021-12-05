@@ -2,8 +2,8 @@
 layout: post
 title: How to Hire a Freelance Marketing Writer
 description: Learn how to hire best freelance marketing writer
-categories: posts
-cta: Playbook
+categories: content-marketing
+cta: Content Ideas
 author: meagan
 date: 2021-09-01T12:26:55.211Z
 img: /assets/posts/job_interview.png

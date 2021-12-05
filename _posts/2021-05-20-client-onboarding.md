@@ -1,8 +1,7 @@
 ---
 layout: post
 title: How Draft.dev Works with Clients
-description: "Transparency is the key when working with clients. This article is
-  about how Draft.dev mastered it. "
+description: "Transparency is the key when working with clients. This article is about how Draft.dev mastered it."
 categories: processes
 cta: Call
 author: karl

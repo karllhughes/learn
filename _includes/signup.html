@@ -9,6 +9,12 @@
     <a class="button" href="https://draft.dev/ideas?utm_source=academy&utm_medium=banner&utm_campaign=post&utm_content={{ include.link }}">Download Now!</a>
   </div>
 </section>
+{% elsif include.cta == "Apply" %}
+<div class="signup inline with-img">
+  <a href="https://draft.dev/write?utm_source=academy&utm_medium=inline&utm_campaign=post&utm_content={{ include.link }}">
+    <img class="full-width" src="/learn/assets/img/apply-to-write.png" alt="Apply to write for Draft.dev" />
+  </a>
+</div>
 {% elsif include.cta == "Call" %}
 <section class="signup">
   <a href="https://draft.dev/call?utm_source=academy&utm_medium=banner&utm_campaign=post&utm_content={{ include.link }}">

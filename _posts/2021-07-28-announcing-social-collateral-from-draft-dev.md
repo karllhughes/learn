@@ -2,7 +2,7 @@
 layout: post
 title: Announcing Social Collateral from Draft.dev
 description: "Social Collateral: generate quality traffic"
-categories: content-marketing
+categories: processes
 cta: Call
 author: karl
 date: 2021-07-28T17:32:37.633Z

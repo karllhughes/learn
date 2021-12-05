@@ -4,7 +4,7 @@ title: Refreshing Old [Technical] Blog Posts
 description: Want 61.9% more traffic on your blog in just 5 months? Here's how
   refreshing some of my old blog posts led to a huge uptick in SEO.
 categories: writing
-cta: Content Ideas
+cta: Playbook
 author: karl
 date: 2020-11-22
 img: /assets/posts/refresh.jpg

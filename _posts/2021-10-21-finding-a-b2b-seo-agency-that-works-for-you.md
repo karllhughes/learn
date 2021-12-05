@@ -6,7 +6,7 @@ description: Finding the right B2B agency can take time, but it doesn’t have t
   a B2B agency for your company including what a B2B SEO is, the benefits of
   using an agency, how to find a great agency, how long should you work with an
   agency, and how to source an agency for your niche.
-categories: content-marketing
+categories: b2b-marketing
 cta: Content Ideas
 author: meagan
 date: 2021-10-21T14:20:33.406Z

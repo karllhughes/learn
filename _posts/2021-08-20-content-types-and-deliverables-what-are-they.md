@@ -2,8 +2,8 @@
 layout: post
 title: "Content Types And Deliverables: What Are They?"
 description: Importance of content types and deliverables
-categories: posts
-cta: Playbook
+categories: processes
+cta: Call
 author: kasper
 date: 2021-08-20T17:33:03.132Z
 img: /assets/posts/zimmtiy.jpeg

@@ -3,7 +3,7 @@ layout: post
 title: 10 Technical Writing Style Guides You Can Use
 description: Technical writing style guide you can use
 categories: writing
-cta: Content Ideas
+cta: Playbook
 author: nicolas
 date: 2021-05-27T23:01:57.754Z
 img: /assets/posts/tech-style-guides.jpg

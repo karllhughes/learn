@@ -3,7 +3,7 @@ layout: post
 title: How to Find a Technical Writer for Hire
 description: In this post, you'll learn how to find freelance technical writers
   to help you produce blog posts and other content online.
-categories: content-marketing
+categories: writing
 cta: Call
 author: karl
 date: 2021-07-01T12:37:22.640Z

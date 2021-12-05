@@ -3,7 +3,7 @@ layout: post
 title: "React vs. Vue: A Modern Comparison"
 description: "React or Vue: read this article to decide which one to choose"
 categories: platforms
-cta: Playbook
+cta: Content Ideas
 author: piero
 date: 2021-08-26T06:59:00.035Z
 img: /assets/posts/2c835436.jpg

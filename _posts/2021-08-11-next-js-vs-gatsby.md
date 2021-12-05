@@ -3,7 +3,7 @@ layout: post
 title: Next.js vs. Gatsby
 description: Ultimate comparison guide between Next.js and Gatsby. Which one is to choose?
 categories: platforms
-cta: Playbook
+cta: Content Ideas
 author: shaundai
 date: 2021-08-11T13:52:49.538Z
 img: /assets/posts/next-vs-gatsby.jpg

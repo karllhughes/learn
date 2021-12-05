@@ -4,7 +4,7 @@ title: 5 Steps to a Quality Edit for Your Technical Blog
 description: If your core audience is technical, you already know that your
   readers won’t pay attention to any content that’s not written by subject
   matter experts.
-categories: processes
+categories: writing
 cta: Playbook
 author: chris
 date: 2021-09-16T11:53:25.612Z

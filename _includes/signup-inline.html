@@ -4,6 +4,12 @@
     <img class="full-width" src="/learn/assets/img/startup-blog-ideas.png" alt="Download 50 winning ideas for your startup's blog" />
   </a>
 </div>
+{% elsif include.cta == "Apply" %}
+<div class="signup inline with-img">
+  <a href="https://draft.dev/write?utm_source=academy&utm_medium=inline&utm_campaign=post&utm_content={{ include.link }}">
+    <img class="full-width" src="/learn/assets/img/apply-to-write.png" alt="Apply to write for Draft.dev" />
+  </a>
+</div>
 {% else %}
 <div class="signup inline with-img">
   <a href="https://draft.dev/playbook?utm_source=academy&utm_medium=inline&utm_campaign=post&utm_content={{ include.link }}">

@@ -5,7 +5,7 @@ description: We write hundreds of technical tutorials every year, so in this
   post, we've collected some of our top tips for writing great software
   development tutorials.
 categories: writing
-cta: Content Ideas
+cta: Apply
 author: josh
 date: 2020-11-15
 img: /assets/posts/technical-tutorial.png
