@@ -10,7 +10,7 @@ author: karl
 date: 2021-12-14T20:46:01.158Z
 img: /assets/posts/61a4d29214defdbb774008fb_facebook-v1.png
 ---
-## How Earthly Increased Its Monthly Blog Visitors by 346% and Ramped Up Its Content Production with Draft.dev 
+### How Earthly Increased Its Monthly Blog Visitors by 346% and Ramped Up Its Content Production with Draft.dev 
 
 Earthly is a build automation tool for the container era. It works with existing build systems to create repeatable and understandable builds. 
 
