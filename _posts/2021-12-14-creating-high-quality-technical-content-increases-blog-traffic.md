@@ -12,7 +12,7 @@ img: /assets/posts/61a4d29214defdbb774008fb_facebook-v1.png
 ---
 ### How Earthly Increased Its Monthly Blog Visitors by 346% and Ramped Up Its Content Production with Draft.dev 
 
-Earthly is a build automation tool for the container era. It works with existing build systems to create repeatable and understandable builds. 
+[Earthly](https://earthly.dev/) is a build automation tool for the container era. It works with existing build systems to create repeatable and understandable builds. 
 
 Earthly partnered with Draft.dev to ramp up their content production and create awareness about Earthly's product. The benefits of this partnership speak for themselves:
 
@@ -106,10 +106,8 @@ Q: What would you say to someone who's interested in driving traffic to their te
 
 ADAM: It's difficult to find an agency with enough high-quality subject matter expert writers to build up the content pipeline that Draft.dev gives you. It's a shortcut to building an in-house writing team.
 
-Subject Matter Expert Writers.\
-Proven results.
------------------------------------------------
- ### [Download The Case Study Here](https://draft.dev/case-study)
+Subject Matter Expert Writers. Proven results.
 
- ### [Schedule a Call](https://draft.dev/call)
-------------------------------------------------
+ #### [Download The Case Study Here](https://draft.dev/case-study)
+
+ #### [Schedule a Call](https://draft.dev/call)
