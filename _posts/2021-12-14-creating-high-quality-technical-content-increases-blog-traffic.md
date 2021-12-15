@@ -108,6 +108,6 @@ ADAM: It's difficult to find an agency with enough high-quality subject matter e
 
 Subject Matter Expert Writers. Proven results.
 
- #### [Download The Case Study Here](https://draft.dev/case-study)
+ [Download The Case Study Here](https://draft.dev/case-study)
 
- #### [Schedule a Call](https://draft.dev/call)
+[Schedule a Call](https://draft.dev/call)
