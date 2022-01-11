@@ -9,7 +9,7 @@ description: Whether it be a diagram of how the different parts of an
   on your way.
 categories: "processes "
 cta: Playbook
-author: karl
+author: kasper
 date: 2022-01-04T00:41:44.224Z
 img: /assets/posts/thisisengineering-raeng-yco98vqqlna-unsplash.jpg
 ---
