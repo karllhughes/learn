@@ -9,7 +9,7 @@ description: Whether it be a diagram of how the different parts of an
   on your way.
 categories: "processes "
 cta: Playbook
-author: meagan
+author: karl
 date: 2022-01-04T00:41:44.224Z
 img: /assets/posts/thisisengineering-raeng-yco98vqqlna-unsplash.jpg
 ---
@@ -65,5 +65,5 @@ Something that can often be missed when creating an architecture diagram are the
 
 # Conclusion
 
-In conclusion, making an architecture diagram isn't the most challenging skill in the world, but you do have to give it some thought. A bad diagram can risk getting the reader more confused rather than being helpful. Make sure to think about your diagrams in relation to the content you are writing.
+Making an architecture diagram isn't the most challenging skill in the world, but you do have to give it some thought. A bad diagram can risk getting the reader more confused rather than being helpful. Make sure to think about your diagrams in relation to the content you are writing.
 
