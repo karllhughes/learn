@@ -13,7 +13,7 @@ img: /assets/posts/pexels-polina-zimmerman-3746957.jpg
 ---
 A good marketing agency can accelerate a company's success, but bad ones cost time, money, and the success of your campaigns. This article will highlight some of the main red flags to watch out for and how to successfully navigate the marketplace.
 
-![](https://lh6.googleusercontent.com/BcDxjAyPJl5juX9qnPiZuIjzOVMuYY9qtrc3mUtpm6tVDb4wPth2dumjN7AEIo3ugwQvOvS8WNyGDDPXd7jQtoKD9QsMPwN9vnCU0wlHxk8rusPEP6sZuuznBCSDVkMncdXcUxzN)
+![](blob:https://kind-knuth-0cfc19.netlify.app/3910785f-e03e-4182-8dd9-f39051f4c5c1)
 
 [More than 78,883](<https://www.ibisworld.com/united-states/market-research-reports/advertising-agencies-industry/>) digital marketing agencies were registered in 2020. As you might imagine, comparing, interviewing, and evaluating your options to find a perfect match is anything but easy.
 
