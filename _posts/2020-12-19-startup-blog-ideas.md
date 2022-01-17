@@ -8,7 +8,7 @@ categories: content-marketing
 cta: Playbook
 author: karl
 date: 2021-01-03T17:23:38.564Z
-img: /assets/posts/startup-blog-ideas.jpg
+img: /assets/posts/startup-ideas.jpg
 ---
 Coming up with ideas for your startup's blog can be mentally taxing. While [keyword research](/learn/topic-clusters) can help you find opportunities in Google results, it can leave your blog topics feeling a little bit flat.
 
