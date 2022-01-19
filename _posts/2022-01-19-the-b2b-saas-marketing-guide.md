@@ -11,7 +11,9 @@ author: meagan
 date: 2022-01-19T15:07:34.179Z
 img: /assets/posts/b2b-saas-marketing-guide.png
 ---
-B2B SaaS marketing has its own rules and requirements for success. This article will help you understand key B2B SaaS marketing tactics, including positioning, inbound marketing, content, sponsorships, and event marketing. Marketing a B2B business is one thing. Marketing a SaaS is quite another. Putting them together creates a complicated minefield of false synergies and mismatched tech stacks.
+B2B SaaS marketing has its own rules and requirements for success. This article will help you understand key B2B SaaS marketing tactics, including positioning, inbound marketing, content, sponsorships, and event marketing. 
+
+Marketing a B2B business is one thing. Marketing a SaaS is quite another. Putting them together creates a complicated minefield of false synergies and mismatched tech stacks.
 
 B2B SaaS has one of the [lowest overheads](https://www.93x.agency/blog/guides/b2b-saas-marketing) in the business world. It’s also considered the most complicated business to advertise. If you’re stuck in the same failing patterns, it’s time to look for marketing tactics that really move the needle.
 
