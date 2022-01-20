@@ -64,7 +64,7 @@ While there are plenty of general promotional checklists for bloggers out there,
 - [ ] Find and answer any relevant questions on [Quora](https://www.quora.com/), referencing the post.
 - [ ] Find and answer any relevant questions on [Stack Overflow](https://stackoverflow.com/), referencing the post.
 - [ ] Add links to the post from any relevant posts on your personal or company blog.
-- [ ] Create a reminder to republish the post on [Medium](https://medium.com/), [Dev.to](http://dev.to/), [Linkedin](https://www.linkedin.com/pulse/20140326191638-235001-how-to-write-your-first-blog-post-on-the-linkedin-publishing-platform/), or [HackerNoon](https://hackernoon.com/) (2+ weeks after initial publication).
+- [ ] Republish the post on [Medium](https://medium.com/), [Dev.to](http://dev.to/), [Linkedin](https://www.linkedin.com/pulse/20140326191638-235001-how-to-write-your-first-blog-post-on-the-linkedin-publishing-platform/), or [HackerNoon](https://hackernoon.com/) 2+ weeks after initial publication (Or use [CrossPost App to automate this](https://crossxpost.app/)).
 - [ ] Create an image using content from the post and share it on social media.
 - [ ] Create and publish a video version of the post, share it on YouTube.
 - [ ] Create a short video version, share it on other social media channels.
