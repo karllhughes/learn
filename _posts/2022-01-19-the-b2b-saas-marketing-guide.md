@@ -9,7 +9,7 @@ categories: b2b-marketing
 cta: Content Ideas
 author: meagan
 date: 2022-01-19T15:07:34.179Z
-img: /assets/posts/b2b-saas-marketing-guide.png
+img: /assets/posts/b2b-saas-marketing-guide.jpg
 ---
 B2B SaaS marketing has its own rules and requirements for success. This article will help you understand key B2B SaaS marketing tactics, including positioning, inbound marketing, content, sponsorships, and event marketing. 
 
