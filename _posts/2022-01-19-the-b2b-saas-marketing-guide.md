@@ -46,8 +46,15 @@ The B2B SaaS model is not new. It has the power to disrupt industries all over t
 
 B2B SaaS marketing has space to be experimental. A/B testing is necessary for optimizing your communication for your audience, and what works for one model won’t always work for another so you need the patience to discover what works for your audience.
 
-There are five primary marketing strategies for B2B SaaS companies: positioning, inbound marketing, content syndication, sponsorships, and event marketing.
-![The Types of B2B Saas Marketing](https://i.imgur.com/d7DdJXj.jpg)
+There are five primary marketing strategies for B2B SaaS companies: 
+
+* positioning 
+* inbound marketing
+*  content syndication
+* sponsorships
+* event marketing
+
+![The Types of B2B Saas Marketing](https://i.imgur.com/KXXlpJv.png)
 
 ### Positioning
 
