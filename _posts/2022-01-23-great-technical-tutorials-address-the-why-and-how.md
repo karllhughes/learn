@@ -3,8 +3,8 @@ layout: post
 title: Great Technical Tutorials Address the "Why" and "How"
 description: "Why a basic “how to” tutorial isn’t enough to grab software
   developers’ attention — and what to write instead. "
-categories: content-marketing
-cta: Content Ideas
+categories: developer-marketing
+cta: Playbook
 author: karl
 date: 2022-01-21T18:20:25.645Z
 img: /assets/posts/good-tutorial.jpg
