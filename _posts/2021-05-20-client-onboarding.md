@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How Draft.dev Works with Clients
-description: "Transparency is the key when working with clients. This article is about how Draft.dev mastered it."
+description: Transparency is the key when working with clients. This article is
+  about how Draft.dev mastered it.
 categories: processes
 cta: Call
 author: karl
@@ -99,16 +100,15 @@ For ghostwriting, we'll pair you up with a dedicated writer and account manager 
 
 
 
-### Can you write ebooks or whitepapers?
-Yes.
 
-Most clients start with a package of blog posts, but we have experience writing ebooks and whitepapers for technical audiences as well. We price this work on a per-project basis and dedicate a team member to coordinate the effort from start to finish.
 
 ### Can I start with a trial article?
 We don’t currently offer trial articles to prospective clients, but we are happy to send you additional samples. We also offer revisions, rewrites, or refunds if you’re ever unsatisfied with our work.
 
+
+
 ### How much does it cost?
-Packages start at $16,800 per quarter, but we invite you to [book a call](https://draft.dev/call) for the most up-to-date pricing and packages. Most clients start with a quarterly pilot and renew according to their needs each quarter.
+Packages start at $18,000 per quarter, but we invite you to [book a call](https://draft.dev/call) for the most up-to-date pricing and packages. Most clients start with a quarterly pilot and renew according to their needs each quarter.
 
 ## Want to Get Started?
 Now that you know exactly what to expect when you start your engagement with Draft.dev, I’d love to hear from you. To get started, [book a call with us](https://draft.dev/call) and learn more about how Draft.dev can help you create in-depth, technical content that resonates with your audience.

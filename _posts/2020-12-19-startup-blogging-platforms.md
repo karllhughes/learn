@@ -8,7 +8,7 @@ categories: platforms
 cta: Content Ideas
 author: karl
 date: 2021-01-18T14:36:07.019Z
-img: /assets/posts/startup-blog.jpg
+img: /assets/posts/blog-recommendations-47.jpg
 ---
 There are many good reasons to start a blog for your startup: to update your customers, to [generate content that ranks in search engines](https://draft.dev/learn/seo-keyword-opportunities-in-developer-marketing), or to establish your founders as subject matter experts. After you [come up with some ideas](https://draft.dev/learn/startup-blog-ideas), [understand why you're writing](https://draft.dev/learn/three-questions), and [create a content plan](https://draft.dev/learn/content-plan), you need to decide on a blogging platform.
 

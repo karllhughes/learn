@@ -4,10 +4,10 @@ title: Landing Page Tools for Startups
 description: No matter what you sell, you need a way to quickly tell visitors
   about it and hook them into trying it. That’s where a landing page comes in.
 categories: tools
+cta: Content Ideas
 author: karl
 date: 2020-10-24
-img: /assets/posts/landing-page-tools.jpg
-cta: Content Ideas
+img: /assets/posts/landing-page-tools-45.jpg
 ---
 
 One challenge that every startup faces is attracting and engaging users. Whether you sell a software tool or a service, you need a way to quickly tell visitors about it and hook them into trying it. That’s where a landing page comes in.
