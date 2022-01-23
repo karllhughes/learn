@@ -29,9 +29,9 @@ Ideally, the person writing your tutorials should understand:
 
 You can’t address these whys with simple step-by-step directions.
 
-After reading a great tutorial draft, you should be able to answer “yes” to the question: Will the reader have a full understanding of the applications of this tool?
+After reading [a great tutorial draft](https://draft.dev/learn/technical-tutorials), you should be able to answer “yes” to the question: Will the reader have a full understanding of the applications of this tool?
 
-## Finding Writers Who Get It
+## Finding Writers Who *Get It*
 
 If you want to grow and reach more developers, you need to do a lot of writing — whether it’s for documentation, FAQs, or to establish your brand’s public-facing presence.
 
@@ -41,7 +41,7 @@ Coming up with technical content ideas is one challenge, and finding writers who
 
 Especially if you outsource technical content creation, you may struggle to [find someone who can write about the deeper lessons](https://draft.dev/learn/technical-writer-for-hire) underneath an engineering task — because they probably aren’t entrenched in the field themselves.
 
-Furthermore, you can’t always tell from a pitch whether a writer knows their stuff. You’re taking a risk when you hire a technical writer who has some freelance experience in the industry, but doesn’t spend their days writing code.
+Furthermore, you can’t always tell from a pitch whether a writer knows their stuff. You’re taking a risk when you hire a technical writer who has some freelance experience in the industry but doesn’t spend their days writing code.
 
 And that’s [the big problem we’re solving for startups](https://draft.dev/about) here at Draft.dev — writing content that’s for developers by developers.
 
@@ -53,7 +53,7 @@ A simple example: “How to Set Up a Child Theme in WordPress” vs. “Why You 
 
 With more complex tools and processes, there are also reasons for everything we do as developers. Even if a tool doesn’t require customized code, there are still lots of use cases and different approaches or opinions you could include in a tutorial to make it widely applicable.
 
-Pro Tip: To come up with better angles for a basic tutorial, consult your list of [keywords](https://draft.dev/learn/seo-keyword-opportunities-in-developer-marketing) and try to discover the intent behind each search. What would the person really be looking to discover? What kinds of lingering questions might they have after reading a basic tutorial?
+**Pro Tip:** To come up with better angles for a basic tutorial, consult your list of [keywords](https://draft.dev/learn/seo-keyword-opportunities-in-developer-marketing) and try to discover the intent behind each search. What would the person really be looking to discover? What kinds of lingering questions might they have after reading a basic tutorial?
 
 ## The Future of Developer Content Marketing
 
@@ -63,6 +63,6 @@ To set your brand apart, you should be creating [a core base of valuable technic
 
 A sharp developer who’s trying to get better at their craft needs to know more than what a simple “How-To” post can cover, so they’ll be looking for a tutorial that was written by someone who successfully connected the task at hand to the reason they’d be doing it.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
 Listen to [the episode](https://the-stack-overflow-podcast.simplecast.com/episodes/the-growing-power-of-low-code-tools/transcript/) to hear more about the need for more in-depth tutorials.
