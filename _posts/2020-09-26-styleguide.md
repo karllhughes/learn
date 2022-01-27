@@ -128,16 +128,19 @@ Good:
 
 > Markdown is a formatting language often \*used by static site generators\* and \*blogs\*. If you aren't familiar with its syntax, you can \[click here to learn more](https://guides.github.com/features/mastering-markdown/).
 
-#### Annotate Screenshots in Excalidraw
+#### Include Unmarked and Annotated Screenshots
 
-If you need to circle something or add some text to a screenshot, follow our [*Annotating Screenshots for Publication* guidelines](https://draftdev.notion.site/Annotating-Screenshots-for-Publication-93f27dd2e52e4cddbdb1f758907a020f). This will ensure that screenshots in all of our articles share a standard look.
+If you need to circle something or add some text to a screenshot, please provide a screenshot annotated to the best of your ability, *as well as an unmarked copy of the screenshot*. This empowers our clients to redesign them according to their own branding if desired.
 
-We also suggest using [Excalidraw](https://excalidraw.com/) for any diagrams you may need to make, though other acceptable tools are:
+If you don't already have a preference, we suggest using any of the following tools:
 
 * [dbdiagram.io](https://dbdiagram.io/home)
+* [Excalidraw](https://excalidraw.com/) 
 * [Google Drawings](https://docs.google.com/drawings/d/1xQa6fd3tTxo5iF9sAq4ynEs-6b4n-gvh14kXEkCvyW0/edit)
 * [](https://mermaid-js.github.io/mermaid/#/)[Mermaid-JS](https://mermaid-js.github.io/mermaid/#/)
 * [Lucidchart](https://www.lucidchart.com/pages)
+
+These are also all great options for any rough architectural diagrams you may need to make.
 
 #### [](https://www.lucidchart.com/pages)Upload Images to [Imgur](https://imgur.com/)
 
