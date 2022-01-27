@@ -86,8 +86,6 @@ When you realize how long building a content engine takes, it can be dishearteni
 
 How to avoid this mistake:
 
-The answer to this one is simply committing from the get-go. For example, at Draft.dev, we
-
 For some, there's a fear factor underneath this content inconsistency.
 
 It can be scary to put yourself and your company values out there --- particularly if you're shaking up a space. In this case, the remedy is to do it repeatedly until you recondition yourself to believe that there are people out there who need to hear what your brand has to say.
