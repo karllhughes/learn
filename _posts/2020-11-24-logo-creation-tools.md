@@ -47,5 +47,7 @@ Since plenty of you are like me and don’t have the greatest logo design skills
 
 **[Noun Project](https://thenounproject.com/)** ($0) - New icons are added daily and they’re free with attribution. They have more than 3 million designs in their library already.
 
+**[Logocreator.io](https://logocreator.io/)** ($0) - is a logo design app that's 100% free. Not only can you create your own brand for free but instantly download at no cost as well.
+
 Did I miss a logo creation tool that you love? [Email me](mailto:karl@draft.dev) to suggest new additions to this list.
 
