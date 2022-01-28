@@ -17,7 +17,7 @@ I gave a short version of this talk at [an exclusive presentation](https://www.y
 
 Check out the video or scroll on to read a summary:
 
-**<iframe width="560" height="315" src="https://www.youtube.com/embed/TpsoOT1jxq0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TpsoOT1jxq0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## How to Generate Technical Content Ideas That Resonate
 
