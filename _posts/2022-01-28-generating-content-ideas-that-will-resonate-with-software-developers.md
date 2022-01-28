@@ -94,7 +94,8 @@ This is simultaneously a strategy for building your own idea list and doing some
 
 Sticking to strictly objective, informative topics could limit your brand’s potential. Some of the most impressive content is the kind where people get real — where CEOs take a side on a contentious issue or big industry players share their secrets.
 
-![](/assets/posts/tc-your-worldview.png)
+
+![TC-Your worldview](https://i.imgur.com/rJ9VMZt.png)
 
 If you have the bandwidth to create long-form, strongly-researched opinion pieces, you could join the ranks of industry thought leaders.
 
@@ -120,7 +121,7 @@ While you could be taking a risk by being vulnerable about your company values a
 
 ## Deciding on the Right Blend
 
-![](/assets/posts/tc-predictability-of-results.png)
+
 
 When deciding which of these four idea-generating strategies to apply, it’s crucial to consider your company’s larger marketing and sales priorities. The quadrant visual above will help.
 
