@@ -122,6 +122,7 @@ While you could be taking a risk by being vulnerable about your company values a
 ## Deciding on the Right Blend
 
 
+![TC-Predictability of results](https://i.imgur.com/NIsBCLf.png)
 
 When deciding which of these four idea-generating strategies to apply, it’s crucial to consider your company’s larger marketing and sales priorities. The quadrant visual above will help.
 
