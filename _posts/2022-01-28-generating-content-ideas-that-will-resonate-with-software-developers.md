@@ -50,7 +50,7 @@ At Draft.dev, we use [the topic cluster method](https://draft.dev/learn/topic-cl
 
 Some of your users need and appreciate detailed how-to guides. Why not provide them to your general audience and kill two proverbial birds with one stone?
 
-
+![Augment Documentation](https://i.imgur.com/As84RAK.png)
 
 **Building out long-form answers to sales FAQs and support ticket issues can be a great way to expand your body of bottom-of-funnel content — also known as sales enablement content.**
 
@@ -75,7 +75,7 @@ When you’re the brains behind an operation, it’s possible you’re so close 
 
 Instead of waiting for your own users to be in need of tech support, you can go find out what they (or people similar to them) are thinking and preempt future problems by creating solution-oriented content.
 
-![](/assets/posts/tc-augment-documentation.png)
+![TC- Community and team input](https://i.imgur.com/qOAQsHz.png)
 
 One of the best approaches to this content idea hack is to search for your tool, or a similar one, on [Stack Overflow](https://stackoverflow.com/). Even if your software isn’t specifically discussed on the popular platform yet, you should be able to find closely related comments and questions about problems you and your team know how to solve. 
 
