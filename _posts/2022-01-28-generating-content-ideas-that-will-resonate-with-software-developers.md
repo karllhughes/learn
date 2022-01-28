@@ -128,7 +128,7 @@ If securing new leads is your goal right now, focusing on quality keyword resear
 
 Stay true to your business vision and be cognizant of your goals. But if your idea bank runs dry, it might be time to go beyond the typical concept of technical content and find new sources of inspiration.
 
-## Bonus: Tips for Finding Technical Content Contributors  
+### Bonus: Tips for Finding Technical Content Contributors  
 
 1. **Structure your engineers’ time to bring them into the content creation process.** Provide briefs for each article or tutorial assignment and plan for several rounds of editing.
 2. **Hire a full-time Developer Relations (DevRel) expert.** If you have the resources, this can be a great option to achieve quality and consistency across all of your content.
