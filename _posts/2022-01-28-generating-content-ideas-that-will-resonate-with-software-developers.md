@@ -50,7 +50,7 @@ At Draft.dev, we use [the topic cluster method](https://draft.dev/learn/topic-cl
 
 Some of your users need and appreciate detailed how-to guides. Why not provide them to your general audience and kill two proverbial birds with one stone?
 
-![](/assets/posts/augment-documentation.png)
+
 
 **Building out long-form answers to sales FAQs and support ticket issues can be a great way to expand your body of bottom-of-funnel content — also known as sales enablement content.**
 
