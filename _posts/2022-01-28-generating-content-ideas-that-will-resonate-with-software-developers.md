@@ -27,7 +27,7 @@ If you want to create content that resonates with software developers, your proc
 
 A typical marketer might suggest starting your topic perusal with keyword research, and I agree [this approach can be helpful for developer marketing](https://draft.dev/learn/seo-keyword-opportunities-in-developer-marketing). However, you won’t find success with just any keyword related to your product or service.
 
-![](/assets/posts/tc-kw-research.png)
+![TC-Keyword Research](https://i.imgur.com/ZmmLgHB.png)
 
 Your keyword strategy will differ depending on your needs. While general, [short-tail keywords](https://www.similarweb.com/corp/blog/marketing/seo/keyword-research/) might be the easiest to target when you’re first starting out, they might not signal “purchase intent” or be very appealing to a senior-level audience.
 
