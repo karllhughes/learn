@@ -15,7 +15,7 @@ It doesn’t take a rocket scientist to realize that traditional marketing isn�
 
 Long story short: being the loudest guy in the room is no longer a viable marketing strategy.
 
-Customers aren’t interested in the top down approach of management speaking to the ‘little people.’ They don’t care about how amazing you think your company is when compared to everyone else's. But they *do* care about choice, and the ability to source products that they want. Employees and field experts know this better than anyone, offering valuable insights into customer pain points and needs. Today, this idea has become known as ‘bottom up marketing.’
+Customers aren’t interested in the top down approach of management speaking to the ‘little people.’ They don’t care about how amazing you think your company is when compared to everyone else's. But they *do* care about choice and the ability to source products that they want. Employees and field experts know this better than anyone, offering valuable insights into customer pain points and needs. Today, this idea has become known as ‘bottom up marketing.’
 
 In this article, we’re going to make the case for bottom up marketing cycles, and explain the how, what, and why behind its many strategies. We’re going to dive into the most important elements, including:
 
