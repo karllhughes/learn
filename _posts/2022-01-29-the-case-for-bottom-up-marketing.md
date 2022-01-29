@@ -15,7 +15,7 @@ It doesn’t take a rocket scientist to realize that traditional marketing isn�
 
 Long story short: being the loudest guy in the room is no longer a viable marketing strategy.
 
-Customers aren’t interested in the top down approach of management speaking to the ‘little people.’ They don’t care about how amazing you think your company is when compared to everyone else's’. But they *do* care about choice, and the ability to source products that they want. Employees and field experts know this better than anyone, offering valuable insights into customer pain points and needs. Today, this idea has become known as ‘bottom up marketing.’
+Customers aren’t interested in the top down approach of management speaking to the ‘little people.’ They don’t care about how amazing you think your company is when compared to everyone else's. But they *do* care about choice and the ability to source products that they want. Employees and field experts know this better than anyone, offering valuable insights into customer pain points and needs. Today, this idea has become known as ‘bottom up marketing.’
 
 In this article, we’re going to make the case for bottom up marketing cycles, and explain the how, what, and why behind its many strategies. We’re going to dive into the most important elements, including:
 
@@ -42,11 +42,11 @@ Top down marketing is very evident in an organization like Mountain Dew. Top lev
 
 On the other side of the spectrum, HubSpot takes a bottom up approach to marketing. They start with their customers first: what is one customer need they can meet using a tactic? How could their in-house experts turn this tactic into a strategy? Employees with a strong knowledge of said customer needs can start contributing to the planning phase of the process. In other words: bottom up marketing means you put your [mind in your marketplace](https://public.summaries.com/files/1-page-summary/bottom-up-marketing.pdf). By immersing yourself in the needs of your customers, you can discover new pathways where customers get in contact with your company and its services.
 
-Contrary to popular belief, there’s really no wrong or right way to position your marketing ‘triangle.’ However, there are a couple strengths and weaknesses you should be aware of before making any drastic decisions.
+Contrary to popular belief, there’s really no wrong or right way to position your marketing ‘triangle.’ However, there are a couple of strengths and weaknesses you should be aware of before making any drastic decisions.
 
 ## Top Down vs. Bottom Up Marketing: The Differences Explained
 
-There’s a reason why top-down marketing has been the traditional format. This strategy maintains a very straightforward planning phase, and supports a centralized decision-making process. All roles and responsibilities within the organization are very clear, which boosts time to market and improves internal communication.
+There’s a reason why top-down marketing has been the traditional format. This strategy maintains a very straightforward planning phase and supports a centralized decision-making process. All roles and responsibilities within the organization are very clear, which boosts time to market and improves internal communication.
 
 * Simplified planning process
 * Unified expectations
@@ -78,7 +78,7 @@ Regardless of your industry, bottom up marketing [gets results](https://smallbus
 
 FedEx is in direct competition with a number of other shipping companies, including the USPS. For this reason, remaining competitive requires them to think outside the box. 
 
-For the majority of FedEx’s history, the company relied heavily on a top down strategy that promoted all of their shipping services to the audience. However, the key to their competition was not in an overarching strategy, but in individual tactics.
+For the majority of FedEx’s history, the company relied heavily on a top down strategy that promoted all of its shipping services to the audience. However, the key to their competition was not in an overarching strategy, but in individual tactics.
 
 A number of FedEx employees noticed that customers were consistently talking about overnight shipping services. The company promptly turned its top down strategy on its head, and focused on a singular tactic (customer need): how could they create overnight shipping? 
 
@@ -88,7 +88,7 @@ Frankly, the rest is history.
 
 Pizza delivery is a staple of the American diet. For Dominos, who lagged behind its peers for several years, the top down approach simply wasn’t making the cut. 
 
-Domino employees and managers had interesting insights related to customer needs, namely the prompt delivery of pizza. It was then that Dominos executives had an idea: what could they implement to meet this single need for their customers? This developed into a strategy that guaranteed fresh pizza deliveries within 30 minutes, or your money back. This bloomed into a hugely successful marketing strategy, and put Dominos back on the map as a strong competitor in the marketplace.
+Domino employees and managers had interesting insights related to customer needs, namely the prompt delivery of pizza. It was then that Dominos executives had an idea: what could they implement to meet this single need for their customers? This developed into a strategy that guaranteed fresh pizza deliveries within 30 minutes or your money back. This bloomed into a hugely successful marketing strategy, and put Dominos back on the map as a strong competitor in the marketplace.
 
 ## Making The Case For Bottom Up Marketing
 
