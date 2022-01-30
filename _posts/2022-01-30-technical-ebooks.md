@@ -27,7 +27,7 @@ Once we finish the re-edit, we'll send it to your team for revisions or approval
 
 ### What if we have custom fonts or a style guide?
 
-We offer custom colors and can include your logo on the cover, but if you want more sophisticated design work, we're happy to share the content with your design team so your team so they can customize it further.
+We offer custom colors and can include your logo on the cover, but if you want more sophisticated design work, we're happy to share the content with your design team so they can customize it further.
 
 ### How long does it take?
 
