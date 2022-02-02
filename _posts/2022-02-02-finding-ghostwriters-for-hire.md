@@ -72,6 +72,7 @@ Now that you’ve (hopefully) found the right ghostwriting fit, your final task 
 * Be prepared to pay a decent rate for your ghostwriters. Although these professionals may not necessarily be taking credit for the final product, they still charge for the creation of their IP. [Ghostwriter rates vary wildly](https://www.lisatener.com/ghostwriter-contracts-fees/#:~:text=Ghostwriting%20fees%20for%20a%20book,if%20the%20project%20scope%20expands), falling anywhere between $30 to $200 an hour, or $.10 to $3 a word. Be sure the subject of rates is an open discussion; better to eliminate any potential surprises before settling on a final hire.
 
 A final note: remember that no two workflow processes will ever be an exact match. Understand the ghostwriter you choose to hire may not necessarily resemble previous contractors, although the basic principles still remain. Adaptability and flexibility are your greatest weapons while finding ghostwriters for hire. The results will speak for themselves.
+
 ## The value of a good ghostwriter
 
 Ghostwriters are valuable industry partners that increase content production, enhance your lead funnels, and generate legitimate value for customers and stakeholders alike. Great ghostwriters may be hard to find, but the value they generate for B2B and SaaS business models are absolutely worth the effort. 
@@ -80,4 +81,4 @@ Finding ghostwriters for hire begins and ends within your personal network. Use 
 
 If you’re interested in getting some agency style technical ghostwriting for your company, [Draft.dev](https://www.draft.dev) can help. Offering blog posts, tutorials, and other technical formats for complex subject matters, our ghostwriters are vetted with the skill and experience you need to get seen in the marketplace. We handpick our ghostwriting talent, matching your needs with writers holding legitimate industry experience. Using an airtight editing process, we create valuable content for software engineers, technical decision makers, and more.
 
-Learn more about our ghostwriters and the Draft.dev writing process by booking a [half hour Discover Call](https://draft.dev/call).
+Learn more about our ghostwriters and the Draft.dev writing process by booking a [half hour Discovery Call](https://draft.dev/call).
