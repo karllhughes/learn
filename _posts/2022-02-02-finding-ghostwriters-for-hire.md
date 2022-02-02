@@ -7,7 +7,7 @@ categories: ghostwriting
 cta: Playbook
 author: meagan
 date: 2022-02-02T11:42:48.335Z
-img: /assets/posts/ghost-writing.jpg
+img: /assets/posts/ghostwriting.jpg
 ---
 The art of ghostwriting is nothing new. According to recent estimates, roughly [60% of nonfiction books](https://www.npr.org/2014/04/12/292382481/so-you-need-a-celebrity-book-who-ya-gonna-call-ghostwriters) in the marketplace are created by invisible wordsmiths every single year. This number is only expected to increase over time, as thousands of companies prepare to ramp up their digital content efforts.
 
