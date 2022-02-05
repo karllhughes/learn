@@ -1,7 +1,9 @@
 ---
 layout: post
 title: How to Write Technical Comparisons
-description: "In this article, we discuss how to write technical comparisons. "
+description: "The best technical comparison posts help readers make decisions
+  for themselves. In this post, we explore the practical tips of how to write a
+  technical comparison post. "
 categories: writing
 cta: Apply
 author: kasper
