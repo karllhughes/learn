@@ -533,13 +533,12 @@ Angel investor Jason Calacanis (Uber, Calm, Robinhood) interviews the world’s 
 Topic: Entrepreneurship
 
 Business tips for startups by proven entrepreneurs
-"
 
 ### [The Smart Passive Income Online Business and Blogging Podcast](https://www.smartpassiveincome.com/)
 
 Topic: Entrepreneurship
 
-Pat Flynn from The Smart Passive Income Blog reveals all of his online business and blogging strategies, income sources and killer marketing tips and tricks so you can be ahead of the curve with your online business or blog. Discover how you can create multiple passive income streams that work for you so that you can have the time and freedom to do what you love, whether it's traveling the world, or just living comfortably at home. Since 2008, he's been supporting his family with his many online businesses, and he's been openly sharing his wins, his losses, and all the lessons in...
+Pat Flynn from The Smart Passive Income Blog reveals all of his online business and blogging strategies, income sources, and killer marketing tips and tricks so you can be ahead of the curve with your online business or blog. Discover how you can create multiple passive income streams that work for you so that you can have the time and freedom to do what you love, whether it's traveling the world, or just living comfortably at home. Since 2008, he's been supporting his family with his many online businesses, and he's been openly sharing his wins, his losses, and all the lessons in...
 
 ### [Online Marketing Made Easy with Amy Porterfield](http://www.amyporterfield.com/)
 
@@ -557,7 +556,7 @@ Talk Python to Me is a weekly podcast hosted by developer and entrepreneur Micha
 
 Topic: Python
 
-Since its beginning in March of 2014 Podcast.**init** has brought you stories of the people that make the Python community great. Every week a new episode provides useful and informative insights into the projects, platforms, and practices that engineers, business leaders, and data scientists need to know about to learn and grow in their career.
+Since its beginning in March of 2014 Podcast.**init** has brought you stories of the people that make the Python community great. Every week a new episode provides useful and informative insights into the projects, platforms, and practices that engineers, business leaders, and data scientists need to know about to learn and grow in their careers.
 
 Each interview explores the motivations, challenges, and experiences behind the software that you use every day. By digging deep into the technical implementation, edge cases, and lessons learned, the host ensures that you get the most value for your time spent listening. By following along you will learn more than you thought possible about diverse and important topics in the domains of data science, DevOps, web application development, scientific research, open source sustainability, machine learning, and countless others.
 
@@ -725,25 +724,7 @@ Topic: Enterprise Software and Cloud Computing
 
 The Cloudcast is the industry's leading, independent Cloud Computing podcast. Since 2011, co-hosts Aaron Delp & Brian Gracely have interviewed technology and business leaders that are shaping the future of computing. 
 
-Topics will include:
-
-*  Cloud Computing 
-* Open Source
-* AWS
-* Azure 
-* GCP 
-* Serverless 
-* DevOps 
-* Big Data 
-* ML
-* AI
-* Security 
-* Kubernetes 
-* AppDev 
-* SaaS 
-* PaaS 
-* CaaS 
-* IoT
+Topics will include Cloud Computing, Open Source, AWS, Azure, GCP, Serverless, DevOps, Big Data, ML, AI, Security, Kubernetes, AppDev, SaaS, PaaS, CaaS, IoT.
 
 Also available, the ""Cloudcast Basics"" podcast (@cloudcastbasics), for anyone new to Cloud Computing.
 
