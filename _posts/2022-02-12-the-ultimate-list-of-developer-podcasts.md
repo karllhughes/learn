@@ -314,21 +314,21 @@ Topic: .NET
 
 Topic: Software Engineering/Development/Programming 
 
-We are a few guys who’ve been professional programmers for years.  As avid listeners of podcasts and consumers of many things code-related, we were frustrated by the lack of quality programming (pun) available in listenable formats.  Given our years of experience and real-world problem solving skills, we thought it might be worth getting into this world of podcasting and “giving back” a shot.
+We are a few guys who’ve been professional programmers for years.  As avid listeners of podcasts and consumers of many things code-related, we were frustrated by the lack of quality programming (pun) available in listenable formats.  Given our years of experience and real-world problem-solving skills, we thought it might be worth getting into this world of podcasting and “giving back” a shot.
 
 ### [Hanselminutes with Scott Hanselman](http://hanselminutes.com/)
 
 Topic: Software Engineering/Development/Programming 
 
-My name is Scott Hanselman. I'm a programmer, teacher, and speaker. I work out of my home office in Portland, Oregon for the Web Platform Team at Microsoft, but this blog, its content and opinions are my own. I blog about technology, culture, gadgets, diversity, code, the web, where we're going and where we've been. I'm excited about community, social equity, media, entrepreneurship and above all, the open web.
+My name is Scott Hanselman. I'm a programmer, teacher, and speaker. I work out of my home office in Portland, Oregon for the Web Platform Team at Microsoft, but this blog, its content, and opinions are my own. I blog about technology, culture, gadgets, diversity, code, the web, where we're going and where we've been. I'm excited about community, social equity, media, entrepreneurship, and above all, the open web.
 
-I have three podcasts and a YouTube channel. One podcast is a weekly talk show on tech, one an occasional one hour essay on developer's lives, and one a social media and tech culture show with my friend Luvvie.
+I have three podcasts and a YouTube channel. One podcast is a weekly talk show on tech, one an occasional one-hour essay on developers' lives, and one a social media and tech culture show with my friend Luvvie.
 
 ### [Herding Code](http://herdingcode.com/)
 
 Topic: Software Engineering/Development/Programming 
 
-A technology podcast with Scott Allen, Kevin Dente, Scott Koon and Jon Galloway
+A technology podcast with Scott Allen, Kevin Dente, Scott Koon, and Jon Galloway
 
 ### [MS Dev Show](http://msdevshow.com/)
 
@@ -364,7 +364,7 @@ Discover app marketing growth hacks from the top app publishers. Learn the secre
 
 Topic: Apple
 
-A podcast about indie software development for the Mac, iOS and other Apple technologies.
+A podcast about indie software development for the Mac, iOS, and other Apple technologies.
 
 ### [The iPhreaks Show](https://devchat.tv/iphreaks)
 
@@ -578,9 +578,8 @@ Topic: PHP
 
 News and interviews about the latest happenings in the PHP and Web development world. Hosted by Manuel Lemos of the PHPClasses.org site and other guest hosts. It is recorded in MP3 format at least once a month in the beginning of each month.
 
-### [Java Off-Heap
+### [Java Off-Heap](https://www.javaoffheap.com/)
 
-](http://www.javaoffheap.com/)
 Topic: Java
 
 Welcome to the Best Java News podcast! The podcast started when four friends always got together and start discussing the current Java News and Technologies. Since each of us had such a different perspective on the Java Ecosystem (Freddy is a Performance nut, Bob is a Consultant, Michael runs Spring Batch and Josh works with Java Enterprise) we got into pretty interesting (and sometimes controversial) discussions. Figuring out that we could have fun while discovering the news we decided to turn on the mics and record. 
