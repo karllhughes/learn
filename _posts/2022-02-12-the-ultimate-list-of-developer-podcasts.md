@@ -633,9 +633,8 @@ Topic: Software Engineering/Development/Programming
 
 Programming Throwdown educates Computer Scientists and Software Engineers on a cavalcade of programming and tech topics. Every show will cover a new programming language, so listeners will be able to speak intelligently about any programming language.
 
-### [TestGuild Automation Testing Podcast
+### [TestGuild Automation Testing Podcast](https://testguild.com/podcasts/)
 
-](https://testguild.com/podcasts/)
 Topic: Software QA
 
 Test Talks is a weekly podcast hosted by Joe Colantonio, which geeks out on all things software test automation. TestTalks covers news found in the testing space, reviews books about automation and speaks with some of the thought leaders in the test automation field. We’ll aim to interview some of today’s most successful and inspiring software engineers and test automation thought leaders.
