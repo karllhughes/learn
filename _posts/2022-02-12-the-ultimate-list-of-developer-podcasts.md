@@ -141,7 +141,7 @@ Data from my two years at Software Engineering Radio indicates that technical so
 
 Topic: Microsoft cloud technologies
 
-The podcast that covers the latest news, notes, commentary and listener questions on Microsoft cloud technologies including Microsoft Azure, Microsoft 365 and SharePoint.
+The podcast covers the latest news, notes, commentary, and listener questions on Microsoft cloud technologies including Microsoft Azure, Microsoft 365 and SharePoint.
 
 ### [Software Developer's Journey](https://devjourney.info/)
 
@@ -242,19 +242,19 @@ On The Bike Shed, hosts Chris Toomey & Steph Viccari discuss their development e
 
 Topic: Software Engineering/Development/Programming 
 
-The New Stack Podcast is all about the developers, software engineers and operations people who build at-scale architectures that change the way we develop and deploy software.
+The New Stack Podcast is all about the developers, software engineers, and operations people who build at-scale architectures that change the way we develop and deploy software.
 
 ### [The New Stack Analysts](http://thenewstack.io/podcasts/analysts/)
 
 Topic: The New Stack
 
-Alex Williams, founder of The New Stack, hosts ""The New Stack Analysts,"" a biweekly round-table discussion covering The New Stack's latest data research, and topics related to app development and back-end services.
+Alex Williams, founder of The New Stack, hosts "The New Stack Analysts," a biweekly round-table discussion covering The New Stack's latest data research, and topics related to app development and back-end services.
 
 ### [Software Defined Talk](http://www.softwaredefinedtalk.com/)
 
 Topic: Enterprise Software and Cloud Computing
 
-A weekly podcast covering all the news and events in Enterprise Software and Cloud Computing. We discuss topics including: Kubernetes, DevOps, Serverless, Security and Coding. Plus, plenty of off topic banter and nonsense to keep you entertained. Don't worry if you miss the latest industry conference, we will recap all the latest news from AWS, Microsoft Azure, Google Cloud Platform (GCP) and the Cloud Native Computing Foundation (CNCF).
+A weekly podcast covering all the news and events in Enterprise Software and Cloud Computing. We discuss topics including: Kubernetes, DevOps, Serverless, Security, and Coding. Plus, plenty of off topic banter and nonsense to keep you entertained. Don't worry if you miss the latest industry conference, we will recap all the latest news from AWS, Microsoft Azure, Google Cloud Platform (GCP), and the Cloud Native Computing Foundation (CNCF).
 
 ### [Toolsday](https://toolsday-656ce866.simplecast.com/)
 
@@ -284,7 +284,7 @@ Topics include automated testing, testing strategy, software engineering practic
 
 Topic: Software testing
 
-The Testing Show - covering everything related to software testing. Our panel of software testing experts will break down and analyze new tools, methodologies, trends and more. With a new episode every two weeks, you'll be sure to get your testing fix. The Testing Show is sponsored by QualiTest. Deploy Software that You and Your Customers Trust with QualiTest Software Testing and Business Assurance Services.
+The Testing Show - covering everything related to software testing. Our panel of software testing experts will break down and analyze new tools, methodologies, trends, and more. With a new episode every two weeks, you'll be sure to get your testing fix. The Testing Show is sponsored by QualiTest. Deploy Software that You and Your Customers Trust with QualiTest Software Testing and Business Assurance Services.
 
 ### [Opensystems media](http://ecast.opensystemsmedia.com/)
 
@@ -294,7 +294,7 @@ OpenSystems Media has been the leader in building engaging online, print, and li
 Largest lead generation through webcasts in Embedded, IoT, Aerospace, and Military for the past 5 years
 Produced and moderated global events in 10 countries
 Sponsored more than 40 industry events each year
-One of the largest content producers in the electronics space featuring the leading software, semiconductor, and board level suppliers across multiple markets.
+One of the largest content producers in the electronics space featuring the leading software, semiconductor, and board-level suppliers across multiple markets.
 Largest print issues in our market for Military Embedded Systems and Embedded Computing Design
 Leading custom content and event producer for both profit and non-profit technology organizations
 
@@ -320,7 +320,7 @@ We are a few guys who’ve been professional programmers for years.  As avid lis
 
 Topic: Software Engineering/Development/Programming 
 
-My name is Scott Hanselman. I'm a programmer, teacher, and speaker. I work out of my home office in Portland, Oregon for the Web Platform Team at Microsoft, but this blog, its content, and opinions are my own. I blog about technology, culture, gadgets, diversity, code, the web, where we're going and where we've been. I'm excited about community, social equity, media, entrepreneurship, and above all, the open web.
+My name is Scott Hanselman. I'm a programmer, teacher, and speaker. I work out of my home office in Portland, Oregon for the Web Platform Team at Microsoft, but this blog, its content, and opinions are my own. I blog about technology, culture, gadgets, diversity, code, the web, where we're going, and where we've been. I'm excited about community, social equity, media, entrepreneurship, and above all, the open web.
 
 I have three podcasts and a YouTube channel. One podcast is a weekly talk show on tech, one an occasional one-hour essay on developers' lives, and one a social media and tech culture show with my friend Luvvie.
 
