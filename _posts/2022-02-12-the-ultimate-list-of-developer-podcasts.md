@@ -463,7 +463,7 @@ Some episodes are interviews with experts. Other episodes are open discussions b
 
 Topic: life/General
 
-If you're a hacker, you'll probably like our show ;)
+If you're a hacker, you'll probably like our show! ;)
 
 ### [Bootstrapped Web](http://bootstrappedweb.com/)
 
