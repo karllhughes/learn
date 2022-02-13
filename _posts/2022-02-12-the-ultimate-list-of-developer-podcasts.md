@@ -98,7 +98,7 @@ The Learn to Code With Me podcast, created by Laurence Bradford, is for aspiring
 
 Topic: JavaScript
 
-Weekly panel discussion about Javascript on the front and back ends. This show is primarily focused on the web ecosystem, but also covers NodeJS, mobile, and language features."
+Weekly panel discussion about Javascript on the front and back ends. This show is primarily focused on the web ecosystem, but also covers NodeJS, mobile, and language features.
 
 ### [ShopTalk](http://shoptalkshow.com/)
 
@@ -115,19 +115,19 @@ Conversations with the hackers, leaders, and innovators of the software world. H
 
 Topic: Software Engineering/Development/Programming 
 
-In software development, there are so many smart and interesting people building things. Each episode a guest shares their story and along the way we learn about an area of software development. I think you will learn a couple of things and enjoy the process. I hope you subscribe and enjoy, Your Host, Adam
+In software development, there are so many smart and interesting people building things. In each episode a guest shares their story and along the way, we learn about an area of software development. I think you will learn a couple of things and enjoy the process. I hope you subscribe and enjoy, Your Host, Adam
 
 ### [Software Engineering Unlocked](https://www.software-engineering-unlocked.com/)
 
 Topic: Software Engineering/Development/Programming 
 
-This show was born out of Michaela’s curiosity for how different companies develop software. How does their tech stack look like? Which practices do they follow? Do they do code reviews? Are the concerned about technical debt? And what about their culture and company values? With this podcast Michaela wants to open doors at different companies, and get the perspective of experts in the fields about how to develop maintainable, reliable and scalable software people love.
+This show was born out of Michaela’s curiosity for how different companies develop software. What does their tech stack look like? Which practices do they follow? Do they do code reviews? Are they concerned about technical debt? And what about their culture and company values? With this podcast, Michaela wants to open doors at different companies and get the perspective of experts in the fields about how to develop maintainable, reliable, and scalable software people love.
 
 ### [Develomentor](https://develomentor.com/)
 
 Topic: Career Growth
 
-The Develomentor podcast is an interview-based show designed to help you find your path in technology. Each interview explores the career path and lessons learned of individuals who have built successful careers in technology across a range of roles, including software engineering, data science, engineering management and sales engineering. A monthly bonus episode features a panel discussing timely topics in technology, like compensation, freelancing, joining a startup and much more.
+The Develomentor podcast is an interview-based show designed to help you find your path in technology. Each interview explores the career path and lessons learned of individuals who have built successful careers in technology across a range of roles, including software engineering, data science, engineering management, and sales engineering. A monthly bonus episode features a panel discussing timely topics in technology, like compensation, freelancing, joining a startup, and much more.
 
 ### [Software Engineering Daily](http://softwareengineeringdaily.com/)
 
@@ -141,7 +141,7 @@ Data from my two years at Software Engineering Radio indicates that technical so
 
 Topic: Microsoft cloud technologies
 
-The podcast covers the latest news, notes, commentary, and listener questions on Microsoft cloud technologies including Microsoft Azure, Microsoft 365 and SharePoint.
+The podcast covers the latest news, notes, commentary, and listener questions on Microsoft cloud technologies including Microsoft Azure, Microsoft 365, and SharePoint.
 
 ### [Software Developer's Journey](https://devjourney.info/)
 
@@ -201,13 +201,13 @@ The Puppet Podcast features Puppet community members talking about the latest tr
 
 Topic: Software Engineering/Development/Programming 
 
-Developer Tea exists to help driven developers connect to their ultimate purpose and excel at their work so that they can positively impact the people they influence. With over 13 million downloads to date, Developer Tea is a short podcast hosted by Jonathan Cutrell (@jcutrell), co-founder of Spec and Director of Engineering at PBS. We hope you'll take the topics from this podcast and continue the conversation, either online or in person with your peers. Twitter: @developertea :: Email: developertea@gmail.com
+Developer Tea exists to help driven developers connect to their ultimate purpose and excel at their work so that they can positively impact the people they influence. With over 13 million downloads to date, Developer Tea is a short podcast hosted by Jonathan Cutrell (@jcutrell), co-founder of Spec and Director of Engineering at PBS. We hope you'll take the topics from this podcast and continue the conversation, either online or in person with your peers. 
 
 ### [TWiT.tv Shows](https://twit.tv/shows?shows_active=1)
 
 Topic: Software Engineering/Development/Programming 
 
-Leo Laporte brings some of the most interesting personalities in technology together to talk about the most important issues. Fun, relaxed, informative and always entertaining, count on TWiT for the best tech podcasts in the world.
+Leo Laporte brings some of the most interesting personalities in technology together to talk about the most important issues. Fun, relaxed, informative, and always entertaining, count on TWiT for the best tech podcasts in the world.
 
 ### [no dogma podcast](http://nodogmapodcast.bryanhogan.net/)
 
@@ -230,7 +230,7 @@ Merge Conflict is a weekly discussion with Frank and James on all things develop
 
 Topic: Software Engineering/Development/Programming 
 
-A podcast for developers interested in building great software products. Every episode, Adam Wathan is joined by a guest to talk about everything from product design and user experience to unit testing and system administration.
+A podcast for developers interested in building great software products. In every episode, Adam Wathan is joined by a guest to talk about everything from product design and user experience to unit testing and system administration.
 
 ### [The Bike Shed](http://bikeshed.fm/)
 
@@ -254,7 +254,7 @@ Alex Williams, founder of The New Stack, hosts "The New Stack Analysts," a biwee
 
 Topic: Enterprise Software and Cloud Computing
 
-A weekly podcast covering all the news and events in Enterprise Software and Cloud Computing. We discuss topics including: Kubernetes, DevOps, Serverless, Security, and Coding. Plus, plenty of off topic banter and nonsense to keep you entertained. Don't worry if you miss the latest industry conference, we will recap all the latest news from AWS, Microsoft Azure, Google Cloud Platform (GCP), and the Cloud Native Computing Foundation (CNCF).
+A weekly podcast covering all the news and events in Enterprise Software and Cloud Computing. We discuss topics including Kubernetes, DevOps, Serverless, Security, and Coding. Plus, plenty of off topic banter and nonsense to keep you entertained. Don't worry if you miss the latest industry conference, we will recap all the latest news from AWS, Microsoft Azure, Google Cloud Platform (GCP), and the Cloud Native Computing Foundation (CNCF).
 
 ### [Toolsday](https://toolsday-656ce866.simplecast.com/)
 
@@ -272,13 +272,13 @@ Upgrade looks at how technology shapes our lives, from the devices in our hands 
 
 Topic: Software Engineering/Development/Programming 
 
-Variety of shows. Check website.
+Variety of shows. Check [website](https://www.jupiterbroadcasting.com/).
 
 ### [Test & Code in Python](http://testandcode.com/)
 
 Topic: Python
 
-Topics include automated testing, testing strategy, software engineering practices, packaging, Python, pytest, data science, TDD, continuous integration, and software methodologies. Also anything I think helps make the daily life of a software developer more fun and rewarding. Hosted by Brian Okken.
+Topics include automated testing, testing strategy, software engineering practices, packaging, Python, pytest, data science, TDD, continuous integration, and software methodologies. Also, anything I think helps make the daily life of a software developer more fun and rewarding. Hosted by Brian Okken.
 
 ### [The Testing Show](http://thetestingshow.libsyn.com/podcast)
 
@@ -290,13 +290,16 @@ The Testing Show - covering everything related to software testing. Our panel of
 
 Topic: devops
 
-OpenSystems Media has been the leader in building engaging online, print, and live communities for more than 30 years. Here are our recent accomplishments:
-Largest lead generation through webcasts in Embedded, IoT, Aerospace, and Military for the past 5 years
-Produced and moderated global events in 10 countries
-Sponsored more than 40 industry events each year
-One of the largest content producers in the electronics space featuring the leading software, semiconductor, and board-level suppliers across multiple markets.
-Largest print issues in our market for Military Embedded Systems and Embedded Computing Design
-Leading custom content and event producer for both profit and non-profit technology organizations
+OpenSystems Media has been the leader in building engaging online, print, and live communities for more than 30 years. 
+
+Here are our recent accomplishments:
+
+* Largest lead generation through webcasts in Embedded, IoT, Aerospace, and Military for the past 5 years
+* Produced and moderated global events in 10 countries
+* Sponsored more than 40 industry events each year
+* One of the largest content producers in the electronics space featuring the leading software, semiconductor, and board-level suppliers across multiple markets.
+* Largest print issues in our market for Military Embedded Systems and Embedded Computing Design
+* Leading custom content and event producer for both profit and non-profit technology organizations
 
 ### [RFC.FM](http://rfc.fm/)
 
@@ -322,7 +325,7 @@ Topic: Software Engineering/Development/Programming
 
 My name is Scott Hanselman. I'm a programmer, teacher, and speaker. I work out of my home office in Portland, Oregon for the Web Platform Team at Microsoft, but this blog, its content, and opinions are my own. I blog about technology, culture, gadgets, diversity, code, the web, where we're going, and where we've been. I'm excited about community, social equity, media, entrepreneurship, and above all, the open web.
 
-I have three podcasts and a YouTube channel. One podcast is a weekly talk show on tech, one an occasional one-hour essay on developers' lives, and one a social media and tech culture show with my friend Luvvie.
+I have three podcasts and a YouTube channel. One podcast is a weekly talk show on tech, one an occasional one-hour essay on developers' lives, and one is a social media and tech culture show with my friend Luvvie.
 
 ### [Herding Code](http://herdingcode.com/)
 
@@ -394,7 +397,7 @@ Release Notes is a weekly podcast about building online businesses and financial
 
 Topic: Apple
 
-MTJC podcast is a show about mobile development. Each week Jaime Lopez, Mark Rubin (sometimes Greg Heo and Tammy Coron) and myself, Tim Mitra, will convene from across the continent to discuss iOS and Mac development. We discuss current issues to find out what developers are talking about, what their apps are about, what they are using to create their apps and what advice they have for other developers (or those looking to become one). We also have news, notes and tech tips for developers.
+MTJC podcast is a show about mobile development. Each week Jaime Lopez, Mark Rubin (sometimes Greg Heo and Tammy Coron), and myself, Tim Mitra, will convene from across the continent to discuss iOS and Mac development. We discuss current issues to find out what developers are talking about, what their apps are about, what they are using to create their apps, and what advice they have for other developers (or those looking to become one). We also have news, notes, and tech tips for developers.
 
 ### [Adventures in Angular](https://devchat.tv/adventures-in-angular)
 
@@ -424,7 +427,7 @@ CSS-Tricks Screencasts is focused on showing you tips, tricks, techniques about 
 
 Topic: Software Engineering/Development/Programming 
 
-Conversations with top voices in software development, cloud, IT, security, machine learning, data and technology leadership.
+Conversations with top voices in software development, cloud, IT, security, machine learning, data, and technology leadership.
 
 ### [North Meets South Web Podcast](http://northmeetssouth.audio/)
 
@@ -435,7 +438,7 @@ Jacob Bennett and Michael Dyrynda conquer a 14.5 hour time difference to talk ab
 
 Topic: Entrepreneurship
 
-  Weekly discussion by freelancers and professionals about running a business, finding clients, marketing, and lifestyle related to being a freelancer.
+ Weekly discussion by freelancers and professionals about running a business, finding clients, marketing, and lifestyle related to being a freelancer.
 
 ### [Freelance Blend Podcast](http://www.freelanceblend.com/)
 
@@ -484,13 +487,13 @@ A podcast about the design, development, and business of great software. Each we
 
 Topic: Entrepreneurship
 
-The longest running (and most popular) podcast for bootstrapped and mostly bootstrapped startups, this show follow the stories of founders as they start, acquire, and grow SaaS companies. Hear when they fail, struggle, succeed, and take you with them through the tumultuous life of a SaaS founder. If you like Mixergy, This Week in Startups, or SaaStr, you’ll enjoy Startup for the Rest of Us.
+The longest-running (and most popular) podcast for bootstrapped and mostly bootstrapped startups, this show follows the stories of founders as they start, acquire, and grow SaaS companies. Hear when they fail, struggle, succeed, and take you with them through the tumultuous life of a SaaS founder. If you like Mixergy, This Week in Startups, or SaaStr, you’ll enjoy Startup for the Rest of Us.
 
 ### [Entrepreneurs on Fire](http://www.eofire.com/)
 
 Topic: Entrepreneurship
 
-John Lee Dumas is the founder and host of the award winning podcast, Entrepreneurs On Fire. With over 100 million listens of his 3000+ episodes, JLD has turned Entrepreneurs On Fire into a media empire that generates over a million listens every month and 7-figures of NET annual revenue 8-years in a row. His first traditionally published book, The Common Path to Uncommon Success is the modern day version of Think and Grow Rich with a revolutionary 17-step roadmap to financial freedom and fulfillment. Learn more at UncommonSuccessBook.com
+John Lee Dumas is the founder and host of the award-winning podcast, Entrepreneurs On Fire. With over 100 million listens of his 3000+ episodes, JLD has turned Entrepreneurs On Fire into a media empire that generates over a million listens every month and 7-figures of NET annual revenue 8-years in a row. His first traditionally published book, The Common Path to Uncommon Success is the modern day version of Think and Grow Rich with a revolutionary 17-step roadmap to financial freedom and fulfillment. Learn more at UncommonSuccessBook.com.
 
 ### [CodePen Radio](https://blog.codepen.io/)
 
@@ -502,13 +505,13 @@ A podcast all about what it's like running a small web software business. The go
 
 Topic: Entrepreneurship
 
-The Rogue Startups podcast features two bootstrapped startup founders as they grow their businesses. We feature experts in the fields of sales, marketing, and product development to hear how they're growth hacking their productized services, WordPress plugins, and SaaS products. If you're on the journey of an entrepreneur then tune and hear how we're tackling some of the same obstacles you may be facing, and how we're winning in the game of business. Listeners of Startups for the Rest of Us, Mixergy, Zero to Scale, Bootstrapped Web, The Startup Chat, and Rhodium Podcast will love checking...
+The Rogue Startups podcast features two bootstrapped startup founders as they grow their businesses. We feature experts in the fields of sales, marketing, and product development to hear how they're growth hacking their productized services, WordPress plugins, and SaaS products. If you're on the journey of an entrepreneur then tune in and hear how we're tackling some of the same obstacles you may be facing, and how we're winning in the game of business. Listeners of Startups for the Rest of Us, Mixergy, Zero to Scale, Bootstrapped Web, The Startup Chat, and Rhodium Podcast will love checking...
 
 ### [Global Product Management Talk](http://www.blogtalkradio.com/prodmgmttalk)
 
 Topic: Product Management
 
-ProdMgmtTalk Professionals forwarding the movement for product excellence by design. Discussions about the art, craft and discipline required for products that contribute value. All aspects of customer development, user experience, product innovation, design, development, marketing and scaling. @ProdMgmtTalk Founded by @CindyFSolomon talking with thought leaders from Silicon Valley and beyond. @StartupProduct @ProductSummit Syndicating The Everyday Innovator with Chad McAllister.
+ProdMgmtTalk Professionals forwarding the movement for product excellence by design. Discussions about the art, craft, and discipline required for products that contribute value. All aspects of customer development, user experience, product innovation, design, development, marketing, and scaling. @ProdMgmtTalk Founded by @CindyFSolomon talking with thought leaders from Silicon Valley and beyond. @StartupProduct @ProductSummit Syndicating The Everyday Innovator with Chad McAllister.
 
 ### [This is Product Management](https://tipm.feedbackloop.com/tag/product-management)
 
@@ -520,13 +523,13 @@ Topic: Product Management
 
 Topic: Entrepreneurship
 
-The Tropical MBA Podcast aims to show you the inside story of the people who are building ""micro-multinational"" businesses while they travel the world. We are interested in entrepreneurship, travel, internationalization, and personal freedom. Join 1,000's of listeners from all around the world, every Thursday morning.
+The Tropical MBA Podcast aims to show you the inside story of the people who are building "micro-multinational" businesses while they travel the world. We are interested in entrepreneurship, travel, internationalization, and personal freedom. Join 1,000's of listeners from all around the world, every Thursday morning.
 
 ### [This Week in Startups ](http://thisweekinstartups.com/)
 
 Topic: Entrepreneurship
 
-Angel investor Jason Calacanis (Uber, Calm, Robinhood) interviews the world’s greatest founders, operators, investors and innovators. Get an insider’s look into venture capital, learn how to start and scale your own startup, and ride the cutting edge of technology in today’s headlines and beyond.
+Angel investor Jason Calacanis (Uber, Calm, Robinhood) interviews the world’s greatest founders, operators, investors, and innovators. Get an insider’s look into venture capital, learn how to start and scale your own startup, and ride the cutting edge of technology in today’s headlines and beyond.
 
 ### [Recession-Proof Startups](https://mixergy.com/)
 
@@ -538,13 +541,13 @@ Business tips for startups by proven entrepreneurs
 
 Topic: Entrepreneurship
 
-Pat Flynn from The Smart Passive Income Blog reveals all of his online business and blogging strategies, income sources, and killer marketing tips and tricks so you can be ahead of the curve with your online business or blog. Discover how you can create multiple passive income streams that work for you so that you can have the time and freedom to do what you love, whether it's traveling the world, or just living comfortably at home. Since 2008, he's been supporting his family with his many online businesses, and he's been openly sharing his wins, his losses, and all the lessons in...
+Pat Flynn from The Smart Passive Income Blog reveals all of his online business and blogging strategies, income sources, and killer marketing tips and tricks so you can be ahead of the curve with your online business or blog. Discover how you can create multiple passive income streams that work for you so that you can have the time and freedom to do what you love, whether it's traveling the world, or just living comfortably at home. Since 2008, he's been supporting his family with his many online businesses, and he's been openly sharing his wins, his losses, and all the lessons.
 
 ### [Online Marketing Made Easy with Amy Porterfield](http://www.amyporterfield.com/)
 
 Topic: Entrepreneurship
 
-Ever wish you had a business mentor with over a decade of experience whispering success secrets in your ear? That’s exactly what you’ll get when you tune into the top-ranked Online Marketing Made Easy Podcast with your host, 9 to 5er turned CEO of a multi-million dollar business, Amy Porterfield. Her specialty? Breaking down big ideas and strategies into actionable step-by-step processes designed to get you results with a whole lot less stress. Tune in, get inspired, and get ready to discover why hundreds of thousands of online business owners turn to Amy for guidance when it comes to all...
+Ever wish you had a business mentor with over a decade of experience whispering success secrets in your ear? That’s exactly what you’ll get when you tune into the top-ranked Online Marketing Made Easy Podcast with your host, 9 to 5er turned CEO of a multi-million dollar business, Amy Porterfield. Her specialty? Breaking down big ideas and strategies into actionable step-by-step processes designed to get you results with a whole lot less stress. Tune in, get inspired, and get ready to discover why hundreds of thousands of online business owners turn to Amy for guidance.
 
 ### [Talk Python To Me](https://talkpython.fm/)
 
@@ -558,7 +561,7 @@ Topic: Python
 
 Since its beginning in March of 2014 Podcast.**init** has brought you stories of the people that make the Python community great. Every week a new episode provides useful and informative insights into the projects, platforms, and practices that engineers, business leaders, and data scientists need to know about to learn and grow in their careers.
 
-Each interview explores the motivations, challenges, and experiences behind the software that you use every day. By digging deep into the technical implementation, edge cases, and lessons learned, the host ensures that you get the most value for your time spent listening. By following along you will learn more than you thought possible about diverse and important topics in the domains of data science, DevOps, web application development, scientific research, open source sustainability, machine learning, and countless others.
+Each interview explores the motivations, challenges, and experiences behind the software that you use every day. By digging deep into the technical implementation, edge cases, and lessons learned, the host ensures that you get the most value for your time spent listening. By following along you will learn more than you thought possible about diverse and important topics in the domains of data science, DevOps, web application development, scientific research, open-source sustainability, machine learning, and countless others.
 
 ### [Python Bytes](http://pythonbytes.fm/)
 
@@ -570,13 +573,13 @@ Python Bytes is a weekly podcast hosted by Michael Kennedy and Brian Okken. The 
 
 Topic: PHP
 
-The PHP Roundtable is a podcast of web developers discussing PHP, JavaScript, community, open source, and anything else PHP nerds care about. It is broadcast live from Google Hangouts On-Air. For complete show notes or to watch the episodes in video format visit PHPRoundtable.com. And join the conversation live! Just subscribe to the newsletter at www.phproundtable.com and never miss a live show.
+The PHP Roundtable is a podcast of web developers discussing PHP, JavaScript, community, open-source, and anything else PHP nerds care about. It is broadcast live from Google Hangouts On-Air. For complete show notes or to watch the episodes in video format visit PHPRoundtable.com. And join the conversation live! Just subscribe to the newsletter at www.phproundtable.com and never miss a live show.
 
 ### [Lately in PHP podcast](http://www.phpclasses.org/blog/category/podcast/)
 
 Topic: PHP
 
-News and interviews about the latest happenings in the PHP and Web development world. Hosted by Manuel Lemos of the PHPClasses.org site and other guest hosts. It is recorded in MP3 format at least once a month in the beginning of each month.
+News and interviews about the latest happenings in the PHP and Web development world. Hosted by Manuel Lemos of the PHPClasses.org site and other guest hosts. It is recorded in MP3 format at least once a month at the beginning of each month.
 
 ### [Java Off-Heap](https://www.javaoffheap.com/)
 
@@ -588,13 +591,13 @@ Welcome to the Best Java News podcast! The podcast started when four friends alw
 
 Topic: Java
 
-This podcast talks about how to program in Java; not your typical system.out.println(""Hello world""), but more like real issues, such as O/R setups, threading, getting certain components on the screen or troubleshooting tips and tricks in general. The format is as a podcast so that you can subscribe to it, and then take it with you and listen to it on your way to work (or on your way home), and learn a little bit more (or reinforce what you knew) from it.
+This podcast talks about how to program in Java; not your typical system.out.println(""Hello world""), but more like real issues, such as O/R setups, threading, getting certain components on the screen,or troubleshooting tips and tricks in general. The format is as a podcast so that you can subscribe to it, and then take it with you and listen to it on your way to work (or on your way home), and learn a little bit more (or reinforce what you knew) from it.
 
 ### [Illegal Argument](http://www.illegalargument.com/)
 
 Topic: Java
 
-Greg, Mark and Richard get together weekly and talk about things of interest in the Java community. Greg works for SimWorks (http://www.simworks.com) who specialize in mobile phone software. Mark works for SecureMX (www.smx.co.nz). Richard works for Blue Train Software (http://www.bluetrainsoftware.com)
+Greg, Mark, and Richard get together weekly and talk about things of interest in the Java community. Greg works for SimWorks (http://www.simworks.com) specialize in mobile phone software. Mark works for SecureMX (www.smx.co.nz). Richard works for Blue Train Software (http://www.bluetrainsoftware.com)
 
 ### [Keep Connected with Meetup CEO David Siegel](https://www.meetuppodcast.com/)
 
@@ -606,7 +609,7 @@ Keep Connected is a podcast about the power of community hosted by me, David Sie
 
 Topic: Ruby
 
-The Ruby on Rails Podcast, a weekly conversation about Ruby on Rails, open source software, and the programming profession. Hosted by Brittany Martin and Brian Mariani. Produced by Mirror Placement. Edited by Peachtree Sound.
+The Ruby on Rails Podcast, a weekly conversation about Ruby on Rails, open-source software, and the programming profession. Hosted by Brittany Martin and Brian Mariani. Produced by Mirror Placement. Edited by Peachtree Sound.
 
 ### [Ruby Rogues](https://devchat.tv/ruby-rogues/)
 
@@ -636,7 +639,7 @@ Programming Throwdown educates Computer Scientists and Software Engineers on a c
 
 Topic: Software QA
 
-Test Talks is a weekly podcast hosted by Joe Colantonio, which geeks out on all things software test automation. TestTalks covers news found in the testing space, reviews books about automation and speaks with some of the thought leaders in the test automation field. We’ll aim to interview some of today’s most successful and inspiring software engineers and test automation thought leaders.
+Test Talks is a weekly podcast hosted by Joe Colantonio, which geeks out on all things software test automation. TestTalks covers news found in the testing space, reviews books about automation, and speaks with some of the thought leaders in the test automation field. We’ll aim to interview some of today’s most successful and inspiring software engineers and test automation thought leaders.
 
 ### [Laravel News Podcast](https://laravel-news.com/podcast)
 
@@ -666,13 +669,13 @@ A bimonthly podcast that covers the Kotlin programming language by JetBrains, as
 
 Topic: Data Science
 
-The Data Skeptic Podcast features interviews and discussion of topics related to data science, statistics, machine learning, artificial intelligence and the like, all from the perspective of applying critical thinking and the scientific method to evaluate the veracity of claims and efficacy of approaches.
+The Data Skeptic Podcast features interviews and discussion of topics related to data science, statistics, machine learning, artificial intelligence, and the like, all from the perspective of applying critical thinking and the scientific method to evaluate the veracity of claims and efficacy of approaches.
 
 ### [Learning Machines 101](http://www.learningmachines101.com/)
 
 Topic: Machine Learning/ AI
 
-Smart machines based upon the principles of artificial intelligence and machine learning are now prevalent in our everyday life. For example, artificially intelligent systems recognize our voices, sort our pictures, make purchasing suggestions, and can automatically fly planes and drive cars. In this podcast series, we examine such questions such as: How do these devices work? Where do they come from? And how can we make them even smarter and more human-like? These are the questions that will be addressed in this podcast series!
+Smart machines based upon the principles of artificial intelligence and machine learning are now prevalent in our everyday life. For example, artificially intelligent systems recognize our voices, sort our pictures, make purchasing suggestions, and can automatically fly planes and drive cars. In this podcast series, we examine such questions as: How do these devices work? Where do they come from? And how can we make them even smarter and more human-like? These are the questions that will be addressed in this podcast series!
 
 ### [Data Stories](http://datastori.es/)
 
