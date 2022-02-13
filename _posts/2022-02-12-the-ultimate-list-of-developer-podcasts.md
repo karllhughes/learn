@@ -687,13 +687,13 @@ A podcast on data and how it affects our lives — with Enrico Bertini and Morit
 
 Topic: Machine Learning/ AI
 
-Talking Machines is your window into the world of machine learning. Your hosts, Katherine Gorman and Neil Lawrence, bring you clear conversations with experts in the field, insightful discussions of industry news, and useful answers to your questions. Machine learning is changing the questions we can ask of the world around us, here we explore how to ask the best questions and what to do with the answers.
+Talking Machines is your window into the world of machine learning. Your hosts, Katherine Gorman and Neil Lawrence bring you clear conversations with experts in the field, insightful discussions of industry news, and useful answers to your questions. Machine learning is changing the questions we can ask of the world around us, here we explore how to ask the best questions and what to do with the answers.
 
 ### [The TWIML AI Podcast (formerly This Week in Machine Learning & Artificial Intelligence)](https://twimlai.com/)
 
 Topic: Machine Learning/ AI
 
-Machine learning and artificial intelligence are dramatically changing the way businesses operate and people live. The TWIML AI Podcast brings the top minds and ideas from the world of ML and AI to a broad and influential community of ML/AI researchers, data scientists, engineers and tech-savvy business and IT leaders. Hosted by Sam Charrington, a sought after industry analyst, speaker, commentator and thought leader. Technologies covered include machine learning, artificial intelligence, deep learning, natural language processing, neural networks, analytics, computer science, data science...
+Machine learning and artificial intelligence are dramatically changing the way businesses operate and people live. The TWIML AI Podcast brings the top minds and ideas from the world of ML and AI to a broad and influential community of ML/AI researchers, data scientists, engineers, and tech-savvy business and IT leaders. Hosted by Sam Charrington, a sought-after industry analyst, speaker, commentator and thought leader. Technologies covered include machine learning, artificial intelligence, deep learning, natural language processing, neural networks, analytics, computer science, data science...
 
 ### [The Agile Coffee Podcast](http://agilecoffee.com/)
 
@@ -705,13 +705,13 @@ In 2012 Vic started Agile Coffee with the purpose of bringing together the local
 
 Topic: Agile
 
-Join Craig, Tony and Renee on a journey through the world of Agile as they look at recent blogs related to Agile, investigate practices and techniques, look at tools and answer your questions. The revolutionists focus on not just Agile as it relates to software development but also how it applies to business, transition, culture, people and a whole lot more!
+Join Craig, Tony, and Renee on a journey through the world of Agile as they look at recent blogs related to Agile, investigate practices and techniques, look at tools and answer your questions. The revolutionists focus on not just Agile as it relates to software development but also how it applies to business, transition, culture, people, and a whole lot more!
 
 ### [Scrum Master Toolbox Podcast](http://www.scrum-master-toolbox.com/)
 
 Topic: Agile
 
-Every week day, Certified Scrum Master, Agile Coach and business consultant Vasco Duarte interviews Scrum Masters and Agile Coaches from all over the world to get you actionable advice, new tips and tricks, improve your craft as a Scrum Master with daily doses of inspiring conversations with Scrum Masters from the all over the world. Stay tuned for BONUS episodes when we interview Agile gurus and other thought leaders in the business space to bring you the Agile Business perspective you need to succeed as a Scrum Master. Some of the topics we discuss include: Agile Business, Agile...
+Every weekday, Certified Scrum Master, Agile Coach, and business consultant Vasco Duarte interviews Scrum Masters and Agile Coaches from all over the world to get you actionable advice, new tips and tricks, improve your craft as a Scrum Master with daily doses of inspiring conversations with Scrum Masters from the all over the world. Stay tuned for BONUS episodes when we interview Agile gurus and other thought leaders in the business space to bring you the Agile Business perspective you need to succeed as a Scrum Master. Some of the topics we discuss include Agile Business.
 
 ### [Modern Web](https://modernweb.podbean.com/)
 
@@ -727,7 +727,7 @@ The Cloudcast is the industry's leading, independent Cloud Computing podcast. Si
 
 Topics will include Cloud Computing, Open Source, AWS, Azure, GCP, Serverless, DevOps, Big Data, ML, AI, Security, Kubernetes, AppDev, SaaS, PaaS, CaaS, IoT.
 
-Also available, the ""Cloudcast Basics"" podcast (@cloudcastbasics), for anyone new to Cloud Computing.
+Also available, the "Cloudcast Basics" podcast (@cloudcastbasics), for anyone new to Cloud Computing.
 
 ### [Agile for Humans with Ryan Ripley and Todd Miller](https://ryanripley.com/)
 
@@ -757,13 +757,13 @@ Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development 
 
 Topic: General Technology
 
-What happens when software eats the world? Industry veterans Paul Ford and Rich Ziade chat with their friends about technology, design, and business from a distinctly East Coast point of view. Decades of experience inform their no-BS, quick-witted patter about what digital transformation really means. Created by Postlight, the digital product studio they co-founded in New York City
+What happens when software eats the world? Industry veterans Paul Ford and Rich Ziade chat with their friends about technology, design, and business from a distinctly East Coast point of view. Decades of experience inform their no-BS, quick-witted patter about what digital transformation really means. 
 
 ### [The Frontier Podcast](https://www.gun.io/frontier)
 
 Topic: Software Engineering/Development/Programming 
 
-For software engineers and engineering leaders.
+For software engineers and engineering leaders
 
 ### [Conversations with Community Managers](https://communityroundtable.com/what-we-do/resources/conversations-with-community-managers/)
 
@@ -775,7 +775,7 @@ Quick conversations with global online community professionals.
 
 Topic: Life/General
 
-A journal of geekery, music and joy.
+A journal of geekery, music, and joy.
 
 Lastly, podcast marketing can look a little different than your standard media channels. I highly recommend checking out [this guide](https://blog.hubspot.com/marketing/podcast-advertising-tips) from HubSpot to help form your strategy before reaching out.
 
