@@ -26,7 +26,7 @@ Here’s what we’ll cover:
 
 ## What Is A Ghostwriter?
 
-A ghostwriter refers to people who create written work with no official byline. By writing blog posts, tutorials, articles, or technical articles in the style of their employer,[ghostwriters produce written work](<https://elnacain.com/blog/ghostwriter/>) that officially belongs to another person. Ghostwriting work can be full time, part-time, or contractual, depending on your income and time goals. Writers create copy, submit by the deadline, and receive payment once edits are complete.
+A ghostwriter refers to people who create written work with no official byline. By writing blog posts, tutorials, articles, or technical articles in the style of their employer,[ghostwriters produce written work](https://elnacain.com/blog/ghostwriter/) that officially belongs to another person. Ghostwriting work can be full time, part-time, or contractual, depending on your income and time goals. Writers create copy, submit by the deadline, and receive payment once edits are complete.
 There are two parties involved:
 
 * Authors: Those who take credit for the work produced.
@@ -56,13 +56,13 @@ Finally (and maybe most importantly), ghostwriting is fun. It provides a great o
 
 The first step in becoming a ghostwriter is finding a paying client. There are a couple of ways to do this, particularly using gig platforms.
 
-* [Upwork](https://www.upwork.com/) is a generalized freelancer platform that has the potential to net short term projects.
+* [Upwork](https://www.upwork.com/) is a generalized freelancer platform that has the potential to net short-term projects.
 * [WriterAccess](https://www.writeraccess.com/) is great for getting your feet wet without submitting project proposals.
 * [Fiverr](https://www.fiverr.com/) may be a good place to throw a wider net.
 
-If you’re looking for long term or more sustainable work, consider using a platform that’s closer to home: your personal network. Talk to friends, family members, or coworkers about potential writing jobs in the area. You might be surprised by how many gigs can be found this way.
+If you’re looking for long-term or more sustainable work, consider using a platform that’s closer to home: your personal network. Talk to friends, family members, or coworkers about potential writing jobs in the area. You might be surprised by how many gigs can be found this way.
 
-Should you come up empty handed on platforms and your personal network, there’s still one more place to look: job listings. Google Jobs, Craigslist, LinkedIn, and [Writejobs.info](writejobs.info). are all great resources to leverage in the beginning. If you’re really dedicated to finding potential gigs, consider signing up for Writejobs PLUS or [Sonia Weiser’s Opportunities of the Week](https://soniaweiser.wordpress.com/opportunities-of-the-week-newsletter/). Bear in mind that both of these options are paid.
+Should you come up empty-handed on platforms and your personal network, there’s still one more place to look: job listings. Google Jobs, Craigslist, LinkedIn, and [Writejobs.info](writejobs.info). are all great resources to leverage in the beginning. If you’re really dedicated to finding potential gigs, consider signing up for Writejobs PLUS or [Sonia Weiser’s Opportunities of the Week](https://soniaweiser.wordpress.com/opportunities-of-the-week-newsletter/). Bear in mind that both of these options are paid.
 
 ### How To Do Ghostwriting Well
 
