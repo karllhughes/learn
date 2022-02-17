@@ -5,7 +5,7 @@ description: Ghostwriting is one of the most profitable writing careers in the
   gig economy. This blog post will help aspiring ghostwriters understand how to
   become one, along with some of the basic tasks or economics of doing it.
 categories: ghostwriting
-cta: Playbook
+cta: Apply
 author: meagan
 date: 2022-02-17T13:46:04.452Z
 img: /assets/posts/apply-to-be-a-ghostwriter.jpg
@@ -26,7 +26,7 @@ Here’s what we’ll cover:
 
 ## What Is A Ghostwriter?
 
-A ghostwriter refers to people who create written work with no official byline. By writing blog posts, tutorials, articles, or technical articles in the style of their employer, \[ghostwriters produce written work](<https://elnacain.com/blog/ghostwriter/>) that officially belongs to another person. Ghostwriting work can be full time, part-time, or contractual, depending on your income and time goals. Writers create copy, submit by the deadline, and receive payment once edits are complete.
+A ghostwriter refers to people who create written work with no official byline. By writing blog posts, tutorials, articles, or technical articles in the style of their employer,[ghostwriters produce written work](<https://elnacain.com/blog/ghostwriter/>) that officially belongs to another person. Ghostwriting work can be full time, part-time, or contractual, depending on your income and time goals. Writers create copy, submit by the deadline, and receive payment once edits are complete.
 There are two parties involved:
 
 * Authors: Those who take credit for the work produced.
