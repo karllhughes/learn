@@ -10,7 +10,7 @@ author: karl
 date: 2022-02-10T09:41:11.438Z
 img: /assets/posts/ai-writing.jpg
 ---
-I’m super excited about AI-powered writing software. You might think that as a writer, I’d be afraid of AI taking my job, but in truth, I think it’s only going to empower more people to create better content over time. That said, AI writing software has a ways to go before we’ll be using it to write for clients at [Draft.dev](https://draft.dev/).
+I’m super excited about AI-powered writing software. You might think that as a writer, I’d be afraid of AI taking my job, but in truth, I think it’s only going to empower more people to create better content over time. That said, AI writing software has ways to go before we’ll be using it to write for clients at [Draft.dev](https://draft.dev/).
 
 In this post, I’ll compare four of the most popular AI writing assistants. I’ll be assessing how well they work on the different [types of technical content we write](https://draft.dev/content-types), how easy they are to use, and the value for your money.
 
@@ -18,7 +18,7 @@ In order to test each, I used standard prompts and titles for the articles I wan
 
 ## What is AI Writing Software?
 
-Computer-assisted writing tools have been around for a while now. I have used [Grammarly](https://www.grammarly.com/) and Hemingway Editor for years, but unlike the AI writing software that I’ve reviewed here, these tools merely correct existing content.
+Computer-assisted writing tools have been around for a while now. I have used [Grammarly](https://www.grammarly.com/) and [Hemingway Editor](https://hemingwayapp.com/) for years, but unlike the AI writing software that I’ve reviewed here, these tools merely correct existing content.
 
 The four AI writing tools below *generate original content* using a sophisticated neural network provided by ​​OpenAI’s GPT-3 model. This means that given a prompt and some guidance, these tools can actually *write for you*…at least in theory.
 
