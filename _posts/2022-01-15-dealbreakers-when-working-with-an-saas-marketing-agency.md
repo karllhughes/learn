@@ -13,9 +13,7 @@ img: /assets/posts/pexels-polina-zimmerman-3746957.jpg
 ---
 A good marketing agency can accelerate a company's success, but bad ones cost time, money, and the success of your campaigns. This article will highlight some of the main red flags to watch out for and how to successfully navigate the marketplace.
 
-![](blob:https://kind-knuth-0cfc19.netlify.app/3910785f-e03e-4182-8dd9-f39051f4c5c1)
-
-[More than 78,883](<https://www.ibisworld.com/united-states/market-research-reports/advertising-agencies-industry/>) digital marketing agencies were registered in 2020. As you might imagine, comparing, interviewing, and evaluating your options to find a perfect match is anything but easy.
+[More than 78,883](https://www.ibisworld.com/united-states/market-research-reports/advertising-agencies-industry/) digital marketing agencies were registered in 2020. As you might imagine, comparing, interviewing, and evaluating your options to find a perfect match is anything but easy.
 
 Choosing the right SaaS marketing agency is like picking a romantic partner. You'll want to be on the same page about your goals, work together to actualize them, and actually enjoy spending time together. If you aren't feeling that magic' spark,' or if your goals don't seem to be making any traction, there might be a reason why.
 
@@ -23,9 +21,9 @@ Not all marketing agencies are created equal. It's a good idea to understand the
 
 This article will explore the ins and outs of SaaS agency dealbreakers and explore some ways to interview agencies correctly. We're going to keep it simple, covering all three of the bases:
 
--   The benefits of hiring an agency
--   Red flags to look for when hiring a marketing agency
--   How to interview your agency before signing up
+* The benefits of hiring an agency
+* Red flags to look for when hiring a marketing agency
+* How to interview your agency before signing up
 
 ## The Benefits Of Hiring An Agency
 
@@ -33,9 +31,9 @@ SaaS enterprises looking to scale their marketing efforts often discover that ag
 
 If your company has enough marketing spending to account for higher volume content production, agencies are the way to go.
 
--   Agencies may have [ample experience in your niche](<https://2060digital.com/blog/evaluate-digital-marketing-agency/>) that allow for a more comprehensive campaign
--   Many marketing agencies dedicate a team of seasoned professionals to your strategy rather than one or two experts.
--   Campaigns can be started right away, with little to no downtime.
+* Agencies may have [ample experience in your niche](https://2060digital.com/blog/evaluate-digital-marketing-agency/) that allow for a more comprehensive campaign
+* Many marketing agencies dedicate a team of seasoned professionals to your strategy rather than one or two experts.
+* Campaigns can be started right away, with little to no downtime.
 
 It's important to note that not all agencies are created equal. While some agencies could be a perfect fit for your niche, others may not have the level of professionalism or experience necessary to make your campaign a success. That's why it's a good idea to familiarize yourself with the biggest dealbreakers of SaaS marketing agencies.
 
@@ -53,7 +51,7 @@ Poor communication can also exist from a planning standpoint. If your agency isn
 
 ### They Ask For Your Direct Login Details
 
-[Professional SaaS agencies](<https://www.yokellocal.com/blog/digital-marketing-agency-for-small-businesses>) should never ask for your direct login details. Although it may be necessary from time to time, this direct access could put your team in a weaker position.
+[Professional SaaS agencies](https://www.yokellocal.com/blog/digital-marketing-agency-for-small-businesses) should never ask for your direct login details. Although it may be necessary from time to time, this direct access could put your team in a weaker position.
 
 Great marketing agencies should have additional user access logins that allow them to make an assist without holding all the cards. Passwords and other details could give ill-intentioned agencies plenty of leverage when you want to part ways and make it extremely difficult to move on when you're ready.
 
@@ -101,10 +99,10 @@ Have a transparent meeting with your agency, and talk about the metrics and KPIs
 
 The importance of due diligence in picking the right marketing agency cannot be underestimated. Although you can't know everything about a company unless you experience it yourself, it's up to you to spot the warning signs before committing to something challenging to escape. Take the time to interview your agency like you would a job candidate and thoroughly inspect their background for red flags that give you pause.
 
--   Ask peers for testimonials, especially about their overall experience with the agency.
--   Go the distance with case studies and online reviews. Look for patterns or trends in the facts that are reported.
--   Even better, ask the professionals in your space about potential agencies they've used in the past.
+* Ask peers for testimonials, especially about their overall experience with the agency.
+* Go the distance with case studies and online reviews. Look for patterns or trends in the facts that are reported.
+* Even better, ask the professionals in your space about potential agencies they've used in the past.
 
 If you're willing to treat your agency hunt as a partnership rather than a one-and-done process, you're bound to be successful in finding the perfect fit.
 
-If you're looking for a technical marketing content agency with experience in SaaS, Draft.dev is a great place to start. [Book a call](<https://draft.dev/call>) to chat about blog posts, tutorials, and other content we build for software devs.
+If you're looking for a technical marketing content agency with experience in SaaS, Draft.dev is a great place to start. [Book a call](https://draft.dev/call) to chat about blog posts, tutorials, and other content we build for software devs.
