@@ -36,9 +36,9 @@ As you might imagine, product marketing can be defined in a number of ways. A fe
 * The voice of sales teams and prospective customers during product development and release. (Meghann York, Vice President of Product Marketing at Ticketmaster).
 * Product Marketing changes from business to business and is more executional than strategic. (Aaron Brennan, Director of Product Marketing at airSlate).
 
-In terms of actionable \[examples of product marketing](<https://www.drift.com/blog/brands-that-nail-product-marketing/>), corporate giants such as New Balance, Evernote, and MailChimp are already hopping on the bandwagon. These companies have spent hours of time and thousands of dollars on finding the perfect differentiator for their brand. For New Balance, it’s about selling classic sneakers that ‘reinvent’ athleticism. For Evernote, its focus is on clear and consistent messaging. And for MailChimp, it’s a reinforcement of the idea that their software simply ‘does it better.’
+In terms of actionable [examples of product marketing](https://www.drift.com/blog/brands-that-nail-product-marketing/), corporate giants such as New Balance, Evernote, and MailChimp are already hopping on the bandwagon. These companies have spent hours of time and thousands of dollars on finding the perfect differentiator for their brand. For New Balance, it’s about selling classic sneakers that ‘reinvent’ athleticism. For Evernote, it’s a focus on clear and consistent messaging. And for MailChimp, it’s a reinforcement of the idea that their software simply ‘does it better.’
 
-Product marketing often \[requires several roles](<https://draft.dev/learn/marketing-titles/>) to execute, primarily:
+Product marketing often [requires several roles](https://draft.dev/learn/marketing-titles/) to execute, primarily:
 
 * Product marketing directors or managers
 * Heads of marketing
