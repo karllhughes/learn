@@ -16,9 +16,7 @@ More than [30,000 new products](https://www.forbes.com/sites/shamahyder/2019/10/
 
 This is where [product marketing specialists](https://www.trychameleon.com/blog/what-is-product-marketing) come into play. Well-versed in business intelligence and fast on their feet, these experts act as a delicate central point between product developers, sales teams, and marketing professionals. And best of all – they get results.
 
-But product marketing specialists aren’t as one-dimensional as you might think. In fact, there’s a wide variety of tasks and skills these pros need to get the job done right. So what exactly do product marketers do, and how will they be a benefit to your organization?
-
-Let’s break it down:
+But product marketing specialists aren’t as one-dimensional as you might think. In fact, there’s a wide variety of tasks and skills these pros need to get the job done right. So what exactly do product marketers do, and how will they be a benefit to your organization? Let’s break it down:
 
 * What is product marketing?
 * What does a product marketing specialist do?
