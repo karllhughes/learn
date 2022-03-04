@@ -1,14 +1,16 @@
 ---
 layout: post
 title: Technical Ebooks From Draft.dev
-description: 
+description: In this post, we provide details on our compilation ebook offering
+  at Draft.dev. Our ebook is designed for companies that want to create a
+  high-quality lead magnet quickly without the cost of commissioning one from
+  scratch.
 categories: processes
 cta: Call
 author: karl
 date: 2022-01-29T05:00:01.000Z
 img: /assets/posts/ebook.png
 ---
-
 Publishing [high-quality technical content](/learn/technical-content) and getting it in front of your target audience is just the [start of a successful developer marketing effort](/learn/developer-marketing). Having a compelling lead magnet can help you turn that anonymous traffic into known names and email addresses that you can continue to build a relationship with over time.
 
 Our compilation ebook offering at Draft.dev is designed for companies that want to create a high-quality lead magnet quickly without the cost of commissioning one from scratch.
@@ -34,10 +36,8 @@ We offer custom colors and can include your logo on the cover, but if you want m
 This process generally takes just 1-2 weeks after the original content is written.
 
 ### Can I order an ebook alone?
-While we don't offer one-off ebook production at this time, ebooks can be rolled into an existing technical content plan or as part of a statement of work for a new client.
 
-### How much does it cost?
-The price starts at $1500 per ebook, which is generally an order of magnitude cheaper than commissioning a custom ebook from scratch.
+While we don't offer one-off ebook production at this time, ebooks can be rolled into an existing technical content plan or as part of a statement of work for a new client.
 
 ### Do you have any examples of this kind of compilation ebook?
 
