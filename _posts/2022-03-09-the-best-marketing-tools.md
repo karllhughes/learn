@@ -1,0 +1,127 @@
+---
+layout: post
+title: The Best Marketing Tools
+description: Not sure how to take your business to the next level? This big
+  roundup of marketing tools is designed to help you find the platforms and
+  services needed to streamline various tasks.
+categories: tools
+cta: Content Ideas
+author: meagan
+date: 2022-03-09T15:54:29.972Z
+img: /assets/posts/marketing-tools.jpg
+---
+The growth of any business is a beautiful thing. Exhibiting both progress and prowess, the development of your company proves its USP has real value. You’re not just surviving; you’re thriving.
+
+But rapid growth has another connotation for business owners: upscaling. This costly, sometimes time-consuming process applies to every element of your company - including marketing. Your marketers might not be able to create enough collateral to meet growing demand. Maybe relationship management is becoming too complicated for internal spreadsheets. Or maybe you haven’t reached the stage where an in-house team makes sense.
+
+If your company is starting to experience significant growing pains, it might be time to consider a partnership with specialized marketing tools. Check out these 12 unique categories to smooth out the scaling process and reduce unnecessary strain on internal resources.
+
+## The Best Marketing Tools For Businesses Of All Industries
+
+No matter where your business needs some extra help, you can count on one of these marketing tools to fill in the gaps. 
+
+Just as a side note, we weren’t sponsored to add any of these tools to the list. They’re just our opinions regarding the platforms we’ve used, tried, and tested over the years. 
+
+### Online Course Creation Tools
+
+If you’re looking to establish your brand as an industry leader, [online course creation tools](https://draft.dev/learn/course-creation-tools) may be a great way to cultivate thought leadership and attention.
+
+* Open-source management tool [ILIAS](https://www.ilias.de/docu/goto_docu_root_1.html) has a suite of comprehensive options and several million users to date.
+* [Skillshare](https://www.skillshare.com/teach) provides course creation and distribution tools, as well as money-making capabilities.
+* If you’re in a tech niche looking for a wider reach, [PluralSight](https://www.pluralsight.com/teach) is an excellent course creation tool.
+
+### Tools for Finding and Researching Your Competition
+
+Know thy enemy, or at least thy competitor, with a couple of these [competition research tools](https://draft.dev/learn/competition-research-tools).
+
+* [SimilarWeb](https://www.similarweb.com/) is a great way to see where competitors are sourcing traffic.
+* Tools like [WooRank](https://www.woorank.com/) allow you to rank multiple competitor websites, hunting for ways to outperform them.
+* If you need to understand more about the keywords, backlinks, and ads used by competitors, [SpyFu](https://www.spyfu.com/) is a good place to start.
+
+### Social Media Automation Tools
+
+Finding time to manage your web presence can be difficult, which is why [social media automation tools](https://draft.dev/learn/social-media-automation) can be extraordinarily helpful for growing startups.
+
+* Startups can leverage tools like [Delay For Reddit](https://www.delayforreddit.com/) to spread technical content.
+* [ContentStudio](https://contentstudio.io/) is a well-rounded tool for social planning, posting, and scheduling.
+* Tools like [RiteKit](http://ritekit.com/) automatically embellish your posts with the perfect blend of hashtags, images, and mentions.
+
+### Customer Chat Tools
+
+Today’s customers expect nothing but excellence in customer service. Reach leads in meaningful ways using these [customer chat tools](https://draft.dev/learn/customer-chat-tools).
+
+* [Instream](http://instream.io/en/) is perfect for gathering lead data and creating lasting relationships.
+* AI tools like [Jetlink](https://jetlink.io/) help startups streamline their live chat capabilities.
+* If you need to outsource a larger portion of your customer service, [LiveAdmins](https://www.liveadmins.com/) is a wonderful starting place.
+
+### Press Release Creation and Distribution Tools
+
+Depending on your industry, regular news updates may be an important part of your growth strategy. Simplify the process by leveraging one of these [press release tools](https://draft.dev/learn/press-release-tools).
+
+* [EReleases](https://www.ereleases.com/) might be pricey, but it does come with guaranteed distribution and access to 100,000+ journalists.
+* Sign up for the [Help A Reporter Out](https://www.helpareporter.com/) newsletter, and get daily emails from journalists in need of sources.
+* Tools like [OpenPR](https://www.openpr.com/) are free to use with an attributed backlink and distribute links through an RSS feed.
+
+### Customer Relationship Management Software
+
+These [CRM tools for startups](https://draft.dev/learn/crm-startups) adapt well to any industry niche.
+
+* From contact storage to workflow, tools like [Airtable](https://airtable.com/invite/r/4EaSmQNr) have a lot to offer.
+* I personally love using [Trello](https://trello.com/) to manage daily processes, especially for monitoring workflow.
+* If you don’t mind paying a little extra, [Freshworks CRM](https://www.freshworks.com/freshsales-crm/) is an AI-based program with lots of potential.
+
+### Startup Logo Creation Tools
+
+If you haven’t designed something you like yet, one of these [startup logo creation tools](https://draft.dev/learn/logo-creation-tools) might be able to help.
+
+* While it might not be the most unique tool on the list, [Canva](https://www.canva.com/) is one of the best resources for logos, graphics, and more.
+* The AI in [Looka Like Maker](https://looka.com/logo-maker/) allows you to design, tweak, and publish professional-looking logos without too much effort.
+* [Noun Project](https://thenounproject.com/) provides a huge database of vector icons and images - all for free.
+
+### Free Stock Images
+
+No matter what industry you’re in, you’ll need access to some eye-catching images from time to time. Check out a few platforms for [sourcing free stock images](https://draft.dev/learn/free-stock-images) here.
+
+* The [Death To Stock Newsletter](https://deathtothestockphoto.com/) is an interesting, if an unconventional, way to get free images. Simply subscribe to the list, and receive a free image every day.
+* If you’re willing to settle for more vintage photos, [New Old Stock](https://nos.twnsnd.co/) houses a collection of images that have fallen outside copyright protection.
+* Startups often benefit from the aptly named [Startup Stock Photos](http://startupstockphotos.com/) website.
+
+### Survey Tools
+
+It’s important to check on the pulse of your customers from time to time. [These survey tools](https://draft.dev/learn/survey-tools) make it easier than ever.
+
+* [Formspree](https://formspree.io/) lets you handle contact forms at a glance, and embed dynamic forms directly onto a website.
+* [Lime Survey](https://www.limesurvey.org/) is a free, open-source platform (with a paid hosted version). Its ability to capture real voices at scale stands it out in the marketplace.
+* [Wufoo](https://www.wufoo.com/gallery/templates/surveys/) is a phenomenal program that integrates with the biggest players in your marketing stack, including Stripe, Google Sheets, and Mailchimp.
+
+### Landing Page Tools
+
+While it’s totally possible to code a landing page on your own, the time and effort it takes to build one from scratch might not be worth it. Use some of these helpful [landing page tools](https://draft.dev/learn/landing-page-tools) to hit the ground running.
+
+* Simple, free, and easy to start up, [Carrd](https://carrd.co/) is a winner right out of the gate. Their one-page sites are streamlined, attractive, and very well priced.
+* For startups needing additional customer support, [Landbot](https://landbot.io/) allows developers to turn landing pages into chat tools. This program is extremely customizable, adapting to almost any need.
+* [Neocities](https://neocities.org/) is great for developers who want total control over landing page development. Enjoy an in-browser HTML editor, custom domain support, and a command line tool.
+
+If you already have Mailchimp under your belt, consider using native tools like [Mailchimp Landing Pages](https://mailchimp.com/features/landing-pages/).
+
+### Email Marketing Tools
+
+Serving as both a lead generation and customer engagement platform, everyone needs some form of email marketing on their side. Equip your startup to do more with less by using one of these platforms:
+
+* [ActiveTrail](https://www.activetrail.com/email_marketing_software/) is one of the most popular email platforms, and for good reason. Users enjoy a one-stop-shop for many marketing tasks, including SMS campaigns and landing page builders. 
+* If you’re looking to add some automation to the mix, [Replybutton](https://replybutton.com/) is a great place to start. Use their automatic replies and follow-up emails to engage leads in meaningful ways.
+* Prefer API-driven emails? [SendGrid](https://sendgrid.com/) might be the perfect option for you. Create templates and campaigns directly in the system, and watch your subscriber count grow.
+
+Need more suggested [email marketing tools](https://draft.dev/learn/email-marketing-tools)? Consider hunting around for integrative CRMs like HubSpot Email.
+
+### Best AI Writing Software
+
+Whether you need better SEO or some help with writer’s block, AI is a great way to get started with copywriting. Although the \[best AI writing software](Link TBD) is typically geared toward writers, there are several platforms available for SEO or editing professionals.
+
+* [Grammarly](https://www.grammarly.com/) is a great platform for checking work. It’s particularly good at strengthening your writing and scanning for accidental plagiarism.
+* [INK](https://inkforall.com/) specializes in the incorporation of keywords with  SEO-focused UI. It’s easy to use and simple to navigate, making it a valuable partner for growing businesses.
+* [Jasper.ai](https://www.jasper.ai/) is a great place to start, especially for businesses needing a wide variety of written work. The program (AKA Jasper) scours through millions of pages of content types to create original work, including blog posts, emails, social media, and more. 
+
+Of course, AI writing tools will only bring you so far. Heavily researched articles, highly specialized work, and technical tutorials are difficult to craft without a human touch. For this reason, it’s best to trust your writing work to verified professionals, including the team behind [Draft.dev](https://draft.dev).
+
+If you’re interested in developing blog content, tutorials, or copywriting aimed at technical decision makers, Draft.dev has the solutions you’re looking for. After all, great marketing content should also be [great educational content](https://draft.dev/about). [Book a call](https://draft.dev/call) at your earliest convenience to chat about your needs and expectations.
