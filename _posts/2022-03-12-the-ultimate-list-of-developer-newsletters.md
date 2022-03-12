@@ -566,7 +566,7 @@ Contact email/info: [hello@efedorenko.com](mailto:hello@efedorenko.com)
 
 **[ObjC](https://www.objc.io/)**
 
-objc.io publishes books, videos, and articles on advanced techniques for iOS and macOS development.
+Objc.io publishes books, videos, and articles on advanced techniques for iOS and macOS development.
 
 Number of subscribers: Undeclared
 
@@ -631,7 +631,7 @@ Contact email/info: stan@libhunt.com
 
 **[Swift Newsletter](https://swiftweekly.com/)**
 
-Code examples, tutorials, screencasts, and much more to learn Apple's new programming language. Leave your e-mail address and get all upcoming issues straight to your inbox.
+Code examples, tutorials, screencasts, and much more to learn Apple's new programming language.
 
 Number of subscribers: Undeclared
 
@@ -1035,7 +1035,7 @@ Contact email/info: Undeclared
 
 **[Mastering Vim Quickly](https://masteringvim.com/)**
 
-Best Vim stuff, once a week. FreeByte-sized Vim tips and tricks. Best practices, Vim configuration, recommended plugins. Best articles from around the Internet, news, updates, and much more!
+Best Vim stuff, once a week. FreeByte-sized Vim tips and tricks. Best practices, Vim configuration, recommended plugins.
 
 Number of subscribers: 6000
 
