@@ -198,7 +198,7 @@ Contact email/info: stan@libhunt.com
 
 **[Web Tools Weekly](https://webtoolsweekly.com/)**
 
-Web Tools Weekly is a front-end development and web design newsletter with a focus on tools
+Web Tools Weekly is a front-end development and web design newsletter with a focus on tools.
 
 Number of subscribers: 12,262
 
@@ -230,7 +230,7 @@ Contact email/info: <http://esnextnews.com/#advertising-on-esnextnews>
 
 **[The Smashing Email Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/)**
 
-Every Tuesday we send out an editorial email newsletter with useful tips and techniques on front-end and UX. Subscribe and get the Interface Design Checklists (131 MB, PDF) as a gift.
+Every Tuesday we send out an editorial email newsletter with useful tips and techniques on front-end and UX. 
 
 Number of subscribers: 180,000
 
@@ -244,7 +244,7 @@ One quick JavaScript tip, delivered to your inbox every other week.
 
 Number of subscribers: undeclared
 
-Sponsorship rates: 
+Sponsorship rates: undeclared
 
 Contact email/info: [joshua.clanton@gmail.com](mailto:joshua.clanton@gmail.com) & <http://adripofjavascript.com/about/default.htm>
 
@@ -254,7 +254,7 @@ The best TypeScript links every week, right in your inbox.
 
 Number of subscribers: undeclared
 
-Sponsorship rates: 
+Sponsorship rates: undeclared
 
 Contact email/info: newsletter@typescript-weekly.com and <https://twitter.com/mariusschulz>
 
@@ -274,7 +274,7 @@ Weekly rankings about the most popular open-source projects related to Node.js a
 
 Number of subscribers: undeclared
 
-Sponsorship rates: 
+Sponsorship rates: undeclared
 
 Contact email/info: <https://github.com/bestofjs/bestofjs-weekly>
 
@@ -358,7 +358,7 @@ Contact email/info: <https://github.com/sponsors/shentao>
 
 **[Vue.js Developers Newsletter](https://www.getrevue.co/profile/vuejs-developers)**
 
-The Vue.js Developers Newsletter is a weekly curated publication of the best articles, latest news, and coolest Vue projects. Subscribe now stay up-to-date with everything Vue.js.
+The Vue.js Developers Newsletter is a weekly curated publication of the best articles, latest news, and coolest Vue projects. 
 
 Number of subscribers: 5865 
 
@@ -412,7 +412,7 @@ Contact email/info: [team@css-tricks.com](mailto:team@css-tricks.com)
 
 **[CSS Layout News](http://csslayout.news/)**
 
-On this site, you will find the newsletter archive, with over 300 newsletters full of news and resource links. Subscribe to get the weekly issue right into your inbox.
+On this site, you will find the newsletter archive, with over 300 newsletters full of news and resource links. 
 
 Number of subscribers: Undeclared
 
@@ -424,7 +424,7 @@ Contact email/info: [me@rachelandrew.co.uk](mailto:me@rachelandrew.co.uk)
 
 **[Web Design Weekly](https://web-design-weekly.com/)**
 
-Be the first to know about the latest Web Design and Front-end trends. Sign up for our weekly newsletter and get the freshest news, tools, and tutorials… for free.
+Be the first to know about the latest Web Design and Front-end trends. 
 
 Number of subscribers: 18,000+
 
