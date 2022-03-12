@@ -90,7 +90,7 @@ Contact email/info: [alex@abyteofcoding.com](mailto:alex@abyteofcoding.com)
 
 **[BaseClass](https://www.baseclass.io/newsletter)**
 
-Newsletters sent every two weeks explaining one fundamental computing topic in under 5 minutes.
+Newsletters are sent every two weeks explaining one fundamental computing topic in under 5 minutes.
 
 Number of subscribers: 600+
 
