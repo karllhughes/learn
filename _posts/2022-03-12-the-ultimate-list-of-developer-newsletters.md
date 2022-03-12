@@ -74,7 +74,7 @@ Discover dev brings you a daily digest of the best engineering blogs from across
 
 Number of subscribers: 10,000+
 
-Sponsorship rates: None found
+Sponsorship rates: Undeclared
 
 Contact email/info: <https://github.com/deepakkarki/>
 
@@ -84,7 +84,7 @@ A Byte of Coding is a daily newsletter with links and summaries for three high-q
 
 Number of subscribers: 2700+
 
-Sponsorship rates: None found
+Sponsorship rates: $200
 
 Contact email/info: [alex@abyteofcoding.com](mailto:alex@abyteofcoding.com)
 
@@ -94,7 +94,7 @@ Newsletters sent every two weeks explaining one fundamental computing topic in u
 
 Number of subscribers: 600+
 
-Sponsorship rates: None found
+Sponsorship rates: Undeclared
 
 Contact email/info: <https://twitter.com/davejsaunders>
 
@@ -160,7 +160,7 @@ Stay up to date in HTML, CSS, JavaScript, PHP, and get inspiration on work-life 
 
 Number of subscribers: undeclared
 
-Sponsorship rates: None found
+Sponsorship rates: undeclared
 
 Contact email/info: [mail@wdrl.info](mailto:mail@wdrl.info)
 
