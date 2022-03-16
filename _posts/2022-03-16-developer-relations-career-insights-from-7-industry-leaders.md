@@ -25,7 +25,7 @@ So, I decided to ask several developer relations professionals about their caree
 
 Every DevRel I spoke with mentioned a wide range of tasks that they engaged in on a regular basis:
 
-> “\[DevRels] talk with customers in support, write blog posts, plan events, connect with product and engineering about upcoming releases, write docs, and really whatever else needed to be done.” - [Justin Johnson](​​https://www.linkedin.com/in/elofjohnson/), [Macrometa](https://macrometa.com)
+> “\[DevRels] talk with customers in support, write blog posts, plan events, connect with product and engineering about upcoming releases, write docs, and really whatever else needed to be done.” - [Justin Johnson](https://www.linkedin.com/in/elofjohnson/), [Macrometa](https://macrometa.com)
 
 Developer relations is a relatively new field and as such, it’s not always clearly defined. In some companies, it’s a [marketing function](https://draft.dev/learn/developer-marketing), while others lump it in with customer support or product management. Because of this, every DevRel position is different, and the KPIs (key performance indicators) that developer relations professionals report on can vary widely.
 
