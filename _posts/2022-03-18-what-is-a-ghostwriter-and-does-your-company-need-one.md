@@ -69,16 +69,16 @@ First, consider your options. Could you afford to pay for an in-house ghostwrite
 
 In any case, [finding a great ghostwriter](https://draft.dev/learn/what-is-a-head-of-content) takes time. You’ll need a lot more than a few job listings to find the right candidate, especially if you’re posting them on highly trafficked sites. As always, the perfect intersection of price, availability, and experience starts with identifying your needs.
 
-What’s the size and scope of your writing projects? Will there be work on a monthly basis, or just occasionally? These questions narrow your selections down to ghostwriters with set availabilities.
-Does your industry require a lot of experience? Be sure to tailor your job description accordingly.
-How much are you willing to compensate your writers? Beware: you get what you pay for in this industry.
+* What’s the size and scope of your writing projects? Will there be work on a monthly basis, or just occasionally? These questions narrow your selections down to ghostwriters with set availabilities.
+* Does your industry require a lot of experience? Be sure to tailor your job description accordingly.
+* How much are you willing to compensate your writers? Beware: you get what you pay for in this industry.
 
 Now that you know what you’re looking for, you can begin the hiring process in earnest.
 
-Look for writing candidates in more than one place: ghostwriting platforms, personal networks, or aggregate sites like LinkedIn. You might be surprised how easily you can find a ghostwriter within your local community.
-Have all candidates complete a test project that mimics future work, complete with deadlines. Note: writers that are not deadline-oriented are more hobbyists than professionals.
-Degrees, titles, and certifications don’t always mean much in the world of writing. Instead, ask writers about their references, previous clients, or general workflows. This will provide you with great insights about what to expect from a long-term relationship.
-Ask potential writers serious questions about your industry or niche. If they don’t answer them to your satisfaction, or if they don’t seem to have a full grasp of the topic, they might not have the experience you’re looking for.
+* Look for writing candidates in more than one place: ghostwriting platforms, personal networks, or aggregate sites like LinkedIn. You might be surprised how easily you can find a ghostwriter within your local community.
+* Have all candidates complete a test project that mimics future work, complete with deadlines. Note: writers that are not deadline-oriented are more hobbyists than professionals.
+* Degrees, titles, and certifications don’t always mean much in the world of writing. Instead, ask writers about their references, previous clients, or general workflows. This will provide you with great insights about what to expect from a long-term relationship.
+* Ask potential writers serious questions about your industry or niche. If they don’t answer them to your satisfaction, or if they don’t seem to have a full grasp of the topic, they might not have the experience you’re looking for.
 
 If you want some other tips and tricks to [find ghostwriters for hire](https://draft.dev/learn/finding-ghostwriters-for-hire), start by giving our recent blog a read. It’s jam-packed with all the specifics you need to move forward in confidence.
 
