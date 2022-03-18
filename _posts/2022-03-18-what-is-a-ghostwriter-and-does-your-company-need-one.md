@@ -88,6 +88,6 @@ Let’s get down to the heart of the issue. If you’re running a startup, a you
 
 Larger SMEs, though, are a completely different story. If your business is starting to get some real traction, or if you’re growing faster than you can scale, ghostwriting services could be an excellent fit. Freelancers and agencies are all potential options, depending on how you want to scale in the future. For flexibility and onboarding within less than two months, agencies are a splendid alternative.
 
-If you’re looking for some agency ghostwriting work without worrying about quality, [Draft.dev](draft.dev) could be a great option. We specialize in helping technology companies find new ways of reaching software decision makers, generating blog posts, tutorials, and even social media content. It’s all in your court: your ideas, your UVPs, our hand-picked team of ghostwriters. 
+If you’re looking for some agency ghostwriting work without worrying about quality, [Draft.dev](https://draft.dev/) could be a great option. We specialize in helping technology companies find new ways of reaching software decision makers, generating blog posts, tutorials, and even social media content. It’s all in your court: your ideas, your UVPs, our hand-picked team of ghostwriters. 
 
 [Book some time here](https://draft.dev/call) to chat about your current writing strategy, and learn how Draft.dev can help it grow.
