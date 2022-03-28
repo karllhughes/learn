@@ -6,7 +6,7 @@ categories: content-marketing
 cta: Content Ideas
 author: karl
 date: 2021-04-15T07:19:06.140Z
-img: /assets/posts/lc3eyiw.jpg
+img: /assets/posts/digital-strategy.jpg
 ---
 If you've been working in marketing for long, you've probably created all kinds of plans and strategy documents. The complexity and thoroughness of these plans varies widely depending on the maturity of your company and size of your team, but as with any major business initiative, having a good plan is generally better than having no plan.
 
