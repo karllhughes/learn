@@ -26,7 +26,7 @@ Clarity is key to success, and in the world of modern job descriptions, it matte
 
 ### Chief Marketing Officer (CMO)
 
-Often referred to as a CMO or a C-level marketer, the chief marketing officer leads all other marketing personnel. These professionals work alongside other executives at the top of the ladder, including CEOs, CFOs, and COOs. CMOs generally have years (if not decades) of industry experience, and have proved their prowess in the marketing field with years of results. 
+Often referred to as a CMO or a C-level marketer, the chief marketing officer leads all other marketing personnel. These professionals work alongside other executives at the top of the ladder, including CEOs, CFOs, and COOs. CMOs generally have years (if not decades) of industry experience and have proved their prowess in the marketing field with years of results. 
 
 CMOs are in charge of several different tasks, all of which are dependent on the company in question. Startups may have their CMO leading most or all daily marketing tasks, while established companies may delegate quarterly reporting tasks or project management functions.
 
@@ -48,7 +48,7 @@ You might find a marketing manager performing a middle management role, toeing t
 
 ### Head Of Content
 
-If your company manages a high volume of content, chances are you will need a [Head Of Content](https://draft.dev/learn/what-is-a-head-of-content) to bring it all together. Content Leads supervise the creation of content in all forms, and act as the final layer of quality control for blogs, videos, and the general public.
+If your company manages a high volume of content, chances are you will need a [Head Of Content](https://draft.dev/learn/what-is-a-head-of-content) to bring it all together. Content Leads supervise the creation of content in all forms and act as the final layer of quality control for blogs, videos, and the general public.
 
 A head of content may also be in charge of strategy creation and trend research, helping to direct the actions of content creators and the content marketing manager.
 
@@ -60,7 +60,7 @@ Depending on the company in question, content marketing managers may be in charg
 
 ### Head Of Growth
 
-B2B or technology oriented companies frequently rely on a [Head Of Growth](https://draft.dev/learn/what-is-a-head-of-growth) to scale their brand’s presence and profit margins. This is a relatively new role in the industry, and is particularly sought-after by brands like HubSpot, Uber, and EventBrite. There’s a good reason why: these experts track, report, and optimize key growth metrics across an entire organization – not just certain departments.
+B2B or technology-oriented companies frequently rely on a [Head Of Growth](https://draft.dev/learn/what-is-a-head-of-growth) to scale their brand’s presence and profit margins. This is a relatively new role in the industry and is particularly sought-after by brands like HubSpot, Uber, and EventBrite. There’s a good reason why: these experts track, report, and optimize key growth metrics across an entire organization – not just certain departments.
 
 Most organizations expect three key functions from their head of growth: growth hacking, growth management, and growth nurturing. Other functions, including data analytics, are usually part of their daily responsibilities.
 
@@ -72,7 +72,7 @@ The marketing associate may not sound like the flashiest of internal roles, but 
 
 ### Product Marketing Specialist
 
-While marketing associates focus on brand-wide campaigns, a [Product Marketing Specialist](https://draft.dev/learn/what-is-a-product-marketing-specialist) is only interested in awareness, value, and demand for specific inventory. These relatively complex roles use a plethora of tools to effectively market their marketing projects, and have an excellent understanding of data, KPIs, and additional growth metrics.
+While marketing associates focus on brand-wide campaigns, a [Product Marketing Specialist](https://draft.dev/learn/what-is-a-product-marketing-specialist) is only interested in awareness, value, and demand for specific inventory. These relatively complex roles use a plethora of tools to effectively market their marketing projects and have an excellent understanding of data, KPIs, and additional growth metrics.
 
 Product marketing specialists are one of the most complicated roles on this list. Project roles and duties vary widely from company to company, and will likely change over time as the job becomes more defined. If you’re interested in getting a job in the field, it would be wise to directly ask your employer about expected tasks and responsibilities.
 
@@ -86,7 +86,7 @@ Advertising specialists usually have the same organizational presence as marketi
 
 One of the most exciting marketing roles in recent years includes [Developer Relations](https://draft.dev/learn/developer-relations-career-insights-from-7-industry-leaders). Think of it as a combination between PR reps and your software developers, with a sprinkle of speaking, writing, and conference paneling on the side.
 
-Developer relations is becoming highly sought after in the marketing field, and has evolved into a critical role for startup tech companies. While job boundaries may be less defined, general responsibilities fall somewhere between marketing tasks, sales work, and elements of customer support. From creating technical content to running live demos and workshops, DevRels truly live in class of their own.
+Developer relations is becoming highly sought after in the marketing field, and has evolved into a critical role for startup tech companies. While job boundaries may be less defined, general responsibilities fall somewhere between marketing tasks, sales work, and elements of customer support. From creating technical content to running live demos and workshops, DevRels truly live in a class of their own.
 
 ## Learn More About Common Marketing Roles
 
