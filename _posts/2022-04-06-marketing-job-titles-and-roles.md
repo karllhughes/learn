@@ -42,9 +42,9 @@ The Marketing Manager translates high-level strategy into specific steps for the
 
 You might find a marketing manager performing a middle management role, toeing the line on:
 
-Translating new strategies
-Tracking campaign effectiveness
-Developing key insights
+* Translating new strategies
+* Tracking campaign effectiveness
+* Developing key insights
 
 ### Head Of Content
 
@@ -88,15 +88,15 @@ One of the most exciting marketing roles in recent years includes [Developer Rel
 
 Developer relations is becoming highly sought after in the marketing field, and has evolved into a critical role for startup tech companies. While job boundaries may be less defined, general responsibilities fall somewhere between marketing tasks, sales work, and elements of customer support. From creating technical content to running live demos and workshops, DevRels truly live in class of their own.
 
-## Learn More About Common Marketing Roles 
+## Learn More About Common Marketing Roles
 
 The world of digital marketing is constantly changing, including its job titles and performance roles. If you’re planning on forging a new career path, or if you’re looking to fill gaps at your organization with top talent, it’s a good idea to stay in the know with colloquialisms and changing vernacular. 
 
 Below are some of the best resources to stay up-to-date with common marketing roles:
 
-RSS Feed Reader: A good RSS can supply a wealth of thought leadership and trends within a matter of minutes. Enjoy a good read with your breakfast or lunch, and stay updated even on the fly.
-Good News & Trends: Scanning Google News or Trends can provide brief insights into critical changes within the marketing world.
-Email Newsletters: Following industry development is a lot easier when someone else does it for you. This [ultimate list of developer newsletters](https://draft.dev/learn/the-ultimate-list-of-developer-newsletters) is a great one-stop-shop resource.
+* RSS Feed Reader: A good RSS can supply a wealth of thought leadership and trends within a matter of minutes. Enjoy a good read with your breakfast or lunch, and stay updated even on the fly.
+* Good News & Trends: Scanning Google News or Trends can provide brief insights into critical changes within the marketing world.
+* Email Newsletters: Following industry development is a lot easier when someone else does it for you. This [ultimate list of developer newsletters](https://draft.dev/learn/the-ultimate-list-of-developer-newsletters) is a great one-stop-shop resource.
 
 The more you learn about marketing roles and job titles, the more confident you can be as a team lead, incoming professional, or established marketing pro. 
 Interested in more marketing insights? Subscribe to [Draft.dev’s weekly newsletter](https://draft.dev/newsletter) for valuable resources, tips, and case studies delivered to your inbox every week. Enjoy [our newsletter archive](https://us15.campaign-archive.com/home/?u=4eba8b205fc13380cd3e6f3fc&id=d9774be985) at your convenience, and start building your acumen in marketing for technical developers and beyond.
