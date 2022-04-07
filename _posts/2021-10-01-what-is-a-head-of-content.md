@@ -12,11 +12,11 @@ img: /assets/posts/image1.jpg
 ---
 In our age of digital adoption and value-driven marketing, a head of content is increasingly important for startup success. In this article, we’re going to get familiarized with major topics on the subject:
 
-- What is a head of content?
-- Characteristics of a head of content
-- When you need a head of content
-- Alternatives to a head of content
-- Making the right call for your business
+* What is a head of content?
+* Characteristics of a head of content
+* When you need a head of content
+* Alternatives to a head of content
+* Making the right call for your business
 
 ## What Is a Head of Content?
 
@@ -24,9 +24,9 @@ Before we talk about heads of content, we need to introduce the term ‘content.
 
 Content can take the form of text, audio, or video, and appear in almost any digital space. The brainstorming, administration, and management of content will stem from your [content manager](https://blog.hubspot.com/marketing/content-manager?toc-variant-a=) (also called a head of content). Their daily tasks fall into three categories:
 
-- The creation of a holistic content strategy.
-- The management of other members of the content team (like graphic designers, copywriters, and freelancers).
-- The monitoring of analytics to direct data-driven and evolving content plans.
+* The creation of a holistic content strategy.
+* The management of other members of the content team (like graphic designers, copywriters, and freelancers).
+* The monitoring of analytics to direct data-driven and evolving content plans.
 
 While they may not always be doing actual content creation, they will be heavily involved with its development. By supervising content generation, heads of content work closely with marketing teams, sales groups, and the CMO of your company. Their primary objective is to actualize and promote online content, making a measurable difference on your ROI.
 
@@ -34,13 +34,14 @@ While they may not always be doing actual content creation, they will be heavily
 
 These marketing gurus are ‘T’ shaped professionals, meaning they have a wide span of industry knowledge and a deep understanding of content, SEO, and content marketing initiatives. Realistically, they should embody key traits that keep your company on the cutting edge of inbound strategy, and heads of content must: 
 
-- Stay current with the latest content platforms and trends.
-- Have a broad understanding of what makes good content.
-- Be able to enact best practices across all your content, harnessing SEO, social media, evergreen posting, and more.
+* Stay current with the latest content platforms and trends.
+* Have a broad understanding of what makes good content.
+* Be able to enact best practices across all your content, harnessing SEO, social media, evergreen posting, and more.
 
 As the head of content has seniority over members of the marketing department, they should exhibit strong leadership qualities.  They must be quick to meet deadlines, flexible on the fly, and able to respond well to revisions. They are skilled at adapting their writing to meet your brand voice and tone, and can work with or without an established rubric.
 
 Before you hire a head of content, you should make sure they are familiar with your niche. Even if your candidate has years of experience in content, they may not be comfortable working within your tech stack, programs, or products. Take time to source a head of content that exhibits these [key traits](https://uplandsoftware.com/kapost/resources/blog/how-to-hire-a-great-content-manager/):
+
 1. Detail oriented in every sense of the word. Your content manager needs to keep track of all efforts, and know where to access content at any time. They should be able to check blog posts, articles, emails, and other forms of content for proper grammar, SEO, and where they sit in the strategy.
 2. Deep experience both creating content and analyzing results. Some content creators are excellent at written content, but less comfortable tracking KPIs or other metrics. On the other hand, some marketers are incredible data analysts, but weaker at hands-on content creation. Try to find a balance between the two.
 
@@ -50,10 +51,10 @@ The timing for [hiring a head of content](https://www.lightercapital.com/blog/wh
 
 Here’s how to tell when to hire a head of content:
 
-- Your company has the means to support a full-time employee.
-- The business retains both a marketing and sales department.
-- All proto-content marketing has seen traction, but not enough to move the needle.
-- Content marketing programs are seeing a great deal of traction, but your company is unable to supply higher output with more blogs, articles, etc.
+* Your company has the means to support a full-time employee.
+* The business retains both a marketing and sales department.
+* All proto-content marketing has seen traction, but not enough to move the needle.
+* Content marketing programs are seeing a great deal of traction, but your company is unable to supply higher output with more blogs, articles, etc.
 
 If your business operates online or markets products through digital platforms with no physical presence, you’ll want to hire a head of content as soon as your goods or services are ready for launch. Physical businesses may want to wait until there is an express need to hire (meeting the requirements above). If spend is still tight, and you don’t have the ability to retain a full-time head of content, you may want to invest in some [outside help](https://draft.dev/learn/technical-writer-for-hire).
 
@@ -61,11 +62,11 @@ Truthfully, heads of content cannot work best in isolation. If you want to take 
 
 Your company may start to show growing pains in the months leading up to hiring a content manager. You may want to accelerate your hiring plans if:
 
-- Your company is unable to source organic leads from the web, or create enough content to move the needle accordingly.
-- Members of your team are unable to measure the scope and impact of your inbound marketing tactics.
-- Your content rollouts are becoming more and more infrequent, or difficult to promote after their initial debut.
-- Your sales team lacks the content tools to convert leads with case studies, white papers, technical content, or related work.
-- Your buyers’ journey or marketing funnel is ‘leaking’ (i.e. not optimized correctly and suffering from a low conversion rate).
+* Your company is unable to source organic leads from the web, or create enough content to move the needle accordingly.
+* Members of your team are unable to measure the scope and impact of your inbound marketing tactics.
+* Your content rollouts are becoming more and more infrequent, or difficult to promote after their initial debut.
+* Your sales team lacks the content tools to convert leads with case studies, white papers, [technical content](https://draft.dev/learn/how-to-write-technical-guides), or related work.
+* Your buyers’ journey or marketing funnel is ‘leaking’ (i.e. not optimized correctly and suffering from a low conversion rate).
 
 ## Alternatives to a Head of Content
 
@@ -73,7 +74,7 @@ For companies that don’t require a head of content yet, there are three altern
 
 ### 1. Internal Hiring
 
-Use the skillsets of marketers in your company to generate content marketing initiatives. This method has the potential to save thousands of dollars in spend, and can help businesses scale quickly without hiring for new positions. Bear in mind that internal hiring or multitasking could create overstretch, or distract your employee from their primary role. It may be simpler to pass the ‘torch’ around from place to place, and have multiple marketing employees manage content marketing within a certain period of time (per week, per month, etc).
+Use the skillsets of marketers in your company to generate [content marketing initiatives](https://draft.dev/learn/marketing-checklist). This method has the potential to save thousands of dollars in spend, and can help businesses scale quickly without hiring for new positions. Bear in mind that internal hiring or multitasking could create overstretch, or distract your employee from their primary role. It may be simpler to pass the ‘torch’ around from place to place, and have multiple marketing employees manage content marketing within a certain period of time (per week, per month, etc).
 
 Whether or not you have a head of content, having someone on standby for writing services will be paramount. Your content manager should not be expected to create content and content outlines. That’s why it’s important to keep a list of talented employees, contract workers, and freelancers on hand to help with the nitty-gritty of [content creation](https://draft.dev/learn/content-creation-agency).
 
@@ -87,7 +88,7 @@ Contract work may not be the right choice for every startup. Freelancers juggle 
 
 ### 3. Agency Outsourcing
 
-Agency outsourcing is one of the best options for established startups. If you have a greater marketing budget, a higher content need, and specific industry requirements, agencies like [Draft.dev](https://Draft.dev) could be your best bet. We develop blog posts, articles, and other inbound marketing collateral with technical audiences in mind, capturing the attention of decision makers.
+[Agency outsourcing](https://draft.dev/learn/best-content-creation-agencies) is one of the best options for established startups. If you have a greater marketing budget, a higher content need, and specific industry requirements, agencies like [Draft.dev](https://Draft.dev) could be your best bet. We develop blog posts, articles, and other inbound marketing collateral with technical audiences in mind, capturing the attention of decision makers.
 
 Outsourcing content to agencies like Draft.dev doesn’t fit every situation. Agencies carry a higher price tag, typically on a monthly retainer, while freelancers usually charge per project or per word. Understand how much you can dedicate to an agency before you sign on the dotted line.
 
