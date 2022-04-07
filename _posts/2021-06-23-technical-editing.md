@@ -6,7 +6,7 @@ categories: writing
 cta: Playbook
 author: chris
 date: 2021-06-23T12:51:43.228Z
-img: /assets/posts/technical-editing.jpg
+img: /assets/posts/2712-guide-to-technical-editing-illustration.png
 ---
 
 You’ve been tasked with editing material with deep knowledge—it’s complex and highly industry-specific. You’re an expert in [the art of writing](https://draft.dev/learn/technical-content), but perhaps not exactly an expert on this particular topic. Perhaps even far from it. Now what?
