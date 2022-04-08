@@ -17,7 +17,7 @@ In this post, I’ll share **our exact process for finding technical writers for
 
 ![Our process for finding technical writers for hire](https://i.imgur.com/AKgxmkL.png)
 
-_Note: If you get stuck looking for technical writers, [give me a call](https://draft.dev/call). I’d be happy to help troubleshoot your issues or answer questions about how we work with clients._
+*Note: If you get stuck looking for technical writers, [give me a call](https://draft.dev/call). I’d be happy to help troubleshoot your issues or answer questions about how we work with clients.*
 
 ## What Doesn’t Work
 
@@ -41,7 +41,7 @@ Here’s how you can replicate our process and build your own freelance technica
 
 Many content managers lean too heavily on writers to pitch them topics for blog posts. This might work for huge companies with the [domain authority](https://moz.com/learn/seo/domain-authority) to rank for nearly everything, but it’s not very strategic.
 
-Instead, talk to customers, do keyword research, and create [detailed briefs and outlines](https://draft.dev/learn/content-plan) for each article *before* you start looking for a writer. This ensures that you can give your technical writer clear expectations from the moment they start working with you. Once they’ve proven themselves and understand more about your company, let them pitch ideas as well.
+Instead, talk to customers, do [keyword research](https://draft.dev/learn/topic-clusters), and create [detailed briefs and outlines](https://draft.dev/learn/content-plan) for each article *before* you start looking for a writer. This ensures that you can give your technical writer clear expectations from the moment they start working with you. Once they’ve proven themselves and understand more about your company, let them pitch ideas as well.
 
 Next, use a [hiring rubric for your technical writers](https://draft.dev/learn/technical-writing-rubric). This sets clear standards and helps you objectively compare writers, rather than simply relying on gut feelings.
 
@@ -80,22 +80,22 @@ I typically see a five percent to twenty percent response rate depending on how 
 
 If you’re hoping to recruit experienced software engineers like we are, it’s really important to understand what motivates them.
 
-For many—especially those with full-time jobs—money is _not_ the biggest motivator. Sure, we pay our writers well, but most of them make more per hour at their day job.
+For many—especially those with full-time jobs—money is *not* the biggest motivator. Sure, we pay our writers well, but most of them make more per hour at their day job.
 
-What we _can_ offer is a byline, editorial feedback, and wider distribution than most will get on their personal blog. Plus, the commitment is very casual—many of our writers just write once per month—which can be nice for generating some side income. All these things make writing for Draft.dev a rewarding experience for the right people.
+What we *can* offer is a byline, editorial feedback, and wider distribution than most will get on their personal blog. Plus, the commitment is very casual—many of our writers just write once per month—which can be nice for generating some side income. All these things make writing for Draft.dev a rewarding experience for the right people.
 
-_PS: If you’re interested in becoming one of Draft.dev’s technical writers, [apply here](https://draft.dev/write)._
+*PS: If you’re interested in becoming one of Draft.dev’s technical writers, [apply here](https://draft.dev/write).*
 
 ### 5. Build Inbound Interest
 
 Finally, if you want to increase the amount of technical content you produce, you’ll eventually need to build inbound interest. Here are a few ways to build awareness of your technical writing program and find more writers for hire:
 
--  Daniel Phiri maintains a [list of community writing programs](https://github.com/malgamves/CommunityWriterPrograms) that you can add your site to for free
-- You can set up a writer referral program to incentivize writers to recruit their friends
-- Add a call-to-action on each of your blog posts under the writer’s byline
-- Attend meetups for developers and mention that you hire technical writers
-- Create technical writer-focused content on your engineering blog
-- Place ads in newsletters aimed at software developers
+* Daniel Phiri maintains a [list of community writing programs](https://github.com/malgamves/CommunityWriterPrograms) that you can add your site to for free
+* You can set up a writer referral program to incentivize writers to recruit their friends
+* Add a call-to-action on each of your blog posts under the writer’s byline
+* Attend meetups for developers and mention that you hire technical writers
+* Create technical writer-focused content on your engineering blog
+* Place ads in newsletters aimed at software developers
 
 All these channels work, but depending on the volume of content you need, they may not be necessary. Many new technical content programs just need one or two freelance writers to get things started.
 
