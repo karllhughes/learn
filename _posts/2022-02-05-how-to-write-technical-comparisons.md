@@ -10,7 +10,7 @@ author: kasper
 date: 2022-02-05T17:05:56.694Z
 img: /assets/posts/comparison.jpg
 ---
-There are a few common types you can choose from when writing technical articles. Maybe you want to share knowledge of something specific, which typically means writing either a [tutorial](https://draft.dev/learn/technical-tutorials) or [guide](https://draft.dev/learn/how-to-write-technical-guides), or perhaps you want to take a stance on something specific and end up writing a persuasive piece. It could also be that you want to share knowledge about a set of products or tools within a certain category, and you'll be writing a [roundup](https://draft.dev/learn/writing-technical-roundups).
+There are a few common types you can choose from when writing technical articles. Maybe you want to share knowledge of something specific, which typically means writing either a [tutorial](https://draft.dev/learn/technical-tutorials) or [guide](https://draft.dev/learn/how-to-write-technical-guides), or perhaps you want to take a stance on something specific and end up [writing a persuasive piece](https://draft.dev/learn/how-to-write-persuasive-technical-content). It could also be that you want to share knowledge about a set of products or tools within a certain category, and you'll be writing a [roundup](https://draft.dev/learn/writing-technical-roundups).
 
 In that last scenario, you could also be writing a comparison article instead. You may wonder how a comparison article is different than a roundup, but there are indeed some subtle differences, which will be covered in this article. On top of that we'll also be looking at some of the reasons you even want to write a technical comparison in the first place, and tips for making it a great one.
 
