@@ -13,7 +13,7 @@ img: /assets/posts/ghostwriter.png
 ---
 It takes an average of [3 hours and 21 minutes](https://zenpost.com/blog/how-long-to-write-blog-post/) to write a 1,151 word blog post. More complicated or technical blog posts take even longer, up to 6 hours for a 2,000 word tutorial, article, or research piece. This time frame doesn’t necessarily depend on experience, either. Some of the world’s most prolific expert bloggers struggle to create content on a timely basis. Writer Neil Patel takes between [4 and 5 hours](https://authoritymarketing.com/blog/blogging/16-experts-answer-how-long-should-it-take-to-write-a-blog-post/) to create quality content, while Buffer’s Kevin Lee labors up to 12 hours per post.
 
-Writing quality content takes time. If you don’t have the space in your schedule to create, research, and publish content on your own, finding a professional ghostwriter could pay dividends in the future. 
+Writing quality content takes time. If you don’t have the space in your schedule to create, research, and publish content on your own, [finding a professional ghostwriter](https://draft.dev/learn/finding-ghostwriters-for-hire) could pay dividends in the future. 
 
 Ghostwriters are experienced writers that create content without a byline. These professionals create highly personalized, carefully researched, valuable content that provides practical thought leadership for companies and the customers they care for.
 
@@ -67,7 +67,7 @@ Ghostwriters generally come in one of three capacities: freelance, in-house, or 
 
 First, consider your options. Could you afford to pay for an in-house ghostwriter (and find enough work to keep them busy)? Are you willing to manage the hiring process for a contractor or freelancer? Or would an industry-specific agency be the right fit?
 
-In any case, [finding a great ghostwriter](https://draft.dev/learn/what-is-a-head-of-content) takes time. You’ll need a lot more than a few job listings to find the right candidate, especially if you’re posting them on highly trafficked sites. As always, the perfect intersection of price, availability, and experience starts with identifying your needs.
+In any case, [finding and working effectively with a great ghostwrite](https://draft.dev/learn/working-effectively-with-ghost-blog-writers)r takes time. You’ll need a lot more than a few job listings to find the right candidate, especially if you’re posting them on highly trafficked sites. As always, the perfect intersection of price, availability, and experience starts with identifying your needs.
 
 * What’s the size and scope of your writing projects? Will there be work on a monthly basis, or just occasionally? These questions narrow your selections down to ghostwriters with set availabilities.
 * Does your industry require a lot of experience? Be sure to tailor your job description accordingly.
