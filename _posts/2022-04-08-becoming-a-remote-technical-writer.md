@@ -76,6 +76,8 @@ Diversity is also important for gaining exposure to different content types. It�
 
 Finally, seek open roles and don’t be afraid to apply. Short-term projects are great, as are long-term arrangements. Choose what works best for you. Keep in mind, however, that forging long-standing partnerships with a number of clients is a great way to prove that you’re dependable. It also offers greater financial stability, which isn’t anything to sneeze at in the freelancing realm. 
 
+Pro tip: When applying, make sure to include a [cover letter for a technical writer](https://draft.dev/learn/tips-and-examples-for-your-first-technical-writer-cover-letter) position so you can showcase your capabilities.
+
 ## My Experience as a Remote Technical Writer
 
 I’m thrilled to say that my time as a technical writer has been incredibly positive. It’s also been quite the journey. My exposure to different topics has grown exponentially over time, and I’ve had the opportunity to work with some amazing people the world over. I’ve harnessed many digital communications channels and productivity tools, and operated within different content production processes. 
