@@ -16,12 +16,12 @@ Startup founders from all tech-related verticals should be paying attention and,
 
 We’re going to look closer at heads of growth (aka the powerhouse of your marketing strategy) and how they significantly impact company success. Let’s consider:
 
-- What a head of growth is
-- Characteristics of a head of growth
-- Your head of growth and customer insights
-- What type of companies need to have a head of growth
-- When to consider hiring a head of growth
-- Are you ready for what’s coming?
+* What a head of growth is
+* Characteristics of a head of growth
+* Your head of growth and customer insights
+* What type of companies need to have a head of growth
+* When to consider hiring a head of growth
+* Are you ready for what’s coming?
 
 ## **What Is A Head Of Growth?**
 
@@ -35,13 +35,11 @@ Your head of growth will be interested in three main areas of work: growth hacki
 2. Growth management is a twofold term. On one hand, your head of growth may be responsible for managing other marketers, freelancers, or strategic planners. On the other hand, they will be heavily involved in KPI measurement and other ROI metrics. They keep a finger on the pulse of what works and what doesn’t, and pivot your strategy to meet upcoming needs.
 3. Growth nurturing refers to the use of new or existing strategies that retain current customers. This task may be shared with other members of your marketing department. 
 
-<!-- signup -->
-
 ### **Characteristics Of A Head Of Growth**
 
 Not everyone is cut out to be a head of growth. These employees aren’t really a part of your marketing team, and they aren’t necessarily part of the product development team. In truth, they’re a hybrid; they have a foot in each department and understand the importance of both acquiring and retaining customers. 
 
-Before hiring a head of marketing, consider some of the elements needed in a potential candidate. Heads of growth are extremely creative, and partner their natural talents with data and analytics. They also choose their tech stack carefully; after all, they need particular tools to perform their research tasks, which range from split tests to KPI reporting.
+Before hiring a [head of marketing](https://draft.dev/learn/what-is-a-head-of-marketing), consider some of the elements needed in a potential candidate. Heads of growth are extremely creative, and partner their natural talents with data and analytics. They also choose their tech stack carefully; after all, they need particular tools to perform their research tasks, which range from split tests to KPI reporting.
 
 These professionals are experts in acquisition opportunities for [owned media, earned media, and paid media](https://smallbiztrends.com/2013/08/what-is-owned-earned-paid-media.html). They offer superior management and leadership skills that ensure your team is pulling in the same direction. As your company’s growth objective evolves, your head of growth will communicate changing parameters to their team, internal audience, and all industry partners.
 
@@ -63,9 +61,9 @@ The head of growth may be a relatively recent position, but companies have alway
 
 It’s important to manage the spread and consistency of startup growth over time. Tech-based startups may get more use out of heads of growth than other industries, especially since their fields often involve complicated jargon that doesn’t always connect with consumers. In this case, heads of growth create new campaigns that help leads understand company offerings. Tech-based industries like SaaS businesses and app-heavy programs benefit the most from this strategy. There are several [heads of growth](https://ey-vodw.be/hire-chief-growth-officer/) popularized in these industries, including:
 
-- Brian Balfour (Hubspot)
-- Sean Ellis (Eventbrite)
-- Andrew Chen (Uber)
+* Brian Balfour (Hubspot)
+* Sean Ellis (Eventbrite)
+* Andrew Chen (Uber)
 
 Tech-based startup founders sometimes feel they need a full-time head of growth right away. It’s true that young businesses need strong strategic vision to succeed, and volatile growth solutions that scale with their own growth. But young businesses also need time to become flexible, lean, and risk-averse during their first few years of life.
 
@@ -75,13 +73,15 @@ Professional marketers recommend younger businesses [wait a while](https://kurve
 
 If you can’t retain a head of growth right away, when is the best time to hire? There are a few benchmarks you may want to hit first:
 
-- Do you already have a marketing or sales team in place? A head of growth without a marketing team will be limited in what they can achieve. If you don’t have something set in stone, it will be important to flesh out your departments first.
-- Do you have enough funds for a head of growth to work with? This applies to your department budget, salary qualifications, and current tech stack.
-- Are there in-house teams currently executing (and struggling to maintain) the role of a growth hacker? 
-- How good is the communication between your marketing team and sales team? If it’s not the well-oiled machine you wish it could be, a growth hacker may be able to help. The ultimate goal of your head of growth isn’t to play middleman between different teams, but their presence may kill two birds with one stone.
-- Are you lacking a ‘T’ shaped marketing professional? ‘T’ shaped experts are described as being knowledgeable in many fields, but deeply skilled in just one. For example, your head of growth will be familiar with many assets of marketing, but extremely skilled in growth and retention.
+* Do you already have a marketing or sales team in place? A head of growth without a marketing team will be limited in what they can achieve. If you don’t have something set in stone, it will be important to flesh out your departments first.
+* Do you have enough funds for a head of growth to work with? This applies to your department budget, salary qualifications, and current tech stack.
+* Are there in-house teams currently executing (and struggling to maintain) the role of a growth hacker? 
+* How good is the communication between your marketing team and sales team? If it’s not the well-oiled machine you wish it could be, a growth hacker may be able to help. The ultimate goal of your head of growth isn’t to play middleman between different teams, but their presence may kill two birds with one stone.
+* Are you lacking a ‘T’ shaped marketing professional? ‘T’ shaped experts are described as being knowledgeable in many fields, but deeply skilled in just one. For example, your head of growth will be familiar with many assets of marketing, but extremely skilled in growth and retention.
 
-If you’re looking to use a head of growth in the most effective way possible, it’s best to already have your first employees hired. These professionals do their best work while surrounded by a team of other experts who help identify KPIs, metrics, and current strategies, as well as execute campaigns. In other words, it’s best to hire a head of growth once your startup is more mature.
+If you’re looking to use a head of growth in the most effective way possible, it’s best to already have your first employees hired. These professionals do their best work while surrounded by a team of other experts who help identify KPIs, metrics, and current strategies, as well as execute campaigns. Here's a [list of marketing roles](https://draft.dev/learn/marketing-job-titles-and-roles) to help you decide whether you are at a point where a head of growth is needed. In other words, it’s best to hire a head of growth once your startup is more mature.
+
+
 
 ## **Are You Ready For What’s Coming?**
 
