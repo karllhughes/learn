@@ -71,7 +71,9 @@ Now that you’ve (hopefully) found the right ghostwriting fit, your final task 
 * Understand the limitations of your ghostwriters. Even if these writers have decades of experience in their craft, they won’t be able to create the work you want without some guidance. Do what you can to prepare outlines or keyword banks for your writers, maintaining an open line of communication throughout the creation process. Your ghostwriter (and your final product) will be much better for it.
 * Be prepared to pay a decent rate for your ghostwriters. Although these professionals may not necessarily be taking credit for the final product, they still charge for the creation of their IP. [Ghostwriter rates vary wildly](https://www.lisatener.com/ghostwriter-contracts-fees/#:~:text=Ghostwriting%20fees%20for%20a%20book,if%20the%20project%20scope%20expands), falling anywhere between $30 to $200 an hour, or $.10 to $3 a word. Be sure the subject of rates is an open discussion; better to eliminate any potential surprises before settling on a final hire.
 
-A final note: remember that no two workflow processes will ever be an exact match. Understand the ghostwriter you choose to hire may not necessarily resemble previous contractors, although the basic principles still remain. Adaptability and flexibility are your greatest weapons while finding ghostwriters for hire. The results will speak for themselves.
+Remember that no two workflow processes will ever be an exact match. Understand the ghostwriter you choose to hire may not necessarily resemble previous contractors, although the basic principles still remain. Adaptability and flexibility are your greatest weapons while finding ghostwriters for hire. The results will speak for themselves.
+
+You can also read our [blog post on working effectively with ghostwriters](https://draft.dev/learn/working-effectively-with-ghost-blog-writers) to learn more.
 
 ## The value of a good ghostwriter
 
