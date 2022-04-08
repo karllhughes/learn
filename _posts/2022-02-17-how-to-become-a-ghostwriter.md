@@ -101,4 +101,6 @@ Your best bet for finding work as a ghostwriter is to leverage all your business
 * Conversation Intelligence
 * Ecommerce
 
+If you want some tips and examples to get started with your application, check out our recent [blog on technical cover letters](https://draft.dev/learn/tips-and-examples-for-your-first-technical-writer-cover-letter). It’s jam-packed with all the specifics you need to move forward in confidence.
+
 Think you’ve got the chops to start a technical ghostwriting career? We’d love to hear from you. Head over to our [application page](https://draft.dev/write) and shoot us your contact info -- we’ll be in touch!
