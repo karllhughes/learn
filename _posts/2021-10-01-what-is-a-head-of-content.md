@@ -82,7 +82,7 @@ It’s important to remember that internal hiring can never replace a full-time 
 
 ### 2. Freelance Work
 
-Sourcing freelance or contract work is an excellent method of generating content. Freelancers can be content marketers, SEO pros, or strategy experts who position your content in line with marketing initiatives. Unlike full-time employees, contractors work on an as-needed basis, and can be extremely cost effective for growing startups.
+[Sourcing freelance or contract work](https://draft.dev/learn/finding-ghostwriters-for-hire) is an excellent method of generating content. Freelancers can be content marketers, SEO pros, or strategy experts who position your content in line with marketing initiatives. Unlike full-time employees, contractors work on an as-needed basis, and can be extremely cost effective for growing startups.
 
 Contract work may not be the right choice for every startup. Freelancers juggle multiple clients at once, and may not always be available when you need them. Additionally, not all content creators have the skills to handle every aspect of the content generation process (SEO, KPIs, etc). Consider exactly what you need before signing any contracts.
 
