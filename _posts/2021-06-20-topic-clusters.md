@@ -8,7 +8,7 @@ categories: processes
 cta: Call
 author: karl
 date: 2021-06-20T15:57:03.929Z
-img: /assets/posts/topic-clusters.png
+img: /assets/posts/2713-topic-cluster-illustration-01.png
 ---
 When I started [Draft.dev](https://draft.dev), I wanted us to keep our scope as narrow as possible. This focus on producing technical content aimed at software developers helped us standardize things like our [content briefs](https://draft.dev/learn/content-plan), the [types of content we create](https://draft.dev/content-types), and more. By standardizing everything, we have been able to consistently deliver **high-quality technical content** to satisfied clients around the world.
 
