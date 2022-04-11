@@ -10,7 +10,6 @@ author: karl
 date: 2020-12-12T19:31:38.463Z
 img: /assets/posts/5-tips-for-btd-46.jpg
 ---
-
 Business-to-developer marketing (often shortened “B2D marketing”) describes **marketing initiatives designed to reach software developers**. As a former software developer, I can tell you that devs are a notoriously difficult group to market to. They’re tech-savvy, generally skeptical, and often use tools like [adblockers](https://www.forbes.com/sites/tjmccue/2019/03/19/47-percent-of-consumers-are-blocking-ads/?sh=244a64d02037) to prevent popups and banner advertisements from reaching them.
 
 At the same time, developers are an extremely valuable market to reach. They are well-paid and invest in educational materials and tools to help them do their jobs. Developers also carry a lot of influence on spending within their companies. If a developer needs a new tool to do their job, there’s a good chance their managers will put it under consideration.
@@ -29,7 +28,7 @@ Software developers appreciate honesty. It’s no coincidence that some of the m
 
 As a marketer, this means you should be honest about your role in the community. If you're not a developer, you can't just make it up as you go along. Instead, use your role as a marketer to help advance the causes that developers care about or invest in marketing material created by other developers.
 
-You can do this in several different ways. You can hire [a developer advocate](https://www.freecodecamp.org/news/what-the-heck-is-a-developer-advocate-87ab4faccfc4/) - someone with a technical background who will champion your product at live events. Large software companies like Microsoft and Amazon have teams of these people traveling worldwide to give talks, lead training sessions, and write content about their company’s products.
+You can do this in several different ways. You can hire a [developer advocate](https://draft.dev/learn/what-is-a-developer-advocate) - someone with a technical background who will champion your product at live events. Large software companies like Microsoft and Amazon have teams of these people traveling worldwide to give talks, lead training sessions, and write content about their company’s products.
 
 Another option is to hire software developers to contribute case studies or blog posts to your site. During my years as a software developer [I wrote blog posts](https://www.karllhughes.com/posts/start-freelance-blogging) for several companies whose products I used. I was paid several hundred dollars per post, and the company got some unique technical material for their marketing efforts.
 
@@ -40,7 +39,7 @@ Another option is to hire software developers to contribute case studies or blog
 One analogy I love for marketing is that of the [watering hole](https://www.mclellanmarketing.com/2007/09/where-is-your-c.html):
 
 > You want to get a great shot of the elusive white tiger. Where do you go?
-> 
+>
 > How about where the tigers hang out? Where is their watering hole? Odds are pretty good that if you hang out where the tigers hang out — you'll get that shot.
 
 While developers also use some of the same social networks you’re already familiar with (LinkedIn, Twitter, Facebook), they have their own set of niche platforms they frequently use. [Hacker News](https://news.ycombinator.com/), [Reddit](https://www.reddit.com/), [Lobste.rs](http://lobste.rs/), [StackOverflow](https://stackoverflow.com/), and [GitHub](https://github.com/) are all popular haunts for software developers online.
@@ -53,7 +52,7 @@ As you get familiar with these channels, notice the kind of content that gets sh
 
 ![Learn developer terms to advance your B2D marketing efforts](https://i.imgur.com/fSM3ozj.png)
 
-Another thing that trips up many B2D marketers is the vast [array](https://en.wikipedia.org/wiki/Array_data_structure) of programming concepts and terminology. If you're not a developer, you likely don't know the difference between _continuous integration_ and _continuous deployment_ or understand the difference between _unit tests_ and _integration tests_. Honestly, many developers struggle with these definitions.
+Another thing that trips up many B2D marketers is the vast [array](https://en.wikipedia.org/wiki/Array_data_structure) of programming concepts and terminology. If you're not a developer, you likely don't know the difference between *continuous integration* and *continuous deployment* or understand the difference between *unit tests* and *integration tests*. Honestly, many developers struggle with these definitions.
 
 Subtle differences between terms can be the difference between building trust with a highly technical audience and hurting your reputation. Take time to [understand the terminology developers use](https://www.programmingforbeginnersbook.com/blog/expand_your_programming_vocabulary/), and when you don’t know something, just ask. Even after ten years of programming, I have to look up new concepts a few times per week.
 
@@ -68,12 +67,17 @@ The best way to generate this kind of content is to hire people who can create i
 That said, if you’re looking to [start creating technical content](https://draft.dev/learn/technical-content) without a budget, there are a few things you can do to get started:
 
 ### Ask Your Company’s Engineers to Contribute
+
 It may be hard to get time on their calendars, but if technical content is a priority, use the resources you already have first. Give engineers a [style guide](https://draft.dev/learn/styleguide) and [content brief](https://draft.dev/learn/content-plan) to help them produce better work.
 
 ### Interview an Expert
-Another strategy is to publish an interview with a technical expert. Get them to explain a topic and dig deep into the details. These experts can be at your company, or they could be partners, customers, or people in your network. Learning to [interview well](https://contentmarketinginstitute.com/2017/01/journalists-interviews-life/) is a valuable skill for any content marketer.
+
+Another strategy is to publish an interview with a technical expert. Get them to explain a topic and dig deep into the details. These experts can be at your company, or they could be partners, customers, or people in your network. Learning to [interview well](https://contentmarketinginstitute.com/2017/01/journalists-interviews-life/) is a valuable skill for any content marketer. 
+
+Here's a sample interview I've done with [7 industry leaders on their experience in Developer Relations and Developer marketing](https://draft.dev/learn/developer-relations-career-insights-from-7-industry-leaders). 
 
 ### Ask to Republish Content
+
 Finally, you can ask [software developers who blog about relevant topics](https://draft.dev/learn/technical-blogs/) if they are willing to let you republish some of their work on your site. This won’t get you much search engine juice, but you might get traffic from social media, and it’ll give you some technical content to seed your blog.
 
 ## Tip 5: Attend and Sponsor Events
@@ -97,6 +101,7 @@ If you can’t afford to give away your product for free or it doesn’t make se
 Not all B2D marketing is aimed at hands-on developers like this, but even if developers are just one of many parties who need to sign off, you need to get them on board. Offering a free tier, open-source version, or free trial can help assuage objections developers might have.
 
 ## Conclusion
+
 Business to developer marketing is unique because software developers are such a discerning audience. That said, they aren’t immune to marketing efforts, and when they find a product that serves them well, they can be powerful allies.
 
 Your B2D marketing should center around being authentic, learning your audience, and offering them a valuable tool. Once you build a funnel that attracts developers, get them involved through community-based marketing efforts like forums, open-source projects, or support groups.
