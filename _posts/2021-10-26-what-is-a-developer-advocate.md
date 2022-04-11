@@ -20,7 +20,7 @@ In a [recent article](https://www.techrepublic.com/index.php/article/how-to-make
 
 For a role that is increasing in popularity so much, the job description is still somewhat unclear to many people. So what is a Developer Advocate, really? To answer this question, I went straight to the source and spoke with six different Developer Advocates about their jobs. I talked to them about the role, its limitations, and where it fits in modern software businesses.
 
-## So What Exactly _Is_ a Developer Advocate?
+## So What Exactly *Is* a Developer Advocate?
 
 The role of a Developer Advocate can be tough to pin down.
 
@@ -50,13 +50,13 @@ According to the 2020 [State of Developer Relations](https://hoopy.io/about/#res
 
 ### 3. Content Creation
 
-Finally, creating content is _huge_ in the world of Developer Advocacy. The 2020 State of Developer Relations survey showed that for 61% of DevRel professionals, content development is one of the top two ways they spend their time at work.
+Finally, creating content is *huge* in the world of Developer Advocacy. The 2020 State of Developer Relations survey showed that for 61% of DevRel professionals, content development is one of the top two ways they spend their time at work.
 
 This can mean recording videos, [writing technical blog posts](https://draft.dev/learn/technical-content), working on documentation, or creating example applications. Content is typically geared toward getting developers up and running with the technology as quickly as possible, and answering any questions they have about it along the way.
 
 ## What About Developer Relations? Developer Marketing?
 
-A few different terms are often thrown around when discussing this area of work. Developer Relations (DevRel), [Developer Marketing,](https://draft.dev/learn/developer-marketing) Developer Evangelism.
+A few different terms are often thrown around when discussing this area of work. [Developer Relations (DevRel)](https://draft.dev/learn/developer-relations-career-insights-from-7-industry-leaders), [Developer Marketing,](https://draft.dev/learn/developer-marketing) Developer Evangelism.
 
 But are these all just the same thing?
 
@@ -76,7 +76,7 @@ Joel Lord told me that "it is somewhat of...a challenge to place DevRel in an or
 
 Alex Lakatos said that ideally, "the role would sit somewhere under Product or Engineering" in order to act as a bridge between the two.
 
-Depending on who developer advocates report to, their goals may vary widely. For instance, if they report to marketing, they may be more concerned with views and clicks than more nebulous things like the _usefulness_ of a blog post or the _quality_ of the community. This can be problematic, as the goals of marketing and those of developer advocacy should probably be different.
+Depending on who developer advocates report to, their goals may vary widely. For instance, if they report to marketing, they may be more concerned with views and clicks than more nebulous things like the *usefulness* of a blog post or the *quality* of the community. This can be problematic, as the goals of marketing and those of developer advocacy should probably be different.
 
 "Marketing has discrete goals," writes [Burke Holland in the DevRel Salon](https://medium.com/the-devrel-salon/developer-relations-vs-marketing-1323dba7ea78). "Sometimes they are MQLs (Marketing Qualified Leads) and sometimes they are actual sales quotas. As soon as you assign a product metric to an organization, you remove their ability to form relationships with the consumer." **Fostering trust with a community can be difficult if you are also trying to sell them something.**
 
@@ -98,7 +98,7 @@ In the 2020 State of Developer Relations survey, empathy was listed as the top s
 
 According to [Alex Lakatos ](https://twitter.com/lakatos88)of the [Interledger Foundation](https://interledger.org/), "prior experience as a developer is not really required, as long as you can empathize with developers and their problems." You need to be able to relate to your users, understand their pain points, and be motivated to help them out.
 
-You work for your employer, but your main goal is to ensure the success of the users and advocate for _their_ best interests.
+You work for your employer, but your main goal is to ensure the success of the users and advocate for *their* best interests.
 
 ### 2. A passion for sharing knowledge
 
@@ -148,7 +148,7 @@ If writing isn't your forte, create some other type of content. Make videos abou
 
 A big part of Developer Advocacy involves community building. If you want to be a Developer Advocate, it is a good idea to get involved in a community that you care about. You can do this by contributing to open source, answering people's questions on Stack Overflow, or creating educational content.
 
-As Samina Kabir put it, you should seek to "show [your] ability to selflessly network or support others." If you are active in a particular technology's community, it can be a gateway to a career opportunity. It is definitely [not unheard of](https://yurilee.hashnode.dev/i-got-25k-followers-and-a-job-at-hashnode-within-2-months-in-tech-twitter-my-advice) to convert participation in an online community into a job offer.
+As Samina Kabir put it, you should seek to "show \[your] ability to selflessly network or support others." If you are active in a particular technology's community, it can be a gateway to a career opportunity. It is definitely [not unheard of](https://yurilee.hashnode.dev/i-got-25k-followers-and-a-job-at-hashnode-within-2-months-in-tech-twitter-my-advice) to convert participation in an online community into a job offer.
 
 ## For Hiring Managers
 
@@ -156,13 +156,13 @@ Not every company needs a Developer Advocate, but if yours does, there are some 
 
 ### Why Hire a Developer Advocate?
 
-According to Adam Gordon Bell, "If your company's target market is developers, you need a Developer Advocate." Having that link between the company and outside developers can  make a huge difference in adoption of and satisfaction with your product. With a Developer Advocate, you can expect benefits like an increase in sign ups, valuable feedback from the community, building brand awareness, and cultivating a robust community.
+According to Adam Gordon Bell, "If your company's target market is developers, you need a Developer Advocate." Having that link between the company and outside developers can make a huge difference in adoption of and satisfaction with your product. With a Developer Advocate, you can expect benefits like an increase in sign-ups, valuable feedback from the community, building brand awareness, and cultivating a robust community.
 
 ### When should you hire a Developer Advocate?
 
 Everyone I spoke with agreed that if your company caters primarily to software developers, you should hire a Developer Advocate as early as possible. As Samina Kabir put it, "having a good developer advocate as early as possible really shapes the future of your product or service."
 
-According to Richard Moot, some companies "skate by for a while by having some passionate engineers who are doing 'DevRel' without knowing it." It may be tempting to do this to save money, but it is better in the long run to start hiring your DevRel team ASAP.
+According to Richard Moot, some companies "skate by for a while by having some passionate engineers who are doing 'DevRel' without knowing it." It may be tempting to do this to save money, but it is better, in the long run, to start hiring your [DevRel team](https://draft.dev/learn/developer-relations-career-insights-from-7-industry-leaders) ASAP.
 
 DevRel "[should not be regarded as a sprint](https://dmexco.com/stories/developer-relations-why-software-vendors-should-invest-in-devrel/), but rather as an endurance run," and having Developer Advocates on board early can be essential in setting up your long game.
 
