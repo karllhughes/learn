@@ -14,6 +14,8 @@ The writing economy is bigger than ever. According to recent statistics, the wri
 
 There are many different writing paths to take in the gig economy. From generalized freelancers to technical writers, storytellers from all backgrounds are needed – and paid handsomely. But not every business is willing to sacrifice their image on a byline. Enter ghostwriting, one of the most profitable career choices in the writing industry.
 
+<!-- signup -->
+
 Becoming a ‘ghost’ is a lot less difficult than you might think. If you’re willing to put in the hours and find great long-term clients, your earning potential could go through the roof.
 
 Here’s what we’ll cover:
