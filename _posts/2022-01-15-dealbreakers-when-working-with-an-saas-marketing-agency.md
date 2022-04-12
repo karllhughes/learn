@@ -15,9 +15,9 @@ A good marketing agency can accelerate a company's success, but bad ones cost ti
 
 [More than 78,883](https://www.ibisworld.com/united-states/market-research-reports/advertising-agencies-industry/) digital marketing agencies were registered in 2020. As you might imagine, comparing, interviewing, and evaluating your options to find a perfect match is anything but easy.
 
-Choosing the right SaaS marketing agency is like picking a romantic partner. You'll want to be on the same page about your goals, work together to actualize them, and actually enjoy spending time together. If you aren't feeling that magic' spark,' or if your goals don't seem to be making any traction, there might be a reason why.
+[Choosing the right SaaS marketing agency](https://draft.dev/learn/finding-a-b2b-seo-agency-that-works-for-you) is like picking a romantic partner. You'll want to be on the same page about your goals, work together to actualize them, and actually enjoy spending time together. If you aren't feeling that magic' spark,' or if your goals don't seem to be making any traction, there might be a reason why.
 
-Not all marketing agencies are created equal. It's a good idea to understand the dealbreakers that exist both for your company and the SaaS industry. By identifying red flags early on, you can prevent severe disasters from impacting your bottom line and make more informed decisions between the types of digital marketing agencies within your niche.
+Not all marketing agencies are created equal. It's a good idea to understand the dealbreakers that exist both for your company and the SaaS industry. By identifying red flags early on, you can prevent severe disasters from impacting your bottom line and make more informed decisions between the types of [digital marketing agencies within your niche](https://draft.dev/learn/best-b2b-content-marketing-agencies-by-vertical).
 
 This article will explore the ins and outs of SaaS agency dealbreakers and explore some ways to interview agencies correctly. We're going to keep it simple, covering all three of the bases:
 
@@ -39,7 +39,7 @@ It's important to note that not all agencies are created equal. While some agenc
 
 ## Red Flags To Look For When Hiring A Marketing Agency
 
-Before you sign on the dotted line, keep an eye out for these marketing agency red flags well in advance.
+Before you sign on the dotted line, keep an eye out for these marketing agencies' red flags well in advance.
 
 ### Bad Communication
 
