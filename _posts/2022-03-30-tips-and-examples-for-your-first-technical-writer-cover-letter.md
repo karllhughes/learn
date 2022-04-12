@@ -11,9 +11,11 @@ author: Yulia Gavrilova
 date: 2022-03-30T13:29:56.662Z
 img: /assets/posts/technical-writer-cover-letter.jpg
 ---
-Hi! My name is Yulia, and I have been working as a [technical writer](https://draft.dev/learn/becoming-a-remote-technical-writer) for the past three years. Last year, I started to write for *[Draft.dev](https://draft.dev/)*, a technical marketing content agency for software startups. Draft.dev works with quite a few companies with different tech stacks and is constantly looking for talented new writers. I’ve always been interested in technology and writing, and this position helps me learn new things and improve, as well as share what I’ve learned with others. 
+Hi! My name is Yulia, and I have been working as a [technical writer](https://draft.dev/learn/becoming-a-remote-technical-writer) for the past three years. Last year, I started to [write for Draft.dev](https://draft.dev/write), a technical marketing content agency for software startups. Draft.dev works with quite a few companies with different tech stacks and is constantly looking for talented new writers. I’ve always been interested in technology and writing, and this position helps me learn new things and improve, as well as share what I’ve learned with others. 
 
 Writing is a great way for technical specialists to get recognized in the community, share their expertise with potential employers, and improve their communication skills, especially if English isn’t their first language. In this article, I will share some tips for creating technical writer cover letters so that you can successfully kick off your writing career. 
+
+<!-- signup -->
 
 ## About Technical Writer Cover Letters
 
