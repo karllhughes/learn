@@ -73,7 +73,7 @@ Firsthand guides written by experts and based on your existing documentation mak
 
 When you’re the brains behind an operation, it’s possible you’re so close to it that you can’t see any potential issues a customer might have — until they bring it to your attention. 
 
-Instead of waiting for your own users to be in need of tech support, you can go find out what they (or people similar to them) are thinking and preempt future problems by creating solution-oriented content.
+Instead of waiting for your own users to be in need of tech support, you can go find out what they (or people similar to them) are thinking and preempt future problems by creating solution-oriented content. This form of ideation is called [community research](https://draft.dev/learn/community-research).
 
 ![TC- Community and team input](https://i.imgur.com/qOAQsHz.png)
 
@@ -96,7 +96,7 @@ Sticking to strictly objective, informative topics could limit your brand’s po
 
 ![TC-Your worldview](https://i.imgur.com/rJ9VMZt.png)
 
-If you have the bandwidth to create long-form, strongly-researched opinion pieces, you could join the ranks of industry thought leaders.
+If you have the bandwidth to create long-form, strongly-researched opinion pieces, you could join the ranks of [industry thought leaders](https://draft.dev/learn/how-to-write-technical-thought-leadership).
 
 To decide which ideas to run with, think about the topics you and your colleagues discuss outside the office. What are the big industry subjects you really care about, and what would you say if you weren’t censored?
 
