@@ -21,7 +21,7 @@ Although Gates could not have known how providential his statement would be, his
 
 Today, there are quite literally dozens of content creation avenues available, from freelance work to in-house teams. One of the most highly sought-after methods is the content creation agency: a cost-effective, highly efficient team of experts specializing in generating, curating, and publishing content.
 
-Not all content creation agencies are equal, though. Finding the best among them takes industry insight and a good sense of your goals and milestones. However, there are a couple of shortcuts that could help you make an informed decision.
+Not all content creation agencies are equal, though. You also need to watch for [Saas marketing agency dealbreakers](https://draft.dev/learn/dealbreakers-when-working-with-an-saas-marketing-agency). Finding the best among them takes industry insight and a good sense of your goals and milestones. However, there are a couple of shortcuts that could help you make an informed decision.
 
 Let's look at some of the best content creation agencies on the market and how they make a difference for clients worldwide. Strap in, because we're covering:
 
