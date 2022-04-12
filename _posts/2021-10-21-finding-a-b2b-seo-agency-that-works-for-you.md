@@ -18,13 +18,13 @@ An SEO agency that specializes in B2B can be a big asset for increasing organic 
 
 A strong digital marketing presence is a powerful way for B2B companies to reach new customers. SEO in particular is an effective method of building this presence, capturing customers by leveraging your use of keywords, targeting, and content creation. As you might imagine, setting up an internal team can be expensive and take a long time. Using a B2B SEO agency reduces time sink, increases potential leads, and creates a solid foundation for social media initiatives, ads, and more.
 
-Finding the right B2B agency can take time, but it doesn't have to be difficult. In this article, we're covering the important points of finding a B2B agency for your company, including:
+Finding [the right B2B agency](https://draft.dev/learn/best-b2b-content-marketing-agencies-by-vertical) can take time, but it doesn't have to be difficult. In this article, we're covering the important points of finding a B2B agency for your company, including:
 
--   What is B2B SEO?
--   The benefits of an agency
--   How to find a great agency
--   How long should you work with an agency?
--   Sourcing an agency for your niche
+* What is B2B SEO?
+* The benefits of an agency
+* How to find a great agency
+* How long should you work with an agency?
+* Sourcing an agency for your niche
 
 ## What is B2B SEO?
 
@@ -34,18 +34,18 @@ While B2C companies focus on consumer-based keywords, B2B SEO focuses on the phr
 
 B2B SEO has many long-term benefits. Unlike advertising, which only yields results while the adverts are running, SEO-driven content can last a long time in the digital marketplace. Maintaining a good position in search rankings does take effort, but your outcome will be well worth the output. With some digital upkeep and a bit of research, you can continue to benefit from your SEO efforts for years to come.
 
-The [importance of SEO](<https://www.forbes.com/sites/forbesagencycouncil/2021/06/14/10-key-benefits-of-seo-for-your-business/?sh=14f6a7343fd0>) for B2B industries cannot be overstated. It has the potential to:
+The [importance of SEO](https://www.forbes.com/sites/forbesagencycouncil/2021/06/14/10-key-benefits-of-seo-for-your-business/?sh=14f6a7343fd0) for B2B industries cannot be overstated. It has the potential to:
 
--   Boost brand awareness
--   Increase conversion rates
--   Jumpstart inbound marketing
--   Facilitate growth in the marketplace
+* Boost brand awareness
+* Increase conversion rates
+* Jumpstart inbound marketing
+* Facilitate growth in the marketplace
 
 From startups to established businesses, building an SEO plan can be difficult without prior experience. Trying to implement it on your own can waste precious time and revenue. That's why hiring an SEO agency is so vital for B2B companies.
 
 ## The Benefits of an Agency
 
-B2B SEO agencies are an essential aspect of your digital marketing strategy. Not only are they handy for growing businesses, but they [help to supplement](<https://www.webfx.com/internet-marketing/how-to-find-the-best-seo-company-for-your-business.html>) smaller or newly-established in-house teams.
+B2B SEO agencies are an essential aspect of your [digital marketing strategy](https://draft.dev/learn/digital-content-strategy). Not only are they handy for growing businesses, but they [help to supplement](https://www.webfx.com/internet-marketing/how-to-find-the-best-seo-company-for-your-business.html) smaller or newly-established in-house teams.
 
 Agencies provide several benefits that in-house teams simply cannot. For one thing, agencies only work on your SEO and its ranking, and do not require full-time salaries. They can also diagnose and improve your ranking from an objective standpoint (free from bias).
 
@@ -65,7 +65,7 @@ Understanding the differences between B2C and B2B marketing is also essential. Y
 
 ### Industry Knowledge
 
-B2B SEO agencies need to have an excellent command of your industry, including any [topic clusters and keyword research](<https://draft.dev/learn/topic-clusters>) that may apply. For technical software companies or SaaS enterprises, this agency characteristic is essential. Agencies that don't understand your service or marketplace position will probably fail to make any significant impact.
+B2B SEO agencies need to have an excellent command of your industry, including any [topic clusters and keyword research](https://draft.dev/learn/topic-clusters) that may apply. For technical software companies or SaaS enterprises, this agency characteristic is essential. Agencies that don't understand your service or marketplace position will probably fail to make any significant impact.
 
 Generic agencies can move the needle a little, but they aren't going to make the same impact as one that is knowledgeable in your niche. Agencies familiar with your product, audience, and software have a better chance of making a difference in your SEO strategy. Deeper understandings create less generic, more authoritative content that resonates with your audience.
 
@@ -77,13 +77,10 @@ Stay away from agencies with mediocre or middling reviews. If an agency consiste
 
 There are a few ways to check an agency for a history of results:
 
--   Google My Business reviews can be an excellent preliminary stop. Bear in mind that not all agencies have a GMB page, and prefer to collect reviews via other methods, so don't worry if you don't see one for every agency.
-
--   Ask previous clients about their experience with the agency, as well as their results. Did they feel it was worth the investment? Why or why not?
-
--   Check the agency's social media channels for comments, tags, and news that points to success. Radio silence is not always a warning sign, but it could be worrisome if paired with lukewarm reviews.
-
--   Ask for case studies that prove the company's skill with SEO. Few, misleading, or poorly composed studies should be a strong red flag.
+* Google My Business reviews can be an excellent preliminary stop. Bear in mind that not all agencies have a GMB page, and prefer to collect reviews via other methods, so don't worry if you don't see one for every agency.
+* Ask previous clients about their experience with the agency, as well as their results. Did they feel it was worth the investment? Why or why not?
+* Check the agency's social media channels for comments, tags, and news that points to success. Radio silence is not always a warning sign, but it could be worrisome if paired with lukewarm reviews.
+* Ask for case studies that prove the company's skill with SEO. Few, misleading, or poorly composed studies should be a strong red flag.
 
 Past results should point toward future accomplishments. Stay away from SEO agencies without a history of success.
 
@@ -111,7 +108,7 @@ If you can't locate credible customer testimonials, or if there are no available
 
 B2B enterprises have a unique marketing format, and require some time to ramp into full gear. In other words, prepare to wait a while.
 
-It takes time to see meaningful SEO results, even while working with an agency. Depending on the niche and how difficult it is, you can expect to wait [six to nine months](<https://hatagoconsulting.com/en/how-long-to-see-marketing-results>) to see rankings improve. Once the contractual period is up, your company has two options: stay with the agency, or establish an in-house team.
+It takes time to see meaningful SEO results, even while working with an agency. Depending on the niche and how difficult it is, you can expect to wait [six to nine months](https://hatagoconsulting.com/en/how-long-to-see-marketing-results) to see rankings improve. Once the contractual period is up, your company has two options: stay with the agency, or establish an in-house team.
 
 Some companies choose to use SEO agencies on a longer-term basis. SEO campaigns are continuously refined to improve ranking, while other initiatives such as content marketing can be augmented to meet company goals.
 
@@ -131,4 +128,4 @@ Finally, you can seek out agencies based on their ability to follow trends, indu
 
 If you're looking for a technical content agency, we work with our clients to create high-quality content that drives awareness and leads.
 
-Think there's a fit? Set up a [discovery call](<https://draft.dev/call>) to walk through the process. Talk soon!
+Think there's a fit? Set up a [discovery call](https://draft.dev/call) to walk through the process. Talk soon!
