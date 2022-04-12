@@ -56,7 +56,7 @@ Content created for developers [takes many forms](https://draft.dev/learn/conten
 * **Documentation** is important, especially if your company sells a complex product, but very few businesses use [documentation as a marketing channel](https://clickhelp.com/clickhelp-technical-writing-blog/technical-documentation-as-a-marketing-tool/).
 * **[Tutorials and guides](https://draft.dev/learn/technical-tutorials)** can help users see how to use your product in the real world. This can help augment your documentation and might be more illustrative.
 * **Awareness-driving content** is written to increase the top of your funnel, and might be published on external partner sites for more reach. Places like Dev.to, HackerNoon, and DZone all allow you to publish developer content for free.
-* **Blog posts** on your own website allow you to engage readers and increase newsletter signups (assuming you have some sort of email capture).
+* **Blog posts** on your own website allow you to engage readers and increase [newsletter sign-ups](https://draft.dev/learn/the-ultimate-list-of-developer-newsletters) (assuming you have some sort of email capture).
 
 All of this content must be genuinely helpful or educational; you can’t fill your engineering blog with fluff and expect it to resonate. So, most effective developer marketing content **is written by developers.** Most people I talk to either get their in-house engineers to write, hire f[ull-time developer advocates](https://draft.dev/learn/what-is-a-developer-advocate), or start a [community writing program](https://github.com/malgamves/CommunityWriterPrograms).
 
