@@ -37,7 +37,7 @@ If you want to grow and reach more developers, you need to do a lot of writing �
 
 Content marketing is just one piece of that picture, but it should be treated as an entirely separate entity if you want your content to truly speak to your audience.
 
-Coming up with technical content ideas is one challenge, and finding writers who can turn those topics into effective pieces is another, even more difficult, one.
+[Coming up with technical content ideas](https://draft.dev/learn/low-cost-marketing-ideas) is one challenge, and finding writers who can turn those topics into effective pieces is another, even more difficult, one.
 
 Especially if you outsource technical content creation, you may struggle to [find someone who can write about the deeper lessons](https://draft.dev/learn/technical-writer-for-hire) underneath an engineering task — because they probably aren’t entrenched in the field themselves.
 
