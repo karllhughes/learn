@@ -14,6 +14,8 @@ There are a few common types you can choose from when writing technical articles
 
 In that last scenario, you could also be writing a comparison article instead. You may wonder how a comparison article is different than a roundup, but there are indeed some subtle differences, which will be covered in this article. On top of that we'll also be looking at some of the reasons you even want to write a technical comparison in the first place, and tips for making it a great one.
 
+<!-- signup -->
+
 ## Why Write Technical Comparisons
 
 Before you start on anything, it's always important to understand the reasoning behind it, this is true for writing articles as well. As mentioned in the introduction there are typically [five distinct content types](https://draft.dev/learn/content-types-and-deliverables-what-are-they) that you can choose from, why should you be choosing a comparison specifically? Here are a few reasons why.
