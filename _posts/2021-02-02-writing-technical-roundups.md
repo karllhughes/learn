@@ -89,4 +89,6 @@ For more in-depth tips specifically about promoting your writing, check out [How
 
 Writing, publishing, and promoting a technical roundup can be a fairly simple first step toward marketing your product, promoting yourself as a voice of authority, and building trust with the audience you want to reach. Remember to do your research, choose an appropriate voice, and be smart about how you distribute it. Don’t forget to keep an eye out for listicles that others have written for examples of what a good technical roundup should look like. 
 
+Interested in writing for Draft.dev? [Click here to learn more and apply today](http://draft.dev/write).
+
 On the other hand, if you’d rather have someone else create technical content for you, contact us at [Draft.dev](https://draft.dev).
