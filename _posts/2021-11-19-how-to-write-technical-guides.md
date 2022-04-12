@@ -77,4 +77,8 @@ This is something that should be built into the goal you set. Most of the time, 
 
 Now you know more about what it means to write a technical guide compared to writing a technical tutorial or roundup. It's a matter of making sure the content is digestible and is open to new members of the audience you are targeting.
 
-On top of that, you've got an insight into how you can build a fantastic guide, like setting a goal and focusing on the "why." If you need help writing technical guides, or if you'd like to work with our team of writers to build content that reaches software engineers, [contact us today](https://draft.dev/call)
+On top of that, you've got an insight into how you can build a fantastic guide, like setting a goal and focusing on the "why."
+
+Want to write for Draft.dev?[Click here to learn more and apply today](http://draft.dev/write).
+
+On the other hand, if you need help writing technical guides, or if you'd like to work with our team of writers to build content that reaches software engineers, [contact us today](https://draft.dev/call)
