@@ -84,7 +84,7 @@ Inbound marketing involves three elements: value, curation, and SEO. Value means
 
 The biggest difference between inbound marketing and content is intent. Inbound marketing deals with the setup and delivery of material, while content deals with the creation of said material.
 
-Before we talk about syndication, let’s quickly define content.
+Before we talk about [content syndication](https://draft.dev/learn/syndicating-developer-content), let’s quickly define content.
 
 Content involves many different formats. Blogging is an obvious choice, but [there are others](https://www.spiralytics.com/blog/inbound-marketing-vs-content-marketing-infographic/) you might choose from:
 
