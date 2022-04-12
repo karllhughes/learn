@@ -92,7 +92,7 @@ As your business grows, so will demands on other aspects of your life. Outsourci
 
 Ghostwriting is a fast-paced, in-demand career with plenty of room for growth. If you like the idea of being your own boss, or if you want a little more flexibility in your lifestyle, ghostwriting might be the perfect fit.
 
-Your best bet for finding work as a ghostwriter is to leverage all your business skills, experiences, and expertise. If you’re a technical whiz with an excellent command of the English language, why not apply to freelance for [Draft.dev](www.draft.dev)? We’re always looking for writers with experience in:
+Your best bet for finding work as a ghostwriter is to leverage all your business skills, experiences, and expertise. If you’re a technical whiz with an excellent command of the English language, why not [apply to freelance for Draft.dev](https://draft.dev/write)? We’re always looking for writers with experience in:
 
 * Kubernetes
 * Monitoring
