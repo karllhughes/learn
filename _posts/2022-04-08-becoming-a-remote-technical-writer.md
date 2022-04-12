@@ -14,6 +14,8 @@ I’m the first to admit that my path to technical writing was somewhat unconven
 
 Thankfully, my studies had armed me with extensive writing experience and I also had a deep fascination with software, hardware, and all things tech. Over four years later, with ample technical articles under my belt, I now humbly introduce myself as a technical writer. As I often like to joke, I’ve truly become a professional nerd and I wouldn’t have it any other way!
 
+<!-- signup -->
+
 I’ve had a blast writing for clients in the spaces of software as a service (SaaS), platform as a service (PaaS), and infrastructure as a service (IaaS). One-off gigs have transformed into long-term relationships, audiences have grown more diverse, and my written content has traversed the spectrum of technical depth. These experiences ultimately led me to [Draft.dev](https://draft.dev/write?utm_source=academy&utm_medium=inline&utm_campaign=post&utm_content=/becoming-a-remote-technical-writer), where many of my content requests now stem from. 
 
 Draft.dev is a technical marketing content agency for startups. The organization is made up of a knowledgeable group of writers, editors, and leaders that oversee writing projects from start to finish. The awesome folks at Draft.dev create personalized, monthly content plans for tech companies, in this way building strong business relationships, too. 
