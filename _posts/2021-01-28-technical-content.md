@@ -152,7 +152,8 @@ If you’re a new technical writer, it’s probably hard to know how to start or
 2. **Importance** - When presenting multiple options or comparing factors between tools, it’s usually a good idea to order them by importance.
 3. **Problem and Solution** - I like framing posts around problems and solutions when they’re aimed at technical decision-makers.
 4. **[Roundups (aka Listicles)](https://draft.dev/learn/writing-technical-roundups)**
-    - This method works well when you want to make information more scannable.
+
+   * This method works well when you want to make information more scannable.
 
 There are probably optimal organizational systems for different kinds of posts, but honestly, just having any system will make your writing better than most.
 
@@ -287,4 +288,6 @@ Writing great technical content won’t happen overnight. If you expect to be go
 
 Once you start writing, build a process for capturing and refining your ideas. Good technical content is almost always an amalgamation of existing concepts, but the more you compile these ideas, the better you'll get. 
 
-Finally, [tell the world when you write](https://draft.dev/write?)! Your knowledge is valuable, and it's very rewarding to have people share and learn from your content.
+Finally, [](https://draft.dev/write?)tell the world when you write! Your knowledge is valuable, and it's very rewarding to have people share and learn from your content.
+
+Interested in writing for Draft.dev? [Click here to learn more and apply today](http://draft.dev/write). Want access to our fantastic pool of writers? [Schedule a call to learn more about what we do](https://draft.dev/call).
