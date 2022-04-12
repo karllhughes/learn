@@ -120,7 +120,7 @@ As a side note, it's essential to understand that SEO is an ongoing process. If 
 
 ## Sourcing An Agency For Your Niche
 
-There are many different places to look for a B2B SEO agency for your industry. A simple Google search could yield millions of results, hundreds of which are relevant to your business, location, and campaign needs.
+There are many different places to look for a[ B2B SEO agency for your industry](https://draft.dev/learn/best-b2b-content-marketing-agencies-by-vertical). A simple Google search could yield millions of results, hundreds of which are relevant to your business, location, and campaign needs.
 
 Word-of-mouth recommendations could also connect you with an agency in your niche. Personal referrers are more familiar with your product and industry, and offer suggestions tailored to your marketplace position.
 
