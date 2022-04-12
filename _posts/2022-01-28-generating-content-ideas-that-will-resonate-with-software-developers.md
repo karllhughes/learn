@@ -48,7 +48,7 @@ At Draft.dev, we use [the topic cluster method](https://draft.dev/learn/topic-cl
 
 ### 2. Augment Documentation
 
-Some of your users need and appreciate detailed how-to guides. Why not provide them to your general audience and kill two proverbial birds with one stone?
+Some of your users need and appreciate[ detailed how-to guides](https://draft.dev/learn/how-to-write-technical-guides). Why not provide them to your general audience and kill two proverbial birds with one stone?
 
 ![Augment Documentation](https://i.imgur.com/As84RAK.png)
 
@@ -94,7 +94,6 @@ This is simultaneously a strategy for building your own idea list and doing some
 
 Sticking to strictly objective, informative topics could limit your brand’s potential. Some of the most impressive content is the kind where people get real — where CEOs take a side on a contentious issue or big industry players share their secrets.
 
-
 ![TC-Your worldview](https://i.imgur.com/rJ9VMZt.png)
 
 If you have the bandwidth to create long-form, strongly-researched opinion pieces, you could join the ranks of industry thought leaders.
@@ -120,7 +119,6 @@ While you could be taking a risk by being vulnerable about your company values a
 **Pro tip:** Vary your content format. The next generation of software engineers might be more compelled by video than written content. Survey your customers to find out how they want to consume your content.
 
 ## Deciding on the Right Blend
-
 
 ![TC-Predictability of results](https://i.imgur.com/NIsBCLf.png)
 
