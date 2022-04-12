@@ -13,21 +13,24 @@ img: /assets/posts/wkefgok.jpg
 Contacting bloggers and journalists directly to pitch your startup works, but it’s incredibly time-consuming. Sometimes, a low-cost or free press release is well worth it, so if you’re considering investing in one for your startup, look no further.
 
 ## Is a Press Release Worth It?
+
 The truth is, many startups pass on press releases because it's often hard to measure or determine the ROI (return on investment). That said, when done as part of a comprehensive media push, I've seen them work before.
 
-Pushing a press release [is just the first step in the process](https://publicize.co/guides/example-press-releases/). When coupled with strong [content marketing](https://draft.dev/learn/content-marketing/), outreach to journalists, and paid media, a press release can add credibility and authoritative information to your outreach efforts.
+Pushing a press release [is just the first step in the process](https://publicize.co/guides/example-press-releases/). When coupled with strong [content marketing](https://draft.dev/learn/content-marketing/), [content syndication](https://draft.dev/learn/syndicating-developer-content), outreach to journalists, and paid media, a press release can add credibility and authoritative information to your outreach efforts.
 
 <!-- signup -->
 
 ## How to Use Press Releases at Your Startup
-The _wrong_ way to use a press release is to write up a salesy announcement pushing your latest product announcement and spend a bunch of money blindly pushing it to mass media outlets. Instead, think about the following tips:
 
-- **Go niche** - target publications that are most relevant for your customers.
-- **Make it an interesting story** - capture the journalists' imaginations.
-- **Use relevant keywords** - writers who cover a particular beat might find your company if your release shows up in their Google Alerts.
-- **Layer content on top of it** - use the release as a launch-point and do paid media, guest posts, and internal blog posts to help promote it.
+The *wrong* way to use a press release is to write up a salesy announcement pushing your latest product announcement and spend a bunch of money blindly pushing it to mass media outlets. Instead, think about the following tips:
+
+* **Go niche** - target publications that are most relevant for your customers.
+* **Make it an interesting story** - capture the journalists' imaginations.
+* **Use relevant keywords** - writers who cover a particular beat might find your company if your release shows up in their Google Alerts.
+* **Layer content on top of it** - use the release as a launch-point and do paid media, guest posts, and internal blog posts to help promote it.
 
 ## The Best Press Release Services for Startups
+
 Since press release service rates vary widely, I took to Quora and asked some of my newsletter subscribers to weigh in. We came up with this list of press release tools and services that aren't prohibitively expensive, and might be worth your startup's investment:
 
 **[PRnob.com](http://www.prnob.com/)** ($29) - Get your press release published on 10,000+ news and media outlets.
@@ -56,6 +59,6 @@ Since press release service rates vary widely, I took to Quora and asked some of
 
 **[Muck Rack](https://muckrack.com/)** ($0) - While their paid plans don't list pricing, you can search for journalists and look up their contact information yourself if you've got the time.
 
------
+- - -
 
 Did I miss a press release tool that you had a good experience with? [Email me](mailto:karl@draft.dev) to suggest an update.
