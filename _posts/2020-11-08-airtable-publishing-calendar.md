@@ -10,7 +10,6 @@ author: karl
 date: 2020-11-08
 img: /assets/posts/publishing-calendar.png
 ---
-
 If you want to publish new content consistently, you have to plan for it. A publishing calendar will help hold you and your writers accountable for delivering content consistently.
 
 Once you’re publishing more than once or twice per week and have a few contributors, you will need some way to keep track of all the content you are planning, writing, editing, and promoting. While you could start with a spreadsheet or Trello board, I’ve found the flexibility and power of [Airtable](https://airtable.com/invite/r/4EaSmQNr) to be ideal for creating a scalable publishing calendar.
@@ -18,6 +17,7 @@ Once you’re publishing more than once or twice per week and have a few contrib
 <!-- signup -->
 
 ## What is Airtable?
+
 [Airtable](https://airtable.com/invite/r/4EaSmQNr) is a free content management platform that gives you the power of a database with the ease of use of a spreadsheet. In addition to integrations with third-party tools like [Zapier](https://zapier.com/), Airtable has apps, automations, and blocks that make the platform even more powerful.
 
 In this post, I’ll show you the elements of our publishing calendar and give you access to a template of the publishing calendar we use at Draft.dev to manage hundreds of pieces of content and dozens of writers simultaneously.
@@ -42,13 +42,13 @@ By color-coding each assignment, we can see which ones are on track and which on
 
 Our “Kanban View” in the “Assignments” table helps you see exactly where each article is in the publishing process. We typically use the following stages for each piece of content:
 
-*   **Preparing** - Ideas and loose pitches that still need to be defined go here. We typically want to have a complete brief (see _Part 1_ above) before moving an assignment out of this column.
-*   **Ready** - At this stage, the assignment is defined, it has a due date, and we’re deciding who will write it.
-*   **Writing** - [Once the writer is confirmed](https://draft.dev/learn/matching-writers) and starts working on the assignment, we move it to this column.
-*   **Editing** - After a writer submits their first draft, the article enters editing. Typically, this involves some [sub-steps (technical review, copy editing, revisions, etc.)](https://draft.dev/learn/5-steps-to-a-quality-edit-for-your-technical-blog), but by the end, we should have a complete piece of content that’s ready to publish.
-*   **Scheduled** - Very few clients publish content the moment we hand it over to them, so each assignment enters the Scheduled stage until it goes live.
-*   **Published** - We don’t promote content directly for our clients, but [you should be](https://draft.dev/learn/promotion). This column holds articles that have been published but not yet promoted.
-*   **Promoted** - At this point, the article is completely finished...until we decide to do a refresh.
+* **Preparing** - Ideas and loose pitches that still need to be defined go here. We typically want to have a complete brief (see *Part 1* above) before moving an assignment out of this column.
+* **Ready** - At this stage, the assignment is defined, it has a due date, and we’re deciding who will write it.
+* **Writing** - [Once the writer is confirmed](https://draft.dev/learn/matching-writers) and starts working on the assignment, we move it to this column.
+* **Editing** - After a writer submits their first draft, the article enters editing. Typically, this involves some [sub-steps (technical review, copy editing, revisions, etc.)](https://draft.dev/learn/5-steps-to-a-quality-edit-for-your-technical-blog), but by the end, we should have a complete piece of content that’s ready to publish.
+* **Scheduled** - Very few clients publish content the moment we hand it over to them, so each assignment enters the Scheduled stage until it goes live.
+* **Published** - We don’t promote content directly for our clients, but [you should be](https://draft.dev/learn/promotion). This column holds articles that have been published but not yet promoted.
+* **Promoted** - At this point, the article is completely finished...until we decide to do a refresh.
 
 Here’s what the whole “Kanban View” looks like:
 
@@ -58,7 +58,7 @@ Because Airtable keeps track of when articles move from one stage to another, we
 
 ### 3. Writer Matching
 
-Sometimes, having all the articles in a single view is overwhelming. Airtable lets you create new views to serve a specific purpose. In our case, we built a custom view that shows all the articles that currently need a writer.
+Sometimes, having all the articles in a single view is overwhelming. Airtable lets you create new views to serve a specific purpose. In our case, we built a custom view that shows all the articles that currently need a writer. Here's our[ piece on matching writers with articles](https://draft.dev/learn/matching-writers) if you want to know more.  
 
 Every week, we look through the articles here and reach out to any writers who might be a good fit for any of the available pieces. When we find a writer, we type their name into the “Writer” field to match them to the article and move the article to the “Writing” column.
 
@@ -83,12 +83,13 @@ The “Kanban View” shows you all our writers (these aren’t our real writers
 Every week, we review writer applications using [our hiring rubric for technical writers](https://draft.dev/learn/technical-writing-rubric) and move those who meet our criteria to the “Accepted” status column.
 
 ### 6. New Writer Applications
+
 Finally, we use Airtable as an intake form for new writer applications. You can see a slightly simplified version of our writer application form in the template by going to the “Writer Application” view in the “Writers” table.
 
 **[COPY OUR AIRTABLE PUBLISHING CALENDAR TEMPLATE HERE](https://pcto.co/publishing-calendar)**
 
 In addition to the [Airtable](https://airtable.com/invite/r/4EaSmQNr) template here, we use automations in [Zapier](https://zapier.com/) to streamline our processes and remind our writers of important deadlines and tasks. These tools have allowed us to maintain our quality standards while onboarding more customers and writers.
 
------
+- - -
 
 If you’re struggling to keep up with all the content you have planned, or you need help building a robust publishing calendar, shoot me an email at [karl@draft.dev](mailto:karl@draft.dev). If you'd like to talk about how we can create content for your blog, you can [schedule a call with me here](https://draft.dev/call).
