@@ -7,7 +7,7 @@ categories: processes
 cta: Call
 author: karl
 date: 2021-05-20T22:23:33.311Z
-img: /assets/posts/8rgfmmj.jpg
+img: /assets/posts/2714-how-draft.dev-works-illustration-02.png
 ---
 Since I started [Draft.dev](http://draft.dev/), our team and the number of clients we work with has grown a lot. With this growth has come the need for robust, consistent processes that help us ensure that each client gets the absolute best, highest-quality technical content possible.
 
