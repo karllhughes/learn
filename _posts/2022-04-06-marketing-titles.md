@@ -10,7 +10,7 @@ categories: marketing-titles
 cta: Content Ideas
 author: meagan
 date: 2022-04-06T11:15:36.996Z
-img: /assets/posts/marketing-titles.jpg
+img: /assets/posts/group-28.jpg
 ---
 Marketing is one of the fastest growing fields of the decade. Recent BLS data suggests there are more than [316,000 marketing roles](https://www.bls.gov/ooh/management/advertising-promotions-and-marketing-managers.htm) available in the United States, with more than 31,000 new opportunities projected to be added by 2030. And that’s not all: a [10% average growth rate](https://www.topmanagementdegrees.com/what-is-the-job-outlook-for-the-marketing-field/) puts the marketing field well ahead of adjacent industries, and is only expected to rise as new frontiers and platforms become available.
 
@@ -100,3 +100,12 @@ Below are some of the best resources to stay up-to-date with common marketing ro
 
 The more you learn about marketing roles and job titles, the more confident you can be as a team lead, incoming professional, or established marketing pro. 
 Interested in more marketing insights? Subscribe to [Draft.dev’s weekly newsletter](https://draft.dev/newsletter) for valuable resources, tips, and case studies delivered to your inbox every week. Enjoy [our newsletter archive](https://us15.campaign-archive.com/home/?u=4eba8b205fc13380cd3e6f3fc&id=d9774be985) at your convenience, and start building your acumen in marketing for technical developers and beyond.
+
+### Further Reading:
+<ul>
+  {% for post in site.categories.marketing-titles %}
+    {% if post.url %}
+        <li><a href="{{post.url | prepend: site.baseurl}}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
