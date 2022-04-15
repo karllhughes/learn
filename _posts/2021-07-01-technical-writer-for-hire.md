@@ -7,7 +7,7 @@ categories: writing
 cta: Call
 author: karl
 date: 2021-07-01T12:37:22.640Z
-img: /assets/posts/photo-1487528278747-ba99ed528ebc.jpg
+img: /assets/posts/job_interview.png
 ---
 Most companies that want to [start a technical blog](https://draft.dev/learn/three-questions) just need a few writers to produce a steady stream of content. But that is easier said than done. Very few software developers have the capacity and desire to write blog posts for their marketing efforts, and non-technical writers won’t [be able to speak with the authenticity required](https://draft.dev/learn/b2d-marketing-tips).
 
