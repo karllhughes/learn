@@ -8,7 +8,7 @@ categories: developer-marketing
 cta: Playbook
 author: karl
 date: 2021-04-26T14:27:05.058Z
-img: /assets/posts/gustas-brazaitis-xnky-cu20d4-unsplash.jpg
+img: /assets/posts/dev-marketing.png
 ---
 Developers have a reputation of being averse to marketing, but that’s not necessarily true. Developers—like most savvy buyers—are averse to pushy, inept marketing, but with hundreds of thousands of software developers out there, it’s naive to speak about them in broad strokes on any topic.
 
@@ -117,3 +117,12 @@ Now that you have a better idea of the viable marketing channels you can use in 
 5. **Freemium and trial offers** do well when you employ a bottoms-up approach. The idea here is to get developers using your tool on a small side project so they feel confident enough to bring it to work on their next project.
 
 Getting hands-on with developer marketing can be intimidating at first. If you’re looking to reach software developers, [shoot me an email](mailto:karl@draft.dev). I’m happy to send you specific resources or tools based on your challenges.
+
+### Further Reading:
+<ul>
+  {% for post in site.categories.developer-marketing %}
+    {% if post.url %}
+        <li><a href="{{post.url | prepend: site.baseurl}}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>

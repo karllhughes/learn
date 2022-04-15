@@ -7,7 +7,7 @@ categories: processes
 cta: Call
 author: karl
 date: 2021-05-20T22:23:33.311Z
-img: /assets/posts/2714-how-draft.dev-works-illustration-02.png
+img: /assets/posts/dev-marketing.png
 ---
 Since I started [Draft.dev](http://draft.dev/), our team and the number of clients we work with has grown a lot. With this growth has come the need for robust, consistent processes that help us ensure that each client gets the absolute best, highest-quality technical content possible.
 
@@ -17,7 +17,6 @@ One thing I value in our interactions with clients is transparency. We need clie
 In the further interest of transparency, I'm going to share our entire client onboarding process as it stands today. While things occasionally deviate, you might find it helpful to see the whole thing laid out. Hopefully, this gives you a better idea of what to expect as you consider or start your engagement with Draft.dev.
 
 **Typically, onboarding takes 6-9 weeks between when we sign a statement of work and when your first article is completed.**
-
 
 
 ![Map of the whole client onboarding process at Draft.dev](https://i.imgur.com/f0xRcMF.png)

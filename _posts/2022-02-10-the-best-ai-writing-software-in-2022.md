@@ -4,7 +4,7 @@ title: The Best AI Writing Software in 2022
 description: writing assistants. I’ll be assessing how well they work on the
   different types of technical content we write, how easy they are to use, and
   the value for your money.
-categories: Tools
+categories: tools
 cta: Content Ideas
 author: karl
 date: 2022-02-10T09:41:11.438Z
