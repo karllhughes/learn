@@ -64,6 +64,20 @@ Bad:
 
 > There is currently a lively, ongoing controversy among many computer scientists and other professional in the field of software development: theories are being spun and arguments are being conducted among them about whether the use of tabs to designate indentation in a document is superior to the use of spaces for the same purpose.
 
+#### Avoid Gatekeeping
+
+Write for an international audience of developers from a wide range of backgrounds, races, ethnicities, cultures, and experience levels. To that end, avoid language that is exclusionary or encourages "gatekeeping."
+
+Good:
+
+> Fork the `main` branch and make the appropriate changes.
+
+Bad:
+
+> *Obviously*, you *simply* fork the `master` branch before making the appropriate changes.
+
+Use the [OpenGates Checklist here](https://opengates.dev/checklist/) to ensure you're not writing in a way that excludes others.
+
 ### Content
 
 #### The Introduction
