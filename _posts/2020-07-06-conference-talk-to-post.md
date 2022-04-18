@@ -8,7 +8,7 @@ categories: developer-marketing
 cta: Playbook
 author: alyssa
 date: 2020-07-06
-img: /assets/posts/conference-talks.jpg
+img: /assets/posts/dev-marketing-speaking.jpg
 ---
 For many of us, it's easier to say what we mean than to write it down. [Conference talks can make great blog posts](https://draft.dev/learn/the-fundamentals-of-speaking-at-technology-conferences), so if you've got a long list of presentations you give regularly, you might want to convert some of them to blog posts.
 

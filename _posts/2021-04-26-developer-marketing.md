@@ -8,7 +8,7 @@ categories: developer-marketing
 cta: Playbook
 author: karl
 date: 2021-04-26T14:27:05.058Z
-img: /assets/posts/dev-marketing.png
+img: /assets/posts/dev-marketing-speaking.jpg
 ---
 Developers have a reputation of being averse to marketing, but that’s not necessarily true. Developers—like most savvy buyers—are averse to pushy, inept marketing, but with hundreds of thousands of software developers out there, it’s naive to speak about them in broad strokes on any topic.
 
