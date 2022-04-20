@@ -31,11 +31,11 @@ As you’ll see in a bit, Ghost is very simple to set up, especially with the pr
 
 The Ghost editor is one of the best in the business. It provides everything you need to create excellent content, including:
 
--   Floating formatting menu.
--   Image, HTML, and other content blocks.
--   Media embeds for Twitter, YouTube, CodePen, and more.
--   Markdown shortcuts.
--   Reusable content snippets.
+* Floating formatting menu.
+* Image, HTML, and other content blocks.
+* Media embeds for Twitter, YouTube, CodePen, and more.
+* Markdown shortcuts.
+* Reusable content snippets.
 
 When you’re done writing, publishing is just a matter of providing some metadata and hitting the **Publish** button.
 
@@ -331,13 +331,13 @@ Thanks to Docker’s popularity and flexibility, there are tons of options to ch
 
 Some of the most popular Docker deployment platforms include:
 
--   [Amazon ECS](https://aws.amazon.com/ecs/)
--   [DigitalOcean Managed Kubernetes](https://www.digitalocean.com/products/kubernetes)
--   [Google Cloud Run](https://cloud.google.com/run)
--   [Microsoft Azure ACI](https://azure.microsoft.com/en-us/services/container-instances/)
+* [Amazon ECS](https://aws.amazon.com/ecs/)
+* [DigitalOcean Managed Kubernetes](https://www.digitalocean.com/products/kubernetes)
+* [Google Cloud Run](https://cloud.google.com/run)
+* [Microsoft Azure ACI](https://azure.microsoft.com/en-us/services/container-instances/)
 
 ## Conclusion
 
 In this post, you've learned how to leverage the flexible and reproducible architecture allowed by Docker to set up your own Ghost blog. The only thing left now is to fill it with excellent technical content. That’s where Draft.dev steps in.
 
-[Draft.dev](https://draft.dev/) is a company that provides high-quality technical content for all your needs. [Check out their website](https://draft.dev/) and schedule a call to get your technical blogging game going!
+[Draft.dev](https://draft.dev/) is a company that provides high-quality technical content for all your needs. [Check out our website](https://draft.dev/) and [schedule a call](https://draft.dev/call) to get your technical blogging game going!
