@@ -106,69 +106,91 @@ At Draft.dev, technical content marketing is our bread and butter. We love helpi
 
 It’s not enough to simply write and post your content online. Marketers must be able to track the performance of said content in the marketplace, and report on key metrics and KPIs that influence the brand’s success. Check out these resources for performing research, choosing the right metrics, and finding the perfect analytics platform for your content.
 
-[Creating High-Quality Technical Content Increases Blog Traffic](https://draft.dev/learn/creating-high-quality-technical-content-increases-blog-traffic)
-[Competition Research Tools](https://draft.dev/learn/competition-research-tools) 
-[16 Content Marketing Analytics Tools That Finally Do What You Need](https://blog.hubspot.com/marketing/content-marketing-analytics)
-[Content Marketing Analytics: 11 Ways Data Can Inform Your Content Strategy](https://www.alexbirkett.com/content-marketing-analytics/)
-[6 Do's & Don'ts of Content Marketing Analytics](https://screenpilot.com/2021/03/6-dos-donts-of-content-marketing-analytics/)
-[20 Content Marketing KPIs To Track (+Infographic)](https://www.wordstream.com/blog/ws/2020/12/17/content-marketing-kpis)
-[Six marketing KPIs that will improve with effective content marketing](https://blogs.oracle.com/marketingcloud/post/marketing-kpis-that-will-improve-with-effective-content-marketing)
-[How to Measure Your Content Marketing ROI + 7 Metrics That Matter](https://optinmonster.com/how-to-measure-content-marketing-roi-metrics/) 
+1. [Creating High-Quality Technical Content Increases Blog Traffic](https://draft.dev/learn/creating-high-quality-technical-content-increases-blog-traffic)[](https://draft.dev/learn/competition-research-tools)
+2. [Competition Research Tools](https://draft.dev/learn/competition-research-tools) 
+3. [16 Content Marketing Analytics Tools That Finally Do What You Need](https://blog.hubspot.com/marketing/content-marketing-analytics)[](https://www.alexbirkett.com/content-marketing-analytics/)
+4. [Content Marketing Analytics: 11 Ways Data Can Inform Your Content Strategy](https://www.alexbirkett.com/content-marketing-analytics/)[](https://screenpilot.com/2021/03/6-dos-donts-of-content-marketing-analytics/)
+5. [6 Do's & Don'ts of Content Marketing Analytics](https://screenpilot.com/2021/03/6-dos-donts-of-content-marketing-analytics/)[](https://www.wordstream.com/blog/ws/2020/12/17/content-marketing-kpis)
+6. [20 Content Marketing KPIs To Track (+Infographic)](https://www.wordstream.com/blog/ws/2020/12/17/content-marketing-kpis)[](https://blogs.oracle.com/marketingcloud/post/marketing-kpis-that-will-improve-with-effective-content-marketing)
+7. [Six marketing KPIs that will improve with effective content marketing](https://blogs.oracle.com/marketingcloud/post/marketing-kpis-that-will-improve-with-effective-content-marketing)[](https://optinmonster.com/how-to-measure-content-marketing-roi-metrics/)
+8. [How to Measure Your Content Marketing ROI + 7 Metrics That Matter](https://optinmonster.com/how-to-measure-content-marketing-roi-metrics/) 
 
 ## Strategy Of Content Marketing
 
 No two marketing strategies will ever look alike. It’s important to understand what you want from your content campaigns and what you need to get from point A to point B. These resources were specifically chosen to guide your strategy creation process, including how to write and execute a content marketing plan.
 
-[Selling and Marketing Unsought Products](https://draft.dev/learn/selling-and-marketing-unsought-products)
-[The Case for Bottom Up Marketing](https://draft.dev/learn/the-case-for-bottom-up-marketing) 
-[Refreshing Old \[Technical] Blog Posts](https://draft.dev/learn/refreshing-blog-posts)
-[How to Create a Technical Content Plan](https://draft.dev/learn/content-plan) 
-[How to Execute a B2C Content Marketing Strategy](https://prosandcontent.knotch.com/posts/b2c-content-marketing)
-[How to Develop a Content Strategy in 7 Steps](https://blog.hubspot.com/marketing/content-marketing-plan)
-[How to Write a Content Marketing Strategy (w/ Template)](https://buffer.com/library/content-marketing-strategy/)
-[30 Content Marketing Tactics You Have to Try](https://neilpatel.com/blog/unconventional-content-marketing-tactics/)
-[How to Develop a Content Marketing Plan](https://sproutsocial.com/insights/content-marketing-plan/)
-[What Are The Types of Content Marketing Strategies?](https://www.demandjump.com/blog/what-are-the-types-of-content-marketing-strategies) 
+1. [Selling and Marketing Unsought Products](https://draft.dev/learn/selling-and-marketing-unsought-products)[](https://draft.dev/learn/the-case-for-bottom-up-marketing)
+2. [The Case for Bottom Up Marketing](https://draft.dev/learn/the-case-for-bottom-up-marketing) 
+3. [Refreshing Old \[Technical] Blog Posts](https://draft.dev/learn/refreshing-blog-posts)[](https://draft.dev/learn/content-plan)
+4. [How to Create a Technical Content Plan](https://draft.dev/learn/content-plan) 
+5. [How to Execute a B2C Content Marketing Strategy](https://prosandcontent.knotch.com/posts/b2c-content-marketing)[](https://blog.hubspot.com/marketing/content-marketing-plan)
+6. [How to Develop a Content Strategy in 7 Steps](https://blog.hubspot.com/marketing/content-marketing-plan)[](https://buffer.com/library/content-marketing-strategy/)
+7. [How to Write a Content Marketing Strategy (w/ Template)](https://buffer.com/library/content-marketing-strategy/)[](https://neilpatel.com/blog/unconventional-content-marketing-tactics/)
+8. [30 Content Marketing Tactics You Have to Try](https://neilpatel.com/blog/unconventional-content-marketing-tactics/)[](https://sproutsocial.com/insights/content-marketing-plan/)
+9. [How to Develop a Content Marketing Plan](https://sproutsocial.com/insights/content-marketing-plan/)[](https://www.demandjump.com/blog/what-are-the-types-of-content-marketing-strategies)
+10. [What Are The Types of Content Marketing Strategies?](https://www.demandjump.com/blog/what-are-the-types-of-content-marketing-strategies) 
 
 ## Content Marketing Formats
 
 There are dozens of different kinds of content marketing formats. From blogs and tutorials to infographics and videos, brands can use just about any form of content to their advantage. Use the resources below to explore your options, discover new ideas, and hone in on alternatives that fit your vertical best.
 
-[How to Create Diagrams for Technical Blog Posts](https://draft.dev/learn/how-to-create-diagrams-for-technical-blog-posts)
-[How to Use Markdown](https://draft.dev/learn/how-to-use-markdown)
-[How to Write Technical Thought Leadership](https://draft.dev/learn/how-to-write-technical-thought-leadership)
-[How to Write Technical Guides](https://draft.dev/learn/how-to-write-technical-guides)
-[Content Types And Deliverables: What Are They?](https://draft.dev/learn/content-types-and-deliverables-what-are-they)
-[How to Create a Technical Writing Rubric](https://draft.dev/learn/technical-writing-rubric)
-[How to Turn Your Conference Talks Into Technical Blog Posts](https://draft.dev/learn/conference-talk-to-post) 
-[Successful Consumer-Generated Marketing for Technology Companies](https://draft.dev/learn/consumer-generated-marketing)
-[113 Types of Content Marketing You Can Add to Your Calendar Now](https://coschedule.com/content-marketing/types-of-content)
-[How to Determine What Formats to Use in Your Content Marketing](https://marketinginsidergroup.com/content-marketing/how-to-determine-what-formats-to-use-in-your-content-marketing/) 
+1. [How to Create Diagrams for Technical Blog Posts](https://draft.dev/learn/how-to-create-diagrams-for-technical-blog-posts)[](https://draft.dev/learn/how-to-use-markdown)
+2. [How to Use Markdown](https://draft.dev/learn/how-to-use-markdown)[](https://draft.dev/learn/how-to-write-technical-thought-leadership)
+3. [How to Write Technical Thought Leadership](https://draft.dev/learn/how-to-write-technical-thought-leadership)[](https://draft.dev/learn/how-to-write-technical-guides)
+4. [How to Write Technical Guides](https://draft.dev/learn/how-to-write-technical-guides)[](https://draft.dev/learn/content-types-and-deliverables-what-are-they)
+5. [Content Types And Deliverables: What Are They?](https://draft.dev/learn/content-types-and-deliverables-what-are-they)[](https://draft.dev/learn/technical-writing-rubric)
+6. [How to Create a Technical Writing Rubric](https://draft.dev/learn/technical-writing-rubric)[](https://draft.dev/learn/conference-talk-to-post)
+7. [How to Turn Your Conference Talks Into Technical Blog Posts](https://draft.dev/learn/conference-talk-to-post) [](https://draft.dev/learn/consumer-generated-marketing)
+8. [Successful Consumer-Generated Marketing for Technology Companies](https://draft.dev/learn/consumer-generated-marketing)[](https://coschedule.com/content-marketing/types-of-content)
+9. [113 Types of Content Marketing You Can Add to Your Calendar Now](https://coschedule.com/content-marketing/types-of-content)[](https://marketinginsidergroup.com/content-marketing/how-to-determine-what-formats-to-use-in-your-content-marketing/)
+10. [How to Determine What Formats to Use in Your Content Marketing](https://marketinginsidergroup.com/content-marketing/how-to-determine-what-formats-to-use-in-your-content-marketing/) 
 
 ## Understanding SEO
 
 Also known as search engine marketing, SEO is one of the most critical elements of the modern content strategy. But how much should SEO principles guide your content production, and is it possible to do without the help of an expert? These resources spell out everything you need to know about navigating, implementing, and strategizing for SEO content.
 
 [Finding a B2B SEO Agency That Works for You](https://draft.dev/learn/finding-a-b2b-seo-agency-that-works-for-you)
+[](https://draft.dev/learn/seo-keyword-opportunities-in-developer-marketing)
+
 [SEO Keyword Opportunities in Developer Marketing](https://draft.dev/learn/seo-keyword-opportunities-in-developer-marketing)
+[](https://neilpatel.com/what-is-seo/)
+
 [What is SEO? Your Complete Step-By-Step Guide](https://neilpatel.com/what-is-seo/)
+[](https://www.searchenginejournal.com/2022-seo-trends-podcast-2/432620/)
+
 [SEO In 2022: 10 Important SEO Trends You Need To Know](https://www.searchenginejournal.com/2022-seo-trends-podcast-2/432620/)
+[](https://nealschaffer.com/seo-checklist/)
+
 [The Definitive 30-Step Basic SEO Checklist](https://nealschaffer.com/seo-checklist/)
+[](https://yoast.com/focus-on-long-tail-keywords/)
+
 [Why focus on long-tail keywords?](https://yoast.com/focus-on-long-tail-keywords/)
+[](https://rockcontent.com/blog/h1-vs-h2/)
+
 [H1 vs H2 vs H3: What are Heading Tags and How to Use Them?](https://rockcontent.com/blog/h1-vs-h2/)
+[](https://www.wordstream.com/blog/ws/2017/06/02/video-seo)
+
 [Video SEO: 9 Ways to Optimize Your Video for Search](https://www.wordstream.com/blog/ws/2017/06/02/video-seo)
+[](https://www.reliablesoft.net/free-seo-courses/)
+
 [The 10 Best Free SEO Courses Available Online](https://www.reliablesoft.net/free-seo-courses/)
-[How to Add SEO to Your Marketing Campaign \[8 Ways]](https://www.webfx.com/blog/seo/how-to-add-seo-to-your-marketing-campaign/) 
+
+
+\[How to Add SEO to Your Marketing Campaign [8 Ways]](https://www.webfx.com/blog/seo/how-to-add-seo-to-your-marketing-campaign/) 
 
 ## B2B Content Marketing
 
 If you sell to brands, businesses, or other enterprise customers, your journey through the content marketing process will look very different from your peers. Here’s how to design and implement a B2B content marketing plan that works – including the critical mistakes you should avoid along the way.
 
 [The B2B SaaS Marketing Guide](https://draft.dev/learn/the-b2b-saas-marketing-guide)
+[](https://draft.dev/learn/b2b-demand-generation-tips-and-tactics)
+
 [B2B Demand Generation Tips and Tactics](https://draft.dev/learn/b2b-demand-generation-tips-and-tactics)
+[](https://draft.dev/learn/best-b2b-content-marketing-agencies-by-vertical)
+
 [Best B2B Content Marketing Agencies by Vertical](https://draft.dev/learn/best-b2b-content-marketing-agencies-by-vertical)
 [How to Do B2B Writing Right](https://draft.dev/learn/b2b-writing)
-[B2B Content Marketing \[New Research for 2022]](https://contentmarketinginstitute.com/2021/10/b2b-power-content-marketing-research/)
+\[B2B Content Marketing [New Research for 2022]](https://contentmarketinginstitute.com/2021/10/b2b-power-content-marketing-research/)
 [The Best of B2B Marketing Content: 10 Examples](https://blog.hubspot.com/marketing/b2b-content-marketing-examples)
 [90+ Important B2B Content Marketing Statistics](https://pipeline.zoominfo.com/marketing/content-marketing-statistics)
 [Most Common B2B Content Marketing Mistakes to Avoid](https://belkins.io/blog/influencer-marketing/most-common-b2-b-content-marketing-mistakes-to-avoid)
