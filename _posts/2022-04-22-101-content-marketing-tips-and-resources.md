@@ -62,7 +62,7 @@ Content doesn’t just appear in a vacuum. If you need to create professional or
 1. [How to Hire a Freelance Marketing Writer](https://draft.dev/learn/how-to-hire-a-freelance-marketing-writer)
 2. [How To Hire A Blogger For Your Company](https://draft.dev/learn/how-to-hire-a-blogger-for-your-company)
 3. [What to Expect from a Content Creation Agency](https://draft.dev/learn/content-creation-agency)[](https://draft.dev/learn/dealbreakers-when-working-with-an-saas-marketing-agency)
-4. [Dealbreakers When Working with an SaaS Marketing Agency](https://draft.dev/learn/dealbreakers-when-working-with-an-saas-marketing-agency)[](https://draft.dev/learn/finding-ghostwriters-for-hire)
+4. [Dealbreakers When Working with a SaaS Marketing Agency](https://draft.dev/learn/dealbreakers-when-working-with-an-saas-marketing-agency)[](https://draft.dev/learn/finding-ghostwriters-for-hire)
 5. [Finding Ghostwriters for Hire](https://draft.dev/learn/finding-ghostwriters-for-hire) [](https://draft.dev/learn/best-content-creation-agencies)
 6. [Best Content Creation Agencies](https://draft.dev/learn/best-content-creation-agencies)[](https://draft.dev/learn/paying-freelance-writers)
 7. [5 Options for Paying Freelance Technical Writers](https://draft.dev/learn/paying-freelance-writers)[](https://draft.dev/learn/finding-motivating-writers)
