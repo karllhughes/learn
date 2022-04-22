@@ -149,54 +149,32 @@ There are dozens of different kinds of content marketing formats. From blogs and
 
 Also known as search engine marketing, SEO is one of the most critical elements of the modern content strategy. But how much should SEO principles guide your content production, and is it possible to do without the help of an expert? These resources spell out everything you need to know about navigating, implementing, and strategizing for SEO content.
 
-[Finding a B2B SEO Agency That Works for You](https://draft.dev/learn/finding-a-b2b-seo-agency-that-works-for-you)
-[](https://draft.dev/learn/seo-keyword-opportunities-in-developer-marketing)
-
-[SEO Keyword Opportunities in Developer Marketing](https://draft.dev/learn/seo-keyword-opportunities-in-developer-marketing)
-[](https://neilpatel.com/what-is-seo/)
-
-[What is SEO? Your Complete Step-By-Step Guide](https://neilpatel.com/what-is-seo/)
-[](https://www.searchenginejournal.com/2022-seo-trends-podcast-2/432620/)
-
-[SEO In 2022: 10 Important SEO Trends You Need To Know](https://www.searchenginejournal.com/2022-seo-trends-podcast-2/432620/)
-[](https://nealschaffer.com/seo-checklist/)
-
-[The Definitive 30-Step Basic SEO Checklist](https://nealschaffer.com/seo-checklist/)
-[](https://yoast.com/focus-on-long-tail-keywords/)
-
-[Why focus on long-tail keywords?](https://yoast.com/focus-on-long-tail-keywords/)
-[](https://rockcontent.com/blog/h1-vs-h2/)
-
-[H1 vs H2 vs H3: What are Heading Tags and How to Use Them?](https://rockcontent.com/blog/h1-vs-h2/)
-[](https://www.wordstream.com/blog/ws/2017/06/02/video-seo)
-
-[Video SEO: 9 Ways to Optimize Your Video for Search](https://www.wordstream.com/blog/ws/2017/06/02/video-seo)
-[](https://www.reliablesoft.net/free-seo-courses/)
-
-[The 10 Best Free SEO Courses Available Online](https://www.reliablesoft.net/free-seo-courses/)
-
-
-\[How to Add SEO to Your Marketing Campaign [8 Ways]](https://www.webfx.com/blog/seo/how-to-add-seo-to-your-marketing-campaign/) 
+1. [Finding a B2B SEO Agency That Works for You](https://draft.dev/learn/finding-a-b2b-seo-agency-that-works-for-you)[](https://draft.dev/learn/seo-keyword-opportunities-in-developer-marketing)
+2. [SEO Keyword Opportunities in Developer Marketing](https://draft.dev/learn/seo-keyword-opportunities-in-developer-marketing)[](https://neilpatel.com/what-is-seo/)
+3. [What is SEO? Your Complete Step-By-Step Guide](https://neilpatel.com/what-is-seo/)[](https://www.searchenginejournal.com/2022-seo-trends-podcast-2/432620/)
+4. [SEO In 2022: 10 Important SEO Trends You Need To Know](https://www.searchenginejournal.com/2022-seo-trends-podcast-2/432620/)[](https://nealschaffer.com/seo-checklist/)
+5. [The Definitive 30-Step Basic SEO Checklist](https://nealschaffer.com/seo-checklist/)[](https://yoast.com/focus-on-long-tail-keywords/)
+6. [Why focus on long-tail keywords?](https://yoast.com/focus-on-long-tail-keywords/)[](https://rockcontent.com/blog/h1-vs-h2/)
+7. [H1 vs H2 vs H3: What are Heading Tags and How to Use Them?](https://rockcontent.com/blog/h1-vs-h2/)[](https://www.wordstream.com/blog/ws/2017/06/02/video-seo)
+8. [Video SEO: 9 Ways to Optimize Your Video for Search](https://www.wordstream.com/blog/ws/2017/06/02/video-seo)[](https://www.reliablesoft.net/free-seo-courses/)
+9. [The 10 Best Free SEO Courses Available Online](https://www.reliablesoft.net/free-seo-courses/)
+10. [How to Add SEO to Your Marketing Campaign \[8 Ways]](https://www.webfx.com/blog/seo/how-to-add-seo-to-your-marketing-campaign/)
 
 ## B2B Content Marketing
 
 If you sell to brands, businesses, or other enterprise customers, your journey through the content marketing process will look very different from your peers. Here’s how to design and implement a B2B content marketing plan that works – including the critical mistakes you should avoid along the way.
 
-[The B2B SaaS Marketing Guide](https://draft.dev/learn/the-b2b-saas-marketing-guide)
-[](https://draft.dev/learn/b2b-demand-generation-tips-and-tactics)
-
-[B2B Demand Generation Tips and Tactics](https://draft.dev/learn/b2b-demand-generation-tips-and-tactics)
-[](https://draft.dev/learn/best-b2b-content-marketing-agencies-by-vertical)
-
-[Best B2B Content Marketing Agencies by Vertical](https://draft.dev/learn/best-b2b-content-marketing-agencies-by-vertical)
-[How to Do B2B Writing Right](https://draft.dev/learn/b2b-writing)
-\[B2B Content Marketing [New Research for 2022]](https://contentmarketinginstitute.com/2021/10/b2b-power-content-marketing-research/)
-[The Best of B2B Marketing Content: 10 Examples](https://blog.hubspot.com/marketing/b2b-content-marketing-examples)
-[90+ Important B2B Content Marketing Statistics](https://pipeline.zoominfo.com/marketing/content-marketing-statistics)
-[Most Common B2B Content Marketing Mistakes to Avoid](https://belkins.io/blog/influencer-marketing/most-common-b2-b-content-marketing-mistakes-to-avoid)
-[29 smart B2B content marketing examples and success stories](https://www.contentgrip.com/b2b-content-marketing-examples/)
-[Five Content Marketing Ideas for Enterprise and B2B Startups](https://rosssimmonds.com/enterprise-startups-content-marketing/) 
-[Breaking Down the Marketing Funnel in B2B](https://draft.dev/learn/breaking-down-the-marketing-funnel-in-b2b) 
+1. [The B2B SaaS Marketing Guide](https://draft.dev/learn/the-b2b-saas-marketing-guide)[](https://draft.dev/learn/b2b-demand-generation-tips-and-tactics)
+2. [B2B Demand Generation Tips and Tactics](https://draft.dev/learn/b2b-demand-generation-tips-and-tactics)[](https://draft.dev/learn/best-b2b-content-marketing-agencies-by-vertical)
+3. [Best B2B Content Marketing Agencies by Vertical](https://draft.dev/learn/best-b2b-content-marketing-agencies-by-vertical)[](https://draft.dev/learn/b2b-writing)
+4. [How to Do B2B Writing Right](https://draft.dev/learn/b2b-writing)[](https://contentmarketinginstitute.com/2021/10/b2b-power-content-marketing-research/)
+5. [B2B Content Marketing \[New Research for 2022]](https://contentmarketinginstitute.com/2021/10/b2b-power-content-marketing-research/)
+6. [The Best of B2B Marketing Content: 10 Examples](https://blog.hubspot.com/marketing/b2b-content-marketing-examples)[](https://pipeline.zoominfo.com/marketing/content-marketing-statistics)
+7. [90+ Important B2B Content Marketing Statistics](https://pipeline.zoominfo.com/marketing/content-marketing-statistics)[](https://belkins.io/blog/influencer-marketing/most-common-b2-b-content-marketing-mistakes-to-avoid)
+8. [Most Common B2B Content Marketing Mistakes to Avoid](https://belkins.io/blog/influencer-marketing/most-common-b2-b-content-marketing-mistakes-to-avoid)[](https://www.contentgrip.com/b2b-content-marketing-examples/)
+9. [29 smart B2B content marketing examples and success stories](https://www.contentgrip.com/b2b-content-marketing-examples/)[](https://rosssimmonds.com/enterprise-startups-content-marketing/)
+10. [Five Content Marketing Ideas for Enterprise and B2B Startups](https://rosssimmonds.com/enterprise-startups-content-marketing/) [](https://draft.dev/learn/breaking-down-the-marketing-funnel-in-b2b)
+11. [Breaking Down the Marketing Funnel in B2B](https://draft.dev/learn/breaking-down-the-marketing-funnel-in-b2b) 
 
 # Discover More Content Marketing Resources At Draft.dev
 
