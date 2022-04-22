@@ -8,7 +8,7 @@ categories: content-marketing
 cta: Content Ideas
 author: meagan
 date: 2022-04-22T17:54:34.327Z
-img: /assets/posts/content-marketing-tips-and-tools.jpg
+img: /assets/posts/content-marketing-101.png
 ---
 No matter what you do or where you work, content marketing is critical to helping businesses get seen. But managing all its elements alone can be challenging, particularly as you scale your brand or startup. It’s important to plug into high-quality resources that increase your knowledge of the craft, as well as your comfort levels with making and marketing content.
 
