@@ -9,7 +9,7 @@ categories: platforms
 cta: Playbook
 author: Arek Nawo
 date: 2022-04-20T13:51:35.690Z
-img: /assets/posts/ghost-logo.png
+img: /assets/posts/ghost-on-docker.png
 ---
 [Ghost](https://ghost.org/) is one of the most popular open source blogging platforms. It boasts powerful features for almost everything related to blogging, such as editing, publishing, email newsletters, and offering paid subscriptions. Ghost offers pre-made themes that you can use to set up your blog quickly, but thanks to its extensive API, you can also use it as a headless CMS for your custom frontend.
 
