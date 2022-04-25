@@ -104,7 +104,7 @@ At Draft.dev, technical content marketing is our bread and butter. We love helpi
 
 ## Content Marketing Analytics
 
-It’s not enough to simply write and post your content online. Marketers must be able to track the performance of said content in the marketplace, and report on key metrics and KPIs that influence the brand’s success. Check out these resources for performing research, choosing the right metrics, and finding the perfect analytics platform for your content.
+It’s not enough to simply write and post your content online. Marketers must be able to track the performance of said content in the marketplace and report on key metrics and KPIs that influence the brand’s success. Check out these resources for performing research, choosing the right metrics, and finding the perfect analytics platform for your content.
 
 1. [Creating High-Quality Technical Content Increases Blog Traffic](https://draft.dev/learn/creating-high-quality-technical-content-increases-blog-traffic)[](https://draft.dev/learn/competition-research-tools)
 2. [Competition Research Tools](https://draft.dev/learn/competition-research-tools) 
@@ -158,7 +158,7 @@ Also known as search engine marketing, SEO is one of the most critical elements 
 7. [H1 vs H2 vs H3: What are Heading Tags and How to Use Them?](https://rockcontent.com/blog/h1-vs-h2/)[](https://www.wordstream.com/blog/ws/2017/06/02/video-seo)
 8. [Video SEO: 9 Ways to Optimize Your Video for Search](https://www.wordstream.com/blog/ws/2017/06/02/video-seo)[](https://www.reliablesoft.net/free-seo-courses/)
 9. [The 10 Best Free SEO Courses Available Online](https://www.reliablesoft.net/free-seo-courses/)
-10. \[How to Add SEO to Your Marketing Campaign [8 Ways]](https://www.webfx.com/blog/seo/how-to-add-seo-to-your-marketing-campaign/)
+10. [How to Add SEO to Your Marketing Campaign \[8 Ways]](https://www.webfx.com/blog/seo/how-to-add-seo-to-your-marketing-campaign/)
 
 ## B2B Content Marketing
 
