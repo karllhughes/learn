@@ -158,7 +158,7 @@ Also known as search engine marketing, SEO is one of the most critical elements 
 7. [H1 vs H2 vs H3: What are Heading Tags and How to Use Them?](https://rockcontent.com/blog/h1-vs-h2/)[](https://www.wordstream.com/blog/ws/2017/06/02/video-seo)
 8. [Video SEO: 9 Ways to Optimize Your Video for Search](https://www.wordstream.com/blog/ws/2017/06/02/video-seo)[](https://www.reliablesoft.net/free-seo-courses/)
 9. [The 10 Best Free SEO Courses Available Online](https://www.reliablesoft.net/free-seo-courses/)
-10. [How to Add SEO to Your Marketing Campaign \[8 Ways]](https://www.webfx.com/blog/seo/how-to-add-seo-to-your-marketing-campaign/)
+10. \[How to Add SEO to Your Marketing Campaign [8 Ways]](https://www.webfx.com/blog/seo/how-to-add-seo-to-your-marketing-campaign/)
 
 ## B2B Content Marketing
 
@@ -168,7 +168,7 @@ If you sell to brands, businesses, or other enterprise customers, your journey t
 2. [B2B Demand Generation Tips and Tactics](https://draft.dev/learn/b2b-demand-generation-tips-and-tactics)[](https://draft.dev/learn/best-b2b-content-marketing-agencies-by-vertical)
 3. [Best B2B Content Marketing Agencies by Vertical](https://draft.dev/learn/best-b2b-content-marketing-agencies-by-vertical)[](https://draft.dev/learn/b2b-writing)
 4. [How to Do B2B Writing Right](https://draft.dev/learn/b2b-writing)[](https://contentmarketinginstitute.com/2021/10/b2b-power-content-marketing-research/)
-5. [B2B Content Marketing \[New Research for 2022]](https://contentmarketinginstitute.com/2021/10/b2b-power-content-marketing-research/)
+5. \[B2B Content Marketing [New Research for 2022]](https://contentmarketinginstitute.com/2021/10/b2b-power-content-marketing-research/)
 6. [The Best of B2B Marketing Content: 10 Examples](https://blog.hubspot.com/marketing/b2b-content-marketing-examples)[](https://pipeline.zoominfo.com/marketing/content-marketing-statistics)
 7. [90+ Important B2B Content Marketing Statistics](https://pipeline.zoominfo.com/marketing/content-marketing-statistics)[](https://belkins.io/blog/influencer-marketing/most-common-b2-b-content-marketing-mistakes-to-avoid)
 8. [Most Common B2B Content Marketing Mistakes to Avoid](https://belkins.io/blog/influencer-marketing/most-common-b2-b-content-marketing-mistakes-to-avoid)[](https://www.contentgrip.com/b2b-content-marketing-examples/)
