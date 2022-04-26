@@ -12,7 +12,7 @@ img: /assets/posts/2713-topic-cluster-illustration-01.png
 ---
 When I started [Draft.dev](https://draft.dev), I wanted us to keep our scope as narrow as possible. This focus on producing technical content aimed at software developers helped us standardize things like our [content briefs](https://draft.dev/learn/content-plan), the [types of content we create](https://draft.dev/content-types), and more. By standardizing everything, we have been able to consistently deliver **high-quality technical content** to satisfied clients around the world.
 
-The problem with being so narrow in our scope is that we have to say “no” or “not yet” to a lot of good clients. Up until now, we haven’t officially offered idea generation as a service, so clients had to do their own keyword research or brainstorming sessions _before_ working with Draft.dev.
+The problem with being so narrow in our scope is that we have to say “no” or “not yet” to a lot of good clients. Up until now, we haven’t officially offered idea generation as a service, so clients had to do their own keyword research or brainstorming sessions *before* working with Draft.dev.
 
 Today, I’m happy to announce that we’re officially launching **SEO keyword research and topic cluster generation as a service**. In this post, I’ll share more about what this offering includes, but if you have questions, [feel free to book a call with me](http://draft.dev/call).
 
@@ -20,11 +20,11 @@ Today, I’m happy to announce that we’re officially launching **SEO keyword r
 
 ## What Are “Topic Clusters”?
 
-First, if you’re not an SEO expert, you might not be familiar with the term. A “[topic cluster](/learn/topic-clusters)” is a method for intentionally building content designed to rank well in search engines (especially Google).
+First, if you’re not an SEO expert, you might not be familiar with the term. A "topic cluster" is a method for intentionally building content designed to rank well in search engines (especially Google).
 
 The idea is that by writing several pieces of content that are related, you can develop a really valuable “pillar piece” supported by a handful of “supporting pieces.” By targeting keywords that have relatively low keyword difficulty and decent volume, you can ensure that some of your supporting pieces rank on the first page of search results quickly.
 
-Then, by linking from those highly-ranked supporting pieces _to_ the more difficult to rank pillar piece, you increase its rank as well. The goal is to eventually start ranking highly valuable, high search volume pillar pieces on the first page of Google results.
+Then, by linking from those highly-ranked supporting pieces *to* the more difficult to rank pillar piece, you increase its rank as well. The goal is to eventually start ranking highly valuable, high search volume pillar pieces on the first page of Google results.
 
 ![Topic cluster visualization](https://i.imgur.com/6s2iAfq.png)
 
@@ -40,11 +40,11 @@ Writing blog posts that are likely to rank well in Google is a complex process t
 
 The first thing we do is sit down with each client to build a list of ideal keywords. We ask a few questions that usually lead us to uncover lots of areas for exploration, including:
 
-- What would be your dream keywords to rank #1 for? These should be 1-2 word, industry descriptions like “continuous integration,” “automated testing,” or “python IDE.”
-- What work are engineers doing when they decide to use your product? What problems might they encounter leading up to that decision?
-- What tools would an engineer use alongside your product? Are there specific languages or frameworks they need to use?
-- What long-tail searches would you like to rank highly for? (e.g., “how to automate GitHub backups” or “how to pick the right database”)
-- Who are some of your direct competitors?
+* What would be your dream keywords to rank #1 for? These should be 1-2 word, industry descriptions like “continuous integration,” “automated testing,” or “python IDE.”
+* What work are engineers doing when they decide to use your product? What problems might they encounter leading up to that decision?
+* What tools would an engineer use alongside your product? Are there specific languages or frameworks they need to use?
+* What long-tail searches would you like to rank highly for? (e.g., “how to automate GitHub backups” or “how to pick the right database”)
+* Who are some of your direct competitors?
 
 After this planning session, we usually have a list of 10-50 keywords. We then take this list and start exploring. Using tools like [ahrefs](https://ahrefs.com/), [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/), and industry research tools, we then generate thousands of keywords to explore in more detail.
 
@@ -79,4 +79,3 @@ On the other hand, if you’re hoping to build awareness, generate new leads, or
 By focusing on [keywords you can rank for within a few weeks](https://draft.dev/learn/seo-keyword-opportunities-in-developer-marketing), you won’t have to wait years to see a return on investment for your content. You can attract buyers at the top and middle of your funnel to raise awareness and introduce your solution. Then, by retargeting them with ads or introducing them to your mailing list, you can build a content engine that delivers consistent growth for years to come.
 
 To learn more, ask questions, or get started, [book a call with me today](http://draft.dev/call)!
-
