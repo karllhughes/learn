@@ -69,7 +69,7 @@ He draws on his personal experience in software as well as publicly available do
 
 ## Persuasion Should be Subtle
 
-> “Written arguments often fail when they employ ranting rather than reasoning.” - Tara Horkoff, [Writing for Success](​​https://opentextbc.ca/writingforsuccess/chapter/chapter-10-persuasion/)
+> “Written arguments often fail when they employ ranting rather than reasoning.” - Tara Horkoff, [Writing for Success](https://opentextbc.ca/writingforsuccess/chapter/chapter-10-persuasion/)
 
 The best persuasive writing doesn’t beat you over the head with the author’s conclusion. Instead, it guides readers toward the desired conclusion by:
 
