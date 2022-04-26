@@ -17,23 +17,23 @@ I’ve gotten to be a big fan of [David Perell’s writing](https://perell.com/e
 
 Examples include:
 
-- [The Microwave Economy](https://perell.com/essay/the-microwave-economy/)
-- [Imitate, then Innovate](https://perell.com/essay/imitate-then-innovate/)
-- [One Big Idea](https://perell.com/essay/one-big-idea/)
+* [The Microwave Economy](https://perell.com/essay/the-microwave-economy/)
+* [Imitate, then Innovate](https://perell.com/essay/imitate-then-innovate/)
+* [One Big Idea](https://perell.com/essay/one-big-idea/)
 
 While not technical, these pieces are interesting, inspiring, and (as I’ll focus on today) persuasive. They each leave you with an impression that something is wrong with the world or its traditional ways of thinking and give you a roadmap to break out of it. While you may not agree with all of Perell’s conclusions, most of his arguments are well thought out and clearly presented.
 
 Persuading software engineers or engineering leaders is essentially no different from persuading writers and businesspeople, but writing persuasive technical content is really hard. Persuasive writing is among the most difficult types of writing to do, and [writing technical content](https://draft.dev/learn/technical-content) requires a very specific background and level of experience. 
 
 But, persuasive technical writing is incredibly valuable because it’s so rare. CTOs and technical visionaries who do it well often make the [front page of Hacker News](https://hackernoon.com/how-i-hit-the-front-page-of-hacker-news-5-times-x81n3uyp), and will find it easier to recruit, sell, and inspire others toward their goals.
- 
+
 In this piece, I’ll introduce some of the things that make persuasive technical content so hard. I’ll share examples of writers I’ve seen who do it well, and I’ll offer a few tips as an observer and writer. While you can’t get really good at writing without practice, I hope having some direction will help guide you towards becoming a better persuasive writer.
 
 <!-- signup -->
 
 ## What is Persuasive Technical Content?
 
-Before I jump into the _how_, let’s talk about what persuasive writing is and why people do it. Persuasive technical writing is a form of [technical thought leadership](https://draft.dev/learn/how-to-write-technical-thought-leadership) where the author is attempting to persuade their reader to agree with them on some topic. Typically, the author wants the audience to see the same problem or solution they do.
+Before I jump into the *how*, let’s talk about what persuasive writing is and why people do it. Persuasive technical writing is a form of [technical thought leadership](https://draft.dev/learn/how-to-write-technical-thought-leadership) where the author is attempting to persuade their reader to agree with them on some topic. Typically, the author wants the audience to see the same problem or solution they do.
 
 For example, in 2018, I wrote a blog post titled, “[The Bulk of Software Engineering is Just Plumbing](https://www.karllhughes.com/posts/plumbing),” in which I made the case that most of the work software engineers do is simply connecting pieces of software that other people built for them.
 
@@ -57,11 +57,11 @@ As with any effective form of writing, your work must be well-written and organi
 
 If you’re trying to reach a knowledgeable audience with a persuasive argument, you need to be perceived as knowledgeable about the topic. This is called “building authority,” and there are many ways to add it to your writing:
 
-- Research
-- Quotes
-- Personal Experience
+* Research
+* Quotes
+* Personal Experience
 
-One of our [Draft.dev](https://draft.dev) writers, Keanan Koppenhaver, does a good job of this in his persuasive writing. [This piece he did for Fabric.inc](​​https://fabric.inc/blog/shopify-salesforce/) compares Shopify and Salesforce Commerce Cloud by going through specific features and limitations of each platform.
+One of our [Draft.dev](https://draft.dev) writers, Keanan Koppenhaver, does a good job of this in his persuasive writing. [This piece he did for Fabric.inc](https://fabric.inc/blog/shopify-salesforce/) compares Shopify and Salesforce Commerce Cloud by going through specific features and limitations of each platform.
 
 ![Persuasive comparison of Shopify and Salesforce Commerce Cloud](https://i.imgur.com/YsiCeCb.png)
 
@@ -73,10 +73,10 @@ He draws on his personal experience in software as well as publicly available do
 
 The best persuasive writing doesn’t beat you over the head with the author’s conclusion. Instead, it guides readers toward the desired conclusion by:
 
-- Establishing authority
-- Asking questions
-- Being helpful
-- Showing both sides of the argument
+* Establishing authority
+* Asking questions
+* Being helpful
+* Showing both sides of the argument
 
 Some persuasive writing doesn’t even tell readers what to think, but instead, just leaves readers with an open question. I recently ran across a Twitter thread by Sam Altman predicting the end of the college education system in the US:
 
