@@ -35,7 +35,7 @@ In a typical B2C marketing funnel, you will find four major stages:
 * Desire
 * Action
 
-Visitors to your site could enter at any stage of the funnel, although they are much more likely to begin at Awareness. This is followed by suspects, or visitors who are genuinely interested (Interest stage) in the products you provide. Prospects may engage with a brand frequently at the Desire stage, followed by a purchase in the Action stage.
+Visitors to your site could enter at any stage of the funnel, although they are much more likely to begin at Awareness. This is followed by prospects, or visitors who are genuinely interested (Interest stage) in the products you provide. Prospects may engage with a brand frequently at the Desire stage, followed by a purchase in the Action stage.
 
 As you have likely already suspected, there are some key differences between the B2B and B2C model. This is specifically relevant when it comes to customer retention.
 
