@@ -8,7 +8,7 @@ categories: writing
 cta: Playbook
 author: chris
 date: 2022-04-29T13:13:27.863Z
-img: /assets/posts/ultimate-guide-to-tech-writing.jpg
+img: /assets/posts/b2b-saas-marketing-guide.jpg
 ---
 Ever thought of turning your professional expertise toward writing? Or perhaps you’ve realized that your company needs a skilled writer who understands the ins and outs of your trade. In either case, it’s time to consider technical writing.
 
