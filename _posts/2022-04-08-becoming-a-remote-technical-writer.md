@@ -8,7 +8,7 @@ categories: writing
 cta: Apply
 author: Tyler Charboneau
 date: 2022-04-08T08:02:56.367Z
-img: /assets/posts/technical-writing.jpg
+img: /assets/posts/draftdev_technical-writing-for-engineers_1200x2280_option-2.png
 ---
 I’m the first to admit that my path to technical writing was somewhat unconventional. My degree was in International Studies, and after flirting with a career in politics (let’s not discuss how that went), it became clear that a change was needed. 
 
