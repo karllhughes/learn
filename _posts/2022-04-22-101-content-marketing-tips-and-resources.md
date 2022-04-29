@@ -121,7 +121,7 @@ No two marketing strategies will ever look alike. It’s important to understand
 
 1. [Selling and Marketing Unsought Products](https://draft.dev/learn/selling-and-marketing-unsought-products)[](https://draft.dev/learn/the-case-for-bottom-up-marketing)
 2. [The Case for Bottom Up Marketing](https://draft.dev/learn/the-case-for-bottom-up-marketing) 
-3. \[Refreshing Old [Technical] Blog Posts](https://draft.dev/learn/refreshing-blog-posts) [](https://draft.dev/learn/content-plan)
+3. [Refreshing Old \[Technical] Blog Posts](https://draft.dev/learn/refreshing-blog-posts)[](https://draft.dev/learn/content-plan)
 4. [How to Create a Technical Content Plan](https://draft.dev/learn/content-plan) 
 5. [How to Execute a B2C Content Marketing Strategy](https://prosandcontent.knotch.com/posts/b2c-content-marketing)[](https://blog.hubspot.com/marketing/content-marketing-plan)
 6. [How to Develop a Content Strategy in 7 Steps](https://blog.hubspot.com/marketing/content-marketing-plan)[](https://buffer.com/library/content-marketing-strategy/)
@@ -168,7 +168,7 @@ If you sell to brands, businesses, or other enterprise customers, your journey t
 2. [B2B Demand Generation Tips and Tactics](https://draft.dev/learn/b2b-demand-generation-tips-and-tactics)[](https://draft.dev/learn/best-b2b-content-marketing-agencies-by-vertical)
 3. [Best B2B Content Marketing Agencies by Vertical](https://draft.dev/learn/best-b2b-content-marketing-agencies-by-vertical)[](https://draft.dev/learn/b2b-writing)
 4. [How to Do B2B Writing Right](https://draft.dev/learn/b2b-writing)[](https://contentmarketinginstitute.com/2021/10/b2b-power-content-marketing-research/)
-5. \[B2B Content Marketing [New Research for 2022]](<1. https://contentmarketinginstitute.com/2021/10/b2b-power-content-marketing-research/>)
+5. [B2B Content Marketing \[New Research for 2022]](https://contentmarketinginstitute.com/2021/10/b2b-power-content-marketing-research/)
 6. [The Best of B2B Marketing Content: 10 Examples](https://blog.hubspot.com/marketing/b2b-content-marketing-examples)[](https://pipeline.zoominfo.com/marketing/content-marketing-statistics)
 7. [90+ Important B2B Content Marketing Statistics](https://pipeline.zoominfo.com/marketing/content-marketing-statistics)[](https://belkins.io/blog/influencer-marketing/most-common-b2-b-content-marketing-mistakes-to-avoid)
 8. [Most Common B2B Content Marketing Mistakes to Avoid](https://belkins.io/blog/influencer-marketing/most-common-b2-b-content-marketing-mistakes-to-avoid)[](https://www.contentgrip.com/b2b-content-marketing-examples/)
