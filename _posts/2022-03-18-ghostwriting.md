@@ -9,7 +9,7 @@ categories: ghostwriting
 cta: Playbook
 author: meagan
 date: 2022-03-18T12:48:28.119Z
-img: /assets/posts/ghostwriter.png
+img: /assets/posts/what-is-a-ghostwriter-and-why-do-you-need-one.png
 ---
 It takes an average of [3 hours and 21 minutes](https://zenpost.com/blog/how-long-to-write-blog-post/) to write a 1,151 word blog post. More complicated or technical blog posts take even longer, up to 6 hours for a 2,000 word tutorial, article, or research piece. This time frame doesn’t necessarily depend on experience, either. Some of the world’s most prolific expert bloggers struggle to create content on a timely basis. Writer Neil Patel takes between [4 and 5 hours](https://authoritymarketing.com/blog/blogging/16-experts-answer-how-long-should-it-take-to-write-a-blog-post/) to create quality content, while Buffer’s Kevin Lee labors up to 12 hours per post.
 
