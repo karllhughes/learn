@@ -26,7 +26,7 @@ If you’ve been in your industry for a while, you may already have some technic
 
 For those who need to start at the beginning when it comes to technical writing, you might want to begin with your own blog, either on your own website or a platform like Medium, jot down some ideas for a couple short blog posts. What could you write 1,000 words about that would be helpful for other software engineers to know more about? What troubleshooting did you recently accomplish that had you piecing together tips from five different forums? [Get your thoughts organized](https://draft.dev/learn/technical-content), don’t forget to proofread your writing, and get it online.
 
->The only way to be a good writer is to write, so focus on consistency and quantity more than perfection, especially if you’re writing for yourself.
+> The only way to be a good writer is to write, so focus on consistency and quantity more than perfection, especially if you’re writing for yourself.
 
 ### And You’d Like to Get Paid For It
 
@@ -50,10 +50,9 @@ The more closely your work sticks to the required style, the less rigorous the e
 
 Technical writing is no joke. It takes attention to detail, a willingness to research, a skilled hand at writing, and the ability to take an edit professionally. Many companies see the need for technical writing but either aren’t large enough to staff their own content creation or would prefer to focus on their core skills and leave the writing to someone else entirely.
 
-
 ### And You’d Like to Find a Good One
 
-If your business is looking to establish an ongoing relationship with a freelance technical writer, we’re happy to share our [hiring tricks at Draft.dev](​​https://draft.dev/learn/technical-writer-for-hire). Finding the perfect writer for you is a multi-step process—from knowing exactly what you’re looking for to knowing where to look and how to reach out to them—but in the end, you’ll be happy you put in the time and care in your search.
+If your business is looking to establish an ongoing relationship with a freelance technical writer, we’re happy to share our [hiring tricks at Draft.dev](https://draft.dev/learn/technical-writer-for-hire). Finding the perfect writer for you is a multi-step process—from knowing exactly what you’re looking for to knowing where to look and how to reach out to them—but in the end, you’ll be happy you put in the time and care in your search.
 
 ### First, Consider What You Need From the Writer
 
