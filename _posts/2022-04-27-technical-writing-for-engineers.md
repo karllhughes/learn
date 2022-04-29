@@ -8,7 +8,7 @@ categories: writing
 cta: Apply
 author: Veronica Stork
 date: 2022-04-27T17:25:01.868Z
-img: /assets/posts/technical-writing-for-engineers.jpg
+img: /assets/posts/technical-writing-for-engineers.png
 ---
 If you are an engineer hoping to improve your technical writing, you’re not alone. Writing is one of the most important “soft” skills you can have. Honing that skill will help you develop a greater understanding of technology, improve developer experience for whatever product you work on, and possibly advance (or change) your career.
 
