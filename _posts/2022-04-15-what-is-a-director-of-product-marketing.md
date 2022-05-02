@@ -9,7 +9,7 @@ categories: marketing-titles
 cta: Content Ideas
 author: meagan
 date: 2022-04-15T14:13:02.593Z
-img: /assets/posts/director-of-product-marketing.jpg
+img: /assets/posts/what-is-a-director-of-product-marketing.png
 ---
 Science believes that the positioning of your product will make or break your business idea. More than [95% of new products](http://kapost.com/b/b2b-product-marketing-infographic/) launched by established brands will flop when introduced to the market. This is more than [25,000 individual product lines](https://www.inc.com/marc-emmer/95-percent-of-new-products-fail-here-are-6-steps-to-make-sure-yours-dont.html) in the United States alone.
 
