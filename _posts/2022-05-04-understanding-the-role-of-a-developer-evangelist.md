@@ -9,7 +9,7 @@ categories: marketing-titles
 cta: Playbook
 author: karl
 date: 2022-05-04T09:19:43.134Z
-img: /assets/posts/evangelism.jpg
+img: /assets/posts/understanding-the-role-of-a-developer-evangelist.png
 ---
 I started speaking at conferences [several years ago](https://www.karllhughes.com/posts/one-year-conference-summary). As I met more speakers and sponsors at events, I started to hear about _developer evangelists_ a lot. While my goal at these conferences was to meet people, learn new things, and improve my public speaking skills, developer evangelists were being sent to these events to spread the word about their employers’ products and services.
 
