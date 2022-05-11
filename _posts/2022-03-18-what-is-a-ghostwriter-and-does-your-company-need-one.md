@@ -7,7 +7,7 @@ categories: platforms
 cta: Content Ideas
 author: meagan
 date: 2022-05-11T15:31:20.622Z
-img: /assets/posts/guide-to-blogging-platforms.jpg
+img: /assets/posts/blog-recommendations-47.jpg
 ---
 Writing a blog is one thing, but finding a place to publish it is quite another.
 
