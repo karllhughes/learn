@@ -9,7 +9,7 @@ categories: platforms
 cta: Playbook
 author: Jerry Ejonavi
 date: 2022-05-06T15:52:15.402Z
-img: /assets/posts/what-is-a-ghostwriter-and-why-do-you-need-one.png
+img: /assets/posts/draftdev_using-ghost-as-a-headless-cms.png
 ---
 Ghost, an open source publishing platform built with Node.js, provides a good editing experience and integrations with popular apps and tools out of the box. Its extensive feature set allows users to set up a wide range of content-focused experiences, from developer blogs to newsletters, and exclusive paid-for articles.
 
