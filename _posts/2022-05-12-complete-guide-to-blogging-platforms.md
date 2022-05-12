@@ -83,7 +83,7 @@ Keep in mind that Github is one of the pricer options on the list. You’ll need
 
 ### Squarespace
 
-Like WordPress, [Squarespace](https://www.squarespace.com/) is a website builder that offers templates, hosting, and some limited CMS services. The templates themselves are particularly eye-catching, and extremely simple to drag and drop into place.
+Like WordPress, [Squarespace](https://www.squarespace.com/) is a website builder that offers templates, hosting, and some limited CMS services. The templates themselves are particularly eye-catching and extremely simple to drag and drop into place.
 
 Do keep in mind that this site is more known for its support to eCommerce brands and B2C. If you have a B2B SaaS, you might want to lean toward something more technical.
 
@@ -95,7 +95,7 @@ However, Webflow is probably not right for you if you want more technical access
 
 ### Jeykll
 
-The blogging platform provided by [Jeykll](https://jekyllrb.com/) works as a static site generator using your computer’s command line. It’s open source and works with a variety of formats, including Markdown, Liquid, HTML, and CSS.
+The blogging platform provided by [Jeykll](https://jekyllrb.com/) works as a static site generator using your computer’s command line. It’s open-source and works with a variety of formats, including Markdown, Liquid, HTML, and CSS.
 
 Jeykll is both efficient and minimalist, and fairly intuitive for technical users. But depending on your projected growth and future needs, you might find yourself needing a fuller suite of tools – including the ones offered by WordPress. We recently wrote a piece comparing the differences between [Jeykll vs. WordPress](https://draft.dev/learn/jekyll-vs-wordpress), if you’re curious.
 
