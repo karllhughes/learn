@@ -14,7 +14,7 @@ Writing a blog is one thing, but finding a place to publish it is quite another.
 
 The sheer volume of online blogging platforms can be overwhelming at best. With hundreds of options with thousands of possibilities, narrowing down the list can be challenging. And if you happen to be looking for a [technical blogging platform](https://draft.dev/learn/technical-blog-platforms), you might feel a bit over your head. 
 
-The best blogging platforms are way more than a glorified PDF. The cream of the crop provide SEO support, forums for community comments, integrations with other tools, and even plugins that streamline your workflow. It pays to know what you need in advance, and choose a platform that scales alongside your blog and brand.
+The best blogging platforms are way more than a glorified PDF. The cream of the crop provides SEO support, forums for community comments, integrations with other tools, and even plugins that streamline your workflow. It pays to know what you need in advance, and choose a platform that scales alongside your blog and brand.
 
 Making a great decision starts with getting great information. We’re going to take a step-by-step approach for looking at the most popular [blogging platforms for your startup](https://draft.dev/learn/startup-blogging-platforms), including some pros, cons, and what to keep in mind. We’ll also walk through ways to narrow down your final criteria, especially if you’re having trouble sifting through the choices. 
 
