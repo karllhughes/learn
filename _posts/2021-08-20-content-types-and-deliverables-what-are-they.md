@@ -38,6 +38,7 @@ While content type helps set the overall article tone, content deliverables defi
 * stock image
 * rough architecture diagram
 * code samples
+* GitHub repository
 
 It’s important to note that articles can often contain more than one of the above items.
 
@@ -62,6 +63,11 @@ As you probably noticed, we specified *rough* diagram. While our talented writer
 ### Code Samples
 
 We sometimes ask our writers for code samples. This is common for tutorials where the writer provides step-by-step instructions. In this case, explaining a concept isn’t usually sufficient—we want concrete examples of how something should be written so the reader can replicate it.
+
+### Github Repository
+
+In cases where there is substantial code included in an article, we will ask our writers to create a well-organized public Github repository to house the project files involved. 
+
 
 ## Why are Content Types and Deliverables Important?
 
