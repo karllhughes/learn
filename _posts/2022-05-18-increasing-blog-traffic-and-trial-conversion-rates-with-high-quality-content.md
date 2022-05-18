@@ -31,7 +31,7 @@ That’s why we reached out to Draft.dev, they came in and everything has been f
 
 Q: What were your goals for the content that you wanted Draft.dev to create?
 
-HENRY:  Status Hero’s goal was to create content that would generate top-of-funnel traffic. We wanted to create content that would attract new customers and retain existing customers. Ultimately we wanted to grow the number of trial users and increase our trial conversion rate. 
+HENRY: Status Hero’s goal was to create content that would generate top-of-funnel traffic. We wanted to create content that would attract new customers and retain existing customers. Ultimately we wanted to grow the number of trial users and increase our trial conversion rate. 
 
 Q: Did you have specific requirements that the content and Draft.dev needed to meet?
 
@@ -49,7 +49,7 @@ HENRY: One of the challenges that arise when you work with writers is that you e
 
 Q: What process did you follow when you started working with Draft.dev?
 
-HENRY: Draft.dev started with a discovery process where they tried to uncover the core of our content goals. The team helped us hone in on what our audience cares about, and used that to build topic clusters that would address those needs. That’s where their expertise was useful because we didn’t want pure keyword content. 
+HENRY: Draft.dev started with a [discovery process](https://draft.dev/learn/client-onboarding) where they tried to uncover the core of our content goals. The team helped us hone in on what our audience cares about, and used that to build topic clusters that would address those needs. That’s where their expertise was useful because we didn’t want pure keyword content. 
 
 Q: What happened after the initial strategy session? 
 
