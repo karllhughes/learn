@@ -25,7 +25,7 @@ We talked to [Henry Poydar](https://www.linkedin.com/in/henrypoydar/), the Found
 
 Q: What internal content challenges led you to work with Draft.dev?
 
-HENRY:  We're a small company and everybody wears many hats. My team is capable of producing awesome content, and we tried publishing content on our own, but we couldn’t do it consistently because we didn’t have enough bandwidth. 
+HENRY: We're a small company and everybody wears many hats. My team is capable of producing awesome content, and we tried publishing content on our own, but we couldn’t do it consistently because we didn’t have enough bandwidth. 
 
 That’s why we reached out to Draft.dev, they came in and everything has been fantastic. 
 
@@ -87,8 +87,8 @@ Q: What would you say to companies that build software products for a technical 
 
 HENRY: Draft.dev has helped us create high-quality content that resonates with our audience on a regular basis. They have helped us double our audience, attract more trial users, and increase our trial conversion rate.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
 Subject Matter Expert Writers. Proven results.
 
-If you'd like to know more how content can help grow your blog and increase your conversion rates, [schedule a call with us](https://draft.dev/call).
+If you'd like to know more about how content can help grow your blog and increase your conversion rates, [schedule a call with us](https://draft.dev/call).
