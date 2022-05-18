@@ -87,6 +87,8 @@ Q: What would you say to companies that build software products for a technical 
 
 HENRY: Draft.dev has helped us create high-quality content that resonates with our audience on a regular basis. They have helped us double our audience, attract more trial users, and increase our trial conversion rate.
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+
 Subject Matter Expert Writers. Proven results.
 
 If you'd like to know more how content can help grow your blog and increase your conversion rates, [schedule a call with us](https://draft.dev/call).
