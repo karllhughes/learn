@@ -53,11 +53,11 @@ HENRY: Draft.dev started with a discovery process where they tried to uncover th
 
 Q: What happened after the initial strategy session? 
 
-HENRY:  Draft.dev helped us with keyword planning for SEO purposes.  Next, they sourced the writers and they got the articles written. We edited the articles together and then we slotted them for publishing.
+HENRY:  Draft.dev helped us with [keyword planning for SEO purposes](https://draft.dev/learn/seo-keyword-opportunities-in-developer-marketing).  Next, they sourced the writers and they got the articles written. We edited the articles together and then we slotted them for publishing.
 
 Q: What did you think of Draft.dev’s writers?
 
- HENRY: I like the fact that Draft.dev’s writers are industry insiders. I’m also happy that Draft.dev gives us access to different writers from different backgrounds because it helps us create diverse content which improves the quality of the content on our blog,
+HENRY: I like the fact that Draft.dev’s writers are industry insiders. I’m also happy that Draft.dev gives us access to different writers from different backgrounds because it helps us create diverse content which improves the quality of the content on our blog,
 
 ## Results
 
