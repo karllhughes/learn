@@ -11,7 +11,7 @@ author: "Clayton "
 date: 2022-05-18T13:49:39.008Z
 img: /assets/posts/henry-poydar-case-study.png
 ---
-Status Hero is a work communication tool that replaces time-consuming meetings and other interruptions with tidy reports.
+[Status Hero](https://statushero.com/) is a work communication tool that replaces time-consuming meetings and other interruptions with tidy reports.
 
 Status Hero partnered with Draft.dev to create high-quality content that would increase top-of-funnel traffic and improve its trial conversion rate. The benefits of this collaboration are clear:
 
@@ -19,7 +19,7 @@ Status Hero partnered with Draft.dev to create high-quality content that would i
 * 50X growth in Medium audience
 * 40 hours saved per week 
 
-We talked to Henry Poydar, the Founder and CEO to learn more about this successful partnership. 
+We talked to [Henry Poydar](https://www.linkedin.com/in/henrypoydar/), the Founder and CEO to learn more about this successful partnership. 
 
 ## Challenges
 
