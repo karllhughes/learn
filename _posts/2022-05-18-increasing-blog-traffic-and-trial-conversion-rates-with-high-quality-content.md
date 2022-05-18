@@ -1,7 +1,6 @@
 ---
 layout: post
-title: " Increasing Blog Traffic and Trial Conversion Rates with High Quality
-  Content  "
+title: Increasing Blog Traffic & Trial Conversion Rate with High Quality Content
 description: Draft.dev has helped Status Hero create high-quality content that
   resonates with their audience on a regular basis.  This article details how
   the collaboration has helped Status Hero double its audience, attract more
