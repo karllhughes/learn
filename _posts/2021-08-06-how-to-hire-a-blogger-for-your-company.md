@@ -6,7 +6,7 @@ categories: content-marketing
 cta: Playbook
 author: meagan
 date: 2021-08-06T11:30:57.582Z
-img: /assets/posts/beverage-blogger-blogging-browsing.jpg
+img: /assets/posts/3142_-draftdev_expert-tips-on-how-to-hire-employees-virtually_1200x2280_option-2.png
 ---
 In the world of marketing, content is king. If your business has any sort of web presence, you’ll need to develop outstanding, valuable, direct content that attracts visitors to your site and helps buyers along their purchasing journey. 
 
