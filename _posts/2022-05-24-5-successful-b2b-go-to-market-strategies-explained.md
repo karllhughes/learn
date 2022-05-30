@@ -115,6 +115,6 @@ The road to choosing a go-to-market strategy can be a long one, and deserves a l
 
 But if you’re still considering a content-oriented go-to-market strategy, [Draft.dev](https://draft.dev/) may be able to help. 
 
-Draft develops technical marketing content for software startups all over the world, bringing company voices to life with technical tutorials, value-drive blogs, and relevant content. We’ve helped 70+ companies launch and maintain their startup GTM strategy with subject-matter experts, facilitating quality content that’s built to impress.
+Draft develops technical marketing content for software startups all over the world, bringing company voices to life with technical tutorials, value-drive blogs, and relevant content. We’ve helped 100+ companies launch and maintain their startup GTM strategy with subject-matter experts, facilitating quality content that’s built to impress.
 
 Think we might be fit? We’d love to chat. [Schedule a Discovery Call](https://draft.dev/call) to discuss your GTM content strategy. Go ahead – it’s free.
