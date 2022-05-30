@@ -26,11 +26,16 @@ SEO-driven content strategies are excellent for any growing startup, and used by
 ### Pros
 
 Long-Term Value: Content continuously generates value. Older posts can be regularly updated to provide additional reach and relevance.
+
+
 Low Cost: Content is one of the most affordable types of marketing material to create, especially written blogs or articles. 
 
 ### Cons
 
 Slow To Start: It may be difficult to delegate writing tasks to pre-existing members of your team, especially if you’re currently working on scaling a business. It may take several months to create a calendar along with ready-to-post content.
+
+
+
 Requires Depth: Good content writing requires specialized knowledge and writers. You may need to hire a freelancer or agency such as [Draft.dev](https://draft.dev/) to create material at scale.
 
 ## Strategy 2: Paid Ads
