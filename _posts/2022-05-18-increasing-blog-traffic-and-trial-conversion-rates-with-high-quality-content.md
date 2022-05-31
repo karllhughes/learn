@@ -9,7 +9,7 @@ categories: content-marketing
 cta: Call
 author: "Clayton "
 date: 2022-05-18T13:49:39.008Z
-img: /assets/posts/henry-poydar-case-study.png
+img: /assets/posts/henry-poydar.png
 ---
 [Status Hero](https://statushero.com/) is a work communication tool that replaces time-consuming meetings and other interruptions with tidy reports.
 
