@@ -9,7 +9,7 @@ categories: content-marketing
 cta: Content Ideas
 author: meagan
 date: 2022-01-29T02:36:27.367Z
-img: /assets/posts/bottom-up.jpg
+img: /assets/posts/2753_draftdev_the-case-for-bottom-up-marketing_1200x2280_option-3.png
 ---
 It doesn’t take a rocket scientist to realize that traditional marketing isn’t working anymore. Customers are barraged with thousands of messages every day, and thanks to tone-deaf strategies, they are becoming less and less interested in responding. This makes it incredibly difficult to measure the [effectiveness of a marketing campaign](https://www.marketingweek.com/marketing-needs-to-take-a-bottom-up-approach/).
 
