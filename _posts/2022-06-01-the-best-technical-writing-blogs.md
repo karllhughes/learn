@@ -31,23 +31,17 @@ These recommendations are a mix of highly specific tech blogs for a certain nich
 
 [I’d Rather Be Writing](https://idratherbewriting.com/) is maintained by technical writer Tom Johnson, who works for Google. It has been around since June 2006. He writes about API documentation, reference guides, and technical communication news and trends. If you are looking to learn about trends in the technical writing industry, then this is a good place to begin. 
 
-| Criteria        | Score |
-| --------------- | ----- |
-| Writing quality | 5     |
-| Consistency     | 5     |
-| Longevity       | 5     |
-| Technical depth | 5     |
+| Criteria  | Score |
+| ------------- |:-------------:|
+| Writing quality      | 5     |
+| Consistency      | 5     |
+| Longevity      | 5     |
+| Technical depth    | 5     |
+
 
 ## ClickHelp Technical Writing Blog
 
 [ClickHelp Technical Writing Blog](https://clickhelp.com/clickhelp-technical-writing-blog/) on the ClickHelp cloud platform site is by and for technical writers. This blog is one of the first that I read to learn more about technical writing, and posts have been added since 2013. It offers resources to help a technical writer of any level, from how to write a quick start guide to what’s required in various tech job positions. The team’s writing style is generally simple and to the point. 
-
-| Criteria        | Score |
-| --------------- | ----- |
-| Writing quality | 5     |
-| Consistency     | 5     |
-| Longevity       | 4     |
-| Technical depth | 5     |
 
 ## TechWhirl
 
