@@ -90,6 +90,6 @@ Creating new opportunities, generating consistent content, and regularly driving
 
 When the time comes for you to track down a writer of your own, be sure to take all the time you need to uncover the perfect fit. While generalized ghostwriters could help you get the process started, they might not always have the technical expertise you need to develop a long-term pipeline. For this reason, relying on highly experienced, carefully vetted candidates will always be your best option.
 
-At [Draft.dev](www.draft.dev), we provide ghost blog writing for technical audiences in many niches. By sourcing writers with actionable, hands-on experience in the field, we help brands generate content at a glance. We’ve helped hundreds of customers find sustainable solutions to content production, creating blog posts and technical tutorials designed to provide legitimate value to a technical audience.
+At [Draft.dev](www.draft.dev), we provide writing for technical audiences in many niches. By sourcing writers with actionable, hands-on experience in the field, we help brands generate content at a glance. We’ve helped hundreds of customers find sustainable solutions to content production, creating blog posts and technical tutorials designed to provide legitimate value to a technical audience.
 
 Looking to get started ASAP? We’d love to chat. [Book a call](https://draft.dev/call) to discuss the content we create to reach software engineers, data managers, and more.
