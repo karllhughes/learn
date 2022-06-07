@@ -20,7 +20,7 @@ In 2005, visionary Brian Halliagan had a revolutionary idea. What if marketing m
 
 Inbound marketing, sometimes referred to as demand generation, is the process of bringing leads to your company rather than forcing yourself on an audience. Demand generation is long-term, powerful, and sustainable in execution, easily one of the [leading marketing strategies](https://sproutsocial.com/insights/inbound-marketing/) for B2B industries.
 
-This article will cover the major elements of demand generation, along with some of the best ways to implement the tactics in your  andB2B. It will include:
+This article will cover the major elements of demand generation, along with some of the best ways to implement the tactics. It will include:
 
 * Why inbound marketing is important
 * Types of B2B demand generation
