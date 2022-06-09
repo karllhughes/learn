@@ -37,7 +37,7 @@ Now that you’re more aware of the different types of technical writing, you ca
 
 ### Draft.dev - Technical Marketing Content That Scales
 
-Offering nothing but technical writing and content marketing, [Draft.dev](https://draft.dev/) curates a wide variety of authentic technical writers from around the globe. All tutorials, blog posts, and marketing content is aimed directly at software developers, data engineers, and DevOps pros – all of which may be interested in partnering with your technical solutions.
+Offering nothing but technical writing and content marketing, [Draft.dev](https://draft.dev/) curates a wide variety of authentic technical writers from around the globe. All tutorials, blog posts, and marketing content are aimed directly at software developers, data engineers, and DevOps pros – all of which may be interested in partnering with your technical solutions.
 
 Apart from technical writing, we also provide:
 
@@ -49,7 +49,7 @@ With Draft, you'll get ready-to-publish blog posts once a week depending on your
 
 We prefer to remain streamlined and specific in our work, extremely focused on our goal of delivering value-driven technical writing. While we currently don’t offer documentation, executive ghostwriting, or content strategy, we’d be more than happy to point you toward providers we feel are a good fit.
 
-Any questions? Feel free to book a call.
+Any questions? [Feel free to book a call](https://draft.dev/call).
 
 ### EveryDeveloper - Technical Content Strategy
 
