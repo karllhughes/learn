@@ -37,13 +37,13 @@ Now that you’re more aware of the different types of technical writing, you ca
 
 ### Draft.dev - Technical Marketing Content That Scales
 
-Offering nothing but technical writing and content marketing, [Draft.dev](https://draft.dev/) curates a wide variety of authentic technical writers from around the globe. All tutorials, blog posts, and marketing content are aimed directly at software developers, data engineers, and DevOps pros – all of which may be interested in partnering with your technical solutions.
+Offering nothing but technical writing and [content marketing](https://draft.dev/learn/content-marketing-at-early-stage-startups), [Draft.dev](https://draft.dev/) curates a wide variety of authentic technical writers from around the globe. All tutorials, blog posts, and marketing content are aimed directly at software developers, data engineers, and DevOps pros – all of which may be interested in partnering with your technical solutions.
 
 Apart from technical writing, we also provide:
 
-* Social media
-* Keyword research
-* Community research
+* [Social media collateral](https://draft.dev/learn/announcing-social-collateral-from-draft-dev)
+* [Keyword research](https://draft.dev/learn/seo-keyword-opportunities-in-developer-marketing)
+* [Community research](https://draft.dev/learn/community-research)
 
 With Draft, you'll get ready-to-publish blog posts once a week depending on your plan. Only pay for content if you’re 100% satisfied, backed by our consistent quality and style that continuously impresses our technical clients.
 
