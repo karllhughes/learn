@@ -11,7 +11,7 @@ author: meagan
 date: 2022-06-09T19:52:11.957Z
 img: /assets/posts/3154_-draftdev_the-best-technical-writing-blogs_1200x2280_option-1.png
 ---
-The range of technical writing services is increasingly vast. Today, there are thousands of potential categories to choose from, each with their own unique tilts, effects, and ROI. And whether you need a little or a lot, you’re bound to feel overwhelmed while hunting for the right option.
+The range of technical writing services is increasingly vast. Today, there are thousands of potential categories to choose from, each with its own unique tilts, effects, and ROI. And whether you need a little or a lot, you’re bound to feel overwhelmed while hunting for the right option.
 
 Even once you’ve narrowed down the type of technical writing service you want, you’ll still need to find a way to bring everything together. Not every team has an in-house expert (or an employee with specific technical writing skills), which is why picking an external partner is critical for bringing it all together. 
 
@@ -77,7 +77,7 @@ Owen Media leans heavily into the marketing side of technical writing. If you’
 
 ### Documentation - ZivTech
 
-Documentation is a primary focus for [ZivTech](https://www.zivtech.com/services/project-delivery/technical-documentation), a Philadelphia based agency with an impressive roster of past clients. Apart from their design, development, and strategy services, ZivTech uses in-house writers to compose extremely detailed documentation work. They currently use HTML5 to create up-to-date guides alongside your team, ensuring that no one is left behind during the development process.
+Documentation is a primary focus for [ZivTech](https://www.zivtech.com/services/project-delivery/technical-documentation), a Philadelphia-based agency with an impressive roster of past clients. Apart from their design, development, and strategy services, ZivTech uses in-house writers to compose extremely detailed documentation work. They currently use HTML5 to create up-to-date guides alongside your team, ensuring that no one is left behind during the development process.
 
 To date, the company offers documentation support that includes:
 
@@ -91,7 +91,7 @@ Again, bear in mind that ZivTech does not offer any technical marketing writing 
 
 ### Jono Bacon - Technical Communities
 
-Last on the list (but most certainly not least), [Jono Bacon](https://www.jonobacon.com/) provides high quality writing services to industries in technical communities. And when we say ‘communities,’ we mean actual online communities. Forums, dev blogs, and other types of online communities are the sole focus of Bacon’s expertise.
+Last on the list (but most certainly not least), [Jono Bacon](https://www.jonobacon.com/) provides high-quality writing services to industries in technical communities. And when we say ‘communities,’ we mean actual online communities. Forums, dev blogs, and other types of online communities are the sole focus of Bacon’s expertise.
 
 Jono offers services that include:
 
@@ -104,14 +104,15 @@ Keep in mind that Jono Bacon doesn’t offer any tech marketing, nor does he spe
 
 ## Choosing The Right Kind Of Technical Writing
 
-In the content industry, knowing what you want and need is key to a successful outcome. As you start narrowing down what you’re looking for, you’ll want to weigh the potential pros and cons for each writing service.
+In the content industry, knowing what you want and need is key to a successful outcome. As you start narrowing down what you’re looking for, you’ll want to weigh the potential pros and cons of each writing service.
 
 Ask yourself:
 
 Will you need additional technical writing services in the future? If so, you may not want to choose just one platform with a singular focus. You’ll save more money in the long run (and have fewer headaches) if you choose a service that scales alongside you.
+
 How much are you willing to spend on your technical writing services? Some platforms list prices right from the get-go, while others have specific or customizable quotes.
 What’s the scale or timeline of the technical writing you need? If you choose a smaller service, it may take several months to get where you want to be. Small agencies may produce a limited amount of content per cycle, which reduces how fast branded content can reach the market.
 
-There’s a lot of thought that goes into a technical writing partnership, no matter what type of content your business is looking to secure. As you narrow down your potential list of providers, be sure and take all the time you need to ask questions, evaluate options, and choose the best possible path forward.
+There’s a lot of thought that goes into a technical writing partnership, no matter what type of content your business is looking to secure. As you narrow down your [potential list of providers](https://draft.dev/learn/finding-a-b2b-seo-agency-that-works-for-you), be sure and take all the time you need to ask questions, evaluate options, and choose the best possible path forward.
 
 If [Draft.dev](https://draft.dev/) is right for your technical writing needs, just [give us a call](https://draft.dev/call)! We’re always jazzed to chat about tech writing – and we’d love to learn more about how we can help. Talk soon!
