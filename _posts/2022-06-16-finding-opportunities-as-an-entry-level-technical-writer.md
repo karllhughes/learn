@@ -81,6 +81,10 @@ I started writing for my blog, and that led to a company reaching out to me to w
 
 Look for freelance opportunities at places like [Upwork](https://www.upwork.com/freelance-jobs/technical-writing/) and the [Community Writing Programs](https://github.com/malgamves/CommunityWriterPrograms) list. Reach out per those opportunities and pitch yourself. The pitch process varies by publication and is best learned by doing. Some will have specific application processes, while others may simply want to see a portfolio or a few short pitches for potential articles you would write for them. Remember you’re selling yourself, so be confident in your skills and portfolio.
 
+
+
+![](/assets/posts/pitching-publications.png)
+
 Cold outreach is also a viable strategy. If a company that interests you has technical writers on their roster, consider emailing cold and asking if they work with freelancers. Even if you are turned down, you’ve shown initiative and potentially made a new connection for future work.
 
 For a new technical writer, rejection or lack of response can be intimidating or may cause self-doubt. But that’s how freelancing works. Be persistent!
