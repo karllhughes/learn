@@ -29,7 +29,7 @@ Technical writing does not need to be flashy. Actually, it should rarely be flas
 
 ### Technical Aptitude
 
-When you first begin technical writing, focus on topics of which you have deep knowledge. “You need to know the intricacies of how things work internally and externally,” full stack developer and technical writer [Ravgeet Dhillon](https://twitter.com/ravgeetdhillon) told me. “Only then you would be able to explain a topic to a complete beginner.
+When you first begin technical writing, focus on topics of which you have deep knowledge. “You need to know the intricacies of how things work internally and externally,” full stack developer and technical writer [Ravgeet Dhillon](https://twitter.com/ravgeetdhillon) told me.“ Only then you would be able to explain a topic to a complete beginner.
 
 When you’re beginning, choosing familiar technical topics will allow you to focus on the craft of writing, instead of research. When I wrote about this topic for [Stackoverflow](https://stackoverflow.blog/2021/08/09/how-writing-can-advance-your-career-as-a-developer/), developer, consultant and author [Adam Duvander](https://twitter.com/adamd) advised that new writers should “pick a fun technical challenge you faced and share how you fixed it. If you do this every month or two, you’ll have more technical posts than almost any other working engineer.”
 
