@@ -39,7 +39,7 @@ As you develop your technical writing skills, you can easily branch out into top
 
 Technical writing focuses primarily on communicating information. You’re not trying to entertain or persuade readers of anything. You’re trying to deliver knowledge in the clearest, most coherent, and simplest way possible. “The flow of the article is very important in a technical piece,” Roy told me. “For example, you don’t want to jump steps or miss important details, making it hard for readers to follow.”
 
-At the same time, remember that readers of technical writing are looking for answers. Ikechukwu suggests following the military acronym [BLUF: bottom line up front](https://www.animalz.co/blog/bottom-line-up-front/). This means putting the most important information at beginning of each section, and providing details afterward.
+At the same time, remember that readers of technical writing are looking for answers. Ikechukwu suggests following the military acronym [BLUF: bottom line up front](https://www.animalz.co/blog/bottom-line-up-front/). This means putting the most important information at beginning of each section and providing details afterward.
 
 Technical writing is different from other genres in that, sometimes, the clearest way to express a concept is with the aid of a screenshot or diagram. Don’t hesitate to use illustrations when necessary. “Adding more illustrations to your writing is better than adding more paragraphs,” Roy told me.
 
@@ -57,6 +57,8 @@ Writing is a practice, and like any practicable skill, the more you do it, the e
 
 Reading technical writing is one of the best ways to get a feel for the style. Write the Docs provides a thorough [documentation guide](https://www.writethedocs.org/guide/writing/docs-principles/), as well as many other resources to better understand technical documentation. If you write code, consider using the guide as a tool to document your own code.
 
+![](/assets/posts/reading-courses2.png)
+
 ### Blogging
 
 Beginning can be intimidating, and your work will never be perfect on the first draft. Choose a topic you understand deeply, or a problem you recently solved. Write about the topic, or narrate how you solved the problem. Once the words are on-page, it’s much easier to go through and revise your work to ensure it’s as clear, correct, and coherent. Bake time into your schedule for writing at least a few times a week. You’ll be amazed at what you can produce when you dedicate time to the practice.
@@ -67,7 +69,7 @@ If you’d like to start your own blog, [Medium](https://medium.com/), [Dev.to](
 
 ### Volunteering
 
-Once you have built up work on a personal blog, consider reaching out to open-source projects or friends in your network. Ask to provide documentation or blog content for their projects. Though this work is unpaid, it’s invaluable experience for learning about how to work with clients, and a great addition to your portfolio. Ikechukwu began writing on her blog, then for [FreeCodeCamp](https://www.freecodecamp.org/). “Working with the editors at FreeCodeCamp helped me improve my writing and gave me the confidence to apply for my first paid writing gig,” she told me.
+Once you have built up work on a personal blog, consider reaching out to open-source projects or friends in your network. Ask to provide documentation or blog content for their projects. Though this work is unpaid, it’s an invaluable experience for learning about how to work with clients, and a great addition to your portfolio. Ikechukwu began writing on her blog, then for [FreeCodeCamp](https://www.freecodecamp.org/). “Working with the editors at FreeCodeCamp helped me improve my writing and gave me the confidence to apply for my first paid writing gig,” she told me.
 
 ## Landing your First Paid Gig
 
@@ -75,13 +77,13 @@ Once you have built up work on a personal blog, consider reaching out to open-so
 
 I started writing for my blog, and that led to a company reaching out to me to write for them. Small opportunities are a great way to test the waters and see if technical writing is a good fit for you. To find them, cast a wide net.
 
-“I came across an article that listed about 7 technical websites that pay you for writing for them,” full stack developer and Raveet Dhillion told me. “I sent my portfolio to all 7 of them.” The more people see your portfolio, the more you have a chance that one will bite.
+“I came across an article that listed about 7 technical websites that pay you for writing for them,” full-stack developer Raveet Dhillion told me. “I sent my portfolio to all 7 of them.” The more people see your portfolio, the more you have a chance that one will bite.
 
-Look for freelance opportunities at places like [Upwork](https://www.upwork.com/freelance-jobs/technical-writing/) and the [Community Writing Programs](https://github.com/malgamves/CommunityWriterPrograms) list. Reach out per those opportunities and pitch yourself. The pitch process varies by publication, and is best learned by doing. Some will have specific application processes, while others may simply want to see a portfolio or a few short pitches for potential articles you would write for them. Remember you’re selling yourself, so be confident in your skills and portfolio.
+Look for freelance opportunities at places like [Upwork](https://www.upwork.com/freelance-jobs/technical-writing/) and the [Community Writing Programs](https://github.com/malgamves/CommunityWriterPrograms) list. Reach out per those opportunities and pitch yourself. The pitch process varies by publication and is best learned by doing. Some will have specific application processes, while others may simply want to see a portfolio or a few short pitches for potential articles you would write for them. Remember you’re selling yourself, so be confident in your skills and portfolio.
 
 Cold outreach is also a viable strategy. If a company that interests you has technical writers on their roster, consider emailing cold and asking if they work with freelancers. Even if you are turned down, you’ve shown initiative and potentially made a new connection for future work.
 
-For a new technical writer, rejection or lack of response can be intimidating, or may cause self-doubt. But that’s how freelancing works. Be persistent!
+For a new technical writer, rejection or lack of response can be intimidating or may cause self-doubt. But that’s how freelancing works. Be persistent!
 
 Draft.dev is always keeping an eye out for new technical writers, so be sure to learn more and [apply here](https://draft.dev/write).
 
