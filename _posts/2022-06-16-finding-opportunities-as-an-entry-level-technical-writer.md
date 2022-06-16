@@ -21,9 +21,9 @@ Of course, my self-doubt is not unique. “I have never considered myself expres
 
 ## What is Technical Writing?
 
-Software engineer and writer [Hrittik Roy](https://twitter.com/hrittikhere) defines technical writing as writing that is “all about communicating complex engineering topics in a way that is easy for the reader to understand, follow and execute without complicated language.” A technical writer’s job is to deliver technical information to another party in clearly and efficiently.
+Software engineer and writer [Hrittik Roy](https://twitter.com/hrittikhere) defines technical writing as writing that is “all about communicating complex engineering topics in a way that is easy for the reader to understand, follow and execute without complicated language.” A technical writer’s job is to deliver technical information to another party clearly and efficiently.
 
-Technical writing does not need to be flashy. Actually, it should rarely be flashy at all! “People who read technical documents are usually looking for answers,” Ikechukwu told me. “It's our jobs as technical writers to help them find those answers as quickly as possible, so they can get back to their own lives.” In order to do that, you need technical aptitude, clarity of thought, and knowledge of your reader base.
+Technical writing does not need to be flashy. Actually, it should rarely be flashy at all! “People who read technical documents are usually looking for answers,” Ikechukwu told me.“ It's our jobs as technical writers to help them find those answers as quickly as possible, so they can get back to their own lives.” In order to do that, you need technical aptitude, clarity of thought, and knowledge of your reader base.
 
 ## Skills You Need
 
@@ -80,8 +80,6 @@ I started writing for my blog, and that led to a company reaching out to me to w
 “I came across an article that listed about 7 technical websites that pay you for writing for them,” full-stack developer Raveet Dhillion told me. “I sent my portfolio to all 7 of them.” The more people see your portfolio, the more you have a chance that one will bite.
 
 Look for freelance opportunities at places like [Upwork](https://www.upwork.com/freelance-jobs/technical-writing/) and the [Community Writing Programs](https://github.com/malgamves/CommunityWriterPrograms) list. Reach out per those opportunities and pitch yourself. The pitch process varies by publication and is best learned by doing. Some will have specific application processes, while others may simply want to see a portfolio or a few short pitches for potential articles you would write for them. Remember you’re selling yourself, so be confident in your skills and portfolio.
-
-
 
 ![](/assets/posts/pitching-publications.png)
 
