@@ -7,7 +7,7 @@ description: Hiring employees online opens up a myriad of exciting
   do the whole process online.
 categories: content-marketing
 cta: Playbook
-author: karl
+author: william
 date: 2022-06-22T17:57:24.170Z
 img: /assets/posts/3142_-draftdev_expert-tips-on-how-to-hire-employees-virtually_1200x2280_option-1.png
 ---
