@@ -120,6 +120,16 @@ Sponsorship rates: $2,749 for a 6-week product add
 
 Contact email/info: <https://orenellenbogen.gumroad.com/l/swlw-6w-product-ad?recommended_by=mc>
 
+**[Tech Manager Weekly](https://www.techmanagerweekly.com/)**
+
+Curated technology leadership and management articles from around the web.
+
+Number of subscribers: 4,500
+
+Sponsorship rates: Varies
+
+Contact email/info: partners@ctocraft.com
+
 ## Topic: Web Development
 
 **[JAMstacked](https://jamstack.email/)**
@@ -130,7 +140,7 @@ Number of subscribers: 3,406
 
 Sponsorship rates: <https://cooperpress.com/files/cooperpress-media-kit-q2-2022.pdf>
 
-Contact email/info:https://cooperpress.com/advertise and sales@cooperpress.com
+Contact email/info: <https://cooperpress.com/advertise> and sales@cooperpress.com
 
 **[FreeCodeCamp Newsletter](https://www.freecodecamp.org/)**
 
@@ -150,7 +160,7 @@ Number of subscribers: 80,000+
 
 Sponsorship rates: 
 
-Contact email/info: https://devawesome.io/contact
+Contact email/info: <https://devawesome.io/contact>
 
 **[Web Development Reading List](https://wdrl.info/)**
 
