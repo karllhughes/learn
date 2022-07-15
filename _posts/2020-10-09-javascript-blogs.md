@@ -135,7 +135,7 @@ CSS Wizardry is the blog of Harry Roberts, an award-winning independent Web Engi
 
 ### 10. **[Tania Rascia](https://www.taniarascia.com/)**
 
-Tania is a Senior Software Engineer and open-source hobbyist. She has been featured in the official React docs, won 3rd in Personal Dev Blog of the Year, and has written dozens of articles for DigitalOcean, SitePoint, Envato Tuts+, and more. Her blog content consists of articles, tutorials, and tips on programming, and are sought after by millions every year. The blog displays the author's technical expertise and ability to break down complicated subjects into simple terms. Tania's writing is excellent, concise, and informative. There are little to no errors or inaccuracies, and facts are backed up with code snapshots and links. On average 1-2 new articles are published every month and have been since 2015.
+Tania is a Senior Software Engineer and open-source hobbyist. She has been featured in the official React docs, won 3rd in Personal Dev Blog of the Year, and has written dozens of articles for DigitalOcean, SitePoint, Envato Tuts+, and more. Her web dev blog content consists of articles, tutorials, and tips on programming, and are sought after by millions every year. The blog displays the author’s technical expertise and ability to break down complicated subjects into simple terms which makes it one of the best programming blogs for beginners. Tania’s writing is excellent, concise, and informative. There are little to no errors or inaccuracies, and facts are backed up with code snapshots and links. On average 1-2 new articles are published every month and have been since 2015.
 
 * Writing Quality - 5
 * Consistency -  3
@@ -185,7 +185,7 @@ Marmelab is a French software research and development agency that helps clients
 
 ![Algolia blog home page](https://i.imgur.com/c6VcZ2w.png)
 
-Algolia is a search-as-a-service platform with a robust API for developers. The blog produces posts on engineering, eCommerce, and of course, Algolia product integrations. The content is useful for most programmers, despite expected company promotions, and both Algolia employees and users contribute. Articles are a combination of conceptual and technical, and the writing quality is well above average. Facts and claims are backed up with code snippets and useful links. The blog consistently publishes multiple original posts every month.
+Algolia is a search-as-a-service platform with a robust API for developers. The blog produces posts on engineering, eCommerce, and of course, Algolia product integrations. The content is useful for most programmers, despite expected company promotions, and both Algolia employees and users contribute. Articles are a combination of conceptual and technical, and the writing quality is well above average. Facts and claims are backed up with code snippets and useful links. This web dev blog consistently publishes multiple original posts every month.
 
 * Writing Quality - 4
 * Consistency -  5
@@ -197,7 +197,7 @@ Algolia is a search-as-a-service platform with a robust API for developers. The 
 
 ### 15. **[DHTMLX](https://dhtmlx.com/blog/)**
 
-DHTMLX is a Javascript UI framework that provides high-speed web and mobile app development with customizable HTML5 UI controls. This blog is more applicable if you use DHTMLX, but even without, there is some value to be extracted here. Predictably, many of the blog's articles are product updates or tutorials specifically for their product suite. However, there is a healthy amount of otherwise relevant but non-company promotional pieces. The blog is strictly technical, and thus posts are geared towards active developers familiar with programming fundamentals. The blog's writing quality is not perfect but compares well against other company blogs. Articles are formatted sensibly and utilize a variety of supporting images and code examples. The blog is published regularly, but not exclusively limited to Javascript.
+DHTMLX is a Javascript UI framework that provides high-speed web and mobile app development with customizable HTML5 UI controls. This blog is more applicable if you use DHTMLX, but even without, there is some value to be extracted here. Predictably, many of the blog’s articles are product updates or tutorials specifically for their product suite. However, there is a healthy amount of otherwise relevant but non-company promotional pieces. The blog is strictly technical, and thus posts are geared towards active developers familiar with programming fundamentals. This developer blog’s writing quality is not perfect but compares well against other company blogs. Articles are formatted sensibly and utilize a variety of supporting images and code examples. The blog is published regularly, but not exclusively limited to Javascript.
 
 * Writing Quality - 4
 * Consistency -  3
@@ -209,7 +209,7 @@ DHTMLX is a Javascript UI framework that provides high-speed web and mobile app 
 
 ### 16. **[Stuff and Nonsense](https://stuffandnonsense.co.uk/)**
 
-Stuff and Nonsense is a web design blog by Andy Clarke, a well-known Welsh web designer who has worked with WWF, Greenpeace, Disney Store UK, Home Office UK, and more. There are two content sections: "Articles" and "Blogs," both of which contain ample posts on design concepts and styles. While this may be useful for a web designer, a web developer may be less intrigued without a mention of code on the blog in years. While the articles show understanding of web design concepts and machinations, they remain on the surface level and make no attempt to touch upon code or programming details. Clarke's writing is excellent and has minor blemishes. The blog's content is informative and includes relevant links and visuals.
+Stuff and Nonsense is a web design blog by Andy Clarke, a well-known Welsh web designer who has worked with WWF, Greenpeace, Disney Store UK, Home Office UK, and more. There are two content sections: “Articles” and “Blogs,” both of which contain ample posts on design concepts and styles. While this may be useful for a web designer, a web developer may be less intrigued without a mention of code on the blog in years. While the articles show understanding of web design concepts and machinations, they remain on the surface level and make no attempt to touch upon code or programming details. Clarke’s writing is excellent and has minor blemishes. The blog’s content is informative and includes relevant links and visuals, but it's more of a blog for designers rather than a developer blog.
 
 * Writing Quality - 4
 * Consistency -  4
@@ -245,7 +245,7 @@ BedRock Tech is the Technical Blog for the French Media company Bedrock Streamin
 
 ### 19. **[Dev](https://dev.to/)**
 
-[Dev.to](http://dev.to/) is an open-source social network for computer programming. Posts are crowd-sourced an updated in real-time, providing a huge centralized source of new content that you can also post a response to. Many of the articles are simple, short-form posts, but the majority of posts maintain a high standard of technical mastery. With any community blog, the diverse community means diverse writing quality and style.[ Dev.to](http://dev.to/) is no exception, but the blog's standard is higher than expected. Posts are aesthetically pleasing and refined enough to prevent grammar mistakes. Crowdsourced posts are published all day every day.
+[Dev.to](http://dev.to/) is an open-source social network for computer programming. Posts are crowd-sourced an updated in real-time, providing a huge centralized source of new content that you can also post a response to. Many of the articles are simple, short-form posts, but the majority of posts maintain a high standard of technical mastery. With any community blog, the diverse community means diverse writing quality and style.[ Dev.to](http://dev.to/) is no exception, but the blog's standard is higher than expected. Posts are aesthetically pleasing and refined enough to prevent grammar mistakes. Crowdsourced developer blog posts are published all day every day.
 
 * Writing Quality - 4
 * Consistency -  5
@@ -269,7 +269,7 @@ This is the self-named personal blog of a front-end software developer, Dmitri P
 
 ### 21. **[Nodesource](https://nodesource.com/blog)**
 
-Nodesource is a platform that enables organizations to build, manage, secure, and analyze Node.js applications. The majority of articles are product updates and demos, but some articles dive into Node.js. Nodesource's posts are technically sound and provide enterprise-level JavaScript expertise. The blog's content is superbly written, both in content and grammar, and there are minimal errors and ample sources for the reader. The blog sees anywhere from 1-4 new posts each month.
+Nodesource is a platform that enables organizations to build, manage, secure, and analyze Node.js applications. The majority of articles are product updates and demos, but some articles dive into Node.js. Nodesource’s posts are technically sound and provide enterprise-level JavaScript expertise. This node js blog’s content is superbly written, both in content and grammar, and there are minimal errors and ample sources for the reader. The blog sees anywhere from 1-4 new posts each month.
 
 * Writing Quality - 5
 * Consistency -  3
@@ -293,7 +293,7 @@ Reginald Braithewait is a programmer whose interests include constructing surrea
 
 ### 23. **[Codeshare](https://codeshare.co.uk/)**
 
-The blog's topics are mostly tutorials and troubleshooting guides for common technical issues. They are a collection of experiences and methods used by active programmers and would serve useful to other Web Developers as well. Most articles are relatively short-form but technical nonetheless. A small crew of writers shows their programming prowess, which frankly supersedes minor grammar issues so long as programmers reading the articles get the point. Images and supporting links are frequently used to boost content quality. Expect a couple of sporadic posts per month.
+The blog’s topics are mostly tutorials and troubleshooting guides for common technical issues. They are a collection of experiences and methods used by active programmers and would serve useful to other Web Developers as well. Most articles are relatively short-form but technical nonetheless. A small crew of writers shows their programming prowess, which frankly supersedes minor grammar issues so long as programmers reading the articles get the point. Images and supporting links are frequently used to boost content quality. Codeshare’s focus on video tutorials make it a great space to learn and enhance your skill set adding to its reputation as a highly engaging developer blog. Expect a couple of sporadic posts per month.
 
 * Writing Quality - 3
 * Consistency -  4
@@ -317,7 +317,7 @@ This is the blog for the Oracle Developers community program, which features cur
 
 ### 25. **[JSManifest](https://jsmanifest.com/)**
 
-JS Manifest is a niche blog that covers JavaScript for web development, smartphones, desktops, robots, AI, and more. The blog consists of detailed long-form articles with real applications most programmers can use. Articles are thorough and provide a sense of expert knowledge, and the writing is above average. The formatting is not always the best, but the content is otherwise solid. Each article contains multiple visuals but, unfortunately, doesn't include many supporting links. The blog is updated a couple of times per month.
+JS Manifest is a niche blog that covers JavaScript for web development, smartphones, desktops, robots, AI, and more. The blog consists of detailed long-form articles with real applications most programmers can use. Articles are thorough and provide a sense of expert knowledge, and the writing is above average. The formatting is not always the best, but the content is otherwise solid. Each article contains multiple visuals but, unfortunately, doesn't include many supporting links. This developer blog is updated a couple of times per month.
 
 * Writing Quality - 3
 * Consistency -  3
