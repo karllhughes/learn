@@ -10,7 +10,7 @@ categories: marketing-titles
 cta: Content Ideas
 author: meagan
 date: 2022-03-02T16:28:54.965Z
-img: /assets/posts/stock.png
+img: /assets/posts/3258_draftdev_what-is-developer-experience_1200x2280_option-2.png
 ---
 More than [30,000 new products](https://www.forbes.com/sites/shamahyder/2019/10/17/how-to-launch-a-new-product-or-service-what-the-latest-research-teaches-us-about-successful-launches/) are developed and launched each year in the CPG market. Backed by millions of dollars and thousands of hours of work, they represent the best innovations of the world’s brightest minds. But not everyone sees it that way: [only 1,500](https://www.inc.com/marc-emmer/95-percent-of-new-products-fail-here-are-6-steps-to-make-sure-yours-dont.html) of these products will ever make a marginal profit from consumers. Even if said products are positively game-changing, failure to properly position and market them could result in objective failure.
 
