@@ -17,8 +17,6 @@ However, every startup I’ve talked to struggles to find a marketing agency tha
 
 So in this piece, I’m going to give you an agency-owner’s perspective on finding the right partner for your startup. I’ll share some of the qualities you should look for, pitfalls you should avoid, and tips from other startup marketing agencies on finding the perfect client-agency fit.
 
-
-
 ## Why Is Finding the Right Agency so Hard?
 
 Part of the problem is choice; there’s too much of it. There are more than [86,000](https://www.ibisworld.com/industry-statistics/number-of-businesses/advertising-agencies-united-states/) advertising agencies in the U.S. alone, and frankly, a number of them aren’t very experienced at what they’re doing. 
@@ -31,11 +29,11 @@ This kind of thing is very hard to do. As a client, you can’t reliably assess 
 
 Clients get the most out of their relationship with us after they have clearly identified their marketing mix and the role content plays in it. It makes for a much more productive engagement when you know where most of your leads are going to come from and you only need the external expertise to leverage those channels.
 
-
-
 Before you approach an agency, get a firm fix on your short- and long-term goals. Once you have those, you can reverse engineer a marketing strategy to help you get there. Good agencies will make a point of learning about your organizational goals and will set objectives that you can track. 
 
-Something else startups tend to underestimate is the value of an internal point-person for the agency. As Alex Birkett, Co-Founder of [Omniscient Digital](https://beomniscient.com/) says, “A good agency will eventually operate mostly autonomously, but during the first few months, it helps to have a dedicated employee who can be the bridge between internal strategy and goal setting and the agency's work, as well as a quality judge to make sure the agency is on the right track. Agencies can accelerate your progress in a given area, but there are always things you know about your company and industry that an agency will have to learn. ”
+Something else startups tend to underestimate is the value of an internal point-person for the agency. As Alex Birkett, Co-Founder of [Omniscient Digital](https://beomniscient.com/) says, “A good agency will eventually operate mostly autonomously, but during the first few months, it helps to have a dedicated employee who can be the bridge between internal strategy and goal setting and the agency's work, as well as a quality judge to make sure the agency is on the right track. Agencies can accelerate your progress in a given area, but there are always things you know about your company and industry that an agency will have to learn.”
+
+![People working at a marketing agency](https://i.imgur.com/v4PqE46.jpg)
 
 ## How to Screen Marketing Agencies 
 
@@ -55,8 +53,6 @@ One of the biggest things to avoid if you’re a startup are marketing agencies 
 
 As a startup, some of the top-tier agencies that require $100,000+ budgets and year-long commitments may be out of reach. Small-to-mid-sized agencies that are more flexible are often a better fit, but inherently riskier because they don’t have as much experience.
 
-
-
 At Draft, we typically look for quarterly commitments at a minimum. Sometimes, clients want just a few articles to begin with or are restricted by their funding cycle. In this case, we’ll often refer them to a freelancer or even a competitor that we trust to do quality work. This ensures the client has a good experience, and many come back to us when they want to scale it up, because smaller players will struggle to handle engagements with larger volumes.
 
 ### 3. Experience
@@ -71,15 +67,11 @@ If you asked a run-of-the-mill writer to work on something complex like “tips 
 
 Most of our clients come to us through referrals. You’ll see the same trend in most good agencies out there because clients prefer recommendations when they go shopping for services. This is often the best way to find trustworthy partners that you can rely on.
 
-
-
 For startups, verifying an agency’s reputation is even more important, because one bad engagement can set you behind on your targets and affect your growth. Do a background check on your agency by talking to other clients. Look at reviews on sites like [Clutch](https://clutch.co/), [Expertise](https://www.expertise.com/), and [Yelp](https://www.yelp.com/) to see what their track record is like. If they’re overselling themselves or have left clients in the lurch, you’re likely to find a mention of it somewhere.
 
 ### 5. Transparent Processes
 
 Transparency helps set expectations. It gives the client more information to work with when they’re evaluating agencies, and it reduces chances of a disconnect later on. Through our [onboarding process](https://draft.dev/learn/client-onboarding), for instance, we aim to give our clients a really good sense of what we can and can’t do, the timelines we follow, and the workflows we use to guarantee high-quality content.  
-
-
 
 I’ll admit, there’s something in it for us too. When a client knows that they can count on us to deliver what we’ve promised, they’re much more likely to come back to us for the same service and refer us to other companies. 
 
@@ -87,11 +79,7 @@ I’ll admit, there’s something in it for us too. When a client knows that the
 
 Most agencies can’t guarantee specific performance on expenditure, and that’s not necessarily a bad thing. Digital marketing is complex, and often the agency’s work relies on other inputs from the client that they cannot control. 
 
-
-
 Knowing that there are limits on what’s possible can help you manage expectations going into an engagement, and good agencies will tell you as much. As Huffman admits, “I wish I could guarantee results, but it's a lie. Every business and customer set is different. Instead, we guarantee our process and our output or growth experiments. Usually, the results follow. There are other ways for companies to protect themselves with shorter contracts or a 30-day out.  If you insist on \[performance-based compensation], then be open to two things: 1) a hybrid of retainer and performance base and 2) be very clear on how you track the performance.”
-
-
 
 ## How to Vet a Startup Marketing Agency
 
