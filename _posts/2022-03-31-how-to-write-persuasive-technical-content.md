@@ -9,7 +9,7 @@ categories: writing
 cta: Playbook
 author: karl
 date: 2022-03-31T09:00:46.172Z
-img: /assets/posts/persuasion2.jpg
+img: /assets/posts/b2b-saas-marketing-guide.jpg
 ---
 I’ve gotten to be a big fan of [David Perell’s writing](https://perell.com/essays/). He writes long-form, persuasive content where he dives really deep into a topic and then explains its relevance in philosophy, business, or both.
 
