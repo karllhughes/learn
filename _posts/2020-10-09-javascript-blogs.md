@@ -17,7 +17,7 @@ Based on those criteria, here are the 26 best JavaScript blogs I could find:
 
 ### 1. **[Ben Nadel](https://www.bennadel.com/blog/complete-blog-entry-list.htm)**
 
-Ben Nadel is a NY-based programmer, co-founder, and principal engineer at InVision App, Inc, a design and user experience (UX) company. His blog — sometimes known as "The Kinky Solutions" blog — documents his programming experimentation. The blog has a huge collection of useful and in-depth articles which is a treasure trove for any web developer. The nearly 15-year-old blog is an excellent vector for demonstrating Nadel's technical expertise and strong technical programming knowledge. The blog’s writing quality is excellent, and I found it clean, concise, and thought-provoking. Expect several new articles every month, if not more.
+Ben Nadel is a NY-based programmer, co-founder, and principal engineer at InVision App, Inc, a design and user experience (UX) company. His blog — sometimes known as “The Kinky Solutions” blog — documents his programming experimentation. The blog has a huge collection of useful and in-depth articles which is a treasure trove for any web developer looking for blogs for programmers. The nearly 15-year-old blog is an excellent vector for demonstrating Nadel’s technical expertise and strong technical programming knowledge. The blog’s writing quality is excellent, and I found it clean, concise, and thought-provoking. The consistency in which he posts articles (several new articles every month) adds to it being one of the best programming blogs for web developers.
 
 * Writing Quality - 5
 * Consistency -  5
@@ -33,7 +33,7 @@ Ben Nadel is a NY-based programmer, co-founder, and principal engineer at InVisi
 
 ![CSS Tricks home page](https://i.imgur.com/t9Sx26n.png)
 
-CSS Tricks is a blog that’s been active on Front End Development and building websites since 2007. Their army of writers publishes articles on tangible programming exercises and strategies, and the content is as diverse as the writers themselves. They have some for-sale books and merchandise confined to a sales part of the site, leaving articles unencumbered. While every author is different, the writing style and content is top-notch, well-organized, and features a plethora of applicable visuals and interactive code samples. Articles range in length but are generally thorough and technical. The subject matter can be simple but is commonly moderate to advanced with proportionately advanced explanations. I found they publish multiple posts per week.
+CSS Tricks is a web dev blog that’s been active on Front End Development and building websites since 2007. Their army of writers publishes articles on tangible programming exercises and strategies, and the content is as diverse as the writers themselves. They have some for-sale books and merchandise confined to a sales part of the site, leaving articles unencumbered. While every author is different, the writing style and content is top-notch, well-organized, and features a plethora of applicable visuals and interactive code samples. Articles range in length but are generally thorough and technical. The subject matter can be simple but is commonly moderate to advanced with proportionately advanced explanations. I found they publish multiple posts per week and are one of the more popular web dev blogs.
 
 * Writing Quality - 4.5
 * Consistency -  5
@@ -47,7 +47,7 @@ CSS Tricks is a blog that’s been active on Front End Development and building 
 
 ![Smashing Mag home page](https://i.imgur.com/4TCfvje.png)
 
-SmashingMagazine is an independent programming publication that posts articles written by and for programmers. The blog's articles range in topic, but are all applicable to web programmers. My only knocks on them are the full-screen in-text ads and company promotions. All articles are written and reviewed by programmers to ensure their usefulness and legitimacy. Look for articles of moderate to expert technical proficiency without any personal rambles or filler.  The blog is published multiple times per week on a consistent basis. The blog's writing quality is mostly excellent, with minor grammatical blemishes that don’t take away from the content. Each article features several supporting visuals and links, which helps speak to programmers in any language.
+SmashingMagazine is an independent programming publication that posts articles written by and for developers making it the quintessential blog for programmers. The blog’s articles range in topics, but are all applicable to web programmers. My only knocks on them are the full-screen in-text ads and company promotions. All articles are written and reviewed by programmers to ensure their usefulness and legitimacy. Look for articles of moderate to expert technical proficiency without any personal rambles or filler. The blog is published multiple times per week on a consistent basis. The blog’s writing quality is mostly excellent, with minor grammatical blemishes that don’t take away from the content. Each article features several supporting visuals and links, which helps speak to programmers in any language.
 
 * Writing Quality - 4
 * Consistency -  5
@@ -85,7 +85,7 @@ Theodo is a software development consulting company that enlists teams of full-s
 
 This is the self-named blog by web developer and software engineer David Walsh. Walsh is a Senior Software Engineer and evangelist for Mozilla, Core Developer for the MooTools JavaScript Framework, creator of numerous MooTools plugins, Founder of [Script & Style](https://scriptandstyle.simplecast.com/) and
 
-Founder of Wynq Web Labs. His blog is a collection of web development articles, tutorials, and demos. Articles are not incredibly long, but are technically sound and helpful to almost any programmer. Minor spelling and grammar issues are present, but not enough to detract from the value-add and presentation of the content. David makes multiple posts per week.
+Founder of Wynq Web Labs. His blog for programmers is a collection of web development articles, tutorials, and demos. Articles are not incredibly long, but are technically sound and helpful to almost any programmer. Minor spelling and grammar issues are present, but not enough to detract from the value-add and presentation of the content. David makes multiple posts per week.
 
 * Writing Quality - 4
 * Consistency -  5
@@ -99,7 +99,7 @@ Founder of Wynq Web Labs. His blog is a collection of web development articles, 
 
 ![2ality article](https://i.imgur.com/X9ERGoX.png)
 
-The 2ality blog is written by Dr. Axel Rauschmayer, a Munich-based web developer. Axel specializes in JavaScript and has been developing web applications since 1995. Since 2011, he has been blogging at 2ality.com and has written several books on JavaScript. The blog is a collection of hundreds of different Javascript commands, functions, and projects. The content is very thorough and demonstrates strong technical proficiency across the board. The blog is published at least once a month, sometimes as many as several new articles in the same span. The writing quality is dense and informative, but a little dry. Articles are text-heavy with lots of code snapshots, but barely any links or visuals.
+The 2ality blog is written by Dr. Axel Rauschmayer, a Munich-based web developer. Axel specializes in JavaScript and has been developing web applications since 1995. Since 2011, he has been blogging at 2ality.com and has written several books on JavaScript. The blog is a collection of hundreds of different Javascript commands, functions, and projects. The content is very thorough and demonstrates strong technical proficiency across the board. This web dev blog is published at least once a month, sometimes as many as several new articles in the same span. The writing quality is dense and informative, but a little dry. Articles are text-heavy with lots of code snapshots, but barely any links or visuals.
 
 * Writing Quality - 4
 * Consistency -  3
