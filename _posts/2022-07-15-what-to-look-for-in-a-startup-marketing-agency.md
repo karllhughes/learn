@@ -39,7 +39,7 @@ Something else startups tend to underestimate is the value of an internal point-
 
 Finding available agencies is easy enough. Tried-and-tested methods for doing this include referrals, online searches, and consulting independent agency rankings and awards. The challenge is screening them so that you end up with a couple that are a good fit. I recommend using a range of criteria to do this: 
 
-### Niche vs. Full-Service
+### 1. Niche vs. Full-Service
 
 One of the first decisions you’ll have to make is whether you want to go with a specialized agency or a full-service one.
 
