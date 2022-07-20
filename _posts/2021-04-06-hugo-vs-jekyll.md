@@ -29,48 +29,61 @@ You could simply write an HTML page and put it on a server, hearkening back to t
 
 One of the first static site generators to restart this trend in web development was Jekyll. Hugo joined in five years later.
 
+## What is Hugo?
+
+Hugo is a super fast, highly secure static site generator that positions themselves as a fun and modern website building tool. It is written in Go and sites can be hosted anywhere. One of the more standout features is that Hugo static sites don’t need a database on runtimes like Ruby, PHP or Python. According to their website, Hugo static site generator “is the fastest tool of its kind” listing average site builds speeds of under a second. \
+More information on “[What is Hugo](https://gohugo.io/about/what-is-hugo/)”.
+
+## What is Jekyll?
+
+Jekyll is an open source static site generator written in Ruby by the co-founder of Github, Tom Preston-Werner. It translates plain text documents into static sites that can be used for informational based websites or blogs. It has built-in support for Github pages and is one of the more popular static site generators available.\
+More information on “[What is Jekyll](https://jekyllrb.com/)”
+
 ## Hugo vs. Jekyll
 
 With either generator, you can get a templated [blog up and running](https://draft.dev/learn/startup-blogging-platforms) in under thirty minutes. If you’re starting from nothing, Hugo is slightly easier to install. With Jekyll, you have to install a [couple prerequisites](https://jekyllrb.com/docs/installation/#requirements) like Ruby. Go comes as a precompiled binary bundled along with the Hugo installation.
 
-For both frameworks, you’d normally write a content file like a blog post in HTML or Markdown. This content gets combined with HTML templates, which wrap and style the content, outputting an HTML file for display on the web.
+For both Jekyll and Hugo frameworks, you’d normally write a content file like a blog post in HTML or Markdown. This content gets combined with HTML templates, which wrap and style the content, outputting an HTML file for display on the web.
 
 Both frameworks allow developers to add variables to content, using the YAML markup language, and consume data files in common formats like JSON and CSV. Both frameworks also come with a number of features useful for a blog, like tags and the ability to route content files to finished HTML pages. They are also open source, so you can request changes and [contribute](https://jekyllrb.com/docs/contributing/) [improvements](https://gohugo.io/contribute/development/).
 
-The first and most fundamental difference between the two frameworks is the language they’re written in. Jekyll is written in Ruby, a popular scripting language that was one of the first languages to come with an opinionated web framework, making it extremely popular for building websites quickly. Hugo is written in Go, which was developed at Google with an eye on concurrent execution, optimizing for deployment in cloud environments where computing power is distributed across many machines. 
+The first and most fundamental difference between the Jekyll and Hugo  frameworks is the language they’re written in. Jekyll is written in Ruby, a popular scripting language that was one of the first languages to come with an opinionated web framework, making it extremely popular for building websites quickly. Hugo is written in Go, which was developed at Google with an eye on concurrent execution, optimizing for deployment in cloud environments where computing power is distributed across many machines.
 
-Each framework also has different preferences about what languages it works well with. Jekyll offers support for [CoffeeScript](http://coffeescript.org/) and SASS/SCSS. Hugo supports TOML and JSON markdown in content files, but supporting SASS and SCSS might require [some additional setup](https://gohugo.io/troubleshooting/faq/#i-get-tocss--this-feature-is-not-available-in-your-current-hugo-version).  
+Each framework also has different preferences about what languages it works well with. Jekyll offers support for [CoffeeScript](http://coffeescript.org/) and SASS/SCSS. Hugo supports TOML and JSON markdown in content files, but supporting SASS and SCSS might require [some additional setup](https://gohugo.io/troubleshooting/faq/#i-get-tocss--this-feature-is-not-available-in-your-current-hugo-version).
 
 ![The Jekyll framework](https://imgur.com/DsSqC7u.png)
 
 ### The Template Situation
 
-One of the main benefits of Jekyll is its ease of use, well-developed documentation, and broad support from major organizations like GitHub. Jekyll was released twelve years ago and helped kick off the new interest in static HTML sites. Hugo was released later and is less popular, so it has a less developed ecosystem of plug-ins and templates.
+One of the main benefits of the Jekyll framework is its ease of use, well-developed documentation, and broad support from major organizations like GitHub. Jekyll was released twelve years ago and helped kick off the new interest in static HTML sites. Hugo was released later and is less popular, so it has a less developed ecosystem of plug-ins and templates.
 
-GitHub topics offers a whopping [1,200 themes](https://github.com/topics/jekyll-theme) to choose from for Jekyll, while there are only 370 options offered on the Hugo [themes pages](https://themes.gohugo.io/) ([although, you can also create your own themes](/learn/creating-hugo-themes)). Obviously, it’s much more likely you’ll find a theme with the look you want with Jekyll. Jekyll is supported by GitHub, so if you want a simple, no-cost deployment, Jekyll works seamlessly with [GitHub Pages](https://pages.github.com/), so you can have a simple blog up and online very quickly by following GitHub’s [excellent documentation](https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll).
+GitHub topics offers a whopping [1,200 themes](https://github.com/topics/jekyll-theme) to choose from for Jekyll, while there are only 370 options offered on the Hugo [themes pages](https://themes.gohugo.io/) ([although, you can also create your own themes](https://draft.dev/learn/creating-hugo-themes)). Obviously, it’s much more likely you’ll find a theme with the look you want with Jekyll. Jekyll is supported by GitHub, so if you want a simple, no-cost deployment, Jekyll works seamlessly with [GitHub Pages](https://pages.github.com/), so you can have a simple Jekyll blog up and online very quickly by following GitHub’s [excellent documentation](https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll).
 
-Another difference between the frameworks is that creating a brand-new site with Jekyll by running the command `jekyll new my-awesome-site` installs a basic theme, while creating a new site with the `hugo new site my-awesome-site` command only generates the folder structure and an archetype file. With Jekyll, you’ll have something to work with right away, but with Hugo you’ll be looking at an empty screen waiting for you to add a theme or custom templates.
+Another difference between the Hugo and Jekyll frameworks is that creating a brand-new site with Jekyll by running the command jekyll new my-awesome-site installs a basic theme, while creating a new site with the hugo new site my-awesome-site command only generates the folder structure and an archetype file. With Jekyll, you’ll have something to work with right away, but with Hugo you’ll be looking at an empty screen waiting for you to add a theme or custom templates.
 
 This can be great for a totally customized setup, but Jekyll has a much quicker path to seeing content you can work with.
+
+
 
 ![First post with Jekyll](https://imgur.com/V8eJrtu.png)
 
 ### Speed, More Speed
 
-One of the major benefits of using Hugo [is its speed](https://forestry.io/blog/hugo-vs-jekyll-benchmark/). Leveraging the focus on concurrency of the Go language means blogs with thousands of entries or tons of images will generate HTML more quickly. That matters if you’re running code anywhere you’re paying for computing power.
+One of the major benefits of using the Hugo static site generator [is its speed](https://forestry.io/blog/hugo-vs-jekyll-benchmark/). Leveraging the focus on concurrency of the Go language means blogs with thousands of entries or tons of images will generate HTML more quickly. That matters if you’re running code anywhere you’re paying for computing power.
 
 It also matters during development, because changes that you make to templates or content are re-rendered more quickly with Hugo. This speed difference is noticeable even at low page counts, but it becomes significant if you’re building a hundred pages of content.
 
 ![The Hugo framework](https://imgur.com/3OihlRh.png)
 
 ### Hugo Bonuses
+
 Hugo offers support for internationalization, providing multiple ways to categorize content in different languages. Hugo also offers image processing, built-in menus, site mapping, and live reloading.
 
 You can achieve the same result in Jekyll, but it’ll take more work to set up. In Jekyll, this functionality comes from plug-ins, but if you’re building complicated pages, it’s nice to have it built-in.
 
 ### Hosting
 
-Both languages offer options for easy hosting, but Jekyll is the simplest. Jekyll and GitHub Pages have a close, long relationship, and deploying a Jekyll project to GitHub Pages is simple and fast, which can be a great option for trying out a blog.
+Both languages offer options for easy hosting, but Jekyll is the simplest. Jekyll and GitHub Pages have a close, long relationship, and deploying a Jekyll project to GitHub Pages is simple and fast, which can be a great option for trying out a blog with Jekyll.
 
 Hugo also offers many hosting options. For both generators, you have two fundamental options:
 
@@ -79,8 +92,8 @@ Hugo also offers many hosting options. For both generators, you have two fundame
 
 ## What to Choose
 
-Jekyll and Hugo are both well suited for blogs and other frontend-oriented sites. They generate static HTML pages by combining content written in a markdown language with HTML templates.  
+Jekyll and Hugo are both well suited for blogs and other frontend-oriented sites. They generate static HTML pages by combining content written in a markdown language with HTML templates.
 
-Jekyll has the fastest setup, more options for templates, and offers an easier experience when getting started, but it can start to feel slow once you’re processing a hundred pages. Hugo's initial setup is more complicated, but it can handle larger sites with more speed.
+The Jekyll static site generator has the fastest setup, more options for templates, and offers an easier experience when getting started, but it can start to feel slow once you’re processing a hundred pages. Hugo’s initial setup is more complicated, but it can handle larger sites with more speed, for example a Hugo blog.
 
 When deciding, think about the languages you’re familiar with, the types of markdown you want to use, and how you’ll deploy the site. If you want to start blogging right away, Jekyll is a great fit, but if you anticipate writing lots of content, the speed and features of Hugo will make your development experience smoother.
