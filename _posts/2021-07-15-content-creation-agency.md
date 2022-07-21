@@ -20,9 +20,9 @@ Others, like [Draft.dev](https://draft.dev/), have a narrower [list of services]
 
 <!-- signup -->
 
-This article will explore what content creation agencies offer, who should consider working with one, and how they differ from in-house staff or freelancers.
+This article will explore what a content creator agency offers, who should consider working with one, and how they differ from in-house staff or freelancers.
 
-## What Does a Content Creation Agency Do?
+## What is a Content Company?
 
 Before we get to who should work with an agency, let’s take a minute to look at content and how it performs.
 
@@ -36,9 +36,11 @@ No wonder that [98% of B2B brands believe it justifies its cost](https://www.wal
 
 Fortunately, anyone can try their hand at content creation. In fact, many businesses, small and large, create their own content. Larger companies may have internal teams dedicated to it, but it can be more challenging for smaller businesses. As such, it’s not unusual for content to be an afterthought or another thing on a person’s seemingly infinite to-do list.
 
+## What are Content Creation Agencies?
+
 A content creation agency is for businesses that recognize the need for content as a marketing channel, but need additional support in creating it. The agency is, as my grandmother would have said, a specialist that can solve the issue to a high level.
 
-## Why Hire a Content Agency?
+## Why Hire a Content Production Agency?
 
 When a company decides it needs additional resources, it has three main options:
 
@@ -77,31 +79,38 @@ Some are able to balance this commendably, but it can result in missed deadlines
 
 Freelancers are often solo workers, too. If they become ill or have time away from work, there may not be a contingency. This can also mean that they’re not considered part of the team or culture, and they can be overlooked in team meetings and discussions. This is entirely dependent on how each business chooses to incorporate them, of course, but many see them as an execution-only resource—there to complete the tasks they’re given, rather than part of the strategy discussions.
 
-## The Agency Offering
+## Content Creator Agencies and What They Offer
 
 Agencies offer a third option that sits between the two. It’s a quicker and more cost-effective solution than hiring internally, and avoids the main drawbacks to working with individual freelancers. In particular, an agency will have its own team, reducing the risk of overcommitments and delays from someone being off work.
 
+There are several types of content creation agencies in the marketplace:
+
+* A social media content creation agency
+* A devmarketing content creation business
+* A tutorial or writing content creator agency
+
 Because the agency provides its own team, you’ll have more resources at your disposal. This might result in a higher output, or it could open up more avenues such as topic planning and the creation of additional types of content.
 
-By choosing to work with an agency, you can expect the benefits of having an internal team—including experienced people creating your content, both saving you time and providing extra capacity—without the drawbacks of individual freelancers.
+By choosing to work with a content creator agency, you can expect the benefits of having an internal team—including experienced people creating your content, both saving you time and providing extra capacity—without the drawbacks of individual freelancers.
 
 ### How the Process Works
 
-The first step in the process is finding an agency that appeals to you. This will be a working partnership, so you need to be as happy with them as you would be with an internal member of staff.
+The first step in the process is finding a content creation business that appeals to you. This will be a working partnership, so you need to be as happy with them as you would be with an internal member of staff.
 
 Be sure to check their expertise, confirming that they know how to [write B2B content effectively](https://draft.dev/learn/b2b-writing). You can shortlist your favorites and have meetings with each one to help make a decision.
 
-Once you’ve chosen an agency, it’s time to get down to business. They’ll want to learn as much about your company as possible: what you do, who your audience is, your tone of voice, branding, and so on. This is also where you will discuss deliverables—what types of content they will produce for you and how often, as well as any other responsibilities.
-It’s important for both sides to be clear on all responsibilities from the outset, as this will avoid any confusion down the road.
+Once you’ve chosen a content creation agency, it’s time to get down to business. They’ll want to learn as much about your company as possible: what you do, who your audience is, your tone of voice, branding, and so on. This is also where you will discuss deliverables—what types of content they will produce for you and how often, as well as any other responsibilities. It’s important for both sides to be clear on all responsibilities from the outset, as this will avoid any confusion down the road.
 
-The agency will have its own process for [working with clients](https://draft.dev/learn/client-onboarding), from onboarding through to the first set of deliverables. Again, being up front about processes and expectations will help to ensure a smooth and pleasant partnership.
+The content production agency will have its own process for [working with clients](https://draft.dev/learn/client-onboarding), from onboarding through to the first set of deliverables. Again, being up front about processes and expectations will help to ensure a smooth and pleasant partnership.
 
 ### Possible Services an Agency Will Provide
 
-Agencies come in all sorts of shapes and sizes. Draft.dev creates written technical content aimed at reaching software developers, including [handling topic planning and research](https://draft.dev/learn/topic-clusters) as well as [creating social media collateral](https://draft.dev/learn/announcing-social-collateral-from-draft-dev). At the other end of the scale are “full-service” marketing agencies, which offer a wide range of marketing services typically including web design and social media management.
+Content creation agencies come in all sorts of shapes and sizes. Draft.dev creates written technical content aimed at reaching software developers, including [handling topic planning and research](https://draft.dev/learn/topic-clusters) as well as [creating social media collateral](https://draft.dev/learn/announcing-social-collateral-from-draft-dev). At the other end of the scale are “full-service” marketing agencies, which offer a wide range of marketing services typically including web design and social media management.
 And of course, there’s everything in between. [Brafton](https://www.brafton.com/) describes itself as a “creative content marketing agency,” offering blogs, email newsletters, and video production, while [SeedX](https://seedx.us/) creates content for industries as diverse as e-commerce stores and political campaigning.
 
-Needless to say, it’s essential that you hire an agency that’s capable of producing what you need. That means not only the *type* of service, but the quality of that work too. For example, it’s no secret that [developers are known to be averse to marketing](https://draft.dev/learn/developer-marketing), and strategies need to consider this. Therefore, not every agency will be capable of reaching developers effectively, whereas it’s what Draft.dev specializes in. On the other hand, if you want a new website and omni-channel marketing strategy, you’d need an agency that offers those.
+Needless to say, it’s essential that you hire an agency that’s capable of producing what you need. That means not only the *type* of service, but the quality of that work too. For example, it’s no secret that [developers are known to be averse to marketing](https://draft.dev/learn/developer-marketing), and strategies need to consider this. Therefore, not every agency will be capable of reaching developers effectively, whereas it’s what Draft.dev specializes in. On the other hand, if you want a new website and omnichannel marketing strategy, you’d need an agency that offers those.
+
+
 
 ## Conclusion
 
@@ -111,5 +120,4 @@ An agency should be able to offer more support than an individual freelancer, wh
 
 At the same time, an agency can also be a faster and cheaper solution than hiring an internal team. You pay only for agreed deliverables and not the additional costs an employee requires, such as paid sick leave, healthcare, or retirement contributions.
 
-If your company would benefit from an agency handling your technical content, [get in touch with Draft.dev](https://draft.dev/call) and see how we can help you.
-
+If your company would benefit from a content creator agency handling your technical content, [get in touch with Draft.dev](https://draft.dev/call) and see how we can help you.
