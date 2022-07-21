@@ -16,7 +16,7 @@ I’ve been writing online since at least 2010. I don’t remember if I publishe
 
 Most of my writing has been unpaid work done purely because the topic interested me, but in the past year since I started [Draft.dev](https://draft.dev) and [turned writing into a career](https://www.karllhughes.com/posts/cto-writer), I’ve started to think more critically about what makes good technical content.
 
-In this post, I’ll share my tips for technology professionals looking to write better content. Most of these tips will apply to anyone interested in writing, but they’ll be especially geared towards software developers as that’s my background.
+In this post, I’ll share my tips for technology professionals looking to improve their technical content writing. Most of these tips will apply to anyone interested in writing, but they’ll be especially geared towards software developers as that’s my background.
 
 This is a long post, so if you’d like to hop around, here’s what I’ll cover:
 
@@ -46,7 +46,7 @@ The problem here is what Ira Glass calls “[the gap](https://vimeo.com/85040589
 
 > “All of us who do creative work … we get into it because we have good taste. But it’s like there’s a gap, that for the first couple years that you’re making stuff, what you’re making isn’t so good, OK? It’s not that great. It’s really not that great. It’s trying to be good, it has ambition to be good, but it’s not quite that good. But your taste — the thing that got you into the game — your taste is still killer, and your taste is good enough that you can tell that what you’re making is kind of a disappointment to you.” - Ira Glass
 
-This gap is especially problematic for technical writers like software engineers because **the amount of information you have in your head is exponentially more than the amount you’ll be able to get onto a page in an hour.** Software engineers who are new at writing get frustrated easily because they know what they want to say, but lack the language, typing speed, or organization skills to write about it well.
+This gap is especially problematic for technical content writers like software engineers because **the** **amount of information you have in your head is exponentially more than the amount you’ll be able to get onto a page in an hour**. Software engineers who are new at writing get frustrated easily because they know what they want to say, but lack the language, typing speed, or organization skills to write about it well.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Your first 100 blogs, videos, posts, Tweets, lives, podcasts, creations will probably all be rubbish<br><br>Get over that and get to it, get past that first 100<br><br>Hardly anyone will see it anyways, it’s practice for when they do<br><br>That’s the price you pay for creating</p>&mdash; The BKH - Show don’t tell ™🤝 (@thebkh) <a href="https://twitter.com/thebkh/status/1337781548918190082?ref_src=twsrc%5Etfw">December 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -58,7 +58,7 @@ Once you accept the fact that your early writing won’t be that good, it takes 
 
 A few years ago, I started [dabbling in freelance writing](https://www.karllhughes.com/posts/start-freelance-blogging). I remember thinking I was a pretty good writer, but my [first draft back from an editor was riddled with suggestions](https://draft.dev/learn/5-steps-to-a-quality-edit-for-your-technical-blog). Some were simple formatting issues, but many were structural. I had to go back and rewrite large chunks of the piece to get it right.
 
-If you aren’t ready to submit work to an editor yet, you can always enlist a friend for help. Even non-technical [editors can help you improve your technical content](https://draft.dev/learn/technical-editing). The best editors will be able to tell you when an idea you present doesn’t make sense or the piece is poorly organized.
+If you aren’t ready to submit work to an editor yet, you can always enlist a friend for help. Even non-technical [editors can help you improve your technical content writing](https://draft.dev/learn/technical-editing). The best editors will be able to tell you when an idea you present doesn’t make sense or the piece is poorly organized.
 
 ## 2. Be Consistent Anyway
 
@@ -110,7 +110,7 @@ James Clear includes several examples in [his essay on deliberate practice](http
 >
 > Deliberate practice always follows the same pattern: break the overall process down into parts, identify your weaknesses, test new strategies for each section, and then integrate your learning into the overall process.”
 
-The great thing for people creating technical content is that breaking down and rewriting existing tutorials is a fantastic way to both learn the technology and hone your craft as a writer.
+The great thing for people wanting to be  technical content writers is that breaking down and rewriting existing tutorials is a fantastic way to both learn the technology and hone your craft as a writer.
 
 ### Don’t Overcomplicate It
 
@@ -124,7 +124,7 @@ The most important part is to start.
 
 The first two points above have been a little bit philosophical, but I want to spend the rest of this post getting tactical. I’m going to start with organization.
 
-Most new writers don’t realize that organization is such an important part of writing. This is especially true in technical content where you’re trying to convey or teach a topic to a diverse audience. You want to give new readers the ability to build up to difficult topics while giving experienced readers the ability to skip to the parts they care about. The only way to serve such diverse readers is to invest time in organizing.
+Most new writers don’t realize that organization is such an important part of writing. This is especially true in technical content writing where you’re trying to convey or teach a topic to a diverse audience. You want to give new readers the ability to build up to difficult topics while giving experienced readers the ability to skip to the parts they care about. The only way to serve such diverse readers is to invest time in organizing.
 
 ### Start Every Piece With an Outline
 
@@ -146,7 +146,7 @@ If you’re [writing technical tutorials](https://draft.dev/learn/technical-tuto
 
 ![Organizing by color is one form of organizing by type](https://i.imgur.com/bKAlBDq.jpg)
 
-If you’re a new technical writer, it’s probably hard to know how to start organizing technical content. There are four [commonly accepted methods](https://www.grammarly.com/blog/organization-tips-for-writers/) that I push people towards:
+If you’re a new technical content writer, it’s probably hard to know how to start organizing technical content. There are four [commonly accepted methods](https://www.grammarly.com/blog/organization-tips-for-writers/) that I push people towards:
 
 1. **Chronological** - [Tutorials](https://draft.dev/learn/technical-tutorials) are typically organized from first step to last.
 2. **Importance** - When presenting multiple options or comparing factors between tools, it’s usually a good idea to order them by importance.
@@ -167,7 +167,7 @@ Blogs are great because they give you carte blanche to create your own voice. Th
 
 ### Build Up to Each Concept
 
-The other problem that subject matter experts encounter when they start writing is they forget most readers won’t be as knowledgeable as they are. Good technical content is correct and uses industry-standard terms without overwhelming new readers. The trick is to build up to each concept as you deliver it.
+The other problem that subject matter experts encounter when they start writing is they forget most readers won’t be as knowledgeable as they are. Good technical writing and content is correct and uses industry-standard terms without overwhelming new readers. The trick is to build up to each concept as you deliver it.
 
 The way I do this is by creating an outline that starts with no assumptions. For example, if I were writing an article about deploying Python workloads to Kubernetes, here’s what I’d start with:
 
@@ -195,7 +195,7 @@ It’s admittedly hard to do this without [shaving the yak](https://en.wiktionar
 
 Most writers tend to be too formal, but since I started editing more in the past year, I’ve realized that some fall towards the other extreme instead.
 
-The important thing is to **know your audience** and the publication you’re writing for. If it’s your personal blog, you can be as casual as you want. If it’s for your company’s blog, you might want to make it a little more formal.
+The important thing is to **know your audience** and the publication you’re writing for. If it’s your personal blog, you can be as casual as you want. If it’s for your company’s blog, you might want to make it a little more formal. The same goes for a technical writing blog.
 
 My rule of thumb when writing technical content is to pretend you’re in a business meeting. If you wouldn’t say it in front of your boss, you shouldn’t write it in public.
 
@@ -220,7 +220,7 @@ I do two things for every post I write before I hit publish:
 
 One of the few things I remember from my high school English class was my teacher’s insistence that every claim be backed up by a source. For some reason, that stuck in my future engineer’s brain, and it’s become a great asset now that I write for a living.
 
-**Good technical content must be correct, so I pretend that my readers are all ornery skeptics hoping to poke holes in every statement I make.**
+**Good technical writing articles must be correct, so I pretend that my readers are all ornery skeptics hoping to poke holes in every statement I make.**
 
 There are three ways to add evidence to support your claims as a writer:
 
@@ -280,13 +280,13 @@ I wasn’t actively promoting the post, but it was bringing in 60-120 pageviews 
 
 Simply sharing this blog post led to a 12x increase in traffic to it over the course of a month. This is why writers should learn to share their content. If you want people to read your work, promoting it is essential.
 
-If you’re looking for a checklist of ways you can promote technical blog posts, [I put mine up on the internet earlier this year](https://draft.dev/learn/promotion). Every piece of content is different, but this should give you a good starting point.
+If you’re looking for a checklist of ways you can promote technical writing blog posts, [I put mine up on the internet earlier this year](https://draft.dev/learn/promotion). Every piece of content is different, but this should give you a good starting point.
 
 ## Final Thoughts
 
 Writing great technical content won’t happen overnight. If you expect to be good at it from the start, you’re likely to be sorely mistaken, but stick with it. Writing is a great way to [increase your influence](https://www.karllhughes.com/posts/engineers-should-write) and get noticed for your work.
 
-Once you start writing, build a process for capturing and refining your ideas. Good technical content is almost always an amalgamation of existing concepts, but the more you compile these ideas, the better you'll get. 
+Once you start writing, build a process for capturing and refining your ideas. Good technical content writing is almost always an amalgamation of existing concepts, but the more you compile these ideas, the better you’ll get.
 
 Finally, [](https://draft.dev/write?)tell the world when you write! Your knowledge is valuable, and it's very rewarding to have people share and learn from your content.
 
