@@ -20,21 +20,25 @@ Meanwhile, developer tools have proliferated in recent years. A decade ago, all 
 
 All this leads to a big question for marketing professionals who want to reach developers:
 
-## How Can You Make Your Developer Marketing Efforts Stand Out?
+## How Can You Make Your Developer Marketing Strategy Stand Out?
 
-While I’ll admit that companies are getting better at reaching software developers and there are [more software developers to reach](https://www.statista.com/statistics/627312/worldwide-developer-population/), marketers still ask me this question all the time. I spent ten years as a hands-on software developer and technical leader before [starting Draft.dev](https://draft.dev), so I have some thoughts on both sides of this topic.
+While I’ll admit that companies are getting better at reaching software developers and there are [more software developers to reach](https://www.statista.com/statistics/627312/worldwide-developer-population/), marketers still ask me this question all the time. I spent ten years as a hands-on software developer and technical leader before [starting Draft.dev](https://draft.dev/) as a marketing developer, so I have some thoughts on both sides of this topic.
 
-Generally, **the keys to good developer marketing are [authenticity and understanding your audience](https://draft.dev/learn/b2d-marketing-tips)**. This means you need to spend time with developers—online or in-person—to understand how they think and talk about services they buy. I already mentioned that developers might be averse to marketing, but on the other hand, they tend to be [averse to doing boring work](https://swizec.com/blog/programmers-are-fucking-lazy), too. So if you can find a way to position your product as genuinely helpful (and ideally, something their employer can pay for), developers will be happy to give it a try.
+Generally, the keys to a good developer marketing strategy are [authenticity and understanding your audience](https://draft.dev/learn/b2d-marketing-tips). This means you need to spend time with developers—online or in-person—to understand how they think and talk about services they buy. I already mentioned that developers might be averse to software development marketing, but on the other hand, they tend to be [averse to doing boring work](https://swizec.com/blog/programmers-are-fucking-lazy), too. So if you can find a way to position your product as genuinely helpful (and ideally, something their employer can pay for), developers will be happy to give it a try.
 
-What’s more, software developers are a well-connected bunch. Sure, we may look quiet sitting behind keyboards with headphones on, but we talk a lot in forums where we feel comfortable. That means that viral marketing and word-of-mouth is just as important in developer marketing as it is anywhere else. The next step for you, dear marketer, is finding developers.
+What’s more, software developers are a well-connected bunch. Sure, we may look quiet sitting behind keyboards with headphones on, but we talk a lot in forums where we feel comfortable. That means that viral marketing and word-of-mouth is just as important in developer marketing strategy as it is anywhere else.
+
+The next step for you, dear marketer, is finding developers.
 
 ![The keys to developer marketing](https://i.imgur.com/Z3hCSKA.png)
 
-## Developer Marketing Tactics
+## Tactics For Marketing to Software Developers
 
 So, to reach developers, you need to educate, help, and generally understand their challenges. Based on this knowledge, you have a few highly effective marketing tactics you can try.
 
-In this next section, I’ll give you my perspective on some of the most common developer marketing tactics as both a software developer and marketer. Like any generic advice, you’ll need to filter this through the lens of your company’s product, culture, and budget, but I hope this gives you a starting point for developer marketing.
+In this next section, I’ll give you my perspective on some of the most common tactics for marketing to software developers (as both a software developer and marketing developer). I’ll also walk through the steps of how to market to developers from a dev’s perspective.
+
+Like any generic advice, you’ll need to filter this through the lens of your company’s product, culture, and budget, but I hope this gives you a starting point for marketing to developers.
 
 ### Event Marketing
 
@@ -51,14 +55,14 @@ Big companies like Amazon use a combination of speaking, sponsoring, and running
 
 ### Written Content
 
-Content created for developers [takes many forms](https://draft.dev/learn/content-types-and-deliverables-what-are-they):
+Content marketing to software developers [takes many forms](https://draft.dev/learn/content-types-and-deliverables-what-are-they):
 
 * **Documentation** is important, especially if your company sells a complex product, but very few businesses use [documentation as a marketing channel](https://clickhelp.com/clickhelp-technical-writing-blog/technical-documentation-as-a-marketing-tool/).
 * **[Tutorials and guides](https://draft.dev/learn/technical-tutorials)** can help users see how to use your product in the real world. This can help augment your documentation and might be more illustrative.
 * **Awareness-driving content** is written to increase the top of your funnel, and might be published on external partner sites for more reach. Places like Dev.to, HackerNoon, and DZone all allow you to publish developer content for free.
 * **Blog posts** on your own website allow you to engage readers and increase [newsletter sign-ups](https://draft.dev/learn/the-ultimate-list-of-developer-newsletters) (assuming you have some sort of email capture).
 
-All of this content must be genuinely helpful or educational; you can’t fill your engineering blog with fluff and expect it to resonate. So, most effective developer marketing content **is written by developers.** Most people I talk to either get their in-house engineers to write, hire f[ull-time developer advocates](https://draft.dev/learn/what-is-a-developer-advocate), or start a [community writing program](https://github.com/malgamves/CommunityWriterPrograms).
+All of this content must be genuinely helpful or educational; you can’t fill your engineering blog with fluff and expect it to resonate. So, the most effective content marketing to developers **is written by developers**. Most people I talk to either get their in-house engineers to write, hire f[ull-time developer advocates](https://draft.dev/learn/what-is-a-developer-advocate), or start a [community writing program](https://github.com/malgamves/CommunityWriterPrograms).
 
 Those options all take time and in-house expertise that most startups don’t have, so you might hire and manage freelance writers or [work with an agency like us](https://draft.dev/). Obviously, I’m biased, but I’m also happy to offer tips for [finding and recruiting your own writers](https://draft.dev/learn/finding-motivating-writers). 
 
@@ -76,7 +80,7 @@ People across the world are [streaming more online video than ever before](https
 
 Of course, good video content can be even more expensive to produce and distribute. Any developer can tell you that sharing a few snippets of code is much different than sharing a live coding session on YouTube.
 
-That said, this format is getting more popular because in-person events are essentially on hold for the next few months.
+That said, this format is getting more popular. This is an evergreen form of marketing for developers that pays in spades as your business grows.
 
 ### Community-driven Marketing
 
@@ -84,7 +88,7 @@ Communities are also popular in developer marketing. For example, Stack Overflow
 
 On the plus side, community marketing can be very cost-effective. You’re basically encouraging your own customers to advocate for you, so it takes fewer salaries than building a team of speakers or writers in-house. You can also have your community members write and speak on your behalf, so once this program is mature, it dovetails nicely into some of the other channels here.
 
-Microsoft has put a lot into its community development efforts lately with programs like the [Microsoft MVP](https://en.m.wikipedia.org/wiki/Microsoft_Most_Valuable_Professional) award. By recognizing engineers who write and speak about Microsoft tools, they essentially encourage other fans of their products to go out and do the same.
+Microsoft has put a lot into its community marketing for developers lately  with programs like the [Microsoft MVP](https://en.m.wikipedia.org/wiki/Microsoft_Most_Valuable_Professional) award. By recognizing engineers who write and speak about Microsoft tools, they essentially encourage other fans of their products to go out and do the same.
 
 ### Social Media
 
@@ -92,7 +96,7 @@ Like most professionals, developers are also on social media, so depending on yo
 
 You can either use paid or organic posts on social media. While the prevalence of ad-blockers makes paid advertisements less appealing to developer audiences, building an organic following can take months or years. You can shortcut this by piggybacking off popular threads on platforms like Hacker News and Reddit, but these readers are especially wary of marketers on their platforms.
 
-A lot of the [recent Y Combinator companies](https://www.ycombinator.com/companies/) do a good job spreading the word in the comments on [Hacker News](https://news.ycombinator.com/). I’ve also seen a few individuals with large followings do developer marketing on Twitter really well ([Adam Wathan](https://twitter.com/adamwathan/status/1378423163185463301?s=21) being one example).
+A lot of the [recent Y Combinator companies](https://www.ycombinator.com/companies/) do a good job spreading the word in the comments on [Hacker News](https://news.ycombinator.com/). I’ve also seen a few individuals with large followings do devmarketing on Twitter really well ([Adam Wathan](https://twitter.com/adamwathan/status/1378423163185463301?s=21) being one example).
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">What are the most common things you use CSS filters/backdrop filters for? Be super specific please! 😊<br><br>Trying to figure out which values should exist for each filter function in Tailwind by default — always the absolute hardest part of building any new feature 🥵</p>&mdash; Adam Wathan (@adamwathan) <a href="https://twitter.com/adamwathan/status/1378423163185463301?ref_src=twsrc%5Etfw">April 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -106,19 +110,20 @@ One of the best examples of using open source as a marketing tool is [Automattic
 
 ![Automattic’s open-source tool, WordPress](https://i.imgur.com/VcmdOHE.png)
 
-## Tips for Developer Marketing
+## Tips for Marketing to Software Developers
 
-Now that you have a better idea of the viable marketing channels you can use in developer marketing, I’ll leave you with five quick tips that [I outlined in more detail here](https://draft.dev/learn/b2d-marketing-tips):
+Now that you have a better idea of the viable marketing channels you can use in devmarketing, I’ll leave you with five quick tips that [I outlined in more detail here](https://draft.dev/learn/b2d-marketing-tips):
 
 1. **Be authentic** and genuinely helpful. Developers are smart, and they know when they’re being sold to.
 2. **Spend time with them** online or offline. I think the best marketers know their audience *extremely* well, and the only way to do that is to mingle with them.
-3. **Learn the language** of software development. Even if you can’t write code, learn the key pieces and terminology: APIs, backend, frontend, database, HTTP, test, etc.
+3. **Learn the language** of software development. Even if you can’t write code, learn the key pieces and terminology: APIs, backend, frontend, database, HTTP, test, etc. This is critical for a solid software marketing strategy.
 4. **Go deep in your content** rather than simply skimming the surface. Experienced developers will appreciate this because technical depth is really hard to find online.
 5. **Freemium and trial offers** do well when you employ a bottoms-up approach. The idea here is to get developers using your tool on a small side project so they feel confident enough to bring it to work on their next project.
 
-Getting hands-on with developer marketing can be intimidating at first. If you’re looking to reach software developers, [shoot me an email](mailto:karl@draft.dev). I’m happy to send you specific resources or tools based on your challenges.
+Getting hands-on with devmarketing can be intimidating at first. If you’re looking to reach software developers with a developer marketing agency, shoot me an email. I’m happy to send you specific resources or tools based on your marketing strategy for software development companies.
 
 ### Further Reading:
+
 <ul>
   {% for post in site.categories.developer-marketing %}
     {% if post.url %}
