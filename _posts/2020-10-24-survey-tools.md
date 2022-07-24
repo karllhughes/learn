@@ -19,17 +19,17 @@ While you can bring in your development team to build forms that capture custome
 
 Let’s take a look at paid platforms for the best survey tools 2022.
 
-**[Block Survey](https://blocksurvey.io/)** ($7) - Secure online forms and surveys. Collect data with guaranteed end–to–end encryption and privacy.
+[Block Survey](https://blocksurvey.io/) ($7) - Secure online forms and surveys. Collect data with guaranteed end–to–end encryption and privacy.
 
-**[Google Survey Tools](https://www.google.com/analytics/surveys/)** ($0.1) - If you want to poll the general public, Google Survey Tools let you start as low as 10 cents per response.
+[Google Survey Tools](https://www.google.com/analytics/surveys/) ($0.1) - If you want to poll the general public, Google Survey Tools let you start as low as 10 cents per response.
 
-**[IdeaCheck](http://www.ideacheck.io/)** ($49) - Helps you validate your ideas and will even find respondents for your survey.
+[IdeaCheck](http://www.ideacheck.io/) ($49) - Helps you validate your ideas and will even find respondents for your survey.
 
 [Pabbly](https://www.pabbly.com/form-builder/) ($10) - While paid, Pabbly doesn’t lock you out of features, so it can actually end up being much cheaper than some other options.
 
 [SoGoSurvey](https://www.sogosurvey.com/) ($25) - Collect responses from employees and customers and then integrate with their enterprise APIs.
 
-**[SurveyKiwi](https://surveykiwi.com/)** ($9) **\-** The cool thing about SurveyKiwi is that you can share surveys over SMS and WhatsApp, allowing you to reach customers who aren’t necessarily on a web browser.
+[SurveyKiwi](https://surveykiwi.com/) ($9) **\-** The cool thing about SurveyKiwi is that you can share surveys over SMS and WhatsApp, allowing you to reach customers who aren’t necessarily on a web browser.
 
 ## The Best Free Survey Tools 2022
 
@@ -57,7 +57,7 @@ You don’t always have to pay to get what you need, especially as a small-scale
 
 [Wufoo](https://www.wufoo.com/gallery/templates/surveys/) ($0) - Wufoo is one of my favorite embeddable forms because you can also handle integrations with services like Mailchimp, Google Sheets, and Stripe. This makes your forms really dynamic.
 
-**[CognitoForms](https://www.cognitoforms.com/)** ($0) - With a generous free tier and customizable styling, CognitoForms gives you a lot of options for collecting data from customers.
+[CognitoForms](https://www.cognitoforms.com/) ($0) - With a generous free tier and customizable styling, CognitoForms gives you a lot of options for collecting data from customers.
 
 - - -
 
