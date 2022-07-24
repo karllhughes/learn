@@ -22,17 +22,17 @@ Once you’re publishing more than once or twice per week and have a few contrib
 
 In this post, I’ll show you the elements of our publishing calendar and give you access to a template of the publishing calendar we use at Draft.dev to manage hundreds of pieces of content and dozens of writers simultaneously.
 
-## What is a Publishing Calendar?
+## What is an Airtable Editorial Calendar?
 
-A “publishing calendar” or “content tracker” is the backbone of a robust content management process. It lays out all the articles your team is working on along with their current status. Ours goes even further by allowing us to manage assignments, writer payments, and writer applications.
+An “editorial calendar,” “publishing calendar” or “content tracker” is the backbone of a robust content management process. It lays out all the articles your team is working on along with their current status. Our Airtable calendar goes even further by allowing us to manage assignments, writer payments, and writer applications.
 
-**[COPY OUR AIRTABLE PUBLISHING CALENDAR TEMPLATE HERE](https://pcto.co/publishing-calendar)**
+**[COPY OUR AIRTABLE EDITORIAL CALENDAR TEMPLATE HERE](https://pcto.co/publishing-calendar)**
 
-Here are the key pieces to our publishing calendar template:
+Here are the key pieces to our Airtable schedule template:
 
 ### 1. Publishing Schedule
 
-If you’re old-school and keep track of your content on a wall calendar at your office, you’ll probably just pencil in the names of each article on the date you plan to release them. I wouldn’t recommend this approach, but the primary goal of a publishing calendar is just that. We use the “Calendar View” in our “Assignments” table to see when articles will be published.
+If you’re old-school and keep track of your calendar draft on a wall calendar at your office, you’ll probably just pencil in the names of each article on the date you plan to release them. I wouldn’t recommend this approach, but the primary goal of a publishing calendar is just that. We use Airtable scheduling for this. Just navigate to the Airtable “Calendar View” in our “Assignments” table to see when articles will be published.
 
 ![An Airtable-based publishing calendar](/learn/assets/posts/publishing-calendar.png)
 
@@ -40,17 +40,17 @@ By color-coding each assignment, we can see which ones are on track and which on
 
 ### 2. Article Progress
 
-Our “Kanban View” in the “Assignments” table helps you see exactly where each article is in the publishing process. We typically use the following stages for each piece of content:
+Our Airtable“Kanban View” in the “Assignments” table helps you see exactly where each article is in the publishing process. We typically use the following stages for each piece of content:
 
 * **Preparing** - Ideas and loose pitches that still need to be defined go here. We typically want to have a complete brief (see *Part 1* above) before moving an assignment out of this column.
 * **Ready** - At this stage, the assignment is defined, it has a due date, and we’re deciding who will write it.
 * **Writing** - [Once the writer is confirmed](https://draft.dev/learn/matching-writers) and starts working on the assignment, we move it to this column.
 * **Editing** - After a writer submits their first draft, the article enters editing. Typically, this involves some [sub-steps (technical review, copy editing, revisions, etc.)](https://draft.dev/learn/5-steps-to-a-quality-edit-for-your-technical-blog), but by the end, we should have a complete piece of content that’s ready to publish.
-* **Scheduled** - Very few clients publish content the moment we hand it over to them, so each assignment enters the Scheduled stage until it goes live.
+* **Scheduled** - Very few clients publish content the moment we hand it over to them, so each assignment enters the Airtable Scheduling stage until it goes live.
 * **Published** - We don’t promote content directly for our clients, but [you should be](https://draft.dev/learn/promotion). This column holds articles that have been published but not yet promoted.
 * **Promoted** - At this point, the article is completely finished...until we decide to do a refresh.
 
-Here’s what the whole “Kanban View” looks like:
+Here’s what the whole “AirtableKanban View” looks like:
 
 ![The Kanban View for an Airtable Publishing Calendar](https://i.imgur.com/mGzNcY7.png)
 
@@ -74,7 +74,7 @@ After each writer has been paid, we add the pay date to the last column so we ha
 
 ### 5. Available Writers
 
-Our publishing calendar has a second table called “Writers” that stores profile information about each writer we work with.
+Our Airtable calendar has a second table called “Writers” that stores profile information about each writer we work with.
 
 The “Kanban View” shows you all our writers (these aren’t our real writers, don’t worry) broken down by their status (e.g.: “Applied,” “Accepted,” “Rejected,” “Inactive”). This allows us to review new writer applications, take inactive writers out of our pool, and see which articles each writer is assigned to.
 
@@ -86,10 +86,10 @@ Every week, we review writer applications using [our hiring rubric for technical
 
 Finally, we use Airtable as an intake form for new writer applications. You can see a slightly simplified version of our writer application form in the template by going to the “Writer Application” view in the “Writers” table.
 
-**[COPY OUR AIRTABLE PUBLISHING CALENDAR TEMPLATE HERE](https://pcto.co/publishing-calendar)**
+**[COPY OUR AIRTABLE CALENDAR TEMPLATE HERE](https://pcto.co/publishing-calendar)**
 
 In addition to the [Airtable](https://airtable.com/invite/r/4EaSmQNr) template here, we use automations in [Zapier](https://zapier.com/) to streamline our processes and remind our writers of important deadlines and tasks. These tools have allowed us to maintain our quality standards while onboarding more customers and writers.
 
 - - -
 
-If you’re struggling to keep up with all the content you have planned, or you need help building a robust publishing calendar, shoot me an email at [karl@draft.dev](mailto:karl@draft.dev). If you'd like to talk about how we can create content for your blog, you can [schedule a call with me here](https://draft.dev/call).
+If you’re struggling to keep up with all the content you have planned, or you need help building a robust Airtable editorial calendar, shoot me an email at [karl@draft.dev](mailto:karl@draft.dev). If you'd like to talk about how we can create content for your blog, you can [schedule a call with me here](https://draft.dev/call).
