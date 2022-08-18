@@ -8,7 +8,7 @@ categories: tools
 cta: Content Ideas
 author: karl
 date: 2022-02-10T09:41:11.438Z
-img: /assets/posts/ai-writing.jpg
+img: /assets/posts/request-3500_draftdev_data-science-blogs_1200x2280px_sample2.png
 ---
 I’m super excited about AI-powered writing software. You might think that as a writer, I’d be afraid of AI taking my job, but in truth, I think it’s only going to empower more people to create better content over time. That said, AI writing software has ways to go before we’ll be using it to write for clients at [Draft.dev](https://draft.dev/).
 
