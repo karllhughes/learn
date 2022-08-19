@@ -9,7 +9,7 @@ categories: developer-marketing
 cta: Playbook
 author: karl
 date: 2022-02-25T05:20:21.719Z
-img: /assets/posts/content-syndication.jpeg
+img: /assets/posts/3196_-draftdev_finding-opportunities-as-an-entry-level-technical-writer_1200x2280_option-2.png
 ---
 One of the most common questions clients ask us about the developer-focused content we write is where they should publish and syndicate each piece of content.
 
