@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RefreshBlog Posts The Right Way – 3 Technical Case Studies
+title: Refresh Blog Posts The Right Way – 3 Technical Case Studies
 description: Want 61.9% more traffic on your blog in just 5 months? Here's how
   refreshing some of my old blog posts led to a huge uptick in SEO.
 categories: writing
