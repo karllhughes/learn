@@ -8,7 +8,7 @@ categories: b2b-marketing
 cta: Content Ideas
 author: meagan
 date: 2022-04-13T14:32:17.062Z
-img: /assets/posts/b2b-funnel.jpg
+img: /assets/posts/chef-funnel.png
 ---
 In 1898, businessman and psychologist E. St. Elmo had an idea: what if customers moved toward a purchase decision in a funnel rather than a straight line? The first ever marketing funnel was born, and with it a foundation that marketers would follow for [more than 100 years](https://www.getresponse.com/blog/sales-funnel). The concept was simple – customers would move through several stages of affiliation with a brand, and gradually come closer to making a final sale.
 
