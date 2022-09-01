@@ -9,7 +9,7 @@ categories: ghostwriting
 cta: Playbook
 author: meagan
 date: 2022-02-23T07:04:33.520Z
-img: /assets/posts/ghostwriting-services.jpg
+img: /assets/posts/ghostwriter-working.png
 ---
 Working with a content writer is one thing, but partnering with a ghostwriter is quite another. In this context, a ghost blog writer is someone who creates a professional blog post without claiming any credit for it. Companies and executives love hiring ghostwriters for their fast, timely, and poignant writing, especially when it can be penned under their personal brand name.
 
