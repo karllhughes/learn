@@ -10,7 +10,7 @@ categories: developer-marketing
 cta: Playbook
 author: Shiela
 date: 2022-03-12T13:58:35.114Z
-img: /assets/posts/newsletter.jpg
+img: /assets/posts/request-3761-best-developer-newsletters-1200x2280px-sample1.jpg
 ---
 Newsletters are one of the most [effective ways to reach an audience](https://www.nngroup.com/articles/targeted-email-newsletters/), even with the proliferation of various forms of media.
 
