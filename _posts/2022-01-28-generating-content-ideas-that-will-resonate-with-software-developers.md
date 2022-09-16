@@ -7,7 +7,7 @@ categories: developer-marketing
 cta: Playbook
 author: karl
 date: 2022-01-28T16:48:51.749Z
-img: /assets/posts/generating-ideas.jpg
+img: /assets/posts/3760_draftdev_developer-relations-career-insights_1200x2280_option-2_version-1.png
 ---
 Technical content is a unique wing of content marketing — one that may not lend itself to the kind of expansive creativity associated with building a content library in a non-technical industry. Traditional team brainstorming doesn’t always cut it when you’re marketing software to experienced developers.
 
