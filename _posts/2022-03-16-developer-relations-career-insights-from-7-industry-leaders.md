@@ -9,7 +9,7 @@ categories: marketing-titles
 cta: Playbook
 author: karl
 date: 2022-03-16T11:34:33.463Z
-img: /assets/posts/dev-advocate.jpg
+img: /assets/posts/3760_draftdev_developer-relations-career-insights_1200x2280_option-1_version-1.png
 ---
 I first heard about developer relations back in 2018 when I started speaking at technology conferences. Many companies send [Developer Advocates](https://draft.dev/learn/what-is-a-developer-advocate) or “DevRels” to these conferences to help promote their company, so I got to know a lot of people in the field.
 
