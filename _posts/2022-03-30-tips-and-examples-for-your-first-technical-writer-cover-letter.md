@@ -9,7 +9,7 @@ categories: writing
 cta: Apply
 author: Yulia Gavrilova
 date: 2022-03-30T13:29:56.662Z
-img: /assets/posts/technical-writer-cover-letter.jpg
+img: /assets/posts/cover-letter.png
 ---
 Hi! My name is Yulia, and I have been working as a [technical writer](https://draft.dev/learn/becoming-a-remote-technical-writer) for the past three years. Last year, I started to [write for Draft.dev](https://draft.dev/write), a technical marketing content agency for software startups. Draft.dev works with quite a few companies with different tech stacks and is constantly looking for talented new writers. I’ve always been interested in technology and writing, and this position helps me learn new things and improve, as well as share what I’ve learned with others. 
 
