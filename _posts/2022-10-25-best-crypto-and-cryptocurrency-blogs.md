@@ -12,8 +12,6 @@ author: Tahanima Chowdhury
 date: 2022-10-25T19:03:32.213Z
 img: /assets/posts/request-3500_draftdev_cryptocurrency_1200x2280px_sample2.png
 ---
-# Best Crypto and Cryptocurrency Blogs
-
 Cryptocurrency, often called *crypto*, is a decentralized digital currency that runs on [blockchain technology](https://aws.amazon.com/what-is/blockchain/) and is a medium of exchange over the internet. Under the hood, it uses [cryptography](https://www.coinbase.com/learn/crypto-basics/what-is-cryptography) to transact anonymously and securely.
 
 Cryptocurrency is an emerging technology in which advancements take place at lightning speed. To keep up with the latest trends and information, crypto enthusiasts need to visit the right platform. This is where blogs come into play. Cryptocurrency blogs offer extensive write-ups on state-of-the-art crypto events and their implications.
