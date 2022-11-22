@@ -30,7 +30,7 @@ You could be writing a step-by-step software guide, a platform comparison, or br
 
 What can help immensely in this regard is having a thorough understanding and enjoyment of the topics you’ll be writing about. Ideally, the subject matter will be exciting and motivate you to continue from one sentence to the next. 
 
-It’s also true that you might not be in the mood to produce content on certain days. However, tackling topics that spark joy can help you write more sharply and maintain productivity. That’s even more important in a remote role, where you’re expected to be self-motivated. 
+It’s also true that you might not be in the mood to produce content on certain days. However, tackling topics that spark joy can help you write more sharply and maintain productivity. That’s even more important in a [remote role](https://devrelcareers.com/place/remote), where you’re expected to be self-motivated. 
 
 ## Consider Your Audience
 
@@ -76,7 +76,7 @@ Make sure you save your articles, and keep a viewable record of your exact works
 
 Diversity is also important for gaining exposure to different content types. It’s important to take on a wide range of assignments and challenge yourself to complete projects that might be unfamiliar and therefore initially harder to tackle. So write that user guide. Collaborate on that white paper. Don’t shy away from taking on your first industry report, or penning your first set of release notes. This is an exciting way to expand your skillset. 
 
-Finally, seek open roles and don’t be afraid to apply. Short-term projects are great, as are long-term arrangements. Choose what works best for you. Keep in mind, however, that forging long-standing partnerships with a number of clients is a great way to prove that you’re dependable. It also offers greater financial stability, which isn’t anything to sneeze at in the freelancing realm. 
+Finally, [seek open roles](https://devrelcareers.com/category/content-and-writing) and don’t be afraid to apply. Short-term projects are great, as are long-term arrangements. Choose what works best for you. Keep in mind, however, that forging long-standing partnerships with a number of clients is a great way to prove that you’re dependable. It also offers greater financial stability, which isn’t anything to sneeze at in the freelancing realm. 
 
 Pro tip: When applying, make sure to include a [cover letter for a technical writer](https://draft.dev/learn/tips-and-examples-for-your-first-technical-writer-cover-letter) position so you can showcase your capabilities and show how you can be a good fit.
 
