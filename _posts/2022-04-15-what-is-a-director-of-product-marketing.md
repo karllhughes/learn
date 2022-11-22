@@ -21,7 +21,7 @@ We’re going to take a closer look at directors of product marketing, including
 
 * What is product marketing?
 * What does a director of product marketing do?
-* When to hire a director of product marketing
+* When to [hire a director of product marketing](https://devrelcareers.com/post)?
 * Is hiring a director of product marketing worth it?
 
 ## What Is Product Marketing?
@@ -47,7 +47,7 @@ By seamlessly bringing both marketing and sales teams together, product marketin
 
 Directors of product marketing are responsible for marketing processes at all stages of inventory development. Strategy and planning are their primary objectives, followed by data analysis after products hit the shelves. Contrary to popular belief, they can take leadership and supervisory roles during both go-live and post-reception phases of product development.
 
-If you’re planning on hiring a director of product marketing, or if you’re interested in taking a job in the field, you might expect to be tasked with some of these [marketing responsibilities](https://www.cleverism.com/job-profiles/director-product-marketing/):
+If you’re planning on hiring a director of product marketing, or if you’re interested in taking a [job in the field](https://devrelcareers.com/category/product-marketing), you might expect to be tasked with some of these [marketing responsibilities](https://www.cleverism.com/job-profiles/director-product-marketing/):
 
 * Developing solid product positioning and consistent messaging for customers.
 * Overseeing product launches, as well as customer movement from awareness to adoption.
