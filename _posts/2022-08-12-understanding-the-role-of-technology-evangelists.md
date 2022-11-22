@@ -17,7 +17,7 @@ The word “evangelist” has traditionally been associated with someone who spr
 
 
 
-In this piece, I’ll flesh out the role that technology evangelists play in a tech company, their responsibilities, and how you can hire (or be hired) as one. If you’re an aspiring evangelist looking to get started or a company trying to hire one for the first time, you should find some of these insights useful.
+In this piece, I’ll flesh out the role that technology evangelists play in a tech company, their responsibilities, and [how you can hire (or be hired)](https://devrelcareers.com/) as one. If you’re an aspiring evangelist looking to get started or a company trying to hire one for the first time, you should find some of these insights useful.
 
 
 
@@ -198,7 +198,7 @@ Are you looking for an online community manager or an event representative? Will
 
 ### 3. Expect to Pay the Big Bucks
 
-You can’t hire someone with the experience of a developer and expect to pay them a marketing manager’s salary. A specialist role such as this will cost you a pay rate similar to a senior developer or even more.
+You can’t hire someone with the experience of a developer and expect to pay them a marketing manager’s salary. A specialist role such as this will cost you a pay rate similar to a senior developer or even more. To promote an available Technology Evangelist role in your company, you can post a job listing on [DevRel Careers](https://devrelcareers.com/post).
 
 
 
