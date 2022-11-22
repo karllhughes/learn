@@ -62,7 +62,7 @@ But are these all just the same thing?
 
 The line can be murky, and can differ depending on the company.
 
-According to [Mandi Walls](https://twitter.com/lnxchk) of [PagerDuty](https://www.pagerduty.com/), Developer Relations is a blanket term that defines the practice that "helps a company focus on the experience of the users of their product." A variety of roles can fall under the umbrella of DevRel, including Developer Advocates, Developer Evangelists, Technical Writers, and more.
+According to [Mandi Walls](https://twitter.com/lnxchk) of [PagerDuty](https://www.pagerduty.com/), Developer Relations is a blanket term that defines the practice that "helps a company focus on the experience of the users of their product." [A variety of roles](https://devrelcareers.com/categories) can fall under the umbrella of DevRel, including Developer Advocates, Developer Evangelists, Technical Writers, and more.
 
 Duties that one company might assign to a Developer Marketer, another might give to a Developer Advocate. The structure of the organization makes a difference in what is expected of the various roles.
 
@@ -148,11 +148,11 @@ If writing isn't your forte, create some other type of content. Make videos abou
 
 A big part of Developer Advocacy involves community building. If you want to be a Developer Advocate, it is a good idea to get involved in a community that you care about. You can do this by contributing to open source, answering people's questions on Stack Overflow, or creating educational content.
 
-As Samina Kabir put it, you should seek to "show \[your] ability to selflessly network or support others." If you are active in a particular technology's community, it can be a gateway to a career opportunity. It is definitely [not unheard of](https://yurilee.hashnode.dev/i-got-25k-followers-and-a-job-at-hashnode-within-2-months-in-tech-twitter-my-advice) to convert participation in an online community into a job offer.
+As Samina Kabir put it, you should seek to "show \[your] ability to selflessly network or support others." If you are active in a particular technology's community, it can be a gateway to a career opportunity. It is definitely [not unheard of](https://yurilee.hashnode.dev/i-got-25k-followers-and-a-job-at-hashnode-within-2-months-in-tech-twitter-my-advice) to convert participation in an online community into a job offer. To find job opportunities in Developer Advocacy, [DevRel Careers](https://devrelcareers.com/) is a great source for keeping up to date with the latest open positions.
 
 ## For Hiring Managers
 
-Not every company needs a Developer Advocate, but if yours does, there are some important things to consider before jumping in. If you are a manager considering hiring a Developer Advocate or DevRel team, how do you make that decision, what sort of person do you choose for the role, and how do you measure their success once they're on board?
+Not every company needs a Developer Advocate, but if yours does, there are some important things to consider before jumping in. If you are a manager considering [hiring a Developer Advocate or DevRel team](https://devrelcareers.com/post), how do you make that decision, what sort of person do you choose for the role, and how do you measure their success once they're on board?
 
 ### Why Hire a Developer Advocate?
 
@@ -188,6 +188,6 @@ However you choose to measure success, it's important to remember that numbers w
 
 ## Conclusion
 
-It's an exciting time in tech. New companies are being started, new technologies and tools developed, and entirely new conceptual frameworks (like [web3](https://web3.foundation/)) are gaining in popularity. More and more companies are looking to hire Developer Advocates, so if you're interested in becoming one (or hiring one,) the time to get started is now.
+It's an exciting time in tech. New companies are being started, new technologies and tools developed, and entirely new conceptual frameworks (like [web3](https://web3.foundation/)) are gaining in popularity. More and more [companies are looking to hire](https://devrelcareers.com/companies) Developer Advocates, so if you're interested in becoming one (or hiring one,) the time to get started is now.
 
 Whether you're an aspiring Developer Advocate, a current one, or just interested in the topic, I would love to hear your thoughts! [Find me on Twitter ](https://twitter.com/KarlLHughes)to continue this conversation.
