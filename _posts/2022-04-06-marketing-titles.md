@@ -74,7 +74,7 @@ The marketing associate may not sound like the flashiest of internal roles, but 
 
 While marketing associates focus on brand-wide campaigns, a [Product Marketing Specialist](https://draft.dev/learn/what-is-a-product-marketing-specialist) is only interested in awareness, value, and demand for specific inventory. These relatively complex roles use a plethora of tools to effectively market their marketing projects and have an excellent understanding of data, KPIs, and additional growth metrics.
 
-Product marketing specialists are one of the most complicated roles on this list. Project roles and duties vary widely from company to company, and will likely change over time as the job becomes more defined. If you’re interested in getting a job in the field, it would be wise to directly ask your employer about expected tasks and responsibilities.
+Product marketing specialists are one of the most complicated roles on this list. Project roles and duties vary widely from company to company, and will likely change over time as the job becomes more defined. If you’re interested in [getting a job in the field](https://devrelcareers.com/category/product-marketing), it would be wise to directly ask your employer about expected tasks and responsibilities.
 
 ### Advertising Specialist
 
@@ -86,7 +86,7 @@ Advertising specialists usually have the same organizational presence as marketi
 
 One of the most exciting marketing roles in recent years includes [Developer Relations](https://draft.dev/learn/developer-relations-career-insights-from-7-industry-leaders). Think of it as a combination between PR reps and your software developers, with a sprinkle of speaking, writing, and conference paneling on the side.
 
-Developer relations is becoming highly sought after in the marketing field, and has evolved into a critical role for startup tech companies. While job boundaries may be less defined, general responsibilities fall somewhere between marketing tasks, sales work, and elements of customer support. From creating technical content to running live demos and workshops, DevRels truly live in a class of their own.
+Developer relations is becoming highly sought after in the marketing field, and has evolved into a critical role for startup tech companies. While job boundaries may be less defined, general responsibilities fall somewhere between marketing tasks, sales work, and elements of customer support. From creating technical content to running live demos and workshops, DevRels truly live in a class of their own. If you're interested in pursuing a career in Developer Relations, [DevRel Careers](https://devrelcareers.com/) is a great source for job opportunities.
 
 ## Learn More About Common Marketing Roles
 
