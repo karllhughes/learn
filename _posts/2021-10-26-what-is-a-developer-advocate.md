@@ -54,7 +54,7 @@ This can mean recording videos, [writing technical blog posts](https://draft.dev
 
 ## What About Developer Relations? Developer Marketing?
 
-A few different terms are often thrown around when discussing this area of work. [Developer Relations (DevRel)](https://draft.dev/learn/developer-relations-career-insights-from-7-industry-leaders), [Developer Marketing,](https://draft.dev/learn/developer-marketing) Developer Evangelism.
+A few different terms are often thrown around when discussing this area of work. [Developer Relations (DevRel)](https://draft.dev/learn/developer-relations-career-insights-from-7-industry-leaders), [Developer Marketing,](https://draft.dev/learn/developer-marketing) and [Developer Evangelism](https://draft.dev/learn/understanding-the-role-of-a-developer-evangelist).
 
 But are these all just the same thing?
 
