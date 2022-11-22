@@ -79,7 +79,7 @@ However, not every company needs to hire a full-time product marketer, especiall
 * Your current product marketing manager doesn’t need help with management
 * Your business doesn’t have space in the budget for a new hire
 
-At the end of the day, choosing to hire or not hire a product marketing specialist is up to the business in question. Just be sure to weigh the pros and cons, consider future opportunities, and position yourself for sustainable growth as you scale. Remember: a product marketer is only as efficient as their internal teams.
+At the end of the day, [choosing to hire](https://devrelcareers.com/post) or not hire a product marketing specialist is up to the business in question. Just be sure to weigh the pros and cons, consider future opportunities, and position yourself for sustainable growth as you scale. Remember: a product marketer is only as efficient as their internal teams.
 
 ## Choosing The Right Marketing Specialists
 
