@@ -14,8 +14,6 @@ A few years ago, I started speaking at developer-focused conferences regularly. 
 
 As more businesses create tools, APIs, and services aimed at software developers, jobs in Developer Advocacy have become more and more popular and finding candidates has gotten harder and harder.
 
-![](https://lh4.googleusercontent.com/Q5gNcO8vA5TBmeUX6vBLFCMLvjdQu1gpcHSc7kQGu_a870uiAJDMohAexAEZ1z4LI_S5aiX3u5Y1WGIAOuWBcyYWez_1ZD7pcK8WX7Cj8aN-w7DW-zeVzxGEw1TMr8DyzLzClfbx)
-
 In a [recent article](https://www.techrepublic.com/index.php/article/how-to-make-a-developer-relations-team-work-for-your-company/?utm_campaign=DevRel%2BWeekly&utm_medium=web&utm_source=DevRel_Weekly_157), Mary Thengvell, head of Developer Relations at Camunda, said that in the past year and a half, the job postings in her newsletter have gone from 40-50 per month to over 200.
 
 For a role that is increasing in popularity so much, the job description is still somewhat unclear to many people. So what is a Developer Advocate, really? To answer this question, I went straight to the source and spoke with six different Developer Advocates about their jobs. I talked to them about the role, its limitations, and where it fits in modern software businesses.
@@ -103,8 +101,6 @@ You work for your employer, but your main goal is to ensure the success of the u
 ### 2. A passion for sharing knowledge
 
 As a Developer Advocate, a huge part of your job involves teaching developers how to use your product. A great Developer Advocate relishes making video tutorials, writing blog posts about new features, or answering questions on Stack Overflow. They have to put themselves out there and share what they know.
-
-![Two people reviewing code together](https://i.imgur.com/3INbfnd.jpg)
 
 That doesn't mean they're all extroverts, but when it comes to code, Developer Advocates must be able to connect with others. [Adam Gordon Bell](https://twitter.com/adamgordonbell) of [Earthly Technologies](https://earthly.dev/) noted that he isn't particularly outgoing, but after starting a [developer podcast](https://corecursive.com/), he "found the process of communicating about software development to be lots of fun."
 
