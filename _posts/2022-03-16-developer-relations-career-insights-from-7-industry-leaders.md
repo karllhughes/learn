@@ -17,7 +17,7 @@ This career path fascinates me because it blends technical knowledge with speaki
 
 That said, breaking into developer relations is a bit different than getting a job in software engineering. There’s no degree that focuses on DevRel, so people in the field come from a wide range of backgrounds and prior experiences.
 
-So, I decided to ask several developer relations professionals about their careers. It was eye-opening to hear how their day-to-day work varied and the wide range of skills they had. In this post, I’ve captured several key takeaways from those conversations that will help you if you’re exploring or entering into a career in developer relations.
+So, I decided to ask several developer relations professionals about their careers. It was eye-opening to hear how their day-to-day work varied and the wide range of skills they had. In this post, I’ve captured several key takeaways from those conversations that will help you if you’re exploring or entering into a [career in developer relations](https://devrelcareers.com/).
 
 ## What Exactly do Developer Relations Professionals Do?
 
@@ -27,7 +27,7 @@ Every DevRel I spoke with mentioned a wide range of tasks that they engaged in o
 
 > “\[DevRels] talk with customers in support, write blog posts, plan events, connect with product and engineering about upcoming releases, write docs, and really whatever else needed to be done.” - [Justin Johnson](https://www.linkedin.com/in/elofjohnson/), [Macrometa](https://macrometa.com)
 
-Developer relations is a relatively new field and as such, it’s not always clearly defined. In some companies, it’s a [marketing function](https://draft.dev/learn/developer-marketing), while others lump it in with customer support or product management. Because of this, every DevRel position is different, and the KPIs (key performance indicators) that developer relations professionals report on can vary widely.
+Developer relations is a relatively new field and as such, it’s not always clearly defined. In some companies, it’s a [marketing function](https://draft.dev/learn/developer-marketing), while others lump it in with customer support or product management. Because of this, every [DevRel position](https://devrelcareers.com/category/developer-relations) is different, and the KPIs (key performance indicators) that developer relations professionals report on can vary widely.
 
 Some of the tasks I’ve seen Developer Relations professionals responsible for include:
 
@@ -118,7 +118,7 @@ Similarly, developer relations departments are usually small and interdisciplina
 
 ## How Do You Get Started in DevRel?
 
-Despite the challenges, there is a growing interest in developer relations and a growing number of companies are hiring for it. PJ Haggerty pointed out that in the past 6 or 7 years, the position has gone from being undervalued to “one of the biggest growing job fields in tech.”
+Despite the challenges, there is a growing interest in developer relations and a growing number of [companies are hiring](https://devrelcareers.com/companies) for it. PJ Haggerty pointed out that in the past 6 or 7 years, the position has gone from being undervalued to “one of the biggest growing job fields in tech.”
 
 But, since there’s no set career path or degree that sets you up for a career in DevRel, it can be hard to know where to start. Many of the people I talked to had to develop most of the required skills on their own.
 
