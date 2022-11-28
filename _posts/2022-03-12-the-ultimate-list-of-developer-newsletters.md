@@ -346,13 +346,23 @@ Contact email/info:<https://reactdigest.net/advertise>
 
 **[Awesome React Newsletter](https://react.libhunt.com/newsletter)**
 
-A weekly overview of the most popular React news, articles and projects
+A weekly overview of the most popular React news, articles and projects.
 
 Number of subscribers: 17,789
 
 Sponsorship rates: <https://react.libhunt.com/advertise>
 
 Contact email/info: [stan@libhunt.com](mailto:stan@libhunt.com)
+
+**[This Week In React](https://thisweekinreact.com )**
+
+A weekly newsletter of the latest news in React.
+
+Number of subscribers: 13,500
+
+Sponsorship rates: <https://thisweekinreact.com/sponsor>
+
+Contact email/info: [sebastien@thisweekinreact.com](mailto:sebastien@thisweekinreact.com)
 
 ### Topic: Vuejs
 
@@ -400,23 +410,13 @@ Sponsorship rates: <https://css-weekly.com/contact/>
 
 Contact email/info: <https://css-weekly.com/contact/>
 
-**[CSS Weekly](https://css-weekly.com/)**
-
-Weekly email roundup of CSS articles, tutorials, experiments, and tools curated by Zoran Jambor. 
-
-Number of subscribers: 32,500
-
-Sponsorship rates: <https://css-weekly.com/contact/>
-
-Contact email/info: <https://css-weekly.com/contact/>
-
 **[CSS-Tricks](https://css-tricks.com/)**
 
 CSS-Tricks is created by Chris and a team of swell people.
 
-Number of subscribers: Undeclared
+Number of subscribers: 33,652
 
-Sponsorship rates: <https://css-weekly.com/contact/>
+Sponsorship rates: <https://css-weekly.com/advertise/>
 
 Contact email/info: [team@css-tricks.com](mailto:team@css-tricks.com)
 
