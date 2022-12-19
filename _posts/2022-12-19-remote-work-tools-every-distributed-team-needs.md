@@ -74,7 +74,7 @@ Slack also supports a lot of integrations, including Jira, Google products, Sale
 
 ## Conclusion
 
-Remote working is a great model. It has given more flexibility for workers to do the job in a way that is most comfortable to them and provides for a better work-life balance. However, in order for things to run smoothly, certain tools are necessary.
+[Remote working is a great model] (https://draft.dev/learn/becoming-a-remote-technical-writer). It has given more flexibility for workers to do the job in a way that is most comfortable to them and provides for a better work-life balance. However, in order for things to run smoothly, certain tools are necessary.
 
 In this article, you learned about tools like Zoom, Status Hero, Jira, Asana, Google, Confluence, and Slack. All of these tools can help you organize your remote team.
 
