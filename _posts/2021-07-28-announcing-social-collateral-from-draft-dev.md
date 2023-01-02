@@ -15,7 +15,7 @@ Most of the developer tools companies we work with generate the bulk of their tr
 
 While the most successful companies we work with employ both strategies for each piece of content they publish, I realized that many of our clients were completely neglecting social media.
 
-So, last month, we officially started offering **social media collateral to our clients.** To learn more, [book a call with me](https://draft.dev/call), or keep reading to get an overview of this new add-on service.
+So, last month, we officially added **social media collateral to our service offering**. To learn more, [book a call with me](https://draft.dev/call), or keep reading to get an overview of our service upgrade.
 
 ## Social Media Marketing for Developers
 
@@ -51,9 +51,10 @@ Again, having subject matter experts who can guide you is the key. If your devel
 
 ## Our Offering: Social Media Collateral for Technical Content
 
-To solve both of the above problems, **we’re now offering social media collateral as an add-on service to our clients.**
+To solve both of the above problems, **we’re now including social media collateral in our service offering.**
 
-With this optional add-on service, you get:
+
+For each article that we write, Draft.dev will provide clients with:
 
 - Social media posts that you can schedule on your company Twitter and Linkedin accounts
 - Subreddit suggestions and headlines for Reddit
