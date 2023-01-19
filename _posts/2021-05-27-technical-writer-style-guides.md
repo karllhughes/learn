@@ -113,17 +113,7 @@ The guide is very dense and has several sections, so I’ll just highlight a few
  - **Markdown versus HTML:** The guide posits that HTML is more expressive than Markdown, even if the second is easier for humans to read.
  - **Names and naming:** This section explains naming conventions for filenames, domains, trademarks, and more.
 
-## Mailchimp Content Style Guide
 
-![Mailchimp Content Style Guide](https://i.imgur.com/rBND4fX.png)
-
-Mailchimp has a public [Content Style Guide](https://styleguide.mailchimp.com/writing-technical-content/), which includes a technical writing section for tutorials and guides. It suggests some useful questions to determine the audience of the article, such as the following:
-
- - Is the reader a prospective user, a new user, or an experienced user?
- - What is the goal of the user? To complete a task? To research a topic?
- - Is the user in the middle of a task? Are they in a hurry? Could they be frustrated?
-
-Your answers will point you to a template with suggested structure. The document also includes guidance for other types of writing, such as legal content, social media, email newsletters, and more generally helpful advice on writing for translation accessibility. Finally, the [“Too Long; Don't Read (TL;DR)”](https://styleguide.mailchimp.com/tldr/) section is a useful cheat sheet for the larger guide.
 
 ## Microsoft Writing Style Guide
 
