@@ -62,7 +62,7 @@ On the other end of the spectrum, [Lorna Mitchell](https://www.linkedin.com/in/l
 
 > “I started out by delivering some training about coding skills and software architecture, then I gave a conference talk (or twenty), wrote technical magazine articles, and eventually some books. After some years of doing part-time tech lead roles to fund the community lifestyle, l accepted my first official DevRel role.” - Lorna Mitchell, Aiven
 
-*Note: [Asana](https://asana.com/jobs/apply/3266141) and [Aiven](https://aiven.io/careers) are both currently hiring developer relations professionals if you’re looking for a new role.*
+*Note: [Asana](https://asana.com/jobs) and [Aiven](https://aiven.io/careers) are both currently hiring developer relations professionals if you’re looking for a new role.*
 
 Others I spoke with came from marketing, sales, user experience development, and product development backgrounds. Many were also business owners or startup founders at some point along their career journey.
 
