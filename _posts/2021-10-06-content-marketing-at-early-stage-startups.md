@@ -12,7 +12,7 @@ img: /assets/posts/p43ufeh.jpg
 ---
 Marketing at a startup is really tough.
 
-Most startups have tight budgets, few internal resources, and short timelines to show traction to their investors. Nearly [40% of startups fail](https://www.cbinsights.com/research/startup-failure-reasons-top/) because they don’t generate enough traction to make it to their next fundraise, and unfortunately, it’s no longer enough to [build something and just hope that people will show up](https://samuelmullen.com/articles/startup-fallacies-if-you-build-it-they-will-come/).
+Most startups have tight budgets, few internal resources, and short timelines to show traction to their investors. Nearly [40% of startups fail](https://www.cbinsights.com/research/startup-failure-reasons-top/) because they don’t generate enough traction to make it to their next fundraise, and unfortunately, it’s no longer enough to build something and just hope that people will show up.
 
 While I don’t think content marketing will solve every startup’s growth challenge, there’s a compelling case that it should always be _part_ of your marketing strategy.
 
