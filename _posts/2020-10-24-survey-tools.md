@@ -49,8 +49,6 @@ You don’t always have to pay to get what you need, especially as a small-scale
 
 [SurveySparrow](https://surveysparrow.com/) ($0) - Offers forms, chat-based surveys and much more. Works especially well for capturing NPS (Net Promoter Score) results.
 
-[StaticKit](https://statickit.com/) ($0) - Great for integrating with static sites like Jekyll and Gatsby.
-
 [Twitter Polls](https://blog.twitter.com/official/en_us/a/2015/introducing-twitter-polls.html) ($0) - If you have a significant Twitter following, these are a great way to get responses to your questions. You can also sponsor them to get even more responses.
 
 [Typeform](https://www.typeform.com/) ($0) - Makes really good looking and fun forms that integrate well with other services.
