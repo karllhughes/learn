@@ -98,7 +98,7 @@ This strategy can net you dozens of blog posts with just a few hours of work, an
 
 ### 3. Roundups
 [Lists of tools, tips, and ideas](https://draft.dev/learn/writing-technical-roundups)
- (like this one) are among the most widely-shared and easily read content on the internet. Readers can skim the piece quickly and use the roundup as a jumping-off point for solving their problems, and [they tend to rank well in Google](https://www.grizzle.io/listicles/).
+ (like this one) are among the most widely-shared and easily read content on the internet. Readers can skim the piece quickly and use the roundup as a jumping-off point for solving their problems, and they tend to rank well in Google.
 
 Here are a few ideas for generating lists that might do well on your blog:
 
