@@ -267,7 +267,7 @@ PyBloggers is a hub for Python programmers that collects feeds from other blogs 
 
 ### 18. [Doug Hellman](https://doughellmann.com/blog/)
 
-*[RSS](https://doughellmann.com/blog/feed/), [Twitter](http://www.twitter.com/doughellmann)*
+*[Twitter](http://www.twitter.com/doughellmann)*
 
 Doug Hellman's technical blog features posts that toggle between brief patches and in-depth analysis of methodologies. The subject matter may be useful to some, but it's hit or miss, depending on whether your objective is information or function. The posts, dating back to 2006, sufficiently demonstrate working proficiency and understanding of existing and new updates as they affect current programming. The content, typically at least 1-2 sporadic posts per month, is clean and to the point with reliable in-text links to supporting references. 
 
