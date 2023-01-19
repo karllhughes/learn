@@ -232,24 +232,6 @@ Topic: Software Engineering/Development/Programming
 
 A podcast for developers interested in building great software products. In every episode, Adam Wathan is joined by a guest to talk about everything from product design and user experience to unit testing and system administration.
 
-### [The Bike Shed](http://bikeshed.fm/)
-
-Topic: Software Engineering/Development/Programming 
-
-On The Bike Shed, hosts Chris Toomey & Steph Viccari discuss their development experience and challenges at thoughtbot with Ruby, Rails, JavaScript, and whatever else is drawing their attention, admiration, or ire this week.
-
-### [The New Stack Podcast](http://thenewstack.io/podcasts/makers/)
-
-Topic: Software Engineering/Development/Programming 
-
-The New Stack Podcast is all about the developers, software engineers, and operations people who build at-scale architectures that change the way we develop and deploy software.
-
-### [The New Stack Analysts](http://thenewstack.io/podcasts/analysts/)
-
-Topic: The New Stack
-
-Alex Williams, founder of The New Stack, hosts "The New Stack Analysts," a biweekly round-table discussion covering The New Stack's latest data research, and topics related to app development and back-end services.
-
 ### [Software Defined Talk](http://www.softwaredefinedtalk.com/)
 
 Topic: Enterprise Software and Cloud Computing
@@ -477,12 +459,6 @@ Topic: Entrepreneurship
 
 Essential listening for entrepreneurs, product managers, and anyone working in tech today. We break down the concepts you need to know, from Product Management to Growth, Sales to Funding, we'll bring you stories that will inspire and insights that will change the way you think about product and business. Rocketship.fm, produced in partnership with Product Collective, inspires hundreds of thousands of entrepreneurs, developers, marketers, product people, and designers each month. Join us as we dive into everything from product management to growth, culture to sales, and everything in...
 
-### [Giant Robots Smashing Into Other Giant Robots](http://giantrobots.fm/)
-
-Topic: Software Engineering/Development/Programming 
-
-A podcast about the design, development, and business of great software. Each week thoughtbot's Chad Pytel and Lindsey Christensen are joined by the people who build and nurture the products we love.
-
 ### [Startups For the Rest of Us](http://www.startupsfortherestofus.com/)
 
 Topic: Entrepreneurship
@@ -605,12 +581,6 @@ Topic: Entrepreneurship
 
 Keep Connected is a podcast about the power of community hosted by me, David Siegel, CEO of Meetup. For nearly 20 years, Meetup has fostered connections and inspired lifelong friendships for its members. Ranked among the top 25 CEO podcasts, tune in to hear inspiring stories of how these connections have changed lives and learn from experts who will explain the real impact of community. Keep connected with us today! For podcast questions, topic suggestions, or just to connect, reach out to us at podcast@meetup.com
 
-### [The Ruby on Rails Podcast](http://5by5.tv/rubyonrails)
-
-Topic: Ruby
-
-The Ruby on Rails Podcast, a weekly conversation about Ruby on Rails, open-source software, and the programming profession. Hosted by Brittany Martin and Brian Mariani. Produced by Mirror Placement. Edited by Peachtree Sound.
-
 ### [Ruby Rogues](https://devchat.tv/ruby-rogues/)
 
 Topic: Ruby
@@ -682,12 +652,6 @@ Smart machines based upon the principles of artificial intelligence and machine 
 Topic: Data Science
 
 A podcast on data and how it affects our lives — with Enrico Bertini and Moritz Stefaner
-
-### [Talking Machines](http://www.thetalkingmachines.com/blog/)
-
-Topic: Machine Learning/ AI
-
-Talking Machines is your window into the world of machine learning. Your hosts, Katherine Gorman and Neil Lawrence bring you clear conversations with experts in the field, insightful discussions of industry news, and useful answers to your questions. Machine learning is changing the questions we can ask of the world around us, here we explore how to ask the best questions and what to do with the answers.
 
 ### [The TWIML AI Podcast (formerly This Week in Machine Learning & Artificial Intelligence)](https://twimlai.com/)
 
