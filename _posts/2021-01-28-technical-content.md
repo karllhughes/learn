@@ -226,7 +226,7 @@ There are three ways to add evidence to support your claims as a writer:
 
 1. **Research** - Academic research typically has the highest bar, but business surveys or secondary research are sufficient for most informal technical content. Unfortunately, a lot of people don’t verify the research they use very carefully. This leads to a lot of technical content backed up by dubious claims taken out of context.
 2. **Quotes** - I like quotes for a few reasons. They help break up long blocks of text by injecting an authoritative source, and they can add the weight of celebrity to your ideas. Again, be careful with verifying quotes.
-3. **Examples** - People [really like stories](https://manuel.friger.io/blog/advice). While this can get naive readers into trouble, it’s helpful ammunition for writers. Personal experience or relevant anecdotes also help strengthen your claims.
+3. **Examples** - People really like stories. While this can get naive readers into trouble, it’s helpful ammunition for writers. Personal experience or relevant anecdotes also help strengthen your claims.
 
 ## 6. Invest in Interesting Ideas
 
