@@ -75,7 +75,7 @@ There are other challenges that stem from unsought product marketing, although u
 
 Many marketing tactics have been used to sell unsought products, [some with great success](https://marketing-insider.eu/marketing-strategies-for-unsought-products/). But as time goes on, it's vital for marketers to do away with tired ploys that are less efficient and easily tuned out.
 
-Fear, for example, is a classic motivator. Consider unsought goods such as accidental death insurance. Discussing the negative consequences of not purchasing the item can motivate consumers to buy, but it is a risky strategy that doesn't always pay off. For one thing, leveraging fear is not always ethical. For another, it can be easily ignored by customers with low motivation or interest. The message needs to be executed carefully so it doesn't [exaggerate product claims](https://writingbydesignllc.com/2020/10/spooky-marketing-tactics-do-they-work-and-are-they-ethical/).
+Fear, for example, is a classic motivator. Consider unsought goods such as accidental death insurance. Discussing the negative consequences of not purchasing the item can motivate consumers to buy, but it is a risky strategy that doesn't always pay off. For one thing, leveraging fear is not always ethical. For another, it can be easily ignored by customers with low motivation or interest. The message needs to be executed carefully so it doesn't exaggerate product claims.
 
 ## Why Content Marketing Makes It Simpler To Market Unsought Goods
 
