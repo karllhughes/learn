@@ -77,7 +77,7 @@ Static site generators are extremely popular with devs for many reasons, includi
 
 ### Github
 
-While [Github](https://github.com/) isn’t a blogging platform per se, it’s still a common and powerful way to share technical insights with the world. You can use it to [build a personal blog site](https://lab.github.com/githubtraining/github-pages), [create custom 404 pages](https://draft.dev/learn/github-pages-404), and much more.
+While [Github](https://github.com/) isn’t a blogging platform per se, it’s still a common and powerful way to share technical insights with the world. You can use it to [build a personal blog site](https://pages.github.com/), [create custom 404 pages](https://draft.dev/learn/github-pages-404), and much more.
 
 Keep in mind that Github is one of the pricer options on the list. You’ll need to pay per user to access pages and wikis, among other things.
 
