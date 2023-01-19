@@ -419,20 +419,6 @@ Simple is Better Than Complex is the personal programming blog of Vitor Freitas.
 
 **Overall Score: 2.8**
 
-### 29. [Astro Python](http://www.astropython.org/)
-
-*[RSS](http://www.astropython.org/feeds/rss), [Twitter](https://twitter.com/AstroPython)*
-
-Astro Python is a blog solely focused on Python applications in astronomy. While an intriguing concept, it's admittedly a very narrow scope. The subject matter can sometimes seem inapplicable, rarely expanded upon, and there is little actual writing sans snapshots of code. Since its inception in 2009, posts are unfortunately nearly as sporadic and infrequent as Jupiter's [Triple Jovian Eclipse](https://www.nasa.gov/centers/goddard/multimedia/largest/triple_eclipse.jpg.html).
-
-* Writing Quality - 3
-* Consistency -  1
-* Longevity - 5 
-* Technical Depth - 2
-* Broad Usefulness - 2
-
-**Overall Score: 2.6**
-
 This concludes my quest to identify, analyze, and rank the best Python blogs in 2020. While my grading system may not be perfect, it allowed me to assign some numerical value to each blog and let the data do the talking. It's a satisfying approach for the technical blogger in me.
 
 **Know other blogs or python bloggers I should consider for this list? [Click here to submit it](https://airtable.com/shrKNdNjYO6hNQxJV).**
