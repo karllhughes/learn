@@ -58,8 +58,6 @@ Setting up a blog doesn’t have to be a headache - there are many platforms out
 
 **[Stitcher](https://www.stitcher.io/)** ($0) - A PHP-based static site generator. Offers the speed and flexibility of pure HTML for developers who might prefer PHP.
 
-**[Tipe](https://tipe.io/)** - Use their GraphQL or REST API to access your content and display it anywhere.
-
 **[Tumblr](https://www.tumblr.com/)** ($0) - Tumblr is simple and customizable, plus you can make it work with your own subdomain. The community features also give you some built-in distribution although it's less popular than Medium today.
 
 **[Weebly](https://www.weebly.com/)** ($0) - Weebly is a great all-in-one website and blog creator with many templates and tools to choose from.
