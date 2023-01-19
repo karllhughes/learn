@@ -178,7 +178,7 @@ Quora is a question-and-answer website—ask any question you’ve ever wondered
 
 **Total score: 4.4**
 
-### 14. [Salesforce Developer Blog](https://developer.salesforce.com/blogs/engineering/)
+### 14. [Salesforce Developer Blog](https://developer.salesforce.com/blogs)
 
 The Salesforce Developer blog is devoted to backend and testing topics. Many large companies use Salesforce, so it’s vital to stay up to date with all the new products and tools it releases. If you’re not already using Salesforce, remember that learning new technologies broadens your mind personally and professionally. 
 
