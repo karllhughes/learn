@@ -168,18 +168,6 @@ Pierre Lechelle’s blog is a great SaaS blog best suited for individuals new to
 
 Total Score - 4.6
 
-### [Houman Asefi’s Blog](https://www.houmanasefi.com/blog)
-
-Houman Asefi’s blog has a beautiful UI, and unlike some SaaS bloggers, his content is very well-structured. The blog posts are regular and more importantly, the quality of content is top-notch. In addition to the articles, Housman offers coaching classes where you can get one-on-one guidance from the SaaS guru himself.
-
-* Writing Quality - 5
-* Consistency - 4
-* Longevity - 4
-* Technical Depth - 5
-* Broad Usefulness - 5
-
-Total Score - 4.6
-
 ### [For Entrepreneurs by David Skok](https://www.forentrepreneurs.com)
 
 For Entrepreneurs is a famous blog by David Skok that has grabbed [the number 2 position in the Forbes list](https://www.forbes.com/pictures/gjdg45jej/david-skok-for-entrepr/?sh=2575882d2c35) of 100 Best Websites for Entrepreneurs. There are a number of reasons why budding entrepreneurs and startups follow the David Skok blog - one of the primary ones being the invaluable experience of the writer himself. For more than 20 years, David Skok SaaS has been recognized the world over, used to found  four companies including Skok Systems, Corporate Software Europe, Watermark Software, and SilverStream Software.
