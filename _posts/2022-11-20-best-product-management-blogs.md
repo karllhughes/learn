@@ -216,7 +216,7 @@ Agile project management has become popular, especially in developing software. 
  
 ![Capterra](https://i.imgur.com/3XJcTjV.png)
  
-You'll need to use various productivity tools as a product manager, and choosing the right one from the many tools available on the market can be challenging. [Capterra](https://blog.capterra.com/) simplifies this for you. It offers software buying advice for all types of industries, from customer service to hotel management to medical software.
+You'll need to use various productivity tools as a product manager, and choosing the right one from the many tools available on the market can be challenging. [Capterra](https://www.capterra.com/resources/) simplifies this for you. It offers software buying advice for all types of industries, from customer service to hotel management to medical software.
  
 * Writing quality: 5
 * Consistency: 4
