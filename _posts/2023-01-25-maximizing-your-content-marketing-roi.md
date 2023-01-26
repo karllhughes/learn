@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Maximizing Your Content Marketing ROI
-description: Learn how to maximize the return on investment(ROI) of your content
-  marketing efforts through this simple framework.
+description: Learn how to maximize content marketing ROI step by step through
+  this simple marketing framework.
 categories: content-marketing
 cta: Content Ideas
 author: karl
