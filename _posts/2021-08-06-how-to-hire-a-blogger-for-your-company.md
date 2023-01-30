@@ -54,7 +54,7 @@ In addition, not all writers have experience with the marketing side of writing,
 
 Writers that provide keyword research and in-depth marketing knowledge may be harder to find, particularly if they also need expertise in a particular niche. What’s more, they likely aren’t going to charge the same rate as an industry beginner.
 
-When looking for a writer, be prepared to ask questions and use particular keywords to find the right fit. For example, ‘content writer’ is going to return very different results from ‘technical writer.’ Also consider using a [technical writing rubric])https://draft.dev/learn/technical-writing-rubric) to objectively evaluate each writer.
+When looking for a writer, be prepared to ask questions and use particular keywords to find the right fit. For example, ‘content writer’ is going to return very different results from ‘technical writer.’ Also consider using a [technical writing rubric](https://draft.dev/learn/technical-writing-rubric) to objectively evaluate each writer.
 
 
 ## **How To Find Writers In Your Industry**
