@@ -250,9 +250,9 @@ Similar to Code as Craft, eBay Tech shares some insights into the obstacles the 
 
 **Total score: 4.2**
 
-### 20. [SciTech Daily](https://scitechdaily.com/)
+### 20. [Taro Career Growth Blog](https://www.jointaro.com/blog/)
 
-SciTech Daily is the most general technical blog on this list. It’s a digest of the most important science and technology news since 1998. You can also sign up for newsletters to keep up with the latest breakthroughs. 
+One part of engineering that doesn't get talked about enough is career advancement. Unlike many of the other blogs on this list, Taro's focuses on career, interview, and promotion tips for engineers who are trying to build a long, successful place in this world.
 
 * Writing Quality - 4
 * Consistency - 5
