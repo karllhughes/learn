@@ -88,7 +88,7 @@ Finally, we use Airtable as an intake form for new writer applications. You can 
 
 **[COPY OUR AIRTABLE CALENDAR TEMPLATE HERE](https://pcto.co/publishing-calendar)**
 
-In addition to the [Airtable](https://airtable.com/invite/r/4EaSmQNr) template here, we use automations in [Zapier](https://zapier.com/) to streamline our processes and remind our writers of important deadlines and tasks. These tools have allowed us to maintain our quality standards while onboarding more customers and writers.
+In addition to the [Airtable](https://airtable.com/invite/r/4EaSmQNr) template here, we use automations in [Zapier](https://zapier.com/) to streamline our processes and remind our writers of important deadlines and tasks. But, you can also build a content calendar with [Asana](https://thisisgoodmarketing.com/blog/asana-content-calendar) or [Trello](https://thisisgoodmarketing.com/blog/trello-content-calendar).
 
 - - -
 
