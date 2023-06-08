@@ -16,7 +16,7 @@ There are quite literally hundreds of thousands of ghostwriters operating today,
 Let’s take a closer look at how to find a ghostwriter for hire, as well as some of the platforms you can use to source them. We’ll cover:
 
 * What is a ghostwriter?
-* What can you find ghostwriters for hire?
+* Where can you find ghostwriters for hire?
 * Tips for finding and maintaining a professional ghostwriter
 * The value of a good ghostwriter
 
