@@ -6,7 +6,7 @@ description: React DevTools are an excellent utility for debugging and tuning
   is for Chrome and Firefox.
 categories: platforms
 cta: Playbook
-author: karl
+author: lucien
 date: 2023-06-09T19:49:06.050Z
 img: /assets/posts/how-to-use-react-devtools-on-safari.png
 ---
