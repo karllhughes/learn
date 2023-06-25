@@ -16,7 +16,72 @@ But once you see content working, the next question is how much content do you r
 
 This question comes up a lot in our work with developer tools companies, so I thought it would be interesting to quantify this. I spoke to several clients and colleagues in the industry to understand the kinds of results they’ve seen and the correlation between consistently publishing high-quality technical content and traffic growth.
 
-!﻿[Table of traffic and correlation to publishing frequency](https://i.imgur.com/HZGVJTV.png)
+<table>
+  <tr>
+   <td><strong>Company</strong>
+   </td>
+   <td><strong>Content Volume</strong>
+   </td>
+   <td><strong>Monthly Visitors</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://strapi.io/">Strapi</a>
+   </td>
+   <td>1-2 posts per week
+   </td>
+   <td>150,000
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://redpanda.com/">Redpanda</a>
+   </td>
+   <td>3-4 posts per week
+   </td>
+   <td>100,000*
+   </td>
+  </tr>
+  <tr>
+   <td>ContainIQ (sold in 2023)
+   </td>
+   <td>3-5 posts per week
+   </td>
+   <td>200,000
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://earthly.dev/">Earthly.dev</a>
+   </td>
+   <td>3-5 posts per week
+   </td>
+   <td>230,000
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://www.lambdatest.com/">LambdaTest</a>
+   </td>
+   <td>5 posts per week
+   </td>
+   <td>>1,000,000*
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://www.twilio.com/">Twilio</a>
+   </td>
+   <td>10-15 posts per week
+   </td>
+   <td>>3,700,000*
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://www.digitalocean.com/">DigitalOcean</a>
+   </td>
+   <td>10-20 posts per week
+   </td>
+   <td>>5,000,000*
+   </td>
+  </tr>
+</table>
 
 *\*Not officially confirmed. Estimates based on previously published data, Ahrefs, and/or SimilarWeb.*
 
@@ -36,7 +101,7 @@ There are basically three things you need to consider to answer this question:
 
 Typically, developer tools companies start producing content because they want to drive awareness, increase website traffic, and convert more leads into paying customers. These high-level goals are great, but in order to determine how much content you need, you’ll have to get more specific as to how and how quickly your content needs to affect these goals.
 
-!﻿[Goals and timeline](https://i.imgur.com/d2QtXY2.jpg)
+<img src="https://i.imgur.com/d2QtXY2.jpg" alt="Goals and timeline" /> 
 
 For example, if you want your content to help your brand be perceived as a “thought leader” and you have a long timeline, you can probably get away with publishing just one or two pieces of content per month from your executive team.
 
