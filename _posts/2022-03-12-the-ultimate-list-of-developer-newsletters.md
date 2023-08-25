@@ -98,6 +98,16 @@ Sponsorship rates: Undeclared
 
 Contact email/info: <https://twitter.com/davejsaunders>
 
+**[Grok](https://grok.computer/)**
+
+Grok summarizes the internet for software engineers every day, bringing the most significant bits to your email inbox. Start your day with a coffee, the latest links, and some humor.
+
+Number of subscribers: \<1000
+
+Sponsorship rates: $128
+
+Contact email/info: <support@grok.computer>
+
 ## Topic: Tech Leadership
 
 **[Tech Lead Digest](https://techleaddigest.net/)** 
