@@ -38,15 +38,15 @@ Sponsorship rates: <https://cdn.oreillystatic.com/pdf/OReilly_Marketing_Sponsors
 
 Contact email/info: <https://www.oreilly.com/content-marketing-solutions.html>
 
-**[TLDR Newsletter](https://www.paved.com/sites/tldr)**
+**[TLDR Newsletter](https://tldr.tech/)**
 
 TLDR newsletter is a daily newsletter with links and TLDRs of the most interesting stories in tech, science, and coding!
 
 Number of subscribers: 190,000
 
-Sponsorship rates: <https://www.paved.com/sites/tldr>
+[Sponsorship rates](https://app.hubspot.com/documents/24173214/view/626561212?accessId=89d291)
 
-Contact email/info: <https://www.paved.com/sites/tldr>
+Contact email/info: [﻿](https://www.paved.com/sites/tldr)partnerships@tldr.tech
 
 **[Programming Digest](https://programmingdigest.net/)**
 
@@ -102,11 +102,11 @@ Contact email/info: <https://twitter.com/davejsaunders>
 
 Grok summarizes the internet for software engineers every day, bringing the most significant bits to your email inbox. Start your day with a coffee, the latest links, and some humor.
 
-Number of subscribers: \<1000
+Number of subscribers: <1000
 
 Sponsorship rates: $128
 
-Contact email/info: <support@grok.computer>
+Contact email/info: [support@grok.computer](mailto:support@grok.computer)
 
 ## Topic: Tech Leadership
 
@@ -364,7 +364,7 @@ Sponsorship rates: <https://react.libhunt.com/advertise>
 
 Contact email/info: [stan@libhunt.com](mailto:stan@libhunt.com)
 
-**[This Week In React](https://thisweekinreact.com )**
+**[This Week In React](https://thisweekinreact.com)**
 
 A weekly newsletter of the latest news in React.
 
