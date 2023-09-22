@@ -3,29 +3,32 @@ layout: post
 title: The Startup Marketing Checklist
 description: The Startup Marketing Checklist is a comprehensive, chronologically
   ordered list of marketing tactics and ideas that you can try with your early
-  stage startup. The checklist is free and open source.
+  stage startup. The checklist is free and open to suggestions.
 categories: content-marketing
 cta: Call
 author: karl
-date: 2021-11-07T00:00:00.000Z
+date: 2023-09-22T22:39:54.026Z
 img: /assets/posts/marketing-checklist.png
 ---
-We work with dozens of early stage startups, so a lot of founders ask me what’s working in marketing for our other clients. The answer is, “it depends,” but I wanted to offer a complete index of the steps you can take when you’re just getting ready to launch an early stage startup.
+I tried dozens of side projects before starting Draft.dev, and now I've worked with hundreds of early-stage startups to help with marketing. So, a lot of founders ask me how to get started in marketing when your marketing budget is small and your product is new.
 
-This marketing checklist is a comprehensive, chronologically ordered list of marketing tactics and ideas that you can try with your startup. The list is free and open-source, so feel free to email us if you have suggestions.
+I created this list to give people an answer that is evergreen (not chasing fly-by-night marketing trends), easy to execute, cheap, and provides a proven ROI when done well.
 
-## The Startup Checklist For Pre-Launch
+This marketing checklist is a comprehensive, chronologically ordered list of marketing tactics and strategies that you can use to market your startup. The list is free and open to improvements, so feel free to reach out if you have suggestions.
 
-Marketing starts long before you launch. Market research, planning, and preparation are critical parts of any marketing strategy.
+## Pre-Launch Marketing Checklist
 
-### Competitor Research – Marketing Strategy Checklist
+Your marketing plan starts long before you launch. Market research, planning, and preparation are critical parts of any marketing strategy, even if you haven't fully baked your marketing team.
+
+### Competitor Research
 
 > *I have been up against tough competition all my life. I wouldn't know how to get along without it.* - Walt Disney
 
+![disney image](/assets/posts/disney.jpg)
+
 * Make a list of competitors (see [this list of tools to research competitors](https://draft.dev/learn/competition-research-tools)).
 * Competitor data to collect:
-
-  * Link to their website.
+* * Link to their website.
   * "One-liners" and taglines competitors use.
   * Pricing and business model.
   * Blog/RSS link.
@@ -35,13 +38,12 @@ Marketing starts long before you launch. Market research, planning, and preparat
 * Follow your competitors and their key employees on social media.
 * Monitor competitors' websites for changes.
 * Site monitoring tools to try:
-
-  * [Deep Dive Duck](https://deepdiveduck.com/)
+* * [Deep Dive Duck](https://deepdiveduck.com/)
   * [Versionista](https://versionista.com/)
 * Subscribe to industry newsletters, magazines, trade journals etc.
 * Use [Google Trends](https://trends.google.com/trends/) to do initial demand and search volume research.
 
-### Customer Research - Start Up Checklist
+### Customer Research
 
 > *If we knew what we were doing it wouldn’t be called research.* - Albert Einstein
 
@@ -49,8 +51,7 @@ Marketing starts long before you launch. Market research, planning, and preparat
 * Attend meetups or conferences for your target market.
 * Meet another entrepreneur who has a similar or competitive product.
 * Make a list of your competitors' customers:
-
-  * Check competitors' Twitter followers, mentions.
+* * Check competitors' Twitter followers, mentions.
   * Look through their Facebook fans.
   * Find people who follow them on Linkedin.
   * Check their website. Some companies list customer stories on their websites.
@@ -64,7 +65,7 @@ Marketing starts long before you launch. Market research, planning, and preparat
 * Create list of local bloggers and journalists in your industry.
 * Create a "Media Kit" page ([check out this example](https://www.kickresume.com/mediakit/)).
 
-### Website Setup Checklist - Marketing Plan Checklist
+### Website Setup
 
 * Come up with a name and domain name.
 * Write a site tagline and elevator pitch.
@@ -73,31 +74,22 @@ Marketing starts long before you launch. Market research, planning, and preparat
 * Create "About" and "Contact" pages.
 * Create Pricing page (see [this list of pricing models](https://taprun.com/methods/)):
 * Consider/test various pricing options:
-
-  * Create a free or trial tier for your paid product.
+* * Create a free or trial tier for your paid product.
   * Offer a 100% satisfaction/money-back guarantee.
   * Make product invite-only to start.
   * Offer free/discounted access for early adopters/beta testers.
 * Add social media follow links to landing page.
 * Set up analytics to learn about who signs up, bounces, etc.
 * Analytics platforms to try:
-
-  * [Google Analytics](https://analytics.google.com)
+* * [Google Analytics](https://analytics.google.com)
   * [Mixpanel](https://mixpanel.com/)
+  * [Fathom Analytics](https://usefathom.com/)
   * [Kiss Metrics](https://www.kissmetrics.com/)
-  * [Webmaster Tools](https://www.google.com/webmasters/tools)
-  * [Plausible Analytics](https://plausible.io/)
-  * [Smartlook](https://www.smartlook.com/)
 * Set up error logging, monitoring, capturing, etc.
-* Error monitoring tools to try:
-
-  * [Bugsnag](https://www.bugsnag.com/)
-  * [Rollbar](https://rollbar.com/)
-  * [Sentry](https://sentry.io/welcome/)
 * Set up on-site messaging to capture leads and engage customers as they land on your site (see our [list of live customer chat tools](https://draft.dev/learn/customer-chat-tools)).
 * Test your website for common SEO, speed, and security problems like broken links, missing page titles and insecure pages (see [Checkbot](https://www.checkbot.io)).
 
-### Email Setup - Marketing Plan Checklist
+### Email Setup
 
 *[See this list of email marketing tools](https://draft.dev/learn/tools/email-marketing) for services that make managing email easier.*
 
@@ -108,74 +100,68 @@ Marketing starts long before you launch. Market research, planning, and preparat
 * Create a standard email template for your brand.
 * Create transactional emails for when users sign up/purchase.
 
-### Blog Setup - Startup Advertising Checklist
+### Blog Setup
 
 > *Content Marketing is all the marketing that’s left.* - Seth Godin
 
 * Choose a blogging platform (see this list of [blogging platforms for your startup](https://draft.dev/learn/startup-blogging-platforms)).
 * Research [keywords that you'd like your site to rank for](https://draft.dev/learn/topic-clusters).
 * Keyword research tools to try:
-
-  * [Ahrefs](https://ahrefs.com/)
-  * [SpyFu](https://www.spyfu.com/)
+* * [Ahrefs](https://ahrefs.com/)
+  * [Positional](https://positional.com/)
   * [SEMrush](https://www.semrush.com/)
-  * [KeywordTool.io](http://keywordtool.io/)
-  * [Moz Keyword Explorer](https://moz.com/explorer)
-  * [KWFinder](https://kwfinder.com/)
-  * [Google Keyword Research](https://adwords.google.com/home/tools/keyword-planner/)
-  * [Ubersuggest](https://neilpatel.com/ubersuggest/)
-* Create anchor posts or pages for keywords you'd like to rank for.
+  * [Google Keyword Planner](https://adwords.google.com/home/tools/keyword-planner/) (free!)
+* Create pillar posts or pages for keywords you'd like to rank for.
 * Have a blog post brainstorming session (see this [big list of blog post ideas](https://draft.dev/learn/startup-blog-ideas)).
 * Add email signup form or link to all blog posts.
 * Add social media follow links to all blog posts.
 
-### Social Media Setup - The Startup Checklist
+### Social Media Setup
 
 > *Social media is the ultimate equalizer. It gives a voice and a platform to anyone willing to engage.* - Amy Jo Martin, CEO of Digital Royalty
 
-* Search for availability of names on social networks using [KnowEm](https://knowem.com/).
-* Choose the social media accounts you'll use:
-
-  * Facebook
+* Search for availability of names on social networks.
+* Choose 2-3 social media accounts you'll use based on your customers' preferences:
+* * Facebook
   * Twitter
   * LinkedIn
-  * Pinterest
   * Instagram
   * Snapchat
+  * TikTok
   * YouTube
-* Standardize profile image, background photo, links and call to action across social channels.
-* Consider putting premium content behind "[pay with a tweet](https://www.paywithatweet.com/)".
+* Standardize profile image, background photo, links, and call to action across social channels.
 
-## Post-Launch Startup Checklist
+## Post-Launch Marketing Checklist
 
 Once you launch, the real fun begins! Whether you go out with a bang or you gradually grow your userbase over months, getting customer feedback is essential for building a successful startup.
 
-### Free Promotional Channels – Advertising Checklist
+![customer at register](/assets/posts/customer-register.jpg)
+
+### Free Promotional Channels
 
 > *I don't care how much money you have, free stuff is always a good thing.* - Queen Latifah
->
-> * Post your product on directories and review sites (Matt McCaffrey has compiled [a great list on Github](https://github.com/mmccaff/PlacesToPostYourStartup) or you can use a service like [Instaaa](https://www.instaaa.com/)).
-> * Write and distribute a Press Release (here’s a [comprehensive guide from Wajeez](http://www.wajeez.com/writing-quick-press-releases/), or you can [use one of these distribution tools](https://draft.dev/learn/press-release-tools)).
-> * Write and distribute an eBook, exchange it for email signup.
-> * Write and distribute a white paper, exchange it for email signup.
-> * Give free access to influential bloggers in the industry.
-> * Build a “best of” page with your best blog posts that you wrote or contributed to other sites (ProBlogger calls this a “[Sneeze Page](https://problogger.com/create-a-sneeze-page-and-propel-readers-deep-within-your-blog/)”).
-> * Make sure all blog posts have high quality images (see [this list of free stock image sites](https://draft.dev/learn/tools/stock-images)).
-> * Create an online course or guide around your product/industry (be sure to [check out this list of course management tools](https://draft.dev/learn/course-creation-tools)).
-> * Run an [influencer marketing campaign](https://www.reddit.com/r/startups/comments/7aap5u/influencer_marketing_summary_of_12_articles/).
-> * Run a link-building campaign.
-> * Share the story of how you started your business on [Starter Story](https://starterstory.com/) - it’s free and you get a do-follow backlink.
-> * Try other link building strategies:
-> * * [Skyscraper campaign](http://backlinko.com/skyscraper-technique)
->   * [Ego baiting](http://pointblankseo.com/egobait-guide)
->   * Interview/expert Q&A post
->   * Guest posting
->   * Broken link building
->   * Get interviewed on podcasts
->   * Become a source on [Help a Reporter Out](https://www.helpareporter.com/)
->   * [More strategies on Backlinko.com](http://backlinko.com/link-building)
 
-### Paid Promotional Channels - Advertising Checklist
+* Post your product on directories and review sites (Matt McCaffrey has compiled [a great list on Github](https://github.com/mmccaff/PlacesToPostYourStartup) or you can use a service like [Instaaa](https://www.instaaa.com/)).
+* Write and distribute a Press Release (here’s a [comprehensive guide from Wajeez](http://www.wajeez.com/writing-quick-press-releases/), or you can [use one of these distribution tools](https://draft.dev/learn/press-release-tools)).
+* Write and distribute an eBook, exchange it for email signup.
+* Write and distribute a white paper, exchange it for email signup.
+* Give free access to influential bloggers in the industry.
+* Build a “best of” page with your best blog posts that you wrote or contributed to other sites (ProBlogger calls this a “[Sneeze Page](https://problogger.com/create-a-sneeze-page-and-propel-readers-deep-within-your-blog/)”).
+* Make sure all blog posts have high quality images (see [this list of free stock image sites](https://draft.dev/learn/tools/stock-images)).
+* Create an online course or guide around your product/industry (be sure to [check out this list of course management tools](https://draft.dev/learn/course-creation-tools)).
+* Run an [influencer marketing campaign](https://www.reddit.com/r/startups/comments/7aap5u/influencer_marketing_summary_of_12_articles/).
+* Run a link-building campaign.
+* Share the story of how you started your business on [Starter Story](https://starterstory.com/) (it’s free and you get a do-follow backlink).
+* Try other link building strategies:
+* * [Skyscraper campaign](http://backlinko.com/skyscraper-technique)
+  * [Ego baiting](http://pointblankseo.com/egobait-guide)
+  * Interview/expert Q&A post
+  * Guest posting
+  * Broken link building
+* Get interviewed on podcasts.
+* Become a source on [Help a Reporter Out](https://www.helpareporter.com/).
+
+### Paid Promotional Channels
 
 > *You must spend money to make money.* - Plautus, Ancient Roman playwright
 
@@ -184,10 +170,7 @@ Once you launch, the real fun begins! Whether you go out with a bang or you grad
 * Sponsor podcasts your customers might be listening to.
 * Sponsor/advertise an industry newsletter.
 * Set up a user referral marketing system/platform:
-
-  * [Harry's Prelaunchr (free, open source)](https://github.com/harrystech/prelaunchr)
-  * [CleverTap (offers a free tier)](https://clevertap.com/)
-  * [Expect Referrals](http://expectreferrals.com/pricing/)
+* * [Expect Referrals](http://expectreferrals.com/pricing/)
   * [Frederick](https://www.hirefrederick.com/)
   * [Genius Referrals](http://www.geniusreferrals.com/)
   * [InviteBox](https://invitebox.com/)
@@ -198,26 +181,24 @@ Once you launch, the real fun begins! Whether you go out with a bang or you grad
 * Run an engagement contest with prizes or free products for winners.
 * Run [retargeting ads](https://retargeter.com/what-is-retargeting-and-how-does-it-work) to target users who have been to your site before.
 
-## Recurring Startup Launch Checklist
+## Recurring Marketing Checklist
 
 Much of marketing is staying consistent over time. While you need to know that a tactic is viable, you might have to stick with it for weeks to see real results. This marketing to do list gives you a chance to check off all the boxes – literally!
 
-### Blogging - Startup Checklist
+### Ongoing Content Marketing and Blogging
 
 > *Blogging is like work, but without coworkers thwarting you at every turn.* - Scott Adams, Creator of Dilbert
 
-* Build/update publishing calendar for your blog.
+* Build/update publishing calendar for your blog/video marketing efforts.
 * Regularly post blog posts on your blog(s).
 * Solicit guest posts from early customers and fans of your product.
 * Repurpose existing blog posts:
-
-  * Record/post video of you reading the post on YouTube.
+* * Record/post video of you reading the post on YouTube.
   * Turn posts into a podcast.
   * Create an infographic based on the post.
   * Create a presentation of your post.
 * Promote your blog content (see [this big checklist for more promotional ideas](https://draft.dev/learn/promotion):
-
-  * Send post to your email list.
+* * Send post to your email list.
   * Promote on your social media.
   * Email friends and relatives, ask them to share if relevant.
   * Send to other bloggers for feedback, ask to share if they like it.
@@ -225,7 +206,7 @@ Much of marketing is staying consistent over time. While you need to know that a
   * Submit your post to relevant aggregators and niche communities.
 * [Refresh old blog posts every 6-12 months](https://draft.dev/learn/refreshing-blog-posts)
 
-### Email - Tech Startup Checklist
+### Email Marketing
 
 > *Any email that contains the words 'important' or 'urgent' never are, and annoy me to the point of not replying out of principle.* - Markus Persson, aka "Notch", creator of Minecraft
 
@@ -234,14 +215,13 @@ Much of marketing is staying consistent over time. While you need to know that a
 * Send 20 cold emails per week to connect with early customers and get direct feedback.
 * Send new users a personal email introducing yourself.
 
-### Social Media - Startup Marketing Checklist
+### Social Media
 
 > *We have technology, finally, that for the first time in human history allows people to really maintain rich connections with much larger numbers of people.* – Pierre Omidyar, Founder of eBay
 
 * Schedule regular social media content (try these [social media tools to help automate the social media process](https://www.sideprojectchecklist.com/2017/social-media-tools)).
 * Social media content ideas to try:
-
-  * Show what's happening "behind the scenes" (eg: pictures of your workspace, in-development features, etc.).
+* * Show what's happening "behind the scenes" (eg: pictures of your workspace, in-development features, etc.).
   * Blog posts from your blog (or partners' blogs).
   * Special offers or discounts.
   * Relevant news, advice, or blogs.
@@ -255,7 +235,7 @@ Much of marketing is staying consistent over time. While you need to know that a
 * Search Twitter for people talking about issues you're solving with your project and interact with them.
 * Give early users discounts for taking pics with your product.
 
-### Public Relations - The Startup Checklist
+### Public Relations
 
 > *The art of publicity is a black art; but it has come to stay, and every year adds to its potency.* – Thomas Paine
 
@@ -265,8 +245,7 @@ Much of marketing is staying consistent over time. While you need to know that a
 * Find professors and students with `.edu` sites to link to your content (good for SEO).
 * Find reviews or lists of similar products. Ask to be added or leave a comment about your product.
 * Guest post on other blogs:
-
-  * Build a list of blogs that are a good fit for your product and accept guest posts. Save their contact form/information.
+* * Build a list of blogs that are a good fit for your product and accept guest posts. Save their contact form/information.
   * Write a few posts on your own blog first (to use as a demonstration).
   * Create a list of "pitches," blog post ideas with a title and one paragraph summary that might grab bloggers.
   * Pitch the blogs one idea each. See what they respond to.
@@ -274,25 +253,16 @@ Much of marketing is staying consistent over time. While you need to know that a
   * Reach back out in a month and try another pitch. Try to become a "regular"
 * Join and participate in forums related to your product or industry.
 
-### External Sites - Project Startup Checklist
+### More Ongoing Marketing Ideas
 
 * Answer relevant questions on Q&A community sites (check back regularly):
-
-  * [Stack Overflow](https://stackoverflow.com/)
+* * [Stack Overflow](https://stackoverflow.com/)
   * [Quora](https://www.quora.com/)
   * Industry or geographically specific forums
-  * [Product Hunt](https://www.producthunt.com/) For more information on how to launch here, [read this](https://blog.producthunt.com/how-to-launch-on-product-hunt-7c1843e06399).
-* Leave comments on Slideshare presentations.
-* Review industry-related books on Amazon, Goodreads.
+  * [Product Hunt](https://www.producthunt.com/)
 * Register to be [notified of topics on Reddit and Hacker News with F5Bot](/2018/f5bot-tracking).
-* Create/publish presentations relevant to your industry:
 
-  * [Google Slides](https://docs.google.com/presentation/)
-  * [Prezi](https://prezi.com/)
-  * [Slides.com](https://slides.com/)
-  * [Slideshare](https://www.slideshare.net/)
-
-## Start Up Marketing Optimizations
+## Marketing Optimization Checklist
 
 After you’ve kicked off your marketing engine and start to see results, it’s time to optimize. The following ideas will help you get started, but optimizing your marketing efforts is a never-ending challenge.
 
@@ -311,14 +281,14 @@ After you’ve kicked off your marketing engine and start to see results, it’s
 * Audit and improve your conversion rate (see [this checklist for detailed steps you can take](http://www.conversionchecklist.org/))
 * Set up automatic analytics reports to be emailed to you each week.
 * Experiment with various signup form locations, colors, and sizes.
-* Add “Exit Intent” popup to your blog/site.
+* Add an “[Exit Intent](https://optinmonster.com/40-exit-popup-hacks-that-will-grow-your-subscribers-and-revenue/)” popup to your blog/site.
 * Create an FAQs page.
 * Verify your website’s tags are correct with [Google Tag Assistant](https://get.google.com/tagassistant/).
-* Watch a first time user use your product.
+* Watch a first time user use your product/website.
 * Collect and display testimonials from happy users.
-* Survey or poll your users for feedback (see our [list of survey tools for lots of great options at any budget](https://draft.dev/learn/tools/surveys) or this [list of Google Forms alternatives](https://www.karllhughes.com/posts/google-forms-alternatives)).
+* Survey or poll your users for feedback (see our [list of survey tools for lots of great options at any marketing budget](https://draft.dev/learn/tools/surveys) or this [list of Google Forms alternatives](https://www.karllhughes.com/posts/google-forms-alternatives)).
 * Use [Monkey Test It](https://monkeytest.it/) to find bugs and broken links of your site. Set up an alert to notify you on breakage.
 * Use [Checkbot](https://www.checkbot.io/) on your website to test for and fix SEO, speed and security problems.
 * Follow [the steps here](https://gdprchecklist.io/) to ensure GDPR compliance.
 
-As I mentioned above, this tech startup checklist  is subject to change, so email us if you’d like to add your suggestions.
+As I mentioned above, this checklist is subject to change, so [email me](mailto:info@draft.dev) if you’d like to add your suggestions.
