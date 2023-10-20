@@ -7,7 +7,7 @@ description: Learn how Developer Relations (DevRel) is transforming product
   innovation and trust.
 categories: developer-marketing
 cta: Playbook
-author: karl
+author: mehul
 date: 2023-10-20T19:24:28.769Z
 img: /assets/posts/community-devrel.jpg
 ---
