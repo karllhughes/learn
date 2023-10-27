@@ -135,7 +135,7 @@ Your marketing plan starts long before you launch. Market research, planning, an
 
 Once you launch, the real fun begins! Whether you go out with a bang or you gradually grow your userbase over months, getting customer feedback is essential for building a successful startup.
 
-![customer at register](/assets/posts/customer-register.jpg)
+![customer at register](/learn/assets/posts/customer-register.jpg)
 
 ### Free Promotional Channels
 
@@ -193,7 +193,7 @@ Much of marketing is staying consistent over time. While you need to know that a
 * Regularly post blog posts on your blog(s).
 * Solicit guest posts from early customers and fans of your product.
 * Repurpose existing blog posts:
-* * Record/post video of you reading the post on YouTube.
+  * Record/post video of you reading the post on YouTube.
   * Turn posts into a podcast.
   * Create an infographic based on the post.
   * Create a presentation of your post.
@@ -256,7 +256,7 @@ Much of marketing is staying consistent over time. While you need to know that a
 ### More Ongoing Marketing Ideas
 
 * Answer relevant questions on Q&A community sites (check back regularly):
-* * [Stack Overflow](https://stackoverflow.com/)
+  * [Stack Overflow](https://stackoverflow.com/)
   * [Quora](https://www.quora.com/)
   * Industry or geographically specific forums
   * [Product Hunt](https://www.producthunt.com/)
