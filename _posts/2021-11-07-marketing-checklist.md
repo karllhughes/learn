@@ -28,7 +28,7 @@ Your marketing plan starts long before you launch. Market research, planning, an
 
 * Make a list of competitors (see [this list of tools to research competitors](https://draft.dev/learn/competition-research-tools)).
 * Competitor data to collect:
-* * Link to their website.
+  * Link to their website.
   * "One-liners" and taglines competitors use.
   * Pricing and business model.
   * Blog/RSS link.
@@ -38,7 +38,7 @@ Your marketing plan starts long before you launch. Market research, planning, an
 * Follow your competitors and their key employees on social media.
 * Monitor competitors' websites for changes.
 * Site monitoring tools to try:
-* * [Deep Dive Duck](https://deepdiveduck.com/)
+  * [Deep Dive Duck](https://deepdiveduck.com/)
   * [Versionista](https://versionista.com/)
 * Subscribe to industry newsletters, magazines, trade journals etc.
 * Use [Google Trends](https://trends.google.com/trends/) to do initial demand and search volume research.
@@ -47,11 +47,11 @@ Your marketing plan starts long before you launch. Market research, planning, an
 
 > *If we knew what we were doing it wouldn’t be called research.* - Albert Einstein
 
-* Find people in your contact list who might be future customers. Get their feedback on your idea.
+* Find people in your contact list who might be future customers. Have 20 conversations (see [The Mom Test](https://www.momtestbook.com/)).
 * Attend meetups or conferences for your target market.
 * Meet another entrepreneur who has a similar or competitive product.
 * Make a list of your competitors' customers:
-* * Check competitors' Twitter followers, mentions.
+  * Check competitors' Twitter followers, mentions.
   * Look through their Facebook fans.
   * Find people who follow them on Linkedin.
   * Check their website. Some companies list customer stories on their websites.
@@ -74,14 +74,14 @@ Your marketing plan starts long before you launch. Market research, planning, an
 * Create "About" and "Contact" pages.
 * Create Pricing page (see [this list of pricing models](https://taprun.com/methods/)):
 * Consider/test various pricing options:
-* * Create a free or trial tier for your paid product.
+  * Create a free or trial tier for your paid product.
   * Offer a 100% satisfaction/money-back guarantee.
   * Make product invite-only to start.
   * Offer free/discounted access for early adopters/beta testers.
 * Add social media follow links to landing page.
 * Set up analytics to learn about who signs up, bounces, etc.
 * Analytics platforms to try:
-* * [Google Analytics](https://analytics.google.com)
+  * [Google Analytics](https://analytics.google.com)
   * [Mixpanel](https://mixpanel.com/)
   * [Fathom Analytics](https://usefathom.com/)
   * [Kiss Metrics](https://www.kissmetrics.com/)
@@ -107,7 +107,7 @@ Your marketing plan starts long before you launch. Market research, planning, an
 * Choose a blogging platform (see this list of [blogging platforms for your startup](https://draft.dev/learn/startup-blogging-platforms)).
 * Research [keywords that you'd like your site to rank for](https://draft.dev/learn/topic-clusters).
 * Keyword research tools to try:
-* * [Ahrefs](https://ahrefs.com/)
+  * [Ahrefs](https://ahrefs.com/)
   * [Positional](https://positional.com/)
   * [SEMrush](https://www.semrush.com/)
   * [Google Keyword Planner](https://adwords.google.com/home/tools/keyword-planner/) (free!)
@@ -122,7 +122,7 @@ Your marketing plan starts long before you launch. Market research, planning, an
 
 * Search for availability of names on social networks.
 * Choose 2-3 social media accounts you'll use based on your customers' preferences:
-* * Facebook
+  * Facebook
   * Twitter
   * LinkedIn
   * Instagram
@@ -153,7 +153,7 @@ Once you launch, the real fun begins! Whether you go out with a bang or you grad
 * Run a link-building campaign.
 * Share the story of how you started your business on [Starter Story](https://starterstory.com/) (it’s free and you get a do-follow backlink).
 * Try other link building strategies:
-* * [Skyscraper campaign](http://backlinko.com/skyscraper-technique)
+  * [Skyscraper campaign](http://backlinko.com/skyscraper-technique)
   * [Ego baiting](http://pointblankseo.com/egobait-guide)
   * Interview/expert Q&A post
   * Guest posting
@@ -170,7 +170,7 @@ Once you launch, the real fun begins! Whether you go out with a bang or you grad
 * Sponsor podcasts your customers might be listening to.
 * Sponsor/advertise an industry newsletter.
 * Set up a user referral marketing system/platform:
-* * [Expect Referrals](http://expectreferrals.com/pricing/)
+  * [Expect Referrals](http://expectreferrals.com/pricing/)
   * [Frederick](https://www.hirefrederick.com/)
   * [Genius Referrals](http://www.geniusreferrals.com/)
   * [InviteBox](https://invitebox.com/)
@@ -198,7 +198,7 @@ Much of marketing is staying consistent over time. While you need to know that a
   * Create an infographic based on the post.
   * Create a presentation of your post.
 * Promote your blog content (see [this big checklist for more promotional ideas](https://draft.dev/learn/promotion):
-* * Send post to your email list.
+  * Send post to your email list.
   * Promote on your social media.
   * Email friends and relatives, ask them to share if relevant.
   * Send to other bloggers for feedback, ask to share if they like it.
@@ -221,7 +221,7 @@ Much of marketing is staying consistent over time. While you need to know that a
 
 * Schedule regular social media content (try these [social media tools to help automate the social media process](https://www.sideprojectchecklist.com/2017/social-media-tools)).
 * Social media content ideas to try:
-* * Show what's happening "behind the scenes" (eg: pictures of your workspace, in-development features, etc.).
+  * Show what's happening "behind the scenes" (eg: pictures of your workspace, in-development features, etc.).
   * Blog posts from your blog (or partners' blogs).
   * Special offers or discounts.
   * Relevant news, advice, or blogs.
