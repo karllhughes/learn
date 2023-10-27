@@ -24,7 +24,7 @@ Your marketing plan starts long before you launch. Market research, planning, an
 
 > *I have been up against tough competition all my life. I wouldn't know how to get along without it.* - Walt Disney
 
-![disney image](/assets/posts/disney.jpg)
+![disney image](/learn/assets/posts/disney.jpg)
 
 * Make a list of competitors (see [this list of tools to research competitors](https://draft.dev/learn/competition-research-tools)).
 * Competitor data to collect:
