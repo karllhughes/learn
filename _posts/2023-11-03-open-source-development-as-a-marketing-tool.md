@@ -6,7 +6,7 @@ description: In this post, we'll explore how developer tools companies can
   and reasons that so many companies invest in open source development.
 categories: developer-marketing
 cta: Call
-author: josef
+author: jand
 date: 2023-11-03T17:47:22.019Z
 img: /assets/posts/luke-southern-4kcgeb7kt4k-unsplash.jpg
 ---
