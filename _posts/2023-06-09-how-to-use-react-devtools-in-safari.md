@@ -18,15 +18,17 @@ Fortunately, there is a solution. You can still use standalone React DevTools to
 
 In this article, you'll learn how to install and use the standalone version of React DevTools to debug a React application running in Safari. In addition, the article also highlights the differences between the standalone version and the Chrome extension, as well as some limitations of the tools.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9v8szoGHfpk?si=_xc7wbOD5VOi6ED2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Use Cases for Debugging React Apps
 
 The standalone version of React DevTools is a separate application that provides a powerful set of debugging and inspection tools for React applications. It's independent of any specific browser and can be used across various platforms and environments. This makes it a versatile option for developers who need to debug their React apps in different contexts.
 
 Some of the use cases for the standalone version of React DevTools include:
 
-- **Debugging non-browser-based React apps:** The standalone version of React DevTools is particularly useful when debugging React Native applications because it is platform-independent and can connect to apps running on iOS or Android devices. For example, you can use it to determine why a specific component of your React Native app isn't rendering correctly on an iOS device. You can use React DevTools to inspect the component tree, check component props and state, and identify issues with styling or logic that may be causing the rendering problem.
-- **Debugging React apps in Safari:** Safari is a widely used browser, especially among macOS users. Although Safari has its own set of developer tools, it doesn't have extensions or support for React applications like Chrome or Firefox. The standalone version of React DevTools can be used to debug React applications running in Safari, as it provides developers with a powerful set of tools to inspect components and diagnose issues. For instance, if a specific UI component in your React app doesn't behave as expected when viewed in Safari, you can use React DevTools to inspect the component in question. You can check its state and props and identify any issues.
-- **Debugging server-rendered React apps:** In most static site generators, React apps are server-rendered, which means components are rendered on the server side and sent as HTML to the client. In these scenarios, the standalone version of React DevTools can help you debug issues related to server-rendered components. For example, if you're using a solution like [Next.js](https://nextjs.org/) or [React Server Components](https://nextjs.org/docs/advanced-features/react-18/server-components) to perform server-side rendering, you can use the standalone version of React DevTools to inspect the rendered components and identify issues related to data fetching, state management, or rendering logic.
+* **Debugging non-browser-based React apps:** The standalone version of React DevTools is particularly useful when debugging React Native applications because it is platform-independent and can connect to apps running on iOS or Android devices. For example, you can use it to determine why a specific component of your React Native app isn't rendering correctly on an iOS device. You can use React DevTools to inspect the component tree, check component props and state, and identify issues with styling or logic that may be causing the rendering problem.
+* **Debugging React apps in Safari:** Safari is a widely used browser, especially among macOS users. Although Safari has its own set of developer tools, it doesn't have extensions or support for React applications like Chrome or Firefox. The standalone version of React DevTools can be used to debug React applications running in Safari, as it provides developers with a powerful set of tools to inspect components and diagnose issues. For instance, if a specific UI component in your React app doesn't behave as expected when viewed in Safari, you can use React DevTools to inspect the component in question. You can check its state and props and identify any issues.
+* **Debugging server-rendered React apps:** In most static site generators, React apps are server-rendered, which means components are rendered on the server side and sent as HTML to the client. In these scenarios, the standalone version of React DevTools can help you debug issues related to server-rendered components. For example, if you're using a solution like [Next.js](https://nextjs.org/) or [React Server Components](https://nextjs.org/docs/advanced-features/react-18/server-components) to perform server-side rendering, you can use the standalone version of React DevTools to inspect the rendered components and identify issues related to data fetching, state management, or rendering logic.
 
 ## How to Debug a React App in Safari
 
@@ -36,10 +38,10 @@ The following tutorial explains how to use the standalone version of React DevTo
 
 To complete this tutorial, you'll need:
 
-- A Mac running [Safari](https://support.apple.com/downloads/safari)
-- A code editor, such as [Visual Studio Code](https://code.visualstudio.com)
-- [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) installed on your machine
-- [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) (the Node package manager) installed on your system
+* A Mac running [Safari](https://support.apple.com/downloads/safari)
+* A code editor, such as [Visual Studio Code](https://code.visualstudio.com)
+* [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) installed on your machine
+* [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) (the Node package manager) installed on your system
 
 To verify the installation of Node.js and npm, execute these commands in your shell or terminal:
 
@@ -74,7 +76,7 @@ Execute the following command to start the development server:
 npm start
 ```
 
-Your React application should now be live at [http://localhost:3000/](http://localhost:3000/). Use your Safari browser to open the application:
+Your React application should now be live at <http://localhost:3000/>. Use your Safari browser to open the application:
 
 ![React demo application in Safari](https://i.imgur.com/HqgadpR.png)
 
@@ -218,9 +220,9 @@ Using React DevTools, you can gain a better understanding of the structure and b
 
 If you use the standalone version of React DevTools, you'll be able to use it with any browser, not just Safari. It also offers more customization options and flexibility compared to the Chrome extension. The following are some other differences between the two versions:
 
-- **Cross-platform compatibility:** The standalone version of React DevTools is designed to work across various platforms, including browsers and devices, enabling a broader range of debugging and development possibilities. Chrome extensions, on the other hand, are limited to working within the Chrome browser environment.
-- **Ease of setup and connection:** Chrome extensions are designed to integrate seamlessly with the browser, so using the extension version makes it easy to detect and connect to React apps running in the browser. The standalone version of React DevTools often requires manual configuration to connect to the target app, which can be more time-consuming and error-prone.
-- **Updates and maintenance:** These two versions of React DevTools may have different release schedules and update processes. Chrome extensions typically update automatically with the browser, while the standalone version may require manual updates.
+* **Cross-platform compatibility:** The standalone version of React DevTools is designed to work across various platforms, including browsers and devices, enabling a broader range of debugging and development possibilities. Chrome extensions, on the other hand, are limited to working within the Chrome browser environment.
+* **Ease of setup and connection:** Chrome extensions are designed to integrate seamlessly with the browser, so using the extension version makes it easy to detect and connect to React apps running in the browser. The standalone version of React DevTools often requires manual configuration to connect to the target app, which can be more time-consuming and error-prone.
+* **Updates and maintenance:** These two versions of React DevTools may have different release schedules and update processes. Chrome extensions typically update automatically with the browser, while the standalone version may require manual updates.
 
 ## Limitations of Standalone React DevTools
 
@@ -228,10 +230,10 @@ It's also important to be aware that the standalone version of React DevTools ha
 
 The following are some of the most notable limitations:
 
-- **Browser-specific features:** The standalone version of React DevTools may lack some browser-specific features, such as network request inspection, JavaScript debugging, or browser performance profiling. For these features, developers need to use the browser's built-in developer tools or rely on other debugging solutions tailored for the specific browser.
-- **Integration with browser environment:** The standalone version doesn't have the same level of integration with the browser environment as the extensions. Certain tasks, like interacting with browser APIs or manipulating the DOM, may be more challenging or impossible to accomplish using the standalone version.
-- **Learning curve:** Due to differences in features, interface, and setup process, developers may need to invest additional time in learning how to use the standalone version of React DevTools. This may slow down their development process, especially if they are already familiar with the Chrome extension.
-- **Performance and resource usage:** The standalone version of React DevTools may have different performance characteristics and resource usage compared to the Chrome extension version. Depending on the specific tools and configurations used, developers may experience varying levels of performance and resource consumption, which can impact their development experience.
+* **Browser-specific features:** The standalone version of React DevTools may lack some browser-specific features, such as network request inspection, JavaScript debugging, or browser performance profiling. For these features, developers need to use the browser's built-in developer tools or rely on other debugging solutions tailored for the specific browser.
+* **Integration with browser environment:** The standalone version doesn't have the same level of integration with the browser environment as the extensions. Certain tasks, like interacting with browser APIs or manipulating the DOM, may be more challenging or impossible to accomplish using the standalone version.
+* **Learning curve:** Due to differences in features, interface, and setup process, developers may need to invest additional time in learning how to use the standalone version of React DevTools. This may slow down their development process, especially if they are already familiar with the Chrome extension.
+* **Performance and resource usage:** The standalone version of React DevTools may have different performance characteristics and resource usage compared to the Chrome extension version. Depending on the specific tools and configurations used, developers may experience varying levels of performance and resource consumption, which can impact their development experience.
 
 By keeping these limitations in mind, you can adjust your approach and optimize your code more effectively. For instance, you can use alternative tools or workarounds to gather the information you need.
 
