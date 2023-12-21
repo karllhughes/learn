@@ -9,7 +9,7 @@ author: karl
 date: 2023-12-21T19:50:38.155Z
 img: /assets/posts/3258_draftdev_what-is-developer-experience_1200x2280_option-2.png
 ---
-E﻿ver since I started Draft.dev in 2020, one of the most commonly requested services we've gotten from prospects has been video production. Unlike our content writing services, video was an area where I had little to no professional experience, so I was wary of taking it on without the expertise available to do it right.
+E﻿ver since I started Draft.dev in 2020, one of the most common requests we've gotten from prospects has been video production. Unlike our content writing services, video was an area where I had little to no professional experience, so I was wary of taking it on without the expertise available to do it right.
 
 F﻿ortunately, as our team has grown, so have our capabilities. I'm excited to announce that as of this month, **we're offering video tutorial creation services to all our clients in the developer tooling space.**
 
