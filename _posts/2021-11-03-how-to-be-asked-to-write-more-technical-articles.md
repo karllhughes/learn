@@ -1,23 +1,16 @@
 ---
 layout: post
 title: How to Be Asked to Write More Technical Articles
-description: With the current demand for technical content being as high as it
-  is, you might be interested in turning your software development knowledge
-  toward writing. After all, why not? It can be a lucrative hobby if you enjoy
-  writing anyway. You can build a reputation as a voice of authority. It can
-  pave the way toward speaking and presenting, if that appeals. Some developers
-  have even moved on to writing full-time after getting a decent taste for
-  it.  Of course, to get that far down the road, you need people to want your
-  writing. So how exactly do you get asked to keep writing technical
-  articles?  I’ve got you covered. Take your cue from this article, and
-  technical publishers will be piling requests into your inbox.
+description: With demand for technical content as high as it is, you might be
+  interested in turning your software development knowledge into a career in
+  writing. Here's how to get more work from clients and employers.
 categories: processes
 cta: Apply
-author: chris
-date: 2021-11-03T17:39:48.081Z
+author: karl
+date: 2024-01-25T17:11:28.655Z
 img: /assets/posts/lee-campbell-dtdlvpy-vvq-unsplash.jpg
 ---
-With the current demand for technical content being as high as it is, you might be interested in turning your software development knowledge toward writing. After all, why not? It can be a lucrative hobby if you enjoy writing anyway. You can build a reputation as a voice of authority. It can pave the way toward speaking and presenting, if that appeals. Some developers have even moved on to writing full-time after getting a decent taste for it.
+With the demand for [technical content](https://draft.dev/learn/technical-content) being as high as it is, you might be interested in turning your software development knowledge toward writing. After all, why not? It can be a lucrative hobby if you enjoy writing anyway. You can build a reputation as a voice of authority. It can pave the way toward speaking and presenting, if that appeals. Some developers have even moved on to writing full-time after getting a decent taste for it.
 
 Of course, to get that far down the road, you need people to want your writing. So how exactly do you get asked to keep writing technical articles?
 
@@ -38,6 +31,7 @@ If you can hit your deadlines and deliver adequate work on time, you don’t hav
 ## Understand What You’ve Been Asked For
 
 Every writing assignment should come with a few basic pieces of information:
+
 * your due date
 * your pay rate
 * how big the article should be (usually a word count)
@@ -54,6 +48,7 @@ If your publisher has a style guide, read over it and try to follow it. You don�
 Here, I have to expound on the previous tip. Revisions are part of writing, and your publisher may have outlined expectations around that for you. Check your contract—is there language about how many revisions you can be asked to do for the pay rate you’re receiving? One revision is common, but be ready for two if you’re writing for an agency with its own end client.
 
 It’s essential to know your publisher’s revision process for a couple of reasons:
+
 * You can decide if the offered pay rate is sufficient once you factor in revision time.
 * You can point to a specific boundary if your publisher keeps asking for revisions.
 
@@ -63,9 +58,10 @@ Your revision will most likely entail answering questions from either an editor 
 
 ## Communicate—But Be Smart About It
 
-If the organization you’re writing for has an established content publishing system, chances are good they’ll have a lot of answers already prepared for most questions you might have. 
+If the organization you’re writing for has an established content publishing system, chances are good they’ll have a lot of answers already prepared for most questions you might have.
 
 Before you send an email to your editor with a list of questions, double-check if you’re asking any of these:
+
 * When’s the deadline?
 * When and how do I get paid?
 * What’s your editing process?
@@ -76,6 +72,7 @@ All of those are legitimate questions. But first, take a stroll through your pub
 You might find your answer faster there than sitting in someone’s inbox. And content managers love working with freelancers who can find their own answers.
 
 However, you may have one of these questions:
+
 * Can I get an extension?
 * Can I get some help on this technical roadblock?
 * I think I need paid access to this tool—can you help out?
@@ -100,10 +97,10 @@ Obviously, the writing that goes into your article is the most important thing t
 
 ## Conclusion
 
-Adding *technical writer* to your LinkedIn page isn’t as much about being a great writer as you might think. Like most jobs, your success as a technical writer boils down to how difficult you are to work with. Do you make your editor’s job easier? Are you reliable with your deadlines and the completeness of your work? Are you efficient and professional in your communication?
+Adding [technical writer to your LinkedIn page](https://draft.dev/learn/finding-opportunities-as-an-entry-level-technical-writer) isn’t as much about being a great writer as you might think. Like most jobs, your [success as a technical writer](https://draft.dev/learn/ultimate-guide-to-technical-writing) boils down to how difficult you are to work with. Do you make your editor’s job easier? Are you reliable with your deadlines and the completeness of your work? Are you efficient and professional in your communication?
 
 At the end of the day, that’s what will keep the writing requests filling your inbox, I personally guarantee it.
 
-Interested in writing for Draft.dev? [Click here to learn more and apply today](https://draft.dev/write).
+Interested in writing for Draft.dev? [Click here to learn more and apply today](https://draft.dev/write).
 
-Want access to our fantastic pool of writers? [Schedule a call to learn more about what we do](https://draft.dev/call).
+**Want access to our fantastic pool of writers? [Schedule a call to learn more about what we do](https://draft.dev/call).**
