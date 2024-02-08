@@ -18,7 +18,7 @@ One thing I value in our interactions with clients is transparency. We need clie
 
 In the further interest of transparency, I’m going to share our entire client onboarding process as it stands today. While things occasionally deviate, you might find it helpful to see the whole thing laid out. Hopefully, this gives you a better idea of what to expect as you consider or start your engagement with Draft.dev.
 
-Typically, onboarding takes 6-9 weeks between when we sign a statement of work and when your first article is completed. <br></br>
+Typically, onboarding takes 6-9 weeks between when we sign a statement of work and when your first article is completed.
 
 ![Map of the whole client onboarding process at Draft.dev](/assets/posts/draftdev-production-timeline.png)
 
