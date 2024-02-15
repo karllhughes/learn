@@ -38,7 +38,7 @@ Contact email/info: <https://www.oreilly.com/content-marketing-solutions.html>
 
 #### [TLDR Newsletter](https://tldr.tech/)
 
-![TDLR Newsletter](/assets/posts/tldr.png)
+![TLDR Newsletter](/assets/posts/tldr.png)
 
 TLDR newsletter is a daily newsletter with links and TLDRs of the most interesting stories in tech, science, and coding!
 
