@@ -4,7 +4,7 @@ title: What is a Technical Marketing Manager?
 description: Technical marketing managers build marketing strategies for
   technical audiences like developers. If you’re looking to hire or become one,
   this guide is for you.
-categories: developer-marketing
+categories: marketing-titles
 cta: Content Ideas
 author: meagan
 date: 2024-02-16T20:29:04.710Z
