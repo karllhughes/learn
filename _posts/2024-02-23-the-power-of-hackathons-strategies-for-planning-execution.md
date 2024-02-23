@@ -18,7 +18,7 @@ So, should your company host a hackathon? And if so, how do you make it a succes
 
 Recently, we kicked off our new monthly webinar series at Draft.dev with a focus on hackathons. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Mel7_iI3l5w?si=-nQtEq1M_JaRzPi-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width=“600” height=“337” src="https://www.youtube.com/embed/Mel7_iI3l5w?si=-nQtEq1M_JaRzPi-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Our CEO, Karl Hughes, and Brandon Kessler, CEO of [Devpost](https://devpost.com/), dived deep into what makes hackathons tick, their benefits, and key strategies for organizing one. This blog post takes you through the essential questions you might have, like what hackathons are good for, how to plan them right, and more.
 
@@ -53,13 +53,9 @@ Can early-stage start-ups host hackathons? Sure! But it’s important to manage 
 
 Think beyond a single event and don't view hackathons as a standalone marketing campaign. Integrate them into your ongoing developer outreach strategy. Use them to complement technical content, inspire your community, and foster long-term connections.
 
-
-
 ### 4. Hackathons as the Only Marketing Strategy:
 
 Hackathons are powerful, but they're not your entire developer marketing strategy. Think of them as an umbrella providing shade alongside other channels like tutorials, forums, and community events. Use them to drive engagement and support broader initiatives.
-
-
 
 In essence, hackathons are catalysts for innovation, community building, and learning. By acknowledging their limitations and integrating them strategically, you can create win-win situations for both you and your developer community.
 
@@ -93,8 +89,6 @@ While your product might seem like a "one-trick pony" at first glance, remember 
 
 * Build the most secure and user-friendly authentication experience for a specific user group (gamers, healthcare professionals, etc.).
 * Integrate AI to personalize authentication based on user behavior or risk factors.
-
-
 
 Check out [Okta's past hackathons](https://devpost.com/hackathons?search=okta) and their [case study](https://info.devpost.com/blog/okta-dft-customer-story) on DevPost for inspiration. See how they broadened their authentication-focused challenges to encourage creative solutions.
 
@@ -130,8 +124,6 @@ While cash is a traditional prize, developers may find it more attractive if you
 * Personal branding support: Offer resources or workshops to amplify their online presence.
 * Tools and subscriptions: Equip them with valuable tools to accelerate their work.
 
-
-
 Tailoring prizes to your audience can also be a good idea. For example, consider the type of developers you're trying to attract and their motivations. While junior developers might appreciate career development incentives, senior developers may find recognition and their personal brand awareness more important. 
 
 Also, transparency is key, so communicate prize details and eligibility criteria clearly, and don’t forget to research local regulations for any specific prize restrictions or guidelines in the country of your organized hackathon.
@@ -139,8 +131,6 @@ Also, transparency is key, so communicate prize details and eligibility criteria
 ## Measuring Your Hackathon's Impact
 
 Attendance figures offer an overview of participation, but to understand your hackathon's success you have to dig deeper. Success can also mean many things, so make sure you define what are your goals for the event. Is it amplifying brand awareness, gathering feedback, inspiring innovation, or perhaps even attracting talent?
-
-
 
 Let's take a look at some key metrics:
 
@@ -166,14 +156,8 @@ Let's take a look at some key metrics:
 
 So, are hackathons right for your company? While they offer exciting possibilities for innovation, community building, and learning, it's crucial to approach them strategically and acknowledge their limitations. Hackathons are not about acquiring cheap solutions or short-term marketing gains but instead, a chance to build genuine value for participants.
 
-
-
 Remember, successful hackathons go beyond caffeine-fueled coding sprints, building a vibrant community, and fostering genuine connections with developers. When planning a hackathon, it might be worth seeking help from platforms like [Devpost](https://devpost.com/) which offer various packages to help you organize one. These packages can include essential features like project management, an online platform, and even marketing and promotion assistance.
 
-
-
 Looking towards the future, advancements in AI are poised to streamline the entire experience, from logistics and team formation to project management and innovation cycles. As Brandon Kessler mentioned, "Every dev tool has now AI implemented, and AI is also helping to save much time, improving team building and project management side." This means smoother operations, better collaboration, and ultimately, faster innovation.
-
-
 
 **Ready to dive into more DevRel and Developer Marketing insights?** [Join our upcoming webinars](https://draft.dev/webinars) for expert insights and live sessions packed with knowledge from industry leaders.
