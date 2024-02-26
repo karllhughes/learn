@@ -4,9 +4,8 @@ display_name: Annika Puura
 twitter: "@draftdev"
 website: https://www.linkedin.com/in/annika-puura/
 img: /assets/posts/1517503319363.jpg
-bio: Annika is an experienced Business/Operations Manager with a BA (Hons) in
-  Economics & Spanish from the University of Central Lancashire. Skilled in
-  international business, market research, finance, and marketing, she is fluent
-  in Estonian, English, and Spanish. She is currently in charge of streamlining
-  processes and facilitating growth as the Operations Manager at Draft.dev.
+bio: Annika is an Operations Manager here at Draft. With a background in
+  international business, finance, and education, she is fluent in Estonian,
+  English, and Spanish. When not at work, she enjoys running, dancing, and doing
+  HIIT workouts.
 ---
