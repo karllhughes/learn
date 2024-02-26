@@ -18,7 +18,7 @@ So, should your company host a hackathon? And if so, how do you make it a succes
 
 Recently, we kicked off our new monthly webinar series at Draft.dev with a focus on hackathons. 
 
-<iframe width="100%” height=“100%” src="https://www.youtube.com/embed/Mel7_iI3l5w?si=AZjPJ68ZO6uWj7qb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mel7_iI3l5w?si=AZjPJ68ZO6uWj7qb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Our CEO, Karl Hughes, and Brandon Kessler, CEO of [Devpost](https://devpost.com/), dived deep into what makes hackathons tick, their benefits, and key strategies for organizing one. This blog post takes you through the essential questions you might have, like what hackathons are good for, how to plan them right, and more.
 
