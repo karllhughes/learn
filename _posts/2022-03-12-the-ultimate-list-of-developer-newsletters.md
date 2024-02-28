@@ -126,7 +126,7 @@ Contact email/info: assaf@labnotes.org
 
 #### [JavaScript Weekly](https://javascriptweekly.com/)
 
-![JavaScript Weekly Newsletter](/assets/posts/javascript-weekly.png "JavaScript Weekly Newsletter")
+![JavaScript Weekly Newsletter](https://draft.dev/learn/assets/posts/javascript-weekly.png "JavaScript Weekly Newsletter")
 
 A newsletter of JavaScript articles, news, and cool projects
 
@@ -188,7 +188,7 @@ Contact email/info: support@javascriptkicks.com
 
 #### [Bytes](https://bytes.dev/)
 
-![Bytes Newsletter](/assets/posts/bytes.png "Bytes Newsletter")
+![Bytes Newsletter](https://draft.dev/learn/assets/posts/bytes.png "Bytes Newsletter")
 
 Your weekly dose of Javascript. Staying informed on the JavaScript ecosystem has never been so entertaining. Delivered every Monday, for free.
 
