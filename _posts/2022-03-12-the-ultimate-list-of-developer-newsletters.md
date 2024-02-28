@@ -284,7 +284,7 @@ Contact email/info: sponsor@sidebar.io
 
 #### [Web Designer News](https://www.webdesignernews.com/)
 
-![Web Designer News](/assets/posts/web-designer-news.png "Web Designer News")
+![Web Designer News](https://draft.dev/learn/assets/posts/web-designer-news.png "Web Designer News")
 
 Curated stories for designers.
 
@@ -360,7 +360,7 @@ Contact email/info: stan@libhunt.com
 
 #### [C# Digest](https://csharpdigest.net/)
 
-![C# Digest News](/assets/posts/c-digest.png "C# Digest News")
+![C# Digest News](https://draft.dev/learn/assets/posts/c-digest.png "C# Digest News")
 
 C# Digest is a weekly newsletter with the five most interesting stories in .NET and C#.
 
@@ -438,7 +438,7 @@ Contact email/info: stan@libhunt.com
 
 #### [Ruby Weekly](https://rubyweekly.com/)
 
-![Ruby Weekly Newsletter](/assets/posts/ruby-weekly.png "Ruby Weekly Newsletter")
+![Ruby Weekly Newsletter](https://draft.dev/learn/assets/posts/ruby-weekly.png "Ruby Weekly Newsletter")
 
 A free, once-weekly e-mail round-up of Ruby news and articles.
 
@@ -524,7 +524,7 @@ Contact email/info: <https://twitter.com/rahulgchaudhary>
 
 #### [Pycoders Weekly](https://pycoders.com/)
 
-![Pycoders Weekly Newsletter](/assets/posts/pycoders-weekly.png "Pycoders Weekly Newsletter")
+![Pycoders Weekly Newsletter](https://draft.dev/learn/assets/posts/pycoders-weekly.png "Pycoders Weekly Newsletter")
 
 A free, weekly email newsletter for those interested in Python development and various topics around Python and the community
 
@@ -618,7 +618,7 @@ Contact email/info: stan@libhunt.com
 
 #### [Awesome C++ Newsletter](https://cpp.libhunt.com/newsletter)
 
-![Awesome C++ Newsletter](/assets/posts/awesome-c-.png "Awesome C++ Newsletter")
+![Awesome C++ Newsletter](https://draft.dev/learn/assets/posts/awesome-c-.png "Awesome C++ Newsletter")
 
 A weekly overview of the most popular C++ news, articles, and projects
 
@@ -676,7 +676,7 @@ Contact email/info: stan@libhunt.com
 
 #### [Kotlin Weekly](http://www.kotlinweekly.net/)
 
-![Kotlin Weekly Newsletter](/assets/posts/kotlin-weekly.png "Kotlin Weekly Newsletter")
+![Kotlin Weekly Newsletter](https://draft.dev/learn/assets/posts/kotlin-weekly.png "Kotlin Weekly Newsletter")
 
 The weekly newsletter for Kotlin developers, with articles, libraries, videos, and podcasts from the Kotlin environment.
 
