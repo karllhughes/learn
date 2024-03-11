@@ -14,7 +14,7 @@ Developer tools (often shortened “devtools”) are the unsung heroes of softwa
 
 Since I started building Draft.dev a few years ago, I have worked with more than 100 developer tools companies and seen them try various [marketing tactics](https://draft.dev/learn/a-complete-introduction-to-technical-marketing), and come to appreciate the unique challenges and complexities of this field.
 
-So in this post, I want to share my learnings from the past 5-6 years to empower your devtools marketing journey, whether you're starting fresh or fine-tuning your strategy.<p></p>
+So in this post, I want to share my learnings from the past 5-6 years to empower your devtools marketing journey, whether you're starting fresh or fine-tuning your strategy.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RCjKHnYidd4?si=9jlHa8rAzhlGCj9J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
