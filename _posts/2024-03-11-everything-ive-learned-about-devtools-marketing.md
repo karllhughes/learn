@@ -64,7 +64,7 @@ Let's face it, developers are a savvy bunch. They have got ad blockers on lockdo
 
 **Secondly, concentrate on the users, not your product**. By creating valuable, informative content that troubleshoots real-world developer challenges, you're not just pushing a product, you're offering genuine help. This user-centric approach sets you apart from companies focused solely on features and flashy marketing campaigns. It shows developers that you understand their needs and are committed to being a valuable resource, not just another vendor.
 
-**Lastly, consider open-sourcing your tool or parts of it**. This allows developers to see your work firsthand and fosters a sense of trust and collaboration. Building a strong reputation, having a great team, and actively participating in developer relations (DevRel) activities all contribute to this trust-building equation.
+**Lastly, consider open-sourcing your tool or parts of it**. This allows developers to see your work firsthand and fosters a sense of trust and collaboration. Building a strong reputation, having a great team, and actively participating in [developer relations](https://draft.dev/learn/developer-relations-career-insights-from-7-industry-leaders) (DevRel) activities all contribute to this trust-building equation.
 
 Remember, content isn't just a marketing tactic, it's the foundation of building lasting relationships with developers. When you prioritize trust and focus on user needs, you're laying the groundwork for long-term success in devtools marketing.
 
@@ -121,7 +121,7 @@ Blog posts, tutorials, case studies, or even comprehensive documentation are pow
 
 [Video content](https://draft.dev/video-tutorials) offers an engaging and accessible format for reaching a wider developer audience. Video is increasingly popular with younger generations and companies can utilize diverse video formats like product demos, explainer animations, or even interview-style content to cater to different learning styles and preferences.
 
-### Community-Driven Marketing:
+### Community-driven Marketing:
 
 Community-driven marketing is a powerful, yet long-term play. The goal is to foster an organic, developer-led community around your product. This can involve building forums, online communities, or even internal user groups. Building a thriving community takes time and dedication, but the rewards are significant: increased user engagement, valuable product feedback, and an amplified brand voice through organic word-of-mouth.
 
