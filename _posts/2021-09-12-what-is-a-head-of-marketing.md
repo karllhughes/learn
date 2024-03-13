@@ -64,7 +64,7 @@ The overall goal is to help your business succeed by focusing on lead generation
 
 But most heads of marketing don’t do this alone. In fact, they typically rely on a growth marketing team to maximize their results and proof test new ideas.
 
-### What is a Growth Marketing Team?
+## What is a Growth Marketing Team?
 
 Grow marketing teams are a subset of marketers focused on growing your marketing funnel. Their overall goal is to test new ideas and identify hiccups in your lead generation strategies.
 
@@ -76,7 +76,7 @@ And keep in mind growth managers are not the same as heads of marketing. We wrot
 
 💡 Related: [What is a Head of Growth?](https://draft.dev/learn/what-is-a-head-of-growth)
 
-### Your Head of Marketing and KPIs
+## Your Head of Marketing and KPIs
 
 ![A picture illustrating marketing KPIs](https://draft.dev/learn/assets/posts/what-is-a-head-of-marketing-1.jpg "Head of Marketing KPIs")
 
