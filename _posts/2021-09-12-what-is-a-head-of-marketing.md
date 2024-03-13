@@ -94,7 +94,7 @@ There are three different approaches your company might take:
 
 You should choose the reporting or accountability framework that makes the most sense for your business.
 
-**💡 Related: [Developer Content Strategies That Work (and Scale)](https://draft.dev/learn/developer-content-strategies-that-work-and-scale)**
+**💡 Related:** [Developer Content Strategies That Work (and Scale)](https://draft.dev/learn/developer-content-strategies-that-work-and-scale)
 
 ## When Should You Hire a Head of Marketing?
 
