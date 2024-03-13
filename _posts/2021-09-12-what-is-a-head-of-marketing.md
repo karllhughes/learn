@@ -16,7 +16,7 @@ There are [more than 66,000 heads of marketing](https://www.zippia.com/head-of-m
 
 A head of marketing is even more integral in the finance and tech industries. If you’re scaling a SaaS or a fintech platform, hiring a head of marketing could be a no-brainer.
 
-![A graph illustrating head of marketing jobs by industry](/assets/posts/what-is-a-head-of-marketing-2.png "Head Of Marketing Jobs By Industry")
+![A graph illustrating head of marketing jobs by industry](https://draft.dev/learn/assets/posts/what-is-a-head-of-marketing-2.png "Head Of Marketing Jobs By Industry")
 
 Hiring a head of marketing also demonstrates your understanding of direction and leadership. Not only is your head of marketing a driving force for ROI, but they can also maintain the [cohesiveness of your communications](https://draft.dev/learn/posts/content-plan).
 
@@ -78,7 +78,7 @@ And keep in mind growth managers are not the same as heads of marketing. We wrot
 
 ### Your Head of Marketing and KPIs
 
-![A picture illustrating marketing KPIs](/assets/posts/what-is-a-head-of-marketing-1.jpg "Head of Marketing KPIs")
+![A picture illustrating marketing KPIs](https://draft.dev/learn/assets/posts/what-is-a-head-of-marketing-1.jpg "Head of Marketing KPIs")
 
 While your head of marketing may work on some creative output, their primary task will be to establish KPIs. This requires a firm understanding of your business objectives, as well as strong familiarity with common BI platforms.
 
@@ -112,7 +112,7 @@ But before you start writing a job description, you should answer these question
 
 If your marketing team is already well established, adding a new senior leader may not be a bad idea. **If your marketing team doesn’t exist at all, it would be good to hire a head of marketing as the first member of the team.**
 
-### 2. Should My Marketing Team Be Built Before the Sales Team? 
+### 2. Should My Marketing Team Be Built Before the Sales Team?
 
 The best way to answer this is by looking at data — namely, understanding which departments drive the most conversions. Do your cold calls have a greater impact than your organic inbound traffic? Your answer will sculpt your growth marketing plan going forward
 
@@ -146,7 +146,7 @@ Agencies like Draft.dev vet applicants to find the most qualified freelance writ
 
 ## Finding the Right Candidate
 
-![A picture illustrating a job interview](/assets/posts/what-is-a-head-of-marketing-3.jpg "Finding The Right Candidate")
+![A picture illustrating a job interview](https://draft.dev/learn/assets/posts/what-is-a-head-of-marketing-3.jpg "Finding The Right Candidate")
 
 If you’re going to spend money on a marketing head, you’ll want to make sure they’re a good fit for your team. Since this is the leader in charge of your KPIs, they should be skilled in their field and familiar with your industry.
 
@@ -160,7 +160,7 @@ You could also post job applications through LinkedIn, Monster, or Indeed. Just 
 
 You could instead rely on [DevRel Careers](https://devrelcareers.com/), a dedicated platform for developer marketing jobs. You can post jobs for free to a select group of talent who have years of experience in technical niches.
 
-![A screenshot of DevRel Careers job board homepage](/assets/posts/what-is-a-head-of-marketing-5.png "DevRel Careers Job Board")
+![A screenshot of DevRel Careers job board homepage](https://draft.dev/learn/assets/posts/what-is-a-head-of-marketing-5.png "DevRel Careers Job Board")
 
 ### How To Interview Candidates
 
