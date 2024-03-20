@@ -73,8 +73,7 @@ Rebecca Marshburn offered a model with three community stages:
 * **Secondary Community:** This stage includes developers who are interested in your content or resources, such as following you on social media or checking out your GitHub repository.
 * **Primary Community:** This is your core community, where developers are actively engaged with your product and participate in discussions and collaborations.
 
-**\
-Both perspectives emphasize the importance of understanding the stages developers go through and strategically guiding them toward your community at the most relevant points.** Understanding the developer journey and strategically guiding them through the different stages can help you build a thriving community that benefits both developers and your business.
+**Both perspectives emphasize the importance of understanding the stages developers go through and strategically guiding them toward your community at the most relevant points.** Understanding the developer journey and strategically guiding them through the different stages can help you build a thriving community that benefits both developers and your business.
 
 # First Steps of Building a Community
 
