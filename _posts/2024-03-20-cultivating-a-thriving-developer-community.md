@@ -14,7 +14,7 @@ Developers are notoriously allergic to traditional marketing tactics. Their trus
 
 Last month, we tackled this challenge in our webinar, "Cultivating a Thriving Developer Community." Joined by community champions like Rebecca Marshburn (Head of Community at [Common Room](https://www.commonroom.io/)), Ron Northcutt (Head of Developer Relations at [Appsmith](https://www.appsmith.com/)), and [Tessa Kriesel](https://www.tessakriesel.com/) (DevRel Leader & Coach), we explored the main ingredients for fostering a developer community that drives business success.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NuaN-k0jVhk?si=vAikZLrEcbS5aS7T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NuaN-k0jVhk?si=Y80Pe9LYdrEwIJVB&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 This blog post distills the webinar's key insights and strategies for starting, building, and measuring your developer community’s success. 
 
@@ -28,18 +28,18 @@ Ron Northcutt offered a broader perspective on developer communities. With a bac
 
 Now that we understand the core concept, let's explore the various forms developer communities can take:
 
-## Internal Developer Communities
+### Internal Developer Communities
 
 These communities exist within a single company and cater to two distinct audiences:
 
 1. **Internal Developers:** These are the developers who build and maintain the company's own products. A strong internal developer community, as Rebecca mentioned, is necessary for improving communication, collaboration, and knowledge sharing within your organization.
 2. **Customers:** These are the developers who use your product. An internal developer community can be a valuable space not only to share best practices, and troubleshoot issues, but also to get product feedback.
 
-## External Developer Communities
+### External Developer Communities
 
 External developer communities are open to everyone and can be centered around a specific product, technology, or simply a shared interest in software development. It's important to distinguish these communities from audiences on platforms like Reddit. As Tessa Kriesel pointed out, these platforms are more like channels for information sharing and discussion, not true communities that foster a sense of belonging and deeper connections.
 
-## Community of Practice vs. Community of Product
+### Community of Practice vs. Community of Product
 
 While the above categories provide a foundational understanding, developer communities can also be classified based on their focus:
 
@@ -52,7 +52,7 @@ Many communities blend these approaches. This allows them to attract developers 
 
 Imagine a developer on a quest to find the perfect tool for their project. Their journey likely starts with a broad search, then narrows down as they explore options and deepen their understanding. Your developer community can be a powerful destination on this journey, offering valuable resources, support, and connections.
 
-![The Developer Journey Map](/assets/posts/developer-journey-map-1-.png "The Developer Journey")
+![The Developer Journey Map](https://draft.dev/learn/assets/posts/developer-journey-map-1-.png "The Developer Journey")
 
 But how do developers actually find their way to your community? To understand this, let's explore the concept of community growth types and how they align with the developer journey.
 
@@ -80,7 +80,7 @@ Both perspectives emphasize the importance of understanding the stages developer
 
 Before you start considering building a developer community, there are two important foundation steps to consider:
 
-## 1. Know Your People
+### 1. Know Your People
 
 As Rebecca emphasized, the cornerstone of any successful community is a deep understanding of your target audience. Regardless of the size of your initial community, take the time to truly understand their needs, motivations, and pain points.
 
@@ -96,7 +96,7 @@ These evaluative questions will help you to:
 * Craft a welcoming and inclusive community experience that resonates with your target audience.
 * Empower your developers to co-create valuable content through collaborations and knowledge sharing.
 
-## 2. Align With Your Business Goals
+### 2. Align With Your Business Goals
 
 Before embarking on community building, it's essential to align with your internal stakeholders, as Tessa mentioned. Take a step back and consider the bigger picture: what are the overall business goals for your developer community?
 
@@ -110,14 +110,14 @@ Measuring the success of a developer community is probably the hardest aspect of
 
 Here are some key tactics that can help you start measuring success:
 
-## Define Short-term and Long-term Goals
+### Define Short-term and Long-term Goals
 
 Rebecca offered a helpful framework for navigating this challenge by considering both short-term and long-term goals.
 
 * **Short-Term Goals:** Focus on aligning with stakeholder needs.  Identify your Ideal Customer Profile (ICP) and develop strategies to attract them to your community. Metrics like community growth and engagement among relevant developer personas can indicate short-term success.
 * **Long-Term Goals:**  Look beyond immediate conversions. Building a thriving community fosters brand loyalty and creates a pool of potential customers who are already familiar with your product's value. Tracking how your community attracts industry influencers or future decision-makers demonstrates the long-term impact.
 
-## Find the Right Data & Tools
+### Find the Right Data & Tools
 
 Imagine being a chef who can't taste their own food. That's what it can be like without data in DevRel. Tessa Kriesel highlighted the importance of data in gauging the effectiveness of your DevRel programs, but she also acknowledged the challenges of accessing the right data or using tools that collect and analyze relevant metrics effectively. 
 
