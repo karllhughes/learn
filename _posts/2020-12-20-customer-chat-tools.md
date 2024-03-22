@@ -10,11 +10,12 @@ author: karl
 date: 2021-03-01T13:03:44.286Z
 img: /assets/posts/chat.jpg
 ---
-If you want to engage your customers at the moment they're considering buying your product or signing up for your service, there's no better way than live chat. You're probably familiar with Intercom or Autopilot because they've become so ubiquitous now, but there are _many_ other options out there.
+If you want to engage your customers at the moment they're considering buying your product or signing up for your service, there's no better way than live chat. You're probably familiar with Intercom or Autopilot because they've become so ubiquitous now, but there are *many* other options out there.
 
 ![Live chat demo using Autopilot](https://i.imgur.com/yyUjCLE.gif)
 
 ## Should You Use Live Chat?
+
 To be honest, live chat widgets aren't for everyone. You'll notice that I don't have one on the [Draft.dev](https://draft.dev) website because as a [content creation agency](https://draft.dev/learn/content-creation-agency) it's rarely critical that we address customers' concerns immediately.
 
 That said, software-as-a-service vendors should consider adding live chat. Users expect a seamless, self-service experience, so being able to respond immediately is really important.
@@ -26,9 +27,12 @@ The downside to live chat is that it gives customers the impression that you're 
 <!-- signup -->
 
 ## Customer Chat Tools for Startups
+
 To help you get started, I compiled this comprehensive list of customer chat tools that are a good fit for early to mid-stage startups. Each of these tools gives you a workable low-cost plan and most of them will scale up to meet your needs as you grow.
 
 **[Intercom](https://www.intercom.com/)** ($49) - Intercom is probably the most well-known player in this space. Their offerings now border on complete customer and sales solutions, but you can just use them for chat as well.
+
+**[S﻿endbird](https://sendbird.com)** ($0) - If you want to build real-time chat for a custom application, Sendbird is the way to go. They also have a fantastic blog that goes through building real applications (like [this financial chat app tutorial](https://st.sendbird.com/developer/tutorials/how-to-build-chat-for-a-fintech-app)), so you won't get lost implementing it.
 
 **[Altocloud](https://www.altocloud.com/)** ($49) - In addition to chat, Altocloud gives you customer journeys, predictive analytics and more.
 
@@ -78,6 +82,6 @@ To help you get started, I compiled this comprehensive list of customer chat too
 
 **[Zendesk](https://www.zendesk.com/chat/)** ($5) - You may be familiar with Zendesk for customer support, but they also have a full-service chat feature for your site.
 
------
+- - -
 
 Did I miss a tool that you love? [Shoot me an email](mailto:karl@draft.dev) to suggest an update.
