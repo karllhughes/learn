@@ -17,13 +17,19 @@ Last month, we explored these key concepts in our webinar, "Building a DevRel Dr
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v45HuD-9tbs?si=Y7XK_WGtG9NfwaZr&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-In this post, I want to dig deeper into their thought-provoking conversation and explore some of the essential building blocks for a dream DevRel team. Whether you're a founder of a startup thinking of hiring your first DevRel, or perhaps you're the only DevRel in your company being tasked with scaling your team, this discussion offers valuable perspectives on building a high-performing unit that cultivates strong developer relationships.
+In this post, I want to dig deeper into their thought-provoking conversation and explore some of the essential building blocks for a dream DevRel team. 
+
+Whether you're a founder of a startup thinking of hiring your first DevRel, or perhaps you're the only DevRel in your company being tasked with scaling your team, this discussion offers valuable perspectives on building a high-performing unit that cultivates strong developer relationships.
 
 # Laying a Solid Foundation for a DevRel Team
 
 When it comes to building a DevRel team, one of the biggest mistakes companies make is trying to hire fast to get quick results. But simply hiring a [Developer Advocate](https://draft.dev/learn/what-is-a-developer-advocate) won't guarantee results if there are no clear goals. That's why the primary focus should be establishing a solid foundation before hiring. This ensures that the team aligns with the company's goals and objectives, and can deliver the anticipated results.
 
-In our webinar, Tessa Kriesel emphasized the importance of **understanding what the company aims to achieve**: “Is the objective to drive sales, foster a community, or perhaps something else?” Once these goals are understood, they'll guide the creation and operation of the DevRel team.
+In our webinar, Tessa Kriesel emphasized the importance of **understanding what the company aims to achieve**: 
+
+> “Is the objective to drive sales, foster a community, or perhaps something else?” 
+
+Once these goals are understood, they'll guide the creation and operation of the DevRel team.
 
 The speakers also highlighted the **necessity of company buy-in for the DevRel team to be effective**. DevRel should not be an afterthought or something put on the back burner, but rather an integral part of the company's operations. 
 
