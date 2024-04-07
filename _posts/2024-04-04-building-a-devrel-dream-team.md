@@ -21,7 +21,7 @@ In this post, I want to dig deeper into their thought-provoking conversation and
 
 Whether you're a founder of a startup thinking of hiring your first DevRel, or perhaps you're the only DevRel in your company being tasked with scaling your team, this discussion offers valuable perspectives on building a high-performing unit that cultivates strong developer relationships.
 
-# Laying a Solid Foundation for a DevRel Team
+## Laying a Solid Foundation for a DevRel Team
 
 When it comes to building a DevRel team, one of the biggest mistakes companies make is trying to hire fast to get quick results. But simply hiring a [Developer Advocate](https://draft.dev/learn/what-is-a-developer-advocate) won't guarantee results if there are no clear goals. That's why the primary focus should be establishing a solid foundation before hiring. This ensures that the team aligns with the company's goals and objectives, and can deliver the anticipated results.
 
@@ -39,7 +39,7 @@ Lastly, Dan Moore discussed that while results are essential, they should not di
 
 This foundation - understanding the company's goals, ensuring company buy-in, and defining a clear strategy - is where the building process for your DevRel team should begin.
 
-# Hiring Your First DevRel
+## Hiring Your First DevRel
 
 After laying a solid foundation for your DevRel team, the next step is [hiring your first DevRel](https://draft.dev/learn/finding-and-hiring-developer-relations-professionals) and structuring your team. This can be daunting, especially for startups. Companies often crave quick results, so there's a temptation to seek a "do-it-all" DevRel superstar. However, it's crucial to consider your needs. To ensure you make informed decisions, here are four actionable steps to guide you through the process.
 
@@ -59,7 +59,7 @@ Initially, your DevRel team may include roles like Developer Advocates and Commu
 
 At the end, the specific structure of your DevRel team depends on your company's needs and goals. For instance, targeting a new developer market might require multiple developer advocates and a dedicated community operations leader, as Tessa Kriesel's experience suggests.
 
-# The Unique Challenge of DevRel Recruitment
+## The Unique Challenge of DevRel Recruitment
 
 DevRel recruitment stands out from other tech roles. It requires a unique blend of technical credibility, strong communication skills, and a passion for engaging with developer communities. Many companies struggle to find candidates who possess this specific combination of skills. As Owen Parker highlighted:
 
@@ -81,7 +81,7 @@ Finally, A strong DevRel team isn't just about technical experience. As Tessa Kr
 
 This way, not only do you create a team that is representative of the community it serves, but you also build a culture of inclusion and mutual respect.
 
-# How to Compensate Your DevRel Team Effectively
+## How to Compensate Your DevRel Team Effectively
 
 [According to the 2023 Developer Relations compensation & culture report](https://www.commonroom.io/resources/2023-developer-relations-compensation-and-culture-report/), the median gross total compensation for DevRel professionals globally sits at $175,000 USD equivalent, pre-tax, so when it comes to hiring a DevRel, be ready to invest high. Why? Because if you trim down the salaries to marketing levels, you're more likely to attract a marketing professional, not a DevRel expert. But let's dive deeper into why it is important to offer competitive compensation in the DevRel sector.
 
@@ -91,7 +91,7 @@ Additionally, when transitioning from software engineering to DevRel roles, prof
 
 In the end, the compensation you offer your DevRel team should reflect both the technical and interpersonal expertise they bring to the table. 
 
-# Scaling Your DevRel Team
+## Scaling Your DevRel Team
 
 Now that we’ve discussed laying a good foundation and hiring for your first DevRel, the next crucial step is scaling your team strategically. This isn't about impulsive decisions but about a **well-defined plan built on the foundation of your team's success.** 
 
@@ -103,7 +103,7 @@ Scaling may also require **planning for resources**. This might involve tools, a
 
 Finally, the key to effective scaling lies in a deep understanding of your company. This includes its products, strategic goals, and customer base. By aligning your DevRel team's growth with these factors, you ensure it continues to be a valuable asset to your company's success.
 
-# Enhancing Your Own Skills In DevRel
+## Enhancing Your Own Skills In DevRel
 
 Building and scaling your DevRel team is a significant accomplishment. But as you navigate this exciting chapter, you might be wondering: how do I ensure my own skills keep pace?
 
@@ -133,7 +133,7 @@ Set aside dedicated time to stay connected to the technical aspects of your role
 * **Participate in code reviews:** Engage in code reviews to stay up-to-date on coding practices and best practices.
 * **Contribute bug fixes:** If possible, contribute bug fixes to your company's product to maintain a hands-on technical connection.
 
-# Conclusion
+## Conclusion
 
 Building a strong DevRel team is a strategic endeavor that requires careful planning, effective hiring, and constant nurturing. As the developer relations field evolves, so does the approach to hiring in this sector. An emerging trend highlighted by Owen Parker is that Venture Capitalist (VC) firms are now looking into having their own DevRel strategies, indicating a broadening appreciation of the role that DevRel plays. As VCs create portfolios of startups, having a DevRel strategy can help these companies gain traction among developers.
 
