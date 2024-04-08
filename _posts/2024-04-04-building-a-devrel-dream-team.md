@@ -15,7 +15,7 @@ Developers are the lifeblood of any software company, and building strong relati
 
 Last month, we explored these key concepts in our webinar, "Building a DevRel Dream Team." Led by industry experts Tessa Kriesel ([DevRel Leader & Coach](https://www.tessakriesel.com/)), Dan Moore (Head of Developer Relations at [FusionAuth](https://fusionauth.io/)), and Owen Parker (Founder & Director at [DevRel Talent](https://www.devreltalent.io/)), we dived into the strategies and best practices for building a DevRel team that drives results.
 
-<div class=""> <iframe width="560" height="315" src="https://www.youtube.com/embed/v45HuD-9tbs?si=0jt00QQ4FzDLYVJb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="video-responsive"> <iframe width="560" height="315" src="https://www.youtube.com/embed/v45HuD-9tbs?si=0jt00QQ4FzDLYVJb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 In this post, I want to dig deeper into their thought-provoking conversation and explore some of the essential building blocks for a dream DevRel team. 
 
