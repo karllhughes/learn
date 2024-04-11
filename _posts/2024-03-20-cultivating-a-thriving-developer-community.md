@@ -18,13 +18,13 @@ Last month, we tackled this challenge in our webinar, "Cultivating a Thriving De
 
 This blog post distills the webinar's key insights and strategies for starting, building, and measuring your developer community’s success. 
 
-# What Is A Developer Community?
+## What Is A Developer Community?
 
 At its core, a developer community is a group of developers who share a common interest. This interest could be a specific programming language, a particular technology stack, or even just a general passion for software development. Engaged developers who find value in the community are more likely to become paying users of your product.
 
 Ron Northcutt offered a broader perspective on developer communities. With a background in open-source, he sees a developer community as encompassing a wide range of audiences, including those who have simply heard about the product, those who use it occasionally, and those who are deeply engaged members. External channels like Reddit can be valuable tools for attracting developers to a more focused community platform.
 
-# Types Of Developer Communities
+## Types Of Developer Communities
 
 Now that we understand the core concept, let's explore the various forms developer communities can take:
 
@@ -48,7 +48,7 @@ While the above categories provide a foundational understanding, developer commu
 
 Many communities blend these approaches. This allows them to attract developers interested in the broader practice while also catering to those who use their specific product, which can be particularly beneficial as members can learn about the field and discover a valuable tool to enhance their work.
 
-# The Developer Journey & How They Reach Your Community
+## The Developer Journey & How They Reach Your Community
 
 Imagine a developer on a quest to find the perfect tool for their project. Their journey likely starts with a broad search, then narrows down as they explore options and deepen their understanding. Your developer community can be a powerful destination on this journey, offering valuable resources, support, and connections.
 
@@ -75,7 +75,7 @@ Rebecca Marshburn offered a model with three community stages:
 
 **Both perspectives emphasize the importance of understanding the stages developers go through and strategically guiding them toward your community at the most relevant points.** Understanding the developer journey and strategically guiding them through the different stages can help you build a thriving community that benefits both developers and your business.
 
-# First Steps of Building a Community
+## First Steps of Building a Community
 
 Before you start considering building a developer community, there are two important foundation steps to consider:
 
@@ -103,7 +103,7 @@ Before embarking on community building, it's essential to align with your intern
 * **Align with business objectives:** Understand how your community can contribute to [achieving broader company goals](https://www.commonroom.io/blog/your-first-30-days-in-a-new-devrel-role/).
 * **Identify success metrics:** Collaborate with your stakeholders to define measurable metrics for tracking the success of your developer community.
 
-# How To Measure Success?
+## How To Measure Success?
 
 Measuring the success of a developer community is probably the hardest aspect of any developer relations department. As Ron Northcutt highlighted, it's challenging because DevRel efforts serve various stages of the developer lifecycle. You might create a blog post that a developer uses to solve a problem for free, or you might nurture a student who becomes a brand advocate years later. Both interactions contribute to the community's value, but tracking their impact on the business can be difficult.
 
@@ -125,7 +125,7 @@ The key metrics in building and growing a developer community that you should tr
 * **Activity Tracking:** Look for solutions that track user activity within your community platform. This data can reveal how developers are engaging with your content and resources, providing valuable insights into their interests and needs.
 * **User Journey Tracking:** Understanding the complete user journey, from initial touchpoints to conversions, can help you attribute the impact of your community efforts. Tools that connect community activity with sales pipelines can demonstrate the value DevRel brings to the broader business.
 
-# Conclusion
+## Conclusion
 
 Building a successful developer community hinges on three key pillars: a deep understanding of your audience, tailoring your approach to the developer journey stages, and continuously measuring impact.
 
