@@ -14,7 +14,7 @@ Developers are notoriously allergic to traditional marketing tactics. Their trus
 
 Last month, we tackled this challenge in our webinar, "Cultivating a Thriving Developer Community." Joined by community champions like Rebecca Marshburn (Head of Community at [Common Room](https://www.commonroom.io/)), Ron Northcutt (Head of Developer Relations at [Appsmith](https://www.appsmith.com/)), and [Tessa Kriesel](https://www.tessakriesel.com/) (DevRel Leader & Coach), we explored the main ingredients for fostering a developer community that drives business success.
 
-<div>
+<div class="video-responsive">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NuaN-k0jVhk?si=Y80Pe9LYdrEwIJVB&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
