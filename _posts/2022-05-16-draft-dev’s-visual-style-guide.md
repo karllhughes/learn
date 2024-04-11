@@ -10,8 +10,6 @@ author: chris
 date: 2024-04-11T11:19:01.384Z
 img: /assets/posts/style-guide.jpg
 ---
-# Draft.dev’s Visual Style Guide
-
 If you’re curious what a completed Draft.dev article might look like, [here you have it](https://docs.google.com/document/d/15o2U0y9PKGAsxis3NROcpGN02v6ijCj49gZ4X3_ZQww/edit). This article serves as a visual demonstration of our house style (eg, our default formatting for text, code snippets, and images, as well as a peek into our copy editing standards).
 
 What’s actually written in the text of this visual guide doesn’t particularly matter, but Lorem Ipsum is boring. So if anyone’s interested in why Draft.dev’s style guide is the way it is, they’ll find some insight here.
