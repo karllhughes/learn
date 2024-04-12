@@ -16,7 +16,11 @@ Since I started building Draft.dev a few years ago, I have worked with more than
 
 So in this post, I want to share my learnings from the past 5-6 years to empower your devtools marketing journey, whether you're starting fresh or fine-tuning your strategy.
 
+<div class="video-responsive">
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RCjKHnYidd4?si=9jlHa8rAzhlGCj9J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+ </div>
 
 ## Lesson 1: What is a Devtool?
 
