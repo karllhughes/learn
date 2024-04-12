@@ -123,3 +123,42 @@ code {
 .not-found-container {
   text-align: center;
 }
+
+/* Media Query for Mobiles (adjust breakpoint as needed) */
+@media (max-width: 820px) {
+  h2 {
+    font-size: 1.5 * $scale * 1rem; /* Adjust font-size for mobiles */
+    line-height: 1.5 * $leading; /* Adjust line-height for mobiles */
+    margin-top: 1.5 * $leading;
+  }
+}
+/* Media Query for Mobiles (adjust breakpoint as needed) */
+@media (max-width: 490px) {
+  h2 {
+    font-size: 1.25 * $scale * 1rem; /* Adjust font-size for mobiles */
+    line-height: 1.5 * $leading; /* Adjust line-height for mobiles */
+    margin-top: 1 * $leading;
+  }
+}
+/* Media Query for Mobiles (adjust breakpoint as needed) */
+@media (max-width: 820px) {
+  h3 {
+    font-size: 1 * $scale * 1rem; /* Adjust font-size for mobiles */
+    line-height: 1.5 * $leading; /* Adjust line-height for mobiles */
+    margin-top: 1 * $leading;
+  }
+}
+/* Media Query for Mobiles (adjust breakpoint as needed) */
+@media (max-width: 490px) {
+  h3 {
+    font-size: 0.80 * $scale * 1rem; /* Adjust font-size for mobiles */
+    line-height: 1 * $leading; /* Adjust line-height for mobiles */
+    margin-top: 0.8 * $leading;
+  }
+}
+/* Media Query for Mobiles (adjust breakpoint as needed) */
+@media (max-width: 820px) {
+  p {
+    margin-top: 0.5 * $leading;
+  }
+}
