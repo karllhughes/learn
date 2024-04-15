@@ -4,7 +4,7 @@ title: Cultivating a Thriving Developer Community
 description: Learn how to cultivate a thriving developer community for your tool
   or niche. Discover strategies from industry leaders for fostering engagement,
   growth, and business success.
-categories: developer-marketing
+categories: webinars
 cta: Content Ideas
 author: annika
 date: 2024-03-20T14:43:21.921Z
