@@ -6,7 +6,7 @@ description: "Unlock the power of hackathons for your business. This guide
   and overcome challenges through expert advice and practical strategies. Dive
   into the benefits, key considerations, and essential steps for planning and
   running successful hackathons. "
-categories: developer-marketing
+categories: webinars
 cta: Content Ideas
 author: annika
 date: 2024-02-23T15:29:02.654Z
