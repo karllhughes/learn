@@ -22,13 +22,13 @@ If an article is supposed to be a tutorial, it will include clear, step-by-step 
 
 [This article](https://draft.dev/learn/how-to-use-react-devtools-in-safari) by Draft.dev author, Lucien Chemaly is a good example of a tutorial.
 
-![Technical blog post about How to Use React DevTools in Safari](learn/assets/posts/image-content-types-deliverables-1.png "How to Use React DevTools in Safari")
+![Technical blog post about How to Use React DevTools in Safari](/learn/assets/posts/image-content-types-deliverables-1.png "How to Use React DevTools in Safari")
 
 On the other hand, articles that are meant to introduce a concept to the reader (rather than provide instructions), are considered “guides.” These might be high-level overviews of a technology or collections of best practices for specific types of work.
 
 This article on [technical documentation best practices](https://draft.dev/learn/documentation-best-practices-for-developer-tools) by our writer, James Walker, is a good example of a guide.
 
-![Technical blog post about Documentation Best Practices for Developer Tools](learn/assets/posts/image-content-types-deliverables-2.png "Documentation Best Practices for Developer Tools")
+![Technical blog post about Documentation Best Practices for Developer Tools](/learn/assets/posts/image-content-types-deliverables-2.png "Documentation Best Practices for Developer Tools")
 
 Knowing what type of content each piece is meant to be helps the writer understand the goals of the piece, and it helps us set accurate client expectations. You can read more about the specific content types we use on our [Content Types](https://draft.dev/content-types) page.
 
