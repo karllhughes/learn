@@ -14,7 +14,7 @@ Have you considered hiring a head of growth? This relatively new role is in high
 
 Startup founders from all tech-related verticals should be paying attention and, if it makes sense, consider hiring one. These superstar employees [may be in short supply](https://www.marketingweek.com/chief-growth-officer-in-demand-2023/), but the results they bring to the table are increasingly valuable (especially in our startup-driven world).
 
-![A graph showing a Head of Growth search term](learn/assets/posts/head-of-growth-image3.png "Head of Growth Search Term")
+![A graph showing a Head of Growth search term](/learn/assets/posts/head-of-growth-image3.png "Head of Growth Search Term")
 
 We’re going to look closer at heads of growth so you can decide if it’s right for your team. 
 
