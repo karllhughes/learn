@@ -31,13 +31,13 @@ Let’s consider:
 
 A head of growth is focused on growth and growth alone.
 
-Their unique role sits at the intersection of marketing and product development, which varies from company to company. Their sole focus is to hit growth targets, meaning their primary concerns are customer acquisition, activation, retention, and upsells.
+Their unique role sits at the intersection of marketing and product development, which varies from company to company. Their sole focus is to hit growth targets, meaning their primary concerns are **customer acquisition, activation, retention, and upsells**.
 
-Your head of growth should have key responsibilities in three main areas of work: growth hacking, growth management, and growth nurturing.
+Your head of growth should have key responsibilities in three main areas of work: **growth hacking, growth management, and growth nurturing**.
 
-1. Growth hacking refers to strategies regarding the reach of your company. It may involve new marketing initiatives, A/B testing, or experimental trials to discover what works and what doesn’t. In this role, your head of growth is focused on scaling your company as quickly and sustainably as possible.
-2. Growth management is a twofold term. On one hand, your head of growth may be responsible for managing other marketers, freelancers, or strategic planners. On the other hand, they may be heavily involved in KPI measurement and other ROI metrics. They keep a finger on the pulse of what works (and what doesn’t) so they can pivot your strategy for lead generation.
-3. Growth nurturing refers to the use of new or existing strategies that retain current customers. This task may be shared with other members of your marketing department.
+1. **Growth hacking** refers to strategies regarding the reach of your company. It may involve new marketing initiatives, A/B testing, or experimental trials to discover what works and what doesn’t. In this role, your head of growth is focused on scaling your company as quickly and sustainably as possible.
+2. **Growth management** is a twofold term. On one hand, your head of growth may be responsible for managing other marketers, freelancers, or strategic planners. On the other hand, they may be heavily involved in KPI measurement and other ROI metrics. They keep a finger on the pulse of what works (and what doesn’t) so they can pivot your strategy for lead generation.
+3. **Growth nurturing** refers to the use of new or existing strategies that retain current customers. This task may be shared with other members of your marketing department.
 
 Your head of growth may also manage a growth team.
 
@@ -45,7 +45,7 @@ Let’s take a look at what this means below.
 
 ### What is a Growth Team?
 
-![](/assets/posts/head-of-growth-image4.png)
+![Illustration of a growth marketing team](learn/assets/posts/head-of-growth-image4.png "Growth Marketing Team")
 
 A growth team refers to a group of growth marketers using data and statistics to solve problems with scaling. They’re typically comprised of four or more experts who have sales, marketing, or product backgrounds.
 
