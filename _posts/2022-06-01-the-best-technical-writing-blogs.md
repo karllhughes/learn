@@ -29,7 +29,7 @@ These recommendations are a mix of highly specific tech blogs for a certain nich
 
 ## Draft.dev
 
-![Draft.dev Blog](/assets/posts/screenshot-2024-04-29-at-19.26.36.png "Draft.dev Blog")
+![Draft.dev Blog](/learn/assets/posts/screenshot-2024-04-29-at-19.26.36.png "Draft.dev Blog")
 
 I decided to write for [Draft.dev](https://draft.dev/learn/) after reading one of its blog posts on technical writing. Doing so has changed my life, and I cannot stop talking about it. I would recommend checking out the blog’s tips for technical writing, content marketing, and other tech expertise. Draft.dev is known to deliver quality technical articles, which is reflected in its blog. 
 
