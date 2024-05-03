@@ -10,7 +10,7 @@ author: Meagan Shelley
 date: 2024-04-22T17:46:56.580Z
 img: /assets/posts/unnamed-3.jpg
 ---
-Have you considered hiring a head of growth? This relatively new role is in high demand, even within mega-corporations like [Uber, DropBox, and Google](https://neilpatel.com/blog/team-needs-growth-manager/).
+Have you considered hiring a head of growth? This relatively new role is in high demand, even within mega-corporations like [Uber, Dropbox, and Google](https://neilpatel.com/blog/team-needs-growth-manager/).
 
 Startup founders from all tech-related verticals should be paying attention and, if it makes sense, consider hiring one. These superstar employees [may be in short supply](https://www.marketingweek.com/chief-growth-officer-in-demand-2023/), but the results they bring to the table are increasingly valuable (especially in our startup-driven world).
 
