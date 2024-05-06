@@ -121,7 +121,7 @@ While the ideal toolkit for product documentation will vary depending on your sp
 
 Beyond specific tools, both speakers emphasized the importance of establishing clear guidelines and expectations around content maintenance. This includes determining the expected lifespan of different types of content (e.g., videos, blog posts) and establishing procedures for updating or archiving outdated materials.
 
-## A Glimpse into the Future of Product Documentation
+## A Glimpse Into the Future of Product Documentation
 
 Integrating artificial intelligence into product documentation is a major turning point. It will change how users find, understand, and use technical information. 
 
