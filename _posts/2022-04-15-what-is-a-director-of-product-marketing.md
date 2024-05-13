@@ -131,15 +131,15 @@ Product marketing directors with hands-on experience have a few other things to 
 
 > “\[Directors of product marketing] got to have a mix of traits tied to strategic thinking, cross-functional execution, and of course, messaging acumen.” 
 
-— **[Leo Castro](https://www.linkedin.com/in/leocastro2004/), ex-Director of Product Marketing at BigCommerce** 
+— [Leo Castro](https://www.linkedin.com/in/leocastro2004/), ex-Director of Product Marketing at BigCommerce 
 
 > “An excellent product marketer is customer-obsessed. They’ve built a set of practices that keep them regularly in touch with customers and ultimately produce significantly more effective messaging and content.” 
 
-— **[Jordan Greene](http://outreach), ex-Senior Director of Product Marketing at Outreach** 
+— [Jordan Greene](http://outreach), ex-Senior Director of Product Marketing at Outreach 
 
 > “The best PMMs are trilingual: they can speak product, client needs, and sales.” 
 
-— **[Stephen Kane](https://www.linkedin.com/in/stevekane10/), Product Marketer at Altruist**
+— [Stephen Kane](https://www.linkedin.com/in/stevekane10/), Product Marketer at Altruist
 
 ## Where Product Marketing Directors Work
 
