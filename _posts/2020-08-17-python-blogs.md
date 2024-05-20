@@ -230,8 +230,6 @@ Python Tips is a personal blog that explores technical applications and nuances 
 
 [Twitter](https://twitter.com/AlSweigart)
 
-![]()
-
 Invent with Python is an educational Python programming blog by Al Sweigart, a Python veteran, and teacher. The blog is predicated on providing free tools, guides, courses, and tutorials to help beginners learning to code. You’ll find technical articles with a sprinkle of hobby projects and layman term explanation, and any developer very well may find this blog useful, entertaining, or a combination of both. It would be more useful if it were updated regularly, but the site has been around since 2009.
 
 * Writing Quality - 4
