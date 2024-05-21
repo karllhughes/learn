@@ -230,6 +230,8 @@ Python Tips is a personal blog that explores technical applications and nuances 
 
 [Twitter](https://twitter.com/AlSweigart)
 
+![Invent with Python](/learn/assets/posts/python-blogs-7.png "Invent with Python")
+
 Invent with Python is an educational Python programming blog by Al Sweigart, a Python veteran, and teacher. The blog is predicated on providing free tools, guides, courses, and tutorials to help beginners learning to code. You’ll find technical articles with a sprinkle of hobby projects and layman term explanation, and any developer very well may find this blog useful, entertaining, or a combination of both. It would be more useful if it were updated regularly, but the site has been around since 2009.
 
 * Writing Quality - 4
@@ -258,7 +260,9 @@ STX Next is a software company’s brand name Python programming blog. Developer
 
 [RSS](https://blog.jetbrains.com/pycharm/feed/), [Twitter](https://twitter.com/pycharm)
 
-![](https://lh7-us.googleusercontent.com/epYRfg3tIBUOEKw-_Ee_lUTT3D0LCJYdXdD0Al605ipufcK9p1qdheb-LjZolQGgc-QQ5Bx8uTdwiLRN1TeOWU5tZs_4F4XVaO_u0f9xkrBmBp7ZSMctrnazNTsnStAiS50o0CzNbHujrw1IhkXi9w)PyCharm is the blog arm of JetBrains’ integrated development environment for Python programming. Whether it’s a product update, article, tutorial, webinar, or interview, PyCharm has consistently published a handful of new posts each month for years. While there are quite a bit of company promotions and sales plugs, there is an abundance of insightful information. Even outright sales pitches have references to Python fundamentals, user guides, and an overview of programming concepts necessary to use the product. Because most posts are primarily video/audio recordings or short-form text, there isn’t much writing to be evaluated. Still, what’s there has no glaring marks or inaccuracies, and supporting links are plentiful.
+![PyCharm](/learn/assets/posts/python-blogs-3.png "PyCharm")
+
+PyCharm is the blog arm of JetBrains’ integrated development environment for Python programming. Whether it’s a product update, article, tutorial, webinar, or interview, PyCharm has consistently published a handful of new posts each month for years. While there are quite a bit of company promotions and sales plugs, there is an abundance of insightful information. Even outright sales pitches have references to Python fundamentals, user guides, and an overview of programming concepts necessary to use the product. Because most posts are primarily video/audio recordings or short-form text, there isn’t much writing to be evaluated. Still, what’s there has no glaring marks or inaccuracies, and supporting links are plentiful.
 
 * Writing Quality - 4
 * Consistency - 5
@@ -312,7 +316,9 @@ Planet Python is another blog that automatically aggregates Python-related artic
 
 ### 19. [Coding for Entrepreneurs](https://www.codingforentrepreneurs.com/blog)
 
-![](https://lh7-us.googleusercontent.com/vikrnFoStQEYHq5GALHhtZtY8t0D6MMjHMYANTTOeFqZVJqtLE-LT6JYgBoHope63UXm4oJsD5ZSM-p1_LPzg0utJQraL6xopq5pXUHNn2034xMOjDzZil4bh3WP7kMK-YMoj9JrTXxtL2s7wJHmvQ)Coding for Entrepreneurs is a self-educational course and project blog that helps newbies learn how to code from scratch (Python, among other languages). The content is fairly detailed and provides step-by-step processes, both in the courses and projects. While new posts are sporadic and sometimes appear rapidly in clusters, the blog sometimes reverts to long periods of silence. Fortunately, there is a trove of courses and projects going back to 2016 to keep you busy. The blog’s writing varies by the author; some posts are great, others less so.
+![Coding for Entrepreneurs](/learn/assets/posts/python-blogs-5.png "Coding for Entrepreneurs")
+
+Coding for Entrepreneurs is a self-educational course and project blog that helps newbies learn how to code from scratch (Python, among other languages). The content is fairly detailed and provides step-by-step processes, both in the courses and projects. While new posts are sporadic and sometimes appear rapidly in clusters, the blog sometimes reverts to long periods of silence. Fortunately, there is a trove of courses and projects going back to 2016 to keep you busy. The blog’s writing varies by the author; some posts are great, others less so.
 
 * Writing Quality - 3
 * Consistency - 3
