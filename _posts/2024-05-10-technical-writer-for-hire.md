@@ -1,14 +1,14 @@
 ---
 layout: post
 title: How to Find a Technical Writer for Hire
-description: In this post, we'll share our process for finding freelance technical writers or bloggers to produce blog posts and other content online.
+description: In this post, we'll share our process for finding freelance
+  technical writers or bloggers to produce blog posts and other content online.
 categories: writing
 cta: Call
 author: karl
 date: 2024-05-10T00:37:22.640Z
 img: /assets/posts/job_interview.png
 ---
-
 In the past four years at [Draft.dev](https://draft.dev), we've written over 3,800 technical blog posts and worked with over 300 technical writers. In the meantime, we've reviewed thousands of applications from technical writers and reached out to hundreds of others to help us create content for our clients.
 
 Needless to say, we understand technical content at scale, and one of the most fundamental parts of our process is finding great technical writers for hire.
@@ -17,7 +17,11 @@ Now, most companies that want to [start a technical blog](https://draft.dev/lear
 
 In this post, I’ll share **our exact process for finding technical writers for hire at Draft.dev**. It takes preparation and time but, hopefully, the insights here will help you find the right technical writer faster.
 
-<!-- signup -->
+<div class="video-responsive">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VT-KVZZ2oN0?si=cHF7j_u4pRBLHGPZ&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</div>
 
 *Note: If you get stuck looking for technical writers, [set up a call](https://draft.dev/call). We'd be happy to help troubleshoot your issues or answer questions about how we work with clients.*
 
@@ -100,14 +104,15 @@ Finally, if you want to increase the amount of technical content you produce, yo
 All these channels work, but depending on the volume of content you need, they may not be necessary. Many new technical content programs just need one or two freelance writers to get things started.
 
 ## Paying Freelance Technical Writers
+
 When I first started paying technical writers, I had no idea how tricky it could be. I assumed Paypal would be fine, but quickly realized that they don't service many countries and that they impose large fees on writers.
 
 So, before you start hiring freelance technical writers, consider the following challenges:
 
-- Currency exchanges for international writers
-- Compliance steps for freelance status based on location (think of California and their AB5 bill)
-- International taxes or laws preventing certain payment methods
-- Identity theft or fraud (especially if sending physical checks)
+* Currency exchanges for international writers
+* Compliance steps for freelance status based on location (think of California and their AB5 bill)
+* International taxes or laws preventing certain payment methods
+* Identity theft or fraud (especially if sending physical checks)
 
 It’s also important to do some research to ensure you’re aware of legal requirements inside and outside of the United States. Let's take a closer look at how you can start paying your writers and some of the tradeoffs to each method.
 
@@ -121,13 +126,13 @@ ACH is a fully automatic payment system, meaning that it completely removes the 
 
 #### **Advantages**
 
-*   **Low cost**: Unlike Upwork, ACH transfers are extremely cost-effective. The vast majority of ACH transactions do not have processing fees or large costs associated with labor.
-*   **Speedy deposits:** Some payment systems take several weeks to successfully transfer funds from one account to the next. ACH deposits take roughly one or two days to process, and are sometimes even accessible on the same day.
+* **Low cost**: Unlike Upwork, ACH transfers are extremely cost-effective. The vast majority of ACH transactions do not have processing fees or large costs associated with labor.
+* **Speedy deposits:** Some payment systems take several weeks to successfully transfer funds from one account to the next. ACH deposits take roughly one or two days to process, and are sometimes even accessible on the same day.
 
 #### **Disadvantages**
 
-*   **Location locked**: ACH only works for US-based freelancers. If you are looking to hire a freelance technical writer living outside of the US, this system is simply not going to work for you.
-*   **Overdrafting:** Because ACH transfers are completely hands-free, they can sometimes lead to overdrafts of accounts, miscommunication, and general concerns about billing. Other billing errors could force you to accumulate fees, or accidentally keep paying for services you are no longer receiving.
+* **Location locked**: ACH only works for US-based freelancers. If you are looking to hire a freelance technical writer living outside of the US, this system is simply not going to work for you.
+* **Overdrafting:** Because ACH transfers are completely hands-free, they can sometimes lead to overdrafts of accounts, miscommunication, and general concerns about billing. Other billing errors could force you to accumulate fees, or accidentally keep paying for services you are no longer receiving.
 
 ### **Wire Transfer**
 
@@ -135,15 +140,13 @@ Wire transfers continue to be one of the **[most used payment systems](https://w
 
 #### **Advantages**
 
-*   **Works internationally**: Wire transfers allow you to send funds to anyone in any location. If you are planning on hiring a freelance technical writer anywhere outside of the US, you can easily bypass ACH limitations with a simple wire transfer.
-*   **Online convenience**: Funds can be wired from your bank, grocery store, or even your home office. Chances are you won’t take more than a few minutes to get the job done.
-
+* **Works internationally**: Wire transfers allow you to send funds to anyone in any location. If you are planning on hiring a freelance technical writer anywhere outside of the US, you can easily bypass ACH limitations with a simple wire transfer.
+* **Online convenience**: Funds can be wired from your bank, grocery store, or even your home office. Chances are you won’t take more than a few minutes to get the job done.
 
 #### **Disadvantages**
 
-*   **Costs**: Wire funds can quickly rack up additional costs, including transfers, international outbound, and domestic fees. These costs grow heftier the further away you plan to transfer money.
-*   **Legal issues**: Unlike other types of freelancer payments, wire transfers won’t handle any legal or withholding concerns for you. This is up to your team to handle separately. What’s more, wire transfers are nonreversible. If something goes wrong, you’re on your own.
-
+* **Costs**: Wire funds can quickly rack up additional costs, including transfers, international outbound, and domestic fees. These costs grow heftier the further away you plan to transfer money.
+* **Legal issues**: Unlike other types of freelancer payments, wire transfers won’t handle any legal or withholding concerns for you. This is up to your team to handle separately. What’s more, wire transfers are nonreversible. If something goes wrong, you’re on your own.
 
 ### **PayPal**
 
@@ -153,13 +156,13 @@ Lots of freelance technical writers prefer getting their payments via PayPal tha
 
 #### **Advantages**
 
-*   **Easy to use**: It doesn’t take a rocket scientist to figure out how PayPal works. Even if you do get a little tripped up, the company offers plenty of helpful content on how to send and receive funds.
-*   **Fast setup**: Invoicing and payment plans are free to set up using an email and phone number, resulting in almost no paperwork or red tape.
+* **Easy to use**: It doesn’t take a rocket scientist to figure out how PayPal works. Even if you do get a little tripped up, the company offers plenty of helpful content on how to send and receive funds.
+* **Fast setup**: Invoicing and payment plans are free to set up using an email and phone number, resulting in almost no paperwork or red tape.
 
 #### **Disadvantages**
 
-*   **Business account fees**: PayPal isn’t completely free, though. Business accounts are charged a whopping 2.9% to receive money and transfers, as well as business invoices.
-*   **Account suspension**: PayPal has full authority to suspend your account for any reason at any time. All funds in your account may be frozen for an undetermined number of days, and it can be frustrating trying to contact support.
+* **Business account fees**: PayPal isn’t completely free, though. Business accounts are charged a whopping 2.9% to receive money and transfers, as well as business invoices.
+* **Account suspension**: PayPal has full authority to suspend your account for any reason at any time. All funds in your account may be frozen for an undetermined number of days, and it can be frustrating trying to contact support.
 
 ### [Plane.com](https://plane.com/)
 
@@ -169,13 +172,13 @@ Finally, we use Plane at Draft.dev. Not only does it make paying freelancers aro
 
 #### **Advantages**
 
-*   **Works in any country**: We've paid writers all over the world, so as long as it's legal to pay people in that country, Plane should support it.
-*   **Compliance and legal documents**: In addition to letting you run payroll, Plane collects legal documents like contracts and tax forms.
-*   **Customer support**: If anything goes wrong or a payment ever goes missing, Plane's support is quick to respond and help out. This saves a ton of time when you're paying lots of people every month.
+* **Works in any country**: We've paid writers all over the world, so as long as it's legal to pay people in that country, Plane should support it.
+* **Compliance and legal documents**: In addition to letting you run payroll, Plane collects legal documents like contracts and tax forms.
+* **Customer support**: If anything goes wrong or a payment ever goes missing, Plane's support is quick to respond and help out. This saves a ton of time when you're paying lots of people every month.
 
 #### **Disadvantages**
 
-*   **Employer fees**: While freelancers don't pay to use Plane, the employer does pay a monthly fee per contractor or employee. For international contractors, this is currently $39 per month.
+* **Employer fees**: While freelancers don't pay to use Plane, the employer does pay a monthly fee per contractor or employee. For international contractors, this is currently $39 per month.
 
 ## Drawbacks to Hiring Your Own Technical Writers
 
