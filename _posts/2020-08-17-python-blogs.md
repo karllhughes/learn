@@ -23,7 +23,7 @@ I looked at the depth of each blog’s [technical content](https://draft.dev/lea
 
 Before we dive into each one individually, here are the 23 best python blogs at a glance:
 
-<div class="custom-table">
+
 
 | Blog                                                                    | My Overall Score |
 | ----------------------------------------------------------------------- | ---------------- |
@@ -50,7 +50,7 @@ Before we dive into each one individually, here are the 23 best python blogs at 
 | [SkillSoft](https://www.skillsoft.com/blog?search=python)               | 3.2              |
 | [Python Guru](https://thepythonguru.com/blog/)                          | 3.0              |
 
-</div>
+
 
 ### 1. [r/Python](https://www.reddit.com/r/Python/)
 
