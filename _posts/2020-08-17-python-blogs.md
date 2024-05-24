@@ -24,7 +24,7 @@ I looked at the depth of each blog’s [technical content](https://draft.dev/lea
 Before we dive into each one individually, here are the 23 best python blogs at a glance:
 
 | Blog                                                                    | My Overall Score |
-| ----------------------------------------------------------------------- | ---------------- |
+| ----------------------------------------------------------------------- | ---------------- :|
 | [Real Python](https://realpython.com/)                                  | 4.6              |
 | [r/Python](https://www.reddit.com/r/Python/)                            | 4.6              |
 | [Pybites](https://pybit.es/articles/)                                   | 4.5              |
