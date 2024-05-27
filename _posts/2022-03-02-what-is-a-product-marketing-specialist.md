@@ -34,8 +34,10 @@ Businesses define product marketing in all sorts of ways. 
 
 Let’s start with some [definitions from actual product marketers](https://www.productmarketingalliance.com/what-is-product-marketing/):
 
-> “Liaisons between product engineers and end clients.” — [Marvin Chow](https://www.linkedin.com/in/therealmarvin), Vice President of Global Marketing at Google
->
+> “Liaisons between product engineers and end clients.” 
+
+— [Marvin Chow](https://www.linkedin.com/in/therealmarvin), Vice President of Global Marketing at Google
+
 > “Imbuing meaning into the company’s brand through developing a cohesive product portfolio.” 
 
 — [Priya Doty](https://www.linkedin.com/in/priyadewan), Ex-Vice President, Product Marketing at IBM Z and LinuxONE
