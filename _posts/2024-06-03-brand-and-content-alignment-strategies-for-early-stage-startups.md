@@ -85,9 +85,11 @@ Brian agreed, emphasizing that while it's important to be aware of your competit
 
 "People buy people, not products." This common marketing phrase perfectly encapsulates the power of your startup story. It's a reminder that behind every product is a team of passionate individuals driven by a unique vision. Sharing your startup story authentically can humanize your brand, create trust, and a deeper connection with your audience. **Founders should be actively involved in sharing their thought leadership, including their motivations for starting the company, their vision for the industry, and their unique perspectives.**
 
-Rebecca highlighted the importance of authenticity in storytelling. She encouraged founders to leverage their own experiences and the challenges they faced that led them to create their product. This personal touch can resonate deeply with your audience, creating a sense of trust and credibility. One good example of this is [Incident](https://incident.io/careers), a company that helps engineering teams ship reliable software. The founders of Incident openly share their personal experiences and challenges. This transparency helps them connect with their audience on a more personal level and establish their credibility in the industry.
+Rebecca highlighted the importance of authenticity in storytelling. She encouraged founders to leverage their own experiences and the challenges they faced that led them to create their product. This personal touch can resonate deeply with your audience, creating a sense of trust and credibility. 
 
-![Incident.io](/assets/posts/incident-about.png "Incident.io")
+One good example of this is [Incident](https://incident.io/careers), a company that helps engineering teams ship reliable software. The founders of Incident openly share their personal experiences and challenges. This transparency helps them connect with their audience on a more personal level and establish their credibility in the industry.
+
+![Incident.io](/learn/assets/posts/incident-about.png "Incident.io")
 
 Brian added that good storytelling can demonstrate a deep understanding and empathy for your audience's perspective. By acknowledging their pain points and demonstrating how your product addresses their needs, you can create a compelling narrative that attracts and retains users.
 
