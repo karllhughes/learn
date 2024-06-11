@@ -1,40 +1,30 @@
 ---
 layout: post
-title: The Best SaaS Blogs
-description: As software-as-a-service (SaaS) businesses rise, the number of
-  dedicated bloggers out there rises as well. Here are 30 of our favorite SaaS
-  bloggers writing today.
+title: Best SaaS Marketing Blogs
+description: SaaS blogs are invaluable tools for any marketing career. That’s
+  why we collected the best SaaS marketing blogs to keep your skills and
+  strategies sharp.
 categories: technical-blogs
 cta: Content Ideas
-author: amisha
-date: 2021-01-01T18:20:08.931Z
+author: Meagan Shelley
+date: 2024-06-11T10:32:53.348Z
 img: /assets/posts/robot-13.png
 ---
-In the last decade or so, SaaS companies have shown an [enormous amount of potential](https://www.bmc.com/blogs/saas-growth-trends/) and therefore, the number of individuals writing about SaaS marketing, sales, and operational tactics has increased exponentially.
+As software-as-a-service (SaaS) businesses grow, so does the number of dedicated SaaS bloggers. The question is, which ones are worth following?
 
-In this article, you will find a number of SaaS bloggers who are known for top-notch content based on personal experience. If you’re interested in the world of SaaS, you should definitely start your journey by following these SaaS bloggers.
+The good news is, we’ve done the heavy lifting for you.
 
-### [SaaStr by Jason Lemkin](https://www.saastr.com/blog/)
+This guide collected the best SaaS marketing blogs known for top-notch content based on personal experience. We also rank each provider based on five key factors so you can get a feel for the content at a glance.
 
-![SaaStr by Jason Lemkin](https://i.imgur.com/AvAuFvX.png)
+Let’s start with the first entry on our list:
 
-If you’re new to the world of SaaS blogging, you’ll want to start with SaaStr. Since its launch in 2012, it has quickly become one of the best SaaS blogs by providing readers and listeners with top-quality content. What makes this content even more compelling is that it includes data collected from its renowned yearly events, where leading industry speakers and advisers take part. Go through some of its content including the articles, videos, ebooks, and podcasts.
+### 1. Draft.dev
 
-* Writing Quality - 5
-* Consistency - 5
-* Longevity - 5
-* Technical Depth - 5
-* Broad Usefulness - 5
+![Draft.dev Blog](/learn/assets/posts/best-saas-blogs-6.png "Draft.dev Blog")
 
-Total Score - 5
+The [Draft.dev blog](http://draft.dev/learn) houses a wealth of knowledge on everything needed to build a better technical blog. It discusses many of the things you need to market technical SaaS companies, covering SaaS content marketing, pricing, metrics, and more. 
 
-<!-- signup -->
-
-### [Joel Capperella’s Blog](http://joelcapperella.com/blog/)
-
-![Joel Capperella’s Blog](https://i.imgur.com/91UzitJ.png)
-
-Joel Capperella’s SaaS blog stands out thanks to the quality of the articles. Readers will get in-depth knowledge on each topic including sales, content marketing, and customer success. Plus, the blog comes with a “Car Cast” option where you can find short YouTube videos of Joel explaining SaaS concepts while driving a car. They’re a must-watch.
+Founder [Karl Hughes](https://www.linkedin.com/in/karllhughes) and his team of subject-matter experts post at least one article per week. They also update older articles and post new content so your business can reach developers, DevOps teams, data engineers, and more.
 
 * Writing Quality - 5
 * Consistency - 5
@@ -44,23 +34,13 @@ Joel Capperella’s SaaS blog stands out thanks to the quality of the articles. 
 
 Total Score - 5
 
-### [Aaron Beashel’s Saas Marketing Blog](https://aaronbeashel.com/saas-marketing-blog/)
+### 2. SaaStr by Jason Lemkin
 
-![Aaron Beashel’s SaaS marketing blog](https://i.imgur.com/hXpg65Y.png)
+![SaaStr](/learn/assets/posts/best-saas-blogs-9.png "SaaStr")
 
-Aaron Beashel’s blog posts are very detailed, to say the least. Each article offers a step-by-step guide which is very useful for someone who is just starting out in the field. Aaron includes fundamental information in the articles and the nifty UI takes the user experience up a notch. All things considered, it’s one of the best SaaS blogs out there.
+If you’re new to the world of SaaS blogging, you’ll want to start with [SaaStr](https://www.saastr.com/blog/). Since its launch in 2012, it has quickly become one of the best SaaS blogs by providing readers and listeners with top-quality content. 
 
-* Writing Quality - 5
-* Consistency - 5
-* Longevity - 5
-* Technical Depth - 5
-* Broad Usefulness - 5
-
-Total Score - 5
-
-### [A Smart Bear by Jason Cohen](https://blog.asmartbear.com)
-
-A Smart Bear is simply terrific. From the web page design to well-crafted articles, the blog has everything you need to get started in SaaS. The blog is also well-researched and structured. Jason uses a conversational tone with a witty touch which makes his SaaS marketing blog interesting and memorable.
+What makes this content even more compelling is that it includes data collected from its renowned yearly events, where leading industry speakers and advisers take part. It also posts more than just weekly articles: there are videos, ebooks, and podcasts to enjoy.
 
 * Writing Quality - 5
 * Consistency - 5
@@ -70,21 +50,13 @@ A Smart Bear is simply terrific. From the web page design to well-crafted articl
 
 Total Score - 5
 
-### **[Hitenism by Hiten Shah](https://hitenism.com)**
+###  3. Joel Capperella’s Blog
 
-If you’re interested in marketing, then you’ve probably come across Hiten Shah or some of his well-known projects ([Crazy Egg](https://www.crazyegg.com), [KISSmetrics](https://www.kissmetrics.io), and [Quick Sprout](https://www.quicksprout.com)) that he co-founded. Hitenism is Shah’s personal blog where he shares his expert opinion on SaaS marketing, growth hacking, digital marketing, social media, and more.
+![Joel Capperella’s Blog](/learn/assets/posts/best-saas-blogs-11.png "Joel Capperella’s Blog")
 
-* Writing Quality - 5
-* Consistency - 5
-* Longevity - 5
-* Technical Depth - 5
-* Broad Usefulness - 5
+[Joel Capperella’s SaaS blog](http://joelcapperella.com/blog/) stands out thanks to the quality of the articles. Readers get in-depth knowledge on a variety of topics, including sales, SaaS content marketing, and customer success. 
 
-Total Score - 5
-
-**[OkDork by Noah Kagan](https://okdork.com/blog/)**
-
-Noah Kagan is the name behind Appsumo, the SaaS lifetime deals machine. His style of writing and content quality have fueled his blog’s well-deserved growth, but he also runs a YouTube channel with more than 95,000 subscribers. Noah is a master of social media and viral growth, but fair warning: he can be a bit brash.
+The blog also comes with a “Car Cast” option where you can find short YouTube videos of Joel explaining SaaS concepts while driving. These are a must-watch for SaaS startups and established companies alike, regardless of your place on the totem pole.
 
 * Writing Quality - 5
 * Consistency - 5
@@ -94,83 +66,47 @@ Noah Kagan is the name behind Appsumo, the SaaS lifetime deals machine. His styl
 
 Total Score - 5
 
-### [Chaotic Flow by Joel York](https://chaotic-flow.com)
+### 4. A Smart Bear by Jason Cohen
 
-Joel York’s Chaotic Flow will give you insights into sales, product, marketing, and SaaS strategy. The blog’s layout is user-friendly which allows beginners to navigate the content without getting overwhelmed or confused. 
+![A Smart Bear](/learn/assets/posts/best-saas-blogs-4.png "A Smart Bear")
 
-* Writing Quality - 5
-* Consistency - 3
-* Longevity - 5
-* Technical Depth - 5
-* Broad Usefulness - 4
+[A Smart Bear](https://blog.asmartbear.com/) is simply terrific. From the web page design to the well-crafted articles, this blog has everything you need to get started in SaaS. 
 
-Total Score - 4.4
+Jason’s long-form articles are well-researched and structured. He also uses a conversational tone with a witty touch, which makes his SaaS marketing blog interesting and memorable.
 
-### [All That SaaS by Dan Decker](https://allthatsaas.com)
-
-![All That SaaS by Dan Decker](https://i.imgur.com/YUGURok.png)
-
-Dan Decker’s blog offers a comprehensive collection of reviews, tips, and other information useful to those of us in the SaaS world. The blog is kept up to date, and some of the posts are basically books full of information!
+Just be prepared for a slightly longer read. These articles aren’t labeled ‘long-form’ without reason.
 
 * Writing Quality - 5
 * Consistency - 5
 * Longevity - 5
 * Technical Depth - 5
-* Broad Usefulness - 4
-
-Total Score - 4.8
-
-### [Ben Cotten’s Blog](https://www.ben-cotton.com/blog/)
-
-Apart from a large number of blog posts, Ben Cotten also offers books and a live chat option on his blog. If you’re someone who likes to keep a close eye on the SaaS market then this blog is your go-to-destination, its blog posts are filled with up-to-date reviews and articles. The blog has an amazing aesthetic too.
-
-* Writing Quality - 5
-* Consistency - 4
-* Longevity - 5
-* Technical Depth - 5
 * Broad Usefulness - 5
 
-Total Score - 4.8
+Total Score - 5
 
-### [SaaS Marketing Strategy Advisors by Peter Cohen](http://www.saasmarketingstrategy.com/saas-advice-blog)
+### 5. Noah Kagan
 
-SaaS Marketing Strategy Advisors is a SaaS marketing blog run by [Peter Cohen](http://www.saasmarketingstrategy.com/experience-expertise). Peter has been in this field for over 30 years, and has been helping individuals and companies build successful marketing strategies especially in the tech sector. The style of the blog is aesthetically pleasing and comes with a library of articles that are both detailed and well-written. Peter’s style of writing is conversational and the posts do not include unnecessary jargon.
+![Noah Kagan](/learn/assets/posts/best-saas-blogs-8.png "Noah Kagan")
+
+[Noah Kagan](https://okdork.com/blog/) is the name behind Appsumo, the SaaS lifetime deals machine. His writing style and content quality have primarily fueled his blog’s growth, but he also runs a [YouTube channel](https://www.youtube.com/okdork) with more than a million subscribers. 
+
+Noah is a master of social media and viral growth, but fair warning: he can be a bit brash. Plus, not every article is about B2B SaaS marketing. If you don’t mind an occasional skincare guide, this is an excellent blog worth adding to your arsenal.
 
 * Writing Quality - 5
 * Consistency - 5
 * Longevity - 5
 * Technical Depth - 5
-* Broad Usefulness - 4
-
-Total Score - 4.8
-
-### [Ken Krogue’s Blog](https://www.kenkrogue.com)
-
-Apart from its simple and user-friendly interface, Ken Krogue’s blog offers a WIDE range of “Forbes listed” articles and information focused on helping both beginners and professionals. What makes his blog stand out is his 20+ experience in the field that allows him to write personalized articles. You can also find webinars and poems on Ken’s blog.
-
-* Writing Quality - 5
-* Consistency - 3
-* Longevity - 5
-* Technical Depth - 5
 * Broad Usefulness - 5
 
-Total Score - 4.6
+Total Score - 5
 
-### [Pierre Lechelle’s Blog](https://www.pierrelechelle.com)
+### 6. SVPG
 
-Pierre Lechelle’s blog is a great SaaS blog best suited for individuals new to the field and learning SaaS marketing. The writing style and content focus are detailed and structured which allows readers to fully understand a particular concept without doing another google search. The UI is simple and organized which makes it easy to browse and find everything quickly without much hassle.
+![SVPG](/learn/assets/posts/best-saas-blogs-12.png "SVPG")
 
-* Writing Quality - 5
-* Consistency - 4
-* Longevity - 5
-* Technical Depth - 5
-* Broad Usefulness - 4
+Are you a product marketing specialist looking for SaaS resources? Look no further than the [Silicon Valley Product Group](https://www.svpg.com/articles/) (or SVPG). This popular blog offers detailed articles covering SaaS pricing, product, and more.
 
-Total Score - 4.6
-
-### [For Entrepreneurs by David Skok](https://www.forentrepreneurs.com)
-
-For Entrepreneurs is a famous blog by David Skok that has grabbed [the number 2 position in the Forbes list](https://www.forbes.com/pictures/gjdg45jej/david-skok-for-entrepr/?sh=2575882d2c35) of 100 Best Websites for Entrepreneurs. There are a number of reasons why budding entrepreneurs and startups follow the David Skok blog - one of the primary ones being the invaluable experience of the writer himself. For more than 20 years, David Skok SaaS has been recognized the world over, used to found  four companies including Skok Systems, Corporate Software Europe, Watermark Software, and SilverStream Software.
+[Marty Cagan](https://www.linkedin.com/in/cagan), the ex-Senior Vice President of eBay, has a hand in crafting each blog article. They’re extremely high quality, but only published a few times per month. Expect to wait a few weeks between releases. 
 
 * Writing Quality - 5
 * Consistency - 3.5
@@ -180,9 +116,13 @@ For Entrepreneurs is a famous blog by David Skok that has grabbed [the number 2 
 
 Total Score - 4.5
 
-### [Andrew Chen’s Blog](https://andrewchen.co/recent/)
+### 7. Andrew Chen’s Blog
 
-Andrew Chen’s SaaS marketing blog offers a relatively large library of articles that provide expert opinions and reviews on SaaS growth. Although most of these articles are written in a language that is more suited for individuals who have prior knowledge about the field, most of the terms can be found on Google in a few minutes time. Unfortunately, the blog has not been updated regularly this year.
+![Andrew Chen’s Blog](/learn/assets/posts/best-saas-blogs-2.png "Andrew Chen’s Blog")
+
+[Andrew Chen’s SaaS marketing blog](https://andrewchen.substack.com/) offers a relatively large library of articles providing expert opinions and reviews on SaaS growth. This is a must-read if you want resources on SaaS metrics, bootstrapping and fundraising, and making data-driven decisions.
+
+Unfortunately, most of Andrew’s articles are written in fairly technical language. Plus, the blog isn’t always regularly updated. But if you’re an established SaaS marketer who’s willing to wait for articles, you’ll find this blog to be a veritable goldmine.
 
 * Writing Quality - 4
 * Consistency - 4
@@ -192,9 +132,13 @@ Andrew Chen’s SaaS marketing blog offers a relatively large library of article
 
 Total Score - 4.4
 
-### [Tomasz Tunguz’s Blog](https://tomtunguz.com)
+### 8. Tomasz Tunguz’s Blog
 
-This blog is run by the renowned startup venture capitalist, Tomasz Tunguz, who is [a managing director at Redpoint Ventures](https://growthhackers.com/amas/ama-i-m-tomasz-tunguz-venture-capitalist-at-redpoint-ventures) and board member for companies such as Looker, ERPLY, Electric imp, inc., AxialMarket, Quantifind, and Expensify. He has also worked for Google’s Adsense Marketing in Europe and Asia. With such a long, successful career, it’s no surprise that the Tomasz Tunguz Blog makes for a good read.
+![Tomasz Tunguz’s Blog](/learn/assets/posts/best-saas-blogs-3.png "Tomasz Tunguz’s Blog")
+
+[Tomasz Tunguz](https://tomtunguz.com/) is a renowned venture capitalist and [managing director at Redpoint Ventures](https://growthhackers.com/amas/ama-i-m-tomasz-tunguz-venture-capitalist-at-redpoint-ventures). He’s also a board member for companies such as Looker, ERPLY, Electric imp, inc., AxialMarket, Quantifind, and Expensify. 
+
+Tomasz has a great deal of experience with SaaS — he’s also worked for Google’s Adsense Marketing in Europe and Asia. With such a long, interesting, and successful career in SaaS, the Tomasz Tunguz blog makes for an incredibly valuable read.
 
 * Writing Quality - 5
 * Consistency - 3
@@ -204,11 +148,13 @@ This blog is run by the renowned startup venture capitalist, Tomasz Tunguz, who 
 
 Total Score - 4.2
 
-### [KellBlog by Dave Kellogg](https://kellblog.com)
+### 9. KellBlog by Dave Kellogg
 
-KellBlog is run by Dave Kellogg who has been a consultant and blogger for over 10 years. He primarily focuses on software startups in his SaaS marketing blogs. His past experience includes companies such as [Salesforce](https://www.salesforce.com/in/), Bluecore, Cyral, FloQast, Fortella, GainSight, MongoDB, Plannuh, Recorded Future, and Tableau, [Alation](https://alation.com/), [Nuxeo](https://www.nuxeo.com/), and [Profisee](http://www.profisee.com/).
+![KellBlog by Dave Kellogg](/learn/assets/posts/best-saas-blogs-7.png "KellBlog by Dave Kellogg")
 
-As compared to some other blogs on the list, KellBlog is comparatively quite comprehensive and offers a lot of information, however, the blog is also not frequently updated. The blog posts are detailed and informative that includes information related to SaaS automation, churn, retention, subscriber growth, videos, and much more.
+[KellBlog](https://kellblog.com/) is run by the famous Dave Kellogg, a consultant and blogger for over 10 years. He’s also worked for some of the biggest SaaS businesses in the world, including [Salesforce](https://www.salesforce.com/in/), [Alation](https://alation.com/), [Nuxeo](https://www.nuxeo.com/), and [Profisee](https://www.profisee.com/).
+
+Compared to some of the other blogs on this list, KellBlog is frequently updated and comprehensive. The blog posts are detailed, informative, and filled with information on SaaS automation, churn, retention, and more. Kellogg primarily focuses on SaaS startups here, although established brands will also find a wealth of value in his articles.
 
 * Writing Quality - 5
 * Consistency - 4
@@ -218,9 +164,13 @@ As compared to some other blogs on the list, KellBlog is comparatively quite com
 
 Total Score - 4.2
 
-### [SaaS Growth Strategy by Geoff Roberts](http://saasgrowthstrategy.com/blog)
+### 10. GTMnow
 
-SaaS Growth Strategy is a blog run by Geoff Roberts who specializes in a variety of SaaS related topics. He helps individuals and start-up companies find and scale the most cost-efficient customer acquisition strategies. Although the blog is a bit inconsistently updated, the content is worth checking out.
+![GTMnow](/learn/assets/posts/best-saas-blogs-1.png "GTMnow")
+
+[GTMnow](https://gtmnow.com/tag/articles/), probably best known as [Sales Hacker](https://gtmnow.com/sales-hacker-is-re-acquired-by-gtmfund-re-branded-as-gtmnow/) before the rebrand, collects candid insights from go-to market professionals. This includes sales reps, marketers, and customer success teams dealing with SaaS products in a variety of fields.
+
+There’s a lot to love about GTMnow: the interface is intuitive and the resources are top-notch. The only problem is, their articles aren’t always consistent. There’s no set cadence for when blog posts get released.
 
 * Writing Quality - 5
 * Consistency - 3
@@ -230,9 +180,13 @@ SaaS Growth Strategy is a blog run by Geoff Roberts who specializes in a variety
 
 Total Score - 4.2
 
-### [Justin Jackson’s Blog](https://justinjackson.ca)
+### 11. Justin Jackson’s Blog
 
-Justin Jackson is quickly making a name for himself in the boostrapped SaaS space. He has co-founded [Transistor.fm](https://transistor.fm/?via=justin), a podcast sharing platform and he also runs [MegaMaker](https://megamaker.co), an online community primarily for bootstrappers. His blog provides readers with an ample amount of information on SaaS development and growth, but compared to some SaaS blogs on this list, Justin doesn’t update quite as often.
+![Justin Jackson’s Blog](/learn/assets/posts/best-saas-blogs-5.png "Justin Jackson’s Blog")
+
+[Justin Jackson](https://justinjackson.ca/) has made a name for himself in the boostrapped SaaS space. He co-founded [Transistor.fm](https://transistor.fm/?via=justin), a podcast sharing platform, and also runs [MegaMaker](https://megamaker.co/), an online community primarily for bootstrappers. 
+
+Justin’s blog provides readers with ample information on SaaS product, development, and growth. Compared to the other SaaS blogs on this list, however, Justin doesn’t update quite as often.
 
 * Writing Quality - 4
 * Consistency - 4
@@ -242,9 +196,15 @@ Justin Jackson is quickly making a name for himself in the boostrapped SaaS spac
 
 Total Score - 4
 
-### [Think Strategies by Jeff Kaplan](http://thinkstrategies.com/blog/#)
+### 12. Kalungi
 
-Think Strategies is written by Jeff Kaplan who offers his expertise in cloud computing and growth hacking. Unlike many of the other SaaS blogs here, Think Strategies is focused on helping readers find the best software for their company. Apart from this, the other SaaS marketing blogs focus on providing readers with honest reviews.
+![Kalungi](/learn/assets/posts/best-saas-blogs-10.png "Kalungi")
+
+If you’re in the business of B2B SaaS marketing, you’ll love the [Kalungi blog](https://www.kalungi.com/blog). It offers a regular stream of dense, consistent articles covering demand generation, strategy and planning, and more.
+
+The downside is, Kalungi targets a technical audience. If you’re not familiar with B2B yet, some of the articles may go over your head. 
+
+Plus, Kalungi is a SaaS marketing platform, so it’s not necessarily unbiased material. This certainly isn’t a dealbreaker here, but it’s something to consider while reading each blog.
 
 * Writing Quality - 5
 * Consistency - 3
@@ -254,8 +214,26 @@ Think Strategies is written by Jeff Kaplan who offers his expertise in cloud com
 
 Total Score - 4
 
-## Final Thoughts
+## How We Ranked the Best SaaS Marketing Blogs
 
-This list is relatively small when you consider the number of SaaS bloggers writing online today, but hopefully it helps you get started. If you know of some other  best SaaS blogs we should include, please [submit them here](https://airtable.com/shrKNdNjYO6hNQxJV).
+We used a two-step process to rank the best SaaS marketing blogs.
 
-If you’ve enjoyed this, don’t miss our other [Best Technical Blogs](https://draft.dev/learn/technical-blogs/) lists.
+First, we collected reviews and recommendations from SaaS marketers and business owners. Then, we read through each blog and selected those with the best:
+
+* Writing Quality: No one likes a confusing or poorly written article. We’ve only included blogs that are clear, valuable, and well-organized.
+* Consistency: Does the blog owner publish regularly? Are they relevant, regular, and easy to access?
+* Longevity: The best SaaS bloggers don’t wear out their welcome — they know how to fit enough context in each piece.
+* Technical Depth: How well-researched and technical are the articles? Do they provide unique angles or personal insights?
+* Broad Usefulness: A good blog provides some useful information, but a great blog offers actionable and practical advice. You can use each blog as a stepping stone to improve your skills and level up your business.
+
+## Final Thoughts on the Best SaaS Marketing Blogs
+
+Whether you’re an entry-level marketer or an experienced professional, these SaaS blogs will help you confidently make decisions. You’ll get the scoop on new trends, read reports and market research, and ultimately discover new tips and techniques.
+
+Is there a SaaS marketing blog we forgot to include? Feel free to send them to [info@draft.dev](mailto:info@draft.dev).
+
+And if you’ve enjoyed this article, don’t miss our other SaaS marketing blogs. Here are a few of our fan-favorites:
+
+* [The B2B SaaS Marketing Guide](https://draft.dev/learn/the-b2b-saas-marketing-guide)
+* [Dealbreakers Working with a SaaS Marketing Agency](https://draft.dev/learn/dealbreakers-when-working-with-an-saas-marketing-agency)
+* [Developer Content: The Cornerstone of Product-Led Growth](https://draft.dev/learn/developer-content-the-cornerstone-of-product-led-growth)
