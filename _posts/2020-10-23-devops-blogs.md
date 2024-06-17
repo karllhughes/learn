@@ -17,33 +17,33 @@ To help you learn more about this versatile field, I've put together a list of s
 
 Before we dive into the details of each blog, here's a quick overview of the 27 best DevOps blogs I've uncovered:
 
-| Blog                                                                                                          | My Overall Score |
-| ------------------------------------------------------------------------------------------------------------- | ---------------- |
+| Blog                                                                                                      | My Overall Score |
+| --------------------------------------------------------------------------------------------------------- | ---------------- |
 | [Arrested DevOps](https://www.arresteddevops.com/)                                                        | 5                |
 | [The Microsoft Azure Blog](https://azure.microsoft.com/en-us/blog/)                                       | 4.8              |
 | [The Register](https://www.theregister.com/devops/)                                                       | 4.6              |
 | [Google Cloud DevOps and SRE Blog](https://cloud.google.com/blog/products/devops-sre)                     | 4.4              |
-|[DevOps.com](https://devops.com/)                                                                         | 4.4              |
-|  [The Puppet Blog](https://puppet.com/resources/)                                                          | 4.4              |
-|  [Code as Craft](https://codeascraft.com/)                                                                 | 4.4              |
+| [DevOps.com](https://devops.com/)                                                                         | 4.4              |
+| [The Puppet Blog](https://puppet.com/resources/)                                                          | 4.4              |
+| [Code as Craft](https://codeascraft.com/)                                                                 | 4.4              |
 | [DevOps Weekly](https://www.devopsweekly.com/)                                                            | 4.4              |
-|[The Docker Blog](https://www.docker.com/blog/)                                                           | 4.2              |
-|  [The Atlassian DevOps Blog](https://www.atlassian.com/blog/devops)                                        | 4.2              |
-|[dev.to DevOps](https://dev.to/t/devops)                                                                  | 4.2              |
+| [The Docker Blog](https://www.docker.com/blog/)                                                           | 4.2              |
+| [The Atlassian DevOps Blog](https://www.atlassian.com/blog/devops)                                        | 4.2              |
+| [dev.to DevOps](https://dev.to/t/devops)                                                                  | 4.2              |
 | [High Scalability Blog](https://highscalability.com/)                                                     | 4.2              |
-|  [IT Revolution](https://itrevolution.com/)                                                                | 4.2              |
+| [IT Revolution](https://itrevolution.com/)                                                                | 4.2              |
 | [DevOps Stack Exchange](https://devops.stackexchange.com/)                                                | 4.2              |
-|  [DevOps Multireddit](https://www.reddit.com/user/obitechnobi/m/devops/)                                   | 4.2              |
-|  [Digital.ai](https://digital.ai/learn/resources/?_resource_topic=devops)                                  | 4                |
+| [DevOps Multireddit](https://www.reddit.com/user/obitechnobi/m/devops/)                                   | 4.2              |
+| [Digital.ai](https://digital.ai/learn/resources/?_resource_topic=devops)                                  | 4                |
 | [The VMWare Tanzu Blog](https://tanzu.vmware.com/content/devops)                                          | 4                |
-|  [The Amazon Web Services (AWS) Blog](https://aws.amazon.com/blogs/devops/)                                | 4                |
-|  [The Cloudflare Blog](https://blog.cloudflare.com/)                                                       | 4                |
+| [The Amazon Web Services (AWS) Blog](https://aws.amazon.com/blogs/devops/)                                | 4                |
+| [The Cloudflare Blog](https://blog.cloudflare.com/)                                                       | 4                |
 | [The Accenture DevOps Blog](https://www.accenture.com/us-en/blogs/software-engineering-blog/devops-index) | 4                |
 | [DevOps Cube](https://devopscube.com/)                                                                    | 4                |
 | [DevOps Topic on Quora](https://www.quora.com/topic/DevOps)                                               | 3.8              |
 | [Microsoft DevOps Blog](https://devblogs.microsoft.com/devops/)                                           | 3.8              |
-|  [The Netflix Tech Blog](https://netflixtechblog.com/tagged/devops)                                        | 3.8              |
-|[r/devops](https://www.reddit.com/r/devops/)                                                              | 3.6              |
+| [The Netflix Tech Blog](https://netflixtechblog.com/tagged/devops)                                        | 3.8              |
+| [r/devops](https://www.reddit.com/r/devops/)                                                              | 3.6              |
 | [The All Day DevOps Blog](https://www.alldaydevops.com/blog)                                              | 3.6              |
 | [Sourced Blog](https://www.sourcedgroup.com/resources/)                                                   | 3.6              |
 
@@ -395,6 +395,6 @@ Total Score: 3.6
 
 As you can see, there is no shortage of people talking about DevOps and trying to keep up with the changes in the industry. Hopefully in the list above you’ve found a new resource or two that you’ll refer back to in the future.
 
-Do you have a favorite DevOps blog that I didn’t include in this list? Feel free to send them to info@draft.dev.
+Do you have a favorite DevOps blog that I didn’t include in this list? Feel free to send them to [info@draft.dev](mailto:info@draft.dev).
 
 If you’ve enjoyed this, don’t miss our other roundups, including [The Best Technical Blogs List](https://draft.dev/learn/technical-blogs/).
