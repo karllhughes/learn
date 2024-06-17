@@ -13,7 +13,7 @@ The term "DevOps" seems to be everywhere these days, but I've found that underst
 
 ![DevOps](/learn/assets/posts/best-devops-blogs1.png "DevOps")
 
-To help you learn more about this versatile field, I've put together a list of some of the best DevOps blogs out there. These are the blogs that I turn to when I want clear explanations, consistent quality, real technical depth, and practical advice. Whether you're a DevOps pro or just starting to explore this world, I'm confident you'll find value in these blogs.
+To help you learn more about this versatile field, I've put together a list of some of the best DevOps blogs out there. These are the blogs that I turn to when I want clear explanations, consistent quality, [real technical depth](https://draft.dev/learn/technical-content), and practical advice. Whether you're a DevOps pro or just starting to explore this world, I'm confident you'll find value in these blogs.
 
 Before we dive into the details of each blog, here's a quick overview of the 27 best DevOps blogs I've uncovered:
 
