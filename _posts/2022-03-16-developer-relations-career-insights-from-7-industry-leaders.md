@@ -40,7 +40,7 @@ Some of the tasks I’ve seen Developer Relations professionals responsible for 
 * Managing user groups and online communities
 * Announcing product releases
 * [SEO and keyword research](https://draft.dev/learn/topic-clusters)
-* [Community research](https://draft.dev/learn/community-research)
+* Community research
 * Managing social media
 * Hosting [developer podcasts](https://draft.dev/learn/the-ultimate-list-of-developer-podcasts)
 * Writing landing page copy

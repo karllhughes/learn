@@ -73,7 +73,7 @@ Content Metrics:
 
 If you don’t have a way to reach your developers, the rest of your DevRel program doesn’t amount to much. 
 
-[Community engagement](https://draft.dev/learn/community-research) can take different forms. Online forums like [StackOverflow](https://stackoverflow.com/), Reddit, [Hacker News](https://news.ycombinator.com/), YouTube comment sections, and various Slack groups are typically where developers will have discussions that shape opinions and behaviors.
+Community engagement can take different forms. Online forums like [StackOverflow](https://stackoverflow.com/), Reddit, [Hacker News](https://news.ycombinator.com/), YouTube comment sections, and various Slack groups are typically where developers will have discussions that shape opinions and behaviors.
 
 Your DevRels absolutely have to be there in order to influence, but also to engage with and collect feedback from the audience. The thing about online communities, though, is that a) they’re vast spaces and b) the discussions aren’t instantaneous. This means that if community momentum is important for you, you’ll probably have to devote full-time technical community managers to these forums.
 

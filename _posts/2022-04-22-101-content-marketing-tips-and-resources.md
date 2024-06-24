@@ -92,8 +92,8 @@ Equip your content to perform at its best with a plethora of tools that integrat
 At Draft.dev, technical content marketing is our bread and butter. We love helping developers, B2Bs, and SaaS brands create content that people actually want to read. Here are some tips and tricks for developing a technical content marketing strategy, including some helpful tips for building outlines, making edits, and writing introductions.
 
 1. [The Best Technical Blog Platforms](https://draft.dev/learn/technical-blog-platforms)
-2. [Syndicating Developer Content](https://draft.dev/learn/syndicating-developer-content) [](https://draft.dev/learn/community-research)
-3. [Community Research for Technical Content](https://draft.dev/learn/community-research)[](https://draft.dev/learn/great-technical-tutorials-address-the-why-and-how)
+2. [Syndicating Developer Content](https://draft.dev/learn/syndicating-developer-content)
+3. Community Research for Technical Content
 4. [Great Technical Tutorials Address the "Why" and "How](https://draft.dev/learn/great-technical-tutorials-address-the-why-and-how)[](https://draft.dev/learn/5-steps-to-a-quality-edit-for-your-technical-blog)
 5. [Steps to a Quality Edit for Your Technical Blog](https://draft.dev/learn/5-steps-to-a-quality-edit-for-your-technical-blog)
 6. [A Complete Introduction to Technical Marketing](https://draft.dev/learn/a-complete-introduction-to-technical-marketing)[](https://draft.dev/learn/technical-tutorials)
@@ -140,8 +140,8 @@ There are dozens of different kinds of content marketing formats. From blogs and
 4. [How to Write Technical Guides](https://draft.dev/learn/how-to-write-technical-guides)[](https://draft.dev/learn/content-types-and-deliverables-what-are-they)
 5. [Content Types And Deliverables: What Are They?](https://draft.dev/learn/content-types-and-deliverables-what-are-they)[](https://draft.dev/learn/technical-writing-rubric)
 6. [How to Create a Technical Writing Rubric](https://draft.dev/learn/technical-writing-rubric)[](https://draft.dev/learn/conference-talk-to-post)
-7. [How to Turn Your Conference Talks Into Technical Blog Posts](https://draft.dev/learn/conference-talk-to-post) [](https://draft.dev/learn/consumer-generated-marketing)
-8. [Successful Consumer-Generated Marketing for Technology Companies](https://draft.dev/learn/consumer-generated-marketing)[](https://coschedule.com/content-marketing/types-of-content)
+7. [How to Turn Your Conference Talks Into Technical Blog Posts](https://draft.dev/learn/conference-talk-to-post)
+8. Successful Consumer-Generated Marketing for Technology Companies
 9. [113 Types of Content Marketing You Can Add to Your Calendar Now](https://coschedule.com/content-marketing/types-of-content)[](https://marketinginsidergroup.com/content-marketing/how-to-determine-what-formats-to-use-in-your-content-marketing/)
 10. [How to Determine What Formats to Use in Your Content Marketing](https://marketinginsidergroup.com/content-marketing/how-to-determine-what-formats-to-use-in-your-content-marketing/) 
 

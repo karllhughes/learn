@@ -70,7 +70,7 @@ Once we’ve agreed on topics, briefs, and [content types](https://draft.dev/con
 
 ## Are Draft.dev’s Topic Clusters Right for You?
 
-Using keyword-based topic clusters like this isn’t suitable in every situation. For example, if you’re hoping to create content as sales collateral, helping your sales team move prospects down the funnel, you might not care so much about search volume or ranking in Google. Similarly, if you're primarily interested in content that will resonate on social media, we provide [community research](https://draft.dev/learn/community-research) to create a content plan for our clients.
+Using keyword-based topic clusters like this isn’t suitable in every situation. For example, if you’re hoping to create content as sales collateral, helping your sales team move prospects down the funnel, you might not care so much about search volume or ranking in Google. Similarly, if you're primarily interested in content that will resonate on social media, we provide community research to create a content plan for our clients.
 
 On the other hand, if you’re hoping to build awareness, generate new leads, or build up your domain authority to make ranking for more difficult topics easier in the future, this strategy is a perfect fit.
 
