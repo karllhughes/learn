@@ -19,7 +19,7 @@ According to recent statistics, there are over 5,523 [digital marketing agencies
 
 Content marketing is an [important core strategy](https://www.investisdigital.com/blog/performance-marketing/how-much-does-content-marketing-cost) for B2B enterprises of all sizes. It allows organizations to scale their web presence, attract qualified leads, and engage with their audience in an authentic manner.
 
-It doesn't take a rocket scientist to make [content marketing](https://draft.dev/learn/digital-content-strategy) work for you. However, it can take a good deal of time, money, and effort, particularly when done in-house. That's why more than [62% of companies](https://www.zerys.com/content-marketing-blog-0/content-marketing-agency) choose to outsource their content marketing to an expert in their industry.
+It doesn't take a rocket scientist to make content marketing work for you. However, it can take a good deal of time, money, and effort, particularly when done in-house. That's why more than [62% of companies](https://www.zerys.com/content-marketing-blog-0/content-marketing-agency) choose to outsource their content marketing to an expert in their industry.
 
 There are two main outsourcing options to choose from: freelancers and content marketing agencies. While freelancers can be more cost-effective, they aren't always available when you need them and may not have the industry expertise to do everything you want. For this reason, finding an agency with experience in your industry takes the guesswork out of content marketing and will go a long way to ensuring a beneficial campaign.
 

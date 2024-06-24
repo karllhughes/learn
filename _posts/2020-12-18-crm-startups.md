@@ -12,7 +12,7 @@ img: /assets/posts/ro7zbdu.jpg
 Customer Relationship Management (CRM) software can help you manage customers, make more money, and keep up with leads, but it can also get expensive and cumbersome pretty quickly. Some of the best-known CRMs like Salesforce are great for enterprise settings, they can be overkill (and out of budget) for startups.
 
 ## How Does a CRM Work?
-Typically, a customer relationship manager stores names, email addresses, account notes, and reminders for a business' sales leads. Some CRMs include [email automation tools](https://draft.dev/learn/email-marketing-tools), some support team functions, and some offer analytics and tracking.
+Typically, a customer relationship manager stores names, email addresses, account notes, and reminders for a business' sales leads. Some CRMs include email automation tools, some support team functions, and some offer analytics and tracking.
 
 In large organizations, sales teams use a CRM to allow all their reps and operations people to share critical customer information. This facilitates handoffs between SDRs and account managers among other things.
 

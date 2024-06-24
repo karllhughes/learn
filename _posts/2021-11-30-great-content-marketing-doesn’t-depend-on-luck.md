@@ -42,7 +42,7 @@ The biggest mistakes I see technical founders making when they initiate content 
 
 ### 1. Lack of Strategy 
 
-It can be tempting to emulate big companies with a presence on nearly every medium by throwing content out there haphazardly. When you do it this way, you waste precious resources, and you'll probably waste a lot on content that flops. You need to have a [proper digital content strategy](https://draft.dev/learn/digital-content-strategy). 
+It can be tempting to emulate big companies with a presence on nearly every medium by throwing content out there haphazardly. When you do it this way, you waste precious resources, and you'll probably waste a lot on content that flops. You need to have a proper digital content strategy. 
 
 If you don't know the answer to questions like these, you probably need to flesh out buyer personas and understand your target customers better first.
 

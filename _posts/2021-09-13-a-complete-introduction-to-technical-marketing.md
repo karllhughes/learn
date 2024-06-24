@@ -29,7 +29,7 @@ Take the [SendGrid quick start guide here](https://docs.sendgrid.com/for-develop
 
 By highlighting SendGrid's ease of use, they break down objections that developers might have about the product and inspire them to start building something sooner rather than later.
 
-These are just two examples of technical marketing in action, and we’ll look at more later. First, let’s talk about where technical marketing fits into your [overall content strategy](https://draft.dev/learn/digital-content-strategy).
+These are just two examples of technical marketing in action, and we’ll look at more later. First, let’s talk about where technical marketing fits into your overall content strategy.
 
 <!-- signup -->
 

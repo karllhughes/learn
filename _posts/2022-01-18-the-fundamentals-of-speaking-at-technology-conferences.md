@@ -143,13 +143,13 @@ Can't find any opportunities to practice with a real audience? Book an empty con
 * Use the entire stage and pay attention to your body language. If you're unsure how to do this, rehearse on video and watch how you carry yourself.
 * Experiment with audience participation or humor --- if you're brave. These are more advanced (i.e., risky) elements that are easier to add in once you've been a speaker for a while.
 
-I have no doubt speaking at a tech conference will help you grow. It can even help you [create new content for your business](https://draft.dev/learn/conference-talk-to-post). I encourage you to try it out and follow my tips to make it easier than it was for me in the beginning. 
+I have no doubt speaking at a tech conference will help you grow. It can even help you create new content for your business. I encourage you to try it out and follow my tips to make it easier than it was for me in the beginning. 
 
 Keep in mind that, despite your careful preparation, things might go wrong. But you'll learn from them and become more and more poised over time. 
 
 You'll find your speaking groove if you stay true to your instincts and don't try to be someone else on stage.
 
-Bonus tip: To get more of your speaking engagement, [you can even turn your conference talks into technical blog posts](https://draft.dev/learn/conference-talk-to-post).
+Bonus tip: To get more of your speaking engagement, you can even turn your conference talks into technical blog posts.
 
 - - -
 

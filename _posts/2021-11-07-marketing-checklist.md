@@ -69,8 +69,8 @@ Your marketing plan starts long before you launch. Market research, planning, an
 
 * Come up with a name and domain name.
 * Write a site tagline and elevator pitch.
-* Create a logo (see [this list of logo creation tools](https://draft.dev/learn/logo-creation-tools)).
-* Set up a landing page (see [this list of landing page tools](https://draft.dev/learn/tools/landing-pages)).
+* Create a logo.
+* Set up a landing page.
 * Create "About" and "Contact" pages.
 * Create Pricing page (see [this list of pricing models](https://taprun.com/methods/)):
 * Consider/test various pricing options:

@@ -31,7 +31,7 @@ Founders who fall into this same trap likely have a long backlog of blog posts t
 #### The Ideator
 Another common pitfall is having **too many ideas with too little focus**. It’s okay to be a little more scattered in your approach to content marketing in the early days, but if your posts randomly oscillate between 300-word release updates, video announcements, 2000-word tutorials, and short news commentary, it’s really hard for readers (or search engines) to know what to expect.
 
-Ideator founders treat their startup’s blog like a personal blog with little focus on keywords, types of content, or formats. Again, it’s fine to do this when you’re early on and just finding your footing, but this is not a scalable [content marketing strategy](https://draft.dev/learn/digital-content-strategy).
+Ideator founders treat their startup’s blog like a personal blog with little focus on keywords, types of content, or formats. Again, it’s fine to do this when you’re early on and just finding your footing, but this is not a scalable content marketing strategy.
 
 #### The DIYer
 Finally, some founders just like doing everything themselves. Sometimes it’s a matter of money (I’ll admit, high-quality technical content is not cheap), and sometimes it’s therapeutic. Founders who are strong, prolific writers can pull this off for years, but it gets harder the bigger the company gets.
@@ -68,7 +68,7 @@ So what holds some founders back when it comes to content marketing?
 Usually, it’s the details:
 
 - Implementing editorial standards and a [style guide](https://draft.dev/learn/styleguide)
-- [Creating a publishing calendar](https://draft.dev/learn/airtable-publishing-calendar)
+- Creating a publishing calendar
 - Setting up a [blogging platform](https://draft.dev/learn/startup-blogging-platforms)
 - [Finding writers](https://draft.dev/learn/finding-motivating-writers)
 - [Evaluating writers](https://draft.dev/learn/technical-writing-rubric)

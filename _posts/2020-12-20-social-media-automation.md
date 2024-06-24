@@ -15,7 +15,7 @@ Social media can be a time-consuming and mentally tasking chore. Many small busi
 ## Why Use Social Media?
 Social media is a great way to drive traffic once you build a following, but for many small businesses, the question is, "how do you build a following?"
 
-Step one is to **[consistently post relevant content on social media](https://draft.dev/learn/announcing-social-collateral-from-draft-dev)**. It may take months or years to build up a significant following, but once you do, social media can be as powerful as an [email marketing list](https://draft.dev/learn/email-marketing-tools) for driving traffic to your blog or website.
+Step one is to **[consistently post relevant content on social media](https://draft.dev/learn/announcing-social-collateral-from-draft-dev)**. It may take months or years to build up a significant following, but once you do, social media can be as powerful as an email marketing list for driving traffic to your blog or website.
 
 Not only will your followers see updates, most social networks have an amplification formula where popular public posts will be shared to an even broader audience. The only way to eventually make something go viral is to make sure people hear about it, and social media is a great place to start.
 
@@ -45,7 +45,7 @@ By automating your social media efforts, you can queue up posts for the month ah
 
 **[Hootsuite](https://hootsuite.com/)** ($0) - Much like Tweetdeck, Hootsuite helps you manage multiple Twitter accounts, but Hootsuite takes it further. You can also schedule posts to other social networks, find new content automatically, and track your posts' performance.
 
-**[Social Share Preview](https://socialsharepreview.com/)** ($0) - Preview your site, [landing page](/learn/landing-page-tools), or blog posts on social media before publishing them.
+**[Social Share Preview](https://socialsharepreview.com/)** ($0) - Preview your site, landing page, or blog posts on social media before publishing them.
 
 **[Hubspot](https://www.hubspot.com/products/marketing/social-inbox)** ($0) - As part of Hubspot's marketing platform, you get a social media management tool.
 

@@ -15,7 +15,7 @@ Freelance marketing writers provide all the [benefits of a content strategy](htt
 
 Freelance marketers are the driving power of communicating your USP. They know how to write about your product in a way that boosts comprehension and drives sales. These writers are typically professionals on SEO writing, [keyword research](https://draft.dev/learn/seo-keyword-opportunities-in-developer-marketing), and [SERP marketing](https://digitalmarketinginstitute.com/resources/lessons/seo-search-engine-optimization_serps_el3t).
 
-Marketing writers focus on deriving action from their writing. They typically have a different objective and writing style than blog writers, and use research and [content strategy](https://draft.dev/learn/digital-content-strategy) to plan their pieces. While blog writers are usually skilled in one type of copy, marketing writers have experience writing for many mediums (emails, tutorials, case studies, etc).
+Marketing writers focus on deriving action from their writing. They typically have a different objective and writing style than blog writers, and use research and content strategy to plan their pieces. While blog writers are usually skilled in one type of copy, marketing writers have experience writing for many mediums (emails, tutorials, case studies, etc).
 
 Freelance marketing writers can be important assets for businesses of all sizes. We’re going to take a closer look at working with a freelance marketing writer, including:
 

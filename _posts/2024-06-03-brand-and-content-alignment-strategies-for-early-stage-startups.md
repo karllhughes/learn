@@ -52,7 +52,7 @@ Once everyone internally agrees on how the brand should be perceived, it becomes
 
 ## Understand and Connect with Your Audience
 
-The next step before actually launching your [content strategy](https://draft.dev/learn/digital-content-strategy) is to truly understand your audience. Rebecca suggested **starting with your already existing user base, as they offer invaluable insights into what works and what doesn't.** Engaging in conversations with these users helps you uncover their pain points, preferences, and how they perceive your product.
+The next step before actually launching your content strategy is to truly understand your audience. Rebecca suggested **starting with your already existing user base, as they offer invaluable insights into what works and what doesn't.** Engaging in conversations with these users helps you uncover their pain points, preferences, and how they perceive your product.
 
 Brian added another layer to audience understanding by asking, "Who is your current client base and who do you wish it was?" In other words, **take a good look at who's already using your product or service, and then envision your dream customer.** Who are they? What are their needs and challenges? Understanding this gap helps you tailor your messaging to attract the right kind of customers and ensure your brand resonates with those who can truly benefit from what you offer. And don't forget to pinpoint the key decision-maker in your target companies - the person who can advocate for your product and drive adoption within their organization. As Brian mentioned,
 

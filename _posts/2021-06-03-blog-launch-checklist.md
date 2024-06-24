@@ -13,7 +13,7 @@ A blog isn’t just about putting words on a page for Google. It’s a window in
 
 A blog is a powerful tool in your business arsenal, and unlike adverts—where you put yourself in front of people in the hope they’ll like it—a blog attracts people to you. It’s an opportunity to create a new relationship through education, information, humor, shared values, or simply a need for what you offer.
 
-By blogging, you give yourself the chance to be found by potential customers all over the world. But it’s not a golden ticket to growth. There’s a right way and a wrong way to build a blog, and just like there are millions of incredible artists, musicians, writers, and other creatives that success eludes, your ability to create a great blog is only part of the equation. What you need is a [digital content strategy](https://draft.dev/learn/digital-content-strategy), of which a blog plays a significant role.
+By blogging, you give yourself the chance to be found by potential customers all over the world. But it’s not a golden ticket to growth. There’s a right way and a wrong way to build a blog, and just like there are millions of incredible artists, musicians, writers, and other creatives that success eludes, your ability to create a great blog is only part of the equation. What you need is a digital content strategy, of which a blog plays a significant role.
 
 <!-- signup -->
 
@@ -69,7 +69,7 @@ If a key metric is collecting email addresses, you’ll need a mechanism to do t
 
 If you don’t have an email list, you’re relying on people remembering you. With so many things fighting for a user’s attention, the odds are stacked against that happening. Even if a reader does bookmark your site or remember to check in occasionally, it’s unlikely they’ll do so often. After all, how many sites do you check daily or weekly?
 
-There are plenty of [email marketing tools](https://draft.dev/learn/email-marketing-tools) to choose from, including some free options. 
+There are plenty of email marketing tools to choose from, including some free options. 
 
 Once your email marketing account is created, you’ll need clear ways for your visitors to sign up. A list that nobody knows how to join is just as bad as not having a list at all.
 
@@ -89,7 +89,7 @@ Grammarly works as your assistant, spotting spelling mistakes and offering impro
 
 ### 6. Set Up A Publishing Calendar
 
-Once you have everything set up and ready to go, it’s time to turn your attention to your [publishing calendar](https://draft.dev/learn/airtable-publishing-calendar). This will help ensure the blog has regular posts, and if you have multiple writers a calendar keeps everyone accountable.
+Once you have everything set up and ready to go, it’s time to turn your attention to your publishing calendar. This will help ensure the blog has regular posts, and if you have multiple writers a calendar keeps everyone accountable.
 
 There are, as always, multiple options to choose from at various levels of complexity. 
 

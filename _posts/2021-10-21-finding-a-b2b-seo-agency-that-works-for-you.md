@@ -45,7 +45,7 @@ From startups to established businesses, building an SEO plan can be difficult w
 
 ## The Benefits of an Agency
 
-B2B SEO agencies are an essential aspect of your [digital marketing strategy](https://draft.dev/learn/digital-content-strategy). Not only are they handy for growing businesses, but they [help to supplement](https://www.webfx.com/internet-marketing/how-to-find-the-best-seo-company-for-your-business.html) smaller or newly-established in-house teams.
+B2B SEO agencies are an essential aspect of your digital marketing strategy. Not only are they handy for growing businesses, but they [help to supplement](https://www.webfx.com/internet-marketing/how-to-find-the-best-seo-company-for-your-business.html) smaller or newly-established in-house teams.
 
 Agencies provide several benefits that in-house teams simply cannot. For one thing, agencies only work on your SEO and its ranking, and do not require full-time salaries. They can also diagnose and improve your ranking from an objective standpoint (free from bias).
 

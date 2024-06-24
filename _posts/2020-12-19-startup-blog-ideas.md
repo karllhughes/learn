@@ -14,7 +14,7 @@ Coming up with ideas for your startup's blog can be mentally taxing. While [keyw
 
 ## Three Steps to Generate Blog Ideas
 
-One strategy is to publish a mix of SEO-driven content with more creative, shareable posts that help you build organic backlinks and social proof. If you want to make sure you always have some ideas in the hopper, you need to put a healthy backlog of creative blog post ideas into [your publishing calendar](/learn/airtable-publishing-calendar).
+One strategy is to publish a mix of SEO-driven content with more creative, shareable posts that help you build organic backlinks and social proof. If you want to make sure you always have some ideas in the hopper, you need to put a healthy backlog of creative blog post ideas into your publishing calendar.
 
 <!-- signup -->
 
@@ -92,7 +92,7 @@ This strategy can net you dozens of blog posts with just a few hours of work, an
 - Interview a professor, recent graduate, or someone who just retired from your industry.
 - Interview speakers or sponsors at a conference.
 - Ask a question or conduct a poll on [Twitter](https://twitter.com/) and share the results.
-- Do a survey with Survey Monkey (or [one of these other tools](https://draft.dev/learn/survey-tools)) among your community members.
+- Do a survey with Survey Monkey (or similar survey tool) among your community members.
 - Get experts to offer a tip and do a round-up of their recommendations.
 - Feature guest posts from industry experts.
 

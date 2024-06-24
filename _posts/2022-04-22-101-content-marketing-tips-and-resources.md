@@ -31,8 +31,7 @@ Spinning up a new content marketing strategy is no easy task. Getting off on the
 
 1. [The 3 Questions You Should Ask Before Starting a Technical Blog](https://draft.dev/learn/three-questions) 
 2. [The Startup Marketing Checklist](https://draft.dev/learn/marketing-checklist)
-3. [Content Marketing At Early Stage Startups](https://draft.dev/learn/content-marketing-at-early-stage-startups)
-   [](https://draft.dev/learn/blog-launch-checklist)[A Blog Launch Checklist](https://draft.dev/learn/blog-launch-checklist)
+3. [Content Marketing At Early Stage Startups](https://draft.dev/learn/content-marketing-at-early-stage-startups)[A Blog Launch Checklist](https://draft.dev/learn/blog-launch-checklist)
 4. [How to Create a Digital Content Strategy](https://draft.dev/learn/digital-content-strategy)
 5. [Lost in the Content Marketing Forest](https://draft.dev/learn/content-marketing-forest)
 6. [The Big Blog Promotion Checklist](https://draft.dev/learn/promotion)
@@ -78,13 +77,13 @@ Equip your content to perform at its best with a plethora of tools that integrat
 2. [Social Media Automation Tools for Startups](https://draft.dev/learn/social-media-automation)[](https://draft.dev/learn/react-vs-vue-a-modern-comparison)
 3. [React vs. Vue: A Modern Comparison](https://draft.dev/learn/react-vs-vue-a-modern-comparison) [](https://draft.dev/learn/customer-chat-tools)
 4. [Live Customer Chat Tools for Startups](https://draft.dev/learn/customer-chat-tools)[](https://draft.dev/learn/press-release-tools)
-5. [Press Release Creation and Distribution Tools](https://draft.dev/learn/press-release-tools)[](https://draft.dev/learn/crm-startups)
-6. [Customer Relationship Management Software for Startups](https://draft.dev/learn/crm-startups)[](https://draft.dev/learn/airtable-publishing-calendar)
-7. [Creating a Multi-Author Publishing Calendar in Airtable](https://draft.dev/learn/airtable-publishing-calendar)[](https://draft.dev/learn/free-stock-images)
+5. [Press Release Creation and Distribution Tools](https://draft.dev/learn/press-release-tools)
+6. [Customer Relationship Management Software for Startups](https://draft.dev/learn/crm-startups)
+7. Creating a Multi-Author Publishing Calendar in Airtable
 8. [Free Stock Images for Your Startup](https://draft.dev/learn/free-stock-images)
-9. [Survey Tools for Startups](https://draft.dev/learn/survey-tools)[](https://draft.dev/learn/landing-page-tools)
-10. [Landing Page Tools for Startups](https://draft.dev/learn/landing-page-tools)[](https://draft.dev/learn/email-marketing-tools)
-11. [Email Marketing Tools for Startups](https://draft.dev/learn/email-marketing-tools) 
+9. Survey Tools for Startups
+10. Landing Page Tools for Startups
+11. Email Marketing Tools for Startups
 12. [Online Course Creation Tools](https://draft.dev/learn/course-creation-tools)
 
 ## Technical Content Marketing
@@ -139,8 +138,8 @@ There are dozens of different kinds of content marketing formats. From blogs and
 3. [How to Write Technical Thought Leadership](https://draft.dev/learn/how-to-write-technical-thought-leadership)[](https://draft.dev/learn/how-to-write-technical-guides)
 4. [How to Write Technical Guides](https://draft.dev/learn/how-to-write-technical-guides)[](https://draft.dev/learn/content-types-and-deliverables-what-are-they)
 5. [Content Types And Deliverables: What Are They?](https://draft.dev/learn/content-types-and-deliverables-what-are-they)[](https://draft.dev/learn/technical-writing-rubric)
-6. [How to Create a Technical Writing Rubric](https://draft.dev/learn/technical-writing-rubric)[](https://draft.dev/learn/conference-talk-to-post)
-7. [How to Turn Your Conference Talks Into Technical Blog Posts](https://draft.dev/learn/conference-talk-to-post)
+6. [How to Create a Technical Writing Rubric](https://draft.dev/learn/technical-writing-rubric)
+7. How to Turn Your Conference Talks Into Technical Blog Posts
 8. Successful Consumer-Generated Marketing for Technology Companies
 9. [113 Types of Content Marketing You Can Add to Your Calendar Now](https://coschedule.com/content-marketing/types-of-content)[](https://marketinginsidergroup.com/content-marketing/how-to-determine-what-formats-to-use-in-your-content-marketing/)
 10. [How to Determine What Formats to Use in Your Content Marketing](https://marketinginsidergroup.com/content-marketing/how-to-determine-what-formats-to-use-in-your-content-marketing/) 

@@ -103,8 +103,6 @@ If you have access to a significant portion of your target market (say through a
 
 Data does well in search engines, and if you can get some pull quotes as well, you’ll have some more free original content from your survey.
 
-_Note: I’ve created [a big list of survey tools here](https://draft.dev/learn/survey-tools) to help you get started._
-
 ### Idea 13: List Bloggers in Your Industry
 **Example:** [List of the best technical blogs on Draft.dev](https://draft.dev/learn/technical-blogs/)
 
