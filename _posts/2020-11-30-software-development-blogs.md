@@ -25,6 +25,36 @@ That's why I put together this guide to 24 of the best software development blog
 
 Before we dive into each blog individually, here are the 24 best software development blogs at a glance:
 
+
+| Blog                                                                | My Overall Score |
+| ------------------------------------------------------------------- | ----------------:|
+| [DigitalOcean](https://www.digitalocean.com/blog/)                  | 4.8              |
+| [Smashing Magazine](https://www.smashingmagazine.com/)              | 4.6              |
+| [Stack Overflow Blog](https://stackoverflow.blog/)                  | 4.6              |
+| [CSS-Tricks](https://css-tricks.com/)                               | 4.2              |
+| [Level Up Coding](https://levelup.gitconnected.com/)                | 4.2              |
+| [Bits And Pieces](https://blog.bitsrc.io/)                          | 4.2              |
+| [freeCodeCamp](https://www.freecodecamp.org/news/tag/blog/)         | 4.2              |
+| [Tutorialspoint](https://www.tutorialspoint.com/index.htm)          | 4.2              |
+| [DEV.to](https://dev.to/)                                           | 4.2              |
+| [Ultimate Courses Todd Motto](https://ultimatecourses.com/blog/) | 4                |
+| [Robin Wieruch](https://www.robinwieruch.de/blog)                   | 3.8              |
+| [Kodeco](https://www.kodeco.com/)                                   | 3.8              |
+| [SitePoint](https://www.sitepoint.com/blog/)                        | 3.8              |
+| [Stack Abuse](https://stackabuse.com/)                              | 3.8              |
+| [LogRocket](https://blog.logrocket.com/)                            | 3.8              |
+| [Towards Data Science](https://towardsdatascience.com/)             | 3.8              |
+| [JavaScript In Plain English](https://javascript.plainenglish.io/)  | 3.8              |
+| [A List Apart](https://alistapart.com/)                             | 3.6              |
+| [Flavio Copes](https://flaviocopes.com/)                            | 3.6              |
+| [Hackr.io](https://hackr.io/blog)                                   | 3.4              |
+| [Codecademy](https://www.codecademy.com/resources/blog/)            | 3.2              |
+| [Hackernoon](https://hackernoon.com/)                               | 3.2              |
+| [David Walsh](https://davidwalsh.name/)                             | 3.2              |
+| [Code Like A Girl](https://code.likeagirl.io/)                      | 3                |
+
+
+
 ### 1. [DigitalOcean](https://www.digitalocean.com/blog/)
 
 ![DigitalOcean](/learn/assets/posts/best-software-development-blogs-4-.png "DigitalOcean")
