@@ -18,6 +18,8 @@ Also, the rise of developer influencers, often called developer evangelists, suc
 
 To shed light on the increasing power of developer influencer marketing, Draft.dev recently hosted a webinar on how influencer marketing works for technical audiences, featuring Cole Stark (CMO at [Pieces](https://pieces.app/)) and Karl McCarthy (Founder of [Yard](https://www.yard.live/)).
 
+
+
 In this post, I want to summarize the key takeaways from the webinar, providing you with insights for leveraging developer influencers to reach, engage, and convert your target audience.
 
 ## What's the Difference Between “Traditional” Influencers and Developer Evangelists?
@@ -30,7 +32,7 @@ Karl highlighted the distinct contrast in focus. **While traditional influencers
 
 Both speakers emphasized that developer evangelists are not just influencers; they are developers first and foremost. They are experts in their field, capable of creating in-depth guides and content that resonates with their audience.
 
-Sometimes however B2C marketing tactics can also work in developer marketing. For example, Cole drew a parallel between the unboxing phenomenon in traditional influencer marketing and the world of developer tools. He shared how Pieces invites users to "unbox" their software, observing their first impressions and onboarding experiences. This provides valuable feedback for engineering teams and generates authentic content showcasing the product's value.
+However, sometimes B2C marketing tactics can also work in developer marketing. For example, Cole drew a parallel between the unboxing phenomenon in traditional influencer marketing and the world of developer tools. He shared how Pieces invites users to "unbox" their software, observing their first impressions and onboarding experiences. This provides valuable feedback for engineering teams and generates authentic content showcasing the product's value.
 
 Both speakers emphasized that **developer evangelists are not just influencers; they are developers first and foremost.** They are **experts in their field**, capable of creating in-depth guides and content that resonates with their audience.
 
@@ -139,6 +141,5 @@ Cole explored the evolving landscape of platforms and formats. He noted the emer
 Both panelists agreed that AI will play an increasingly important role in developer influencer marketing. Cole highlighted how AI tools can streamline content creation, from generating transcripts to automating video editing. 
 
 Regardless of how content formats evolve, AI evolves, or platforms shift, **the core principles of developer influencer marketing will remain the same: authenticity, trust, and genuine relationship-building.** These foundations will continue to be the essential layer behind successful influencer marketing campaigns.
-
 
 Want to dive deeper into the world of DevRel and Developer Marketing? **[Join our upcoming live webinars](https://draft.dev/webinars)** with Q&A sessions where we’ll be discussing similar topics with insights from industry leaders.
