@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Influencer Marketing & the Effective Use of Dev Evangelists
+title: Influencer Marketing and the Effective Use of Dev Evangelists
 description: Explore the world of influencer marketing in dev tools space, from
   understanding the role of developer influencers to navigating the challenges
   of measuring campaign success.
@@ -130,8 +130,6 @@ As the webinar drew to a close, the conversation turned towards the future of de
 
 > I feel like user-generated content is coming for our world. - Karl Mc Carthy, Founder of Yard
 
-
-
 He envisioned a future where companies empower their communities to create short-form videos, potentially amplified by paid advertising, with the most successful content rising to the top.
 
 Cole explored the evolving landscape of platforms and formats. He noted the emergence of new channels like [daily.dev](https://daily.dev/), which provide opportunities for developers to share their knowledge and expertise. He also observed a shift back towards long-form content, as developers often seek in-depth tutorials and explanations.
@@ -139,5 +137,7 @@ Cole explored the evolving landscape of platforms and formats. He noted the emer
 Both panelists agreed that AI will play an increasingly important role in developer influencer marketing. Cole highlighted how AI tools can streamline content creation, from generating transcripts to automating video editing. 
 
 Regardless of how content formats evolve, AI evolves, or platforms shift, **the core principles of developer influencer marketing will remain the same: authenticity, trust, and genuine relationship-building.** These foundations will continue to be the essential layer behind successful influencer marketing campaigns.
+
+- - -
 
 Want to dive deeper into the world of DevRel and Developer Marketing? **[Join our upcoming live webinars](https://draft.dev/webinars)** with Q&A sessions where we’ll be discussing similar topics with insights from industry leaders.
