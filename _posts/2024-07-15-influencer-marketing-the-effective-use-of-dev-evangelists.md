@@ -44,7 +44,7 @@ Now that you understand the unique value proposition of developer evangelists, l
 
 Cole outlined the three Cs that define the [day-to-day role of a developer evangelist](https://draft.dev/learn/understanding-the-role-of-a-developer-evangelist):
 
-1. **Coding:** Developer evangelists are developers first and foremost, and they often contribute to codebases, open source projects, or create technical demos.
+1. **Coding:** Developer evangelists often contribute to codebases, open source projects, or create technical demos.
 2. **Content:** They are skilled content creators, producing blog posts, tutorials, videos, and other materials that educate and engage their audience.
 3. **Community:** Building and nurturing a thriving community is a core responsibility, whether it's through forums, social media, or events.
 
