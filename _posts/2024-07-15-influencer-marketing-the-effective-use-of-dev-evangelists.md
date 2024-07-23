@@ -32,7 +32,7 @@ Karl highlighted the distinct contrast in focus. **While traditional influencers
 
 > They (developer evangelists) just can't fake it. - Karl McCarthy, Founder of Yard
 
-Both speakers emphasized that developer evangelists are not just influencers; they are developers first and foremost. They are experts in their field, capable of creating in-depth guides and content that resonates with their audience.
+
 
 However, sometimes B2C marketing tactics can also work in developer marketing. For example, Cole drew a parallel between the unboxing phenomenon in traditional influencer marketing and the world of developer tools. He shared how Pieces invites users to "unbox" their software, observing their first impressions and onboarding experiences. This provides valuable feedback for engineering teams and generates authentic content showcasing the product's value.
 
