@@ -56,7 +56,7 @@ However, this also presents an opportunity to capture valuable long-tail keyword
 
 Meg agreed, emphasizing that keyword research should be driven by audience needs rather than relying solely on tools.
 
-Clients ask us all the time, 'Do you start with the keywords? Or do you start with the audience's needs?' You always start with what the audience wants, what the audience needs. – Meg Scarborough, CEO & Founder, Megawatt
+> "Clients ask us all the time, 'Do you start with the keywords? Or do you start with the audience's needs?' You always start with what the audience wants, what the audience needs." – Meg Scarborough, CEO & Founder, Megawatt
 
 ### Prioritize the Right Keywords
 
