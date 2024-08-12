@@ -30,7 +30,7 @@ Meg emphasized that precision of language really matters and that understanding 
 
 Nate agreed, highlighting the challenges he faced when transitioning from consumer finance to the technical Kubernetes space. He emphasized the need for in-depth content like coding samples and tutorials to effectively engage technical audiences. Nate also mentioned that creating content that targets a technical SEO keyword is a lot pricier. 
 
-> I also found that creating content for a more technical audience was a lot more expensive. Three to four times as expensive as what it might be for creating a piece of content to serve what is like a non-technical consumer keyword. - Nate Matherson, Co-founder & CEO, Positional
+> "I also found that creating content for a more technical audience was a lot more expensive. Three to four times as expensive as what it might be for creating a piece of content to serve what is like a non-technical consumer keyword." - Nate Matherson, Co-founder & CEO, Positional
 
 ## Tailoring Keyword Research for Technical Products
 
