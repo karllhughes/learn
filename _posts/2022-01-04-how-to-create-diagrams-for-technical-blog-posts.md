@@ -1,69 +1,99 @@
 ---
 layout: post
 title: How to Create Diagrams for Technical Blog Posts
-description: Whether it be a diagram of how the different parts of an
-  application work together or an example of how an application flows, you can
-  typically get a lot across with a suitable diagram, compared to typing
-  everything out. In this article, we'll cover a bit more about what an
-  architecture diagram is, tools for creating them, and a few tips to help you
-  on your way.
+description: "Learn how to create effective architectural diagrams to enhance
+  your technical articles. Explore different tools, tips, and best practices to
+  help you visualize complex systems and improve reader comprehension. "
 categories: "processes "
 cta: Playbook
-author: kasper
-date: 2022-01-04T00:41:44.224Z
+author: Kirstin Spivey
+date: 2024-09-11T17:06:10.891Z
 img: /assets/posts/thisisengineering-raeng-yco98vqqlna-unsplash.jpg
 ---
-Writing a technical article consists of many different components. You have to research the topics you are writing about, at times create demo applications, and of course, you have to write the article. For some articles, you also have to create architecture diagrams. While not a necessity, an exemplary architecture diagram can help your readers understand the points of your article a lot better.
+Writing technical articles is a complex process consisting of different components. You have to research the topic, create demo applications, troubleshoot any issues, and then write the actual article. 
 
-Whether it be a diagram of how the different parts of an application work together or an example of how an application flows, you can typically get a lot across with a suitable diagram, compared to typing everything out. In this article, we'll cover a bit more about what an architecture diagram is, tools for creating them, and a few tips to help you on your way.
+For some articles, it's also helpful to include an architectural diagram, which can help readers better understand system structure, data flow, or interactions between different systems or services.
 
-# What are Architecture Diagrams?
+In this article, we'll define what an architecture diagram is, explore different tools you can use to create them, and provide a few tips to help you get started. 
 
-As stated in the introduction, architecture diagrams are a way to help your readers understand the points of your article. Many technical articles are tutorials, such as a quick step-by-step instruction list on how to get something running. An example of this could be a CRUD API built with PostgreSQL, NodeJS, and OpenFaas.
+## What Are Architecture Diagrams?
 
-That's a very specific example because it's taken from [this article](https://www.civo.com/learn/guide-to-build-a-crud-api-with-postgresl-and-node-js-with-openfaas). This article has an excellent diagram in the very beginning showing what is going to be created. You can see it here:
+An architectural diagram is a visual tool that shows how different parts of a system or application work together. It acts like a blueprint, mapping out connections between components like databases, servers, APIs, and user interfaces. 
 
-![Architecture Diagram](https://civo-com-assets.ams3.digitaloceanspaces.com/content_images/514.blog.png?1576755297)
+For example, [this article](https://www.civo.com/learn/guide-to-build-a-crud-api-with-postgresl-and-node-js-with-openfaas) uses a diagram in the very beginning to visualize what's going to be created:
 
-Writing all the information for what this application includes would be possible. But, you will have to be very specific to get the point across in your writing, as well as when you build the architecture diagram. A good architecture diagram includes the most particular points needed to understand the application flow and arrows to guide the reader through the diagram. You don't need much more to make a proper diagram.
+![Architectural diagram courtesy of [Civo](https://www.civo.com/learn/guide-to-build-a-crud-api-with-postgresl-and-node-js-with-openfaas)](https://civo-com-assets.ams3.digitaloceanspaces.com/content_images/514.blog.png?1576755297)
 
-# Tools for Creating Architecture Diagrams
+While it would be possible to communicate the complexity of this architecture with words, the diagram communicates more clearly and efficiently.
 
-Now that you know what it means to create an architecture diagram, you also need to know _how_ you can make it. Luckily there are plenty of tools out there to help you with this. Here are just a few.
+Architectural diagrams can also [highlight dependencies, data flows, and the overall organization](https://earthly.dev/blog/nx-monorepos-guide/), making it easier to identify potential issues.
+
+## What Makes an Architectural Diagram Good
+
+A good architectural diagram effectively communicates the design and structure of a system and typically focuses on the following:
+
+* **Clarity and simplicity:** Use clear, straightforward symbols and labels to represent components. Additionally, make sure you use descriptive labels and annotations to clarify the function and purpose of each component.
+* **Consistent layout:** Arrange elements logically, with a consistent style and structure to make the diagram easy to follow. 
+* **Key components:** Highlight all crucial elements, including their relationships and interactions.
+
+These elements ensure that the diagram is both informative and accessible, helping readers easily visualize complex concepts. 
+ 
+## Tools for Creating Architecture Diagrams
+
+Now that you know more about the different components that make up a good architectural diagram, let's take a look at some tools you can use to create one. 
 
 ## Google Drawings
 
 ![Google Drawings](https://i.imgur.com/OsqZHiL.png)
 
-Google Draw is a straightforward tool to use. It's easy and not very complex. This does mean that the diagrams you can create with this tool aren't going to be too advanced, but that's not to say that you should steer away from it. The times you will have to create diagrams beyond what Google Drawings is capable of will be very few.
+Like most things in the Google ecosystem, Google Drawings is easy to get started with. While it may not offer advanced features, its straightforward interface allows you to create basic, effective diagrams. 
 
-If you are using a Chromium-based browser like Chrome or Edge, you can type `drawing.new` directly into the address bar, and you'll be opening a new drawing. This way, you can quickly try out what Google Drawings is capable of.
+Google Drawings works in every browser, but if you're using a Chromium-based browser like Chrome or Edge, you can type `drawing.new` directly into the address bar to open a new drawing. 
 
 ## ExcaliDraw
 
 ![ExcaliDraw](https://i.imgur.com/bleKxOA.png)
 
-Sometimes you want something a bit different, something more resembling a quick sketch. This is where you may want to try out ExcaliDraw. ExcaliDraw allows you to create illustrations like what you draw on a whiteboard. Whether you use Google Drawings or ExcaliDraw mainly comes down to preference.
+Sometimes you want something a bit different that resembles a quick sketch. This is where you may want to try out ExcaliDraw. It lets you create illustrations that looks like what you'd draw on a whiteboard. 
 
-To try it out, visit https://excalidraw.com/. 
+Whether you use Google Drawings or ExcaliDraw mainly comes down to preference.
 
-# Tips for Creating Diagrams?
+## Draw.io
 
-Now you know more about creating an architecture diagram and how you can do so. Here are a few tips to think about when you make diagrams.
+[Draw.io](https://app.diagrams.net/) is a free and easy-to-use tool that offers a more extensive set of features than Google Drawings and is designed specifically for diagramming. 
 
-## Practice makes Perfect
+It integrates well with cloud storage services like Google Drive and Dropbox and supports real-time collaboration. 
 
-Like with anything, making architecture diagrams takes practice. On the surface, it may seem like making diagrams is a matter of knowing all the prerequisites, but in reality, it's still something that takes skill. If you haven't created diagrams before, don't worry when they don't come out great. Keep going at it, and you'll be creating beautiful diagrams in no time.
+## Inkscape
 
-## Think About the Reader
+If you're interested in making more complex diagrams, [Inkscape](https://inkscape.org/) offers precise control over vector graphics, enabling detailed and accurate illustrations. It supports a wide range of file formats and includes advanced features like layers, object grouping, and path manipulation. 
 
-Something familiar between articles and diagrams is that you have to take a step back and consider whether what you've created makes sense for new readers. Sometimes you can get too caught up in it and not realize that the diagram is missing some critical information that you may know but that the reader may be missing.
+It's also free, open source, and available on Windows, Linux and Mac
 
-## Think about colors
+## Tips for Creating Diagrams
 
-Something that can often be missed when creating an architecture diagram are the colors. Try making components of the same variety the same colors, making it more evident to the reader. If you have a diagram consisting of virtual machines and storage blocks, you could, for example, make the VMs blue and the storage blocks green.
+Now that you're ready to create some visually appealing, well-structured architectural diagrams, the following tips can help you get started. 
 
-# Conclusion
+### Practice Makes Perfect
 
-Making an architecture diagram isn't the most challenging skill in the world, but you do have to give it some thought. A bad diagram can risk getting the reader more confused rather than being helpful. Make sure to think about your diagrams in relation to the content you are writing.
+As with most things, creating architectural diagrams takes practice. On the surface, it may seem like architectural diagram creation is a matter of knowing all the prerequisites, but in reality, it's still something that takes skill. If you haven't created diagrams before, don't get frustrated when your first couple don't look that great. Keep trying and you'll be creating beautiful diagrams in no time.
 
+Keep the following in mind if you're just starting out:
+
+* **Use consistent colors and fonts:** Stick to a limited color palette and uniform fonts for a professional look. Also, make sure your color choices enhance readability. Have you selected high-contrasting colors for your background and font?
+* **Keep it simple:** Avoid clutter by focusing on key elements and removing unnecessary details.
+* **Utilize white space:** Give elements room to breathe to prevent the diagram from feeling crowded. Along with that, don't try to cram everything into the diagram, the content that goes along with the diagram can help fill in the gaps. 
+* **Align elements (when possible):** Ensure that shapes and lines are neatly aligned for a clean, organized appearance. Don't forget to think about the position of elements and texts. Make sure that the text accompanying an element is close to it, and is not ambiguously placed.
+* **Use shapes:** Standard shapes and symbols such as arrows and squares can help provide clarity.
+* **Use visual hierarchy:** Highlight important components with size, color, or placement to guide the viewer's attention.
+* **Maintain proportions:** Keep element sizes proportional to their importance or relationship to avoid misleading representations.
+
+### Think about the Reader
+
+Of all the tips in this article, this is probably the most important one: Don't forget who you're creating your diagram for. Is it a beginner? Make sure you're content is as simple as possible. Does your reader have years of experience? Then using more complex terminology/visuals is probably okay.  
+
+It's easy to get caught up in your diagram and forget critical information. Take a step back (maybe even a few hours or days away) and come back and review your content through the eyes of your reader. Sometimes a little break and a reminder of who your audience is, is all you need to take your diagram from good to great.
+
+## Conclusion
+
+Making an architecture diagram isn't the most difficult task, but it does require practice and some thoughtful planning. A poorly designed diagram can confuse readers instead of clarifying your points. To avoid this, always consider how your diagram aligns with the content your presenting. Thoughtful design can turn a good architectural diagram into a great one.
