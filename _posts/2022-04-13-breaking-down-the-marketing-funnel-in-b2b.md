@@ -6,7 +6,7 @@ description: Using your B2B marketing funnel correctly could turn cold leads
   your company.
 categories: b2b-marketing
 cta: Content Ideas
-author: meagan
+author: Meagan Shelley
 date: 2024-02-28T17:22:27.308Z
 img: /assets/posts/chef-funnel.png
 ---
