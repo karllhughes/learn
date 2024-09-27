@@ -17,11 +17,11 @@ So, how do you create [video content](https://draft.dev/learn/introducing-video-
 
 In our recent webinar, we spoke with Jake Ward, Co-founder of Data Protocol, and Kevin Blanco, Senior DevRel Advocate at Appsmith, to explore the unique challenges and best practices of creating developer-focused videos.
 
-<div class="video-responsive”>
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8EXPQ737nmU?si=rZ6Hxe07wAIBSG1v&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-</div>
+
 
 From audience insights to production tips and distribution strategies, this post will cover the main insights from the webinar to help you or your DevRel teams create video content that drives results, from increased engagement to higher conversion rates.
 
