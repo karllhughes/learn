@@ -6,7 +6,7 @@ description: A head of marketing is responsible for managing the marketing
   for your company.
 categories: marketing-titles
 cta: Content Ideas
-author: meagan
+author: Meagan Shelley
 date: 2024-03-13T17:11:30.855Z
 img: /assets/posts/photo-1542744173-8e7e53415bb0.jpg
 ---
