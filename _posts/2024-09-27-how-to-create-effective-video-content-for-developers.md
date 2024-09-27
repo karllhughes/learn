@@ -48,7 +48,7 @@ Creating effective video content starts with understanding your audience. Develo
 
 One way to categorize your target audience is by using the [developer journey](https://www.devrel.agency/developerjourney), i.e the stage your audience is currently at.
 
-![The Developer Journey](/assets/posts/developer-journey-map-1-.png "The Developer Journey")
+![The Developer Journey](/learn/assets/posts/developer-journey-map-1-.png "The Developer Journey")
 
 > "The most important thing is to tailor your videos to the developer journey. For me, the developer journey is like my Bible, and it's always the reference when I have to do a video." - Kevin Blanco, Senior DevRel Advocate at Appsmith
 
