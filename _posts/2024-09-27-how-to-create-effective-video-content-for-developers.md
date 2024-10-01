@@ -140,4 +140,19 @@ The most important factor when deciding on your distribution channels is knowing
 
 > "If your user persona is a CTO, I don't think it's gonna be on TikTok. It's probably going to be more on LinkedIn, looking for use cases that reduce costs or align with their goals." - Kevin Blanco, Senior DevRel Advocate at Appsmith
 
+## Final Thoughts
+
+As someone who works with developer-focused companies every day, I'm constantly reminded of the differences between creating content for technical and non-technical audiences. The only way to achieve success with video and other content types is to make it useful, educational, and help developers solve real-world problems.
+
+One thing to keep in mind about video content is that it's more challenging to refresh in the future. That's why I wholeheartedly agree with the speakers' emphasis on investing ample time in the pre-production phase, conducting thorough research, and deeply understanding your audience and their needs.
+
+Another interesting piece of advice from our speakers was to give your video audience a sneak peek or a “tease” of what they’ll get right at the beginning of the video, especially for long-form content. This can significantly increase the likelihood that viewers will stick around for the entire tutorial.
+
+Finally, in a world where advanced video editing has become more and more accessible to users, it's important not to forget that the most successful developer videos are those that provide genuine value. 
+
+> "Nobody's watching our videos for entertainment value. They're trying to get the information they need." - Jake Ward, Co-founder of Data Protocol
+
+*** 
+
+
 I hope this blog post has given you some insights into creating effective video content for technical audiences. If you want to learn more about DevRel and Developer Marketing, **[join our upcoming live webinars](https://draft.dev/webinars)** with Q&A sessions, where we explore similar topics and feature insights from industry leaders.
