@@ -40,7 +40,7 @@ So, what does resonate with developers?
 
 The bottom line is that your video content needs to provide real value, or they'll quickly move on.
 
-## How to Categorize Developer Audiences for Video Content
+## How to Categorize Developer Audiences for Video Content?
 
 Creating effective video content starts with understanding your audience. Developers have different needs, interests, and levels of experience.
 
@@ -138,6 +138,6 @@ For example:
 
 The most important factor when deciding on your distribution channels is knowing where your audience spends their time.
 
-> "If your user persona is a CTO, I don't think it's gonna be on TikTok," Kevin pointed out. "It's probably going to be more on LinkedIn, looking for use cases that reduce costs or align with their goals." - Kevin Blanco, Senior DevRel Advocate at Appsmith
+> "If your user persona is a CTO, I don't think it's gonna be on TikTok. It's probably going to be more on LinkedIn, looking for use cases that reduce costs or align with their goals." - Kevin Blanco, Senior DevRel Advocate at Appsmith
 
 I hope this blog post has given you some insights into creating effective video content for technical audiences. If you want to learn more about DevRel and Developer Marketing, **[join our upcoming live webinars](https://draft.dev/webinars)** with Q&A sessions, where we explore similar topics and feature insights from industry leaders.
