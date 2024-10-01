@@ -6,7 +6,7 @@ description: Learn how to create effective video content that resonates with
   experts, including audience analysis, production tips, and distribution
   strategies.
 categories: webinars
-cta: Playbook
+cta: Content Ideas
 author: annika
 date: 2024-09-27T16:46:59.200Z
 img: /assets/posts/blog-developer-video-content.png
