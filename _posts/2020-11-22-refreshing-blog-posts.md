@@ -96,7 +96,7 @@ Finally, after I updated each post, I updated the published date and put it thro
 
 In the case of my post on *A Day in the Life of an Engineering Manager*, sharing it led to an additional 728 visitors to a post that was originally posted five years ago!
 
-By the way: if you’re asking yourself ‘how old is my blog post?,’ it has probably been too long since you’ve completed a [content audit](https://draft.dev/learn/low-cost-marketing-ideas). If you don’t have time to do this yourself, tools like [SEMrush](https://www.semrush.com/content-audit/) can help.
+By the way: if you’re asking yourself ‘how old is my blog post?,’ it has probably been too long since you’ve completed a [content audit](https://draft.dev/learn/low-cost-marketing-ideas). If you don’t have time to do this yourself, tools like [](https://www.semrush.com/content-audit/)[Content Audit Tool (CAT)](https://xamsor.com/) can help.
 
 ## Results of the Refresh Blog Campaign
 
