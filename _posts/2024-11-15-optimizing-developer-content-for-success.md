@@ -14,6 +14,14 @@ Optimizing your developer content is a powerful way to drive organic traffic and
 
 In this blog post, I’ll recap our recent webinar, "Optimizing Developer Content for Success," where product marketing expert and Partner at ércule, Ashley McClelland and our CEO Karl Hughes shared their insights on how to optimize developer content creation efforts, and how to effectively distribute and promote that content to reach a wider audience.
 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ApZ1i8UllPY?si=oLgzfleZ-OqqNVrM&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+
+
 ## Understanding The Developer Audience
 
 Developers aren't typical consumers. They're highly technical, solution-oriented, and often averse to traditional marketing tactics. They use ad blockers, are tech-savvy, and can spot marketing ploys a mile away. So, it’s not surprising that content aimed at developers needs to be different. It must focus on providing practical solutions to their problems rather than simply promoting a product. Ashley explained this well:
