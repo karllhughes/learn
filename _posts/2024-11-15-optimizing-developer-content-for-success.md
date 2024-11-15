@@ -44,7 +44,7 @@ One common hurdle is differentiating your product from the competition. As Karl 
 
 ### Keyword Research
 
-Another challenge can be keyword research. Traditional keyword tools often fall short when it comes to emerging technologies. Ashley highlighted this difficulty:
+Another challenge can be [keyword research](https://draft.dev/learn/topic-clusters). Traditional keyword tools often fall short when it comes to emerging technologies. Ashley highlighted this difficulty:
 
 > "Keyword research for emerging technologies, especially in the developer, DevOps, and AI spaces, often lags behind and isn't well-represented in standard keyword tools." –Ashley McClelland, Partner at ércule
 
