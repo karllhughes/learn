@@ -66,7 +66,7 @@ Ensure that every page has unique and descriptive title tags and meta descriptio
 
 ### Content Freshness and Relevance
 
-Regularly review and update your existing content. Outdated information can damage your credibility and negatively impact your search rankings. Prioritize updating content that covers rapidly changing technologies or content that was once high-performing but has seen a decline in traffic.
+Regularly [review and update your existing content](https://draft.dev/learn/refreshing-blog-posts). Outdated information can damage your credibility and negatively impact your search rankings. Prioritize updating content that covers rapidly changing technologies or content that was once high-performing but has seen a decline in traffic.
 
 > “Do you have pages that haven’t been updated since 2021? And, do you have content that used to get a lot of clicks and impressions, and now it’s slowly declining?’” –Ashley McClelland, Partner at ércule
 
