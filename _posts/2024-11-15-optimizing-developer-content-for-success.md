@@ -12,7 +12,7 @@ img: /assets/posts/optimizing-developer-content.png
 ---
 Optimizing your developer content is a powerful way to drive organic traffic and generate leads for your product. If you're creating content to serve specific keywords, organic search can become a fantastic distribution channel over time. But you'll want to take steps to optimize your content for its best chances of ranking. 
 
-In this blog post, I’ll recap our recent webinar, "Optimizing Developer Content for Success," where product marketing expert and Partner at ércule, Ashley McClelland and our CEO Karl Hughes shared their insights on how to optimize developer content creation efforts, and how to effectively distribute and promote that content to reach a wider audience.
+In this blog post, I’ll recap our recent webinar, "Optimizing Developer Content for Success," where product marketing expert Ashley McClelland and our CEO Karl Hughes shared their insights on how to optimize developer content creation efforts, and how to effectively distribute and promote that content to reach a wider audience.
 
 <div class="video-responsive"
 
