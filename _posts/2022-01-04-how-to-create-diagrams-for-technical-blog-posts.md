@@ -7,7 +7,7 @@ description: "Learn how to create effective architectural diagrams to enhance
 categories: "processes "
 cta: Playbook
 author: Kirstin Spivey
-date: 2024-09-11T17:06:10.891Z
+date: 2024-09-13T17:06:10.891Z
 img: /assets/posts/thisisengineering-raeng-yco98vqqlna-unsplash.jpg
 ---
 Writing technical articles is a complex process consisting of different components. You have to research the topic, create demo applications, troubleshoot any issues, and then write the actual article. 
