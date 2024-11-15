@@ -86,7 +86,7 @@ Ashley added that CTAs should guide the reader to the next logical step in their
 
 ### Sales Enablement
 
-Lastly, don't overlook the power of sales enablement content. Sometimes companies forget that  marketing isn’t just about TOFU. Creating bottom funnel content that directly supports your sales team is often times the easiest win. Address common sales objections, provide in-depth product information, and showcase specific use cases. This type of content can be invaluable for closing deals.
+Lastly, don't overlook the power of sales enablement content. Sometimes companies forget that  marketing isn’t just about TOFU. Creating bottom-funnel content that directly supports your sales team is often times the easiest win. Address common sales objections, provide in-depth product information, and showcase specific use cases. This type of content can be invaluable for closing deals.
 
 > “What content would help your sales team actually close deals in the next 3 months?” –Karl Hughes, CEO at Draft.dev
 
