@@ -14,11 +14,11 @@ Optimizing your developer content is a powerful way to drive organic traffic and
 
 In this blog post, I’ll recap our recent webinar, "Optimizing Developer Content for Success," where product marketing expert Ashley McClelland and our CEO Karl Hughes shared their insights on how to optimize developer content creation efforts, and how to effectively distribute and promote that content to reach a wider audience.
 
-<div class="video-responsive"
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ApZ1i8UllPY?si=oLgzfleZ-OqqNVrM&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-</div>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/ApZ1i8UllPY?si=oLgzfleZ-OqqNVrM&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+
 
 ## Understanding The Developer Audience
 
