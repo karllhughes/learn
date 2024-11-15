@@ -8,7 +8,7 @@ description: Learn how to create effective video content that resonates with
 categories: webinars
 cta: Content Ideas
 author: annika
-date: 2024-09-27T16:46:59.200Z
+date: 2024-10-04T16:46:59.200Z
 img: /assets/posts/blog-developer-video-content.png
 ---
 Video is no longer a "nice-to-have" in developer marketing. In fact, [62% of developers prefer long-form video as their primary learning method](https://www.slashdata.co/post/the-types-of-content-developers-prefer), surpassing blogs, documentation, and even short-form videos.
