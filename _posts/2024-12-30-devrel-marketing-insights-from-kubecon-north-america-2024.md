@@ -44,7 +44,7 @@ Community engagement remains a key focus for companies in the developer space. T
 
 This suggests that companies are increasingly recognizing the importance of building strong relationships with their developer communities, rather than just focusing on marketing and sales, and I couldn't agree more on this point. 
 
-At Draft.dev, we've seen firsthand, through our work with over 100 devtool companies, that focusing on building long-term engagement within a community is the most effective way to build trust around a product. It's a time-consuming process, but in the developer space, where traditional sales and marketing tactics often fall flat, building trust is the only way to truly encourage developers to adopt your product.
+At [Draft.dev](https://draft.dev/), we've seen firsthand, through our work with over 100 devtool companies, that focusing on building long-term engagement within a community is the most effective way to build trust around a product. It's a time-consuming process, but in the developer space, where traditional sales and marketing tactics often fall flat, building trust is the only way to truly encourage developers to adopt your product.
 
 ## Marketing Tactics Are Evolving
 
