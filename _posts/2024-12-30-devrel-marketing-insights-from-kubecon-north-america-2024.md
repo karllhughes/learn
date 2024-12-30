@@ -14,7 +14,7 @@ KubeCon North America 2024 recently wrapped up, and our CEO, Karl Hughes, and Ac
 
 The insights and connections made at KubeCon are always a great indicator of the future of technical marketing in the Kubernetes space, so in this post, I'll share the key takeaways from their conversations with DevRel and Marketing leaders.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_ruUq1HkhCM?si=abGnmv9aFbaeZDFC&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/_ruUq1HkhCM?si=abGnmv9aFbaeZDFC&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 ## The Kubernetes Ecosystem Is Maturing
 
@@ -75,7 +75,5 @@ Seeing more and more acquisitions in the Kubernetes space, it seems like a clear
 ## Final Thoughts
 
 As we look ahead, it will be fascinating to see which AI implementations gain traction and become widely adopted, and which ones fade away over time. The Kubernetes ecosystem is still evolving, and the practical applications of AI are just beginning to emerge. It will also be interesting to see how companies leverage their multicloud setups to optimize their configurations and cost savings for greater efficiency. 
-
-
 
 I hope this blog post has given you some valuable insights and ideas from the event. If you want to hear more about DevRel and Developer Marketing, [join our upcoming live webinars](https://draft.dev/webinars) with Q&A sessions, where we explore similar topics and feature insights from industry leaders.
