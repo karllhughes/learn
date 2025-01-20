@@ -70,6 +70,6 @@ I also noticed how much the way technical professionals consume content is chang
 
 If you'd like to dive deeper into the conversations we had at re:Invent, you can watch the full interview series here:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HLiH6MxcSEk?si=eTzBWW8yhiO9-U1e&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/HLiH6MxcSEk?si=eTzBWW8yhiO9-U1e&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 For more DevRel and developer marketing insights, check out a [similar post with key takeaways from KubeCon North America 2024](https://draft.dev/learn/devrel-marketing-insights-from-kubecon-north-america-2024).
