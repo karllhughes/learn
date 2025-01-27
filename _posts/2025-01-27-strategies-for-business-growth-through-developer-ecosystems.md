@@ -54,8 +54,7 @@ Ryan added that transparency is key. He emphasized that companies should be upfr
 
 > "You want to be really transparent about what your product does and what it cannot do... because people will find it out, and they will share that online." –Ryan Paul Gibson, Founder of Content Lift
 
-## \
-How to Drive Engagement and Keep Your Ecosystem Alive
+## How to Drive Engagement and Keep Your Ecosystem Alive
 
 Once a developer ecosystem has been built you also need to drive engagement and keep your community active. Ryan and Gary discussed several strategies:
 
