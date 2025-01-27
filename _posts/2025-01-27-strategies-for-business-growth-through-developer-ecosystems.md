@@ -129,6 +129,6 @@ My takeaway from this discussion is that building a strong developer ecosystem i
 
 If you found this post helpful and want to dive deeper into the conversation, you can watch the full webinar here:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BLH56kNJPtA?si=7Bxyhu4og1AsYB0T&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/BLH56kNJPtA?si=7Bxyhu4og1AsYB0T&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 Draft.dev's monthly webinars are a great way to learn more about similar DevRel and technical marketing topics. You can [sign up for our next session with live Q&A here](https://draft.dev/webinars).
