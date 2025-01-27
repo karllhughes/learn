@@ -93,7 +93,7 @@ Gary stressed the idea of developer marketing as a practice. He explained that t
 
 Ryan agreed, explaining the importance of continually understanding how things are shifting in the markets. He suggested looking outside your organization to identify new trends, problems, and use cases for your product. He also noted that it's important to listen to your user base and reshare new ideas and content that resonates with them.
 
-### Measuring the Value of Developer Ecosystems Can Be Tricky
+## Measuring the Value of Developer Ecosystems Can Be Tricky
 
 Proving the return on investment (ROI) for developer-focused initiatives can be challenging, as the impact isn't always immediate or easily quantifiable. 
 
