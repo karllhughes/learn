@@ -125,7 +125,9 @@ Both speakers advised against being reactionary, or trying to do everything at o
 
 ## Conclusion
 
-My takeaway from this discussion is that building a strong developer ecosystem is a necessity for both startups and established enterprises dealing with technical products. A thriving developer ecosystem around your product can help technical buyers embed it into their critical business flows, eventually resulting in increased business growth. At Draft.dev, we see this firsthand, working with many enterprise companies that are investing heavily in technical content to help their developer ecosystems flourish, which shows that nourishing and maintaining your developer ecosystem and audience is key to driving both product adoption and long-term business success.
+My takeaway from this discussion is that building a strong developer ecosystem is a necessity for both startups and established enterprises dealing with technical products. A thriving developer ecosystem around your product can help technical buyers embed it into their critical business flows, eventually resulting in increased business growth. 
+
+At Draft.dev, we see this firsthand, working with many enterprise companies that are investing heavily in technical content to help their developer ecosystems flourish, which shows that nourishing and maintaining your developer ecosystem and audience is key to driving both product adoption and long-term business success.
 
 If you found this post helpful and want to dive deeper into the conversation, you can watch the full webinar here:
 
