@@ -10,7 +10,7 @@ author: annika
 date: 2025-01-13T13:42:33.077Z
 img: /assets/posts/aws.png
 ---
-As one of the largest cloud computing conferences globally, AWS re:Invent 2024 draws tens of thousands of professionals eager to explore the latest innovations or showcase their companies. This time, Clayton Kast, Draft.dev's Account Director and I had a chance to experience the event in personand interview our clients and friends in the DevRel and technical marketing space. 
+As one of the largest cloud computing conferences globally, AWS re:Invent 2024 draws tens of thousands of professionals eager to explore the latest innovations or showcase their companies. This time, Clayton Kast, Draft.dev's Account Director and I had a chance to experience the event in person and interview our clients and friends in the DevRel and technical marketing space. 
 
 In this post, I'll share the takeaways from our conversations, focusing on the key themes that came up in our conversations.
 
